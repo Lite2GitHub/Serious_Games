@@ -918,3 +918,294 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2023.09.01-08.25.03:185][428]LogFileHelpers: No new changes to save!
 [2023.09.01-08.25.03:195][428]AssetCheck: New page: Asset Save: ForestScene
 [2023.09.01-08.25.03:195][428]LogContentValidation: Display: Validating World /Game/SeriousGames_Levels/Forest_Scene/ForestScene.ForestScene
+[2023.09.01-08.25.34:910][942]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2023.09.01-08.25.34:948][942]LogSavePackage: Moving output files for package: /Game/SeriousGames_Levels/Forest_Scene/ForestScene
+[2023.09.01-08.25.34:948][942]LogSavePackage: Moving 'D:/Unreal Projects/Serious_Games/Serious_Games/Saved/ForestScene28512E6A4178507BD9D1FD97D4C84B21.tmp' to 'D:/Unreal Projects/Serious_Games/Serious_Games/Content/SeriousGames_Levels/Forest_Scene/ForestScene.umap'
+[2023.09.01-08.25.34:959][942]LogFileHelpers: No new changes to save!
+[2023.09.01-08.25.34:967][942]AssetCheck: New page: Asset Save: ForestScene
+[2023.09.01-08.25.34:967][942]LogContentValidation: Display: Validating World /Game/SeriousGames_Levels/Forest_Scene/ForestScene.ForestScene
+[2023.09.01-09.00.11:004][496]LogViewport: Scene viewport resized to 1214x942, mode Windowed.
+[2023.09.01-09.00.11:166][496]LogViewport: Scene viewport resized to 1208x873, mode Windowed.
+[2023.09.01-09.00.13:642][498]LogViewport: Scene viewport resized to 1214x942, mode Windowed.
+[2023.09.01-09.00.14:016][527]LogViewport: Scene viewport resized to 1214x910, mode Windowed.
+[2023.09.01-09.00.14:150][527]LogViewport: Scene viewport resized to 1214x902, mode Windowed.
+[2023.09.01-09.01.05:099][660]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/SeriousGames_Levels/Forest_Scene/Assets/grass/Grass_Material.Grass_Material
+[2023.09.01-09.01.05:100][660]LogMaterial: Display: Missing cached shadermap for Preview:Grass_Material in PCD3D_SM5, Default, SM5 (DDC key hash: F8170DC0FB267B0FE64D05E591E53D6BEBDADC66), compiling. 
+[2023.09.01-09.01.05:115][660]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.01-09.01.05:250][660]LogMaterial: Display: Missing cached shadermap for Preview:Grass_Material in PCD3D_SM5, Default, SM5 (DDC key hash: 3AC3172222A8742BBDE780B276847A7EF87BF864), compiling. 
+[2023.09.01-09.01.05:253][660]LogMaterial: Display: Missing cached shadermap for Preview:Grass_Material in PCD3D_SM5, Default, SM5 (DDC key hash: B269EB01A9FCAEDC52A3A465C5B761FE89C7C234), compiling. 
+[2023.09.01-09.01.05:255][660]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 279E5F9DAB25EB7056621FEFDB4E32C0D3AC514C), compiling. 
+[2023.09.01-09.01.05:256][660]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_3 in PCD3D_SM5, Default, SM5 (DDC key hash: B343DE50D597F517316B35B5DE79389F80F56F65), compiling. 
+[2023.09.01-09.01.05:258][660]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_4 in PCD3D_SM5, Default, SM5 (DDC key hash: D4E74EBFC93668313C93D10BB6B0A365A0A65550), compiling. 
+[2023.09.01-09.01.05:287][660]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.01-09.01.05:287][660]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.09.01-09.01.05:287][660]MaterialEditorStats: Shader Count: 0
+[2023.09.01-09.01.05:292][660]LogViewport: Scene viewport resized to 499x449, mode Windowed.
+[2023.09.01-09.01.05:878][702]LogShaderCompilers: Display: ================================================
+[2023.09.01-09.01.05:878][702]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.09.01-09.01.05:878][702]LogShaderCompilers: Display: Total job queries 106, among them cache hits 16 (15.09%)
+[2023.09.01-09.01.05:878][702]LogShaderCompilers: Display: Tracking 55 distinct input hashes that result in 28 distinct outputs (50.91%)
+[2023.09.01-09.01.05:878][702]LogShaderCompilers: Display: RAM used: 0.05 MB (0.00 GB) of 3276.80 MB (3.20 GB) budget. Usage: 0.00%
+[2023.09.01-09.01.05:878][702]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.09.01-09.01.05:878][702]LogShaderCompilers: Display: Shaders Compiled: 44
+[2023.09.01-09.01.05:878][702]LogShaderCompilers: Display: Jobs assigned 58, completed 55 (94.83%)
+[2023.09.01-09.01.05:878][702]LogShaderCompilers: Display: Average time worker was idle: 229.29 s
+[2023.09.01-09.01.05:878][702]LogShaderCompilers: Display: Time job spent in pending queue: average 0.07 s, longest 0.12 s
+[2023.09.01-09.01.05:878][702]LogShaderCompilers: Display: Job execution time: average 0.86 s, max 1.28 s
+[2023.09.01-09.01.05:878][702]LogShaderCompilers: Display: Job life time (pending + execution): average 0.93 s, max 1.38
+[2023.09.01-09.01.05:878][702]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 8.44 s
+[2023.09.01-09.01.05:878][702]LogShaderCompilers: Display: Jobs were issued in 58 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.09.01-09.01.05:878][702]LogShaderCompilers: Display: Average processing rate: 6.51 jobs/sec
+[2023.09.01-09.01.05:878][702]LogShaderCompilers: Display: Effective parallelization: 4.56 (times faster than compiling all shaders on one thread). Compare with number of workers: 10
+[2023.09.01-09.01.05:878][702]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.09.01-09.01.05:878][702]LogShaderCompilers: Display:      TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy (compiled    4 times, average 1.04 sec, max 1.06 sec, min 1.03 sec)
+[2023.09.01-09.01.05:878][702]LogShaderCompilers: Display:                                 TVirtualTextureVSWorldHeight (compiled    4 times, average 0.98 sec, max 1.00 sec, min 0.95 sec)
+[2023.09.01-09.01.05:878][702]LogShaderCompilers: Display:                     TVirtualTextureVSBaseColorNormalSpecular (compiled    4 times, average 0.97 sec, max 0.99 sec, min 0.95 sec)
+[2023.09.01-09.01.05:878][702]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy (compiled    4 times, average 0.95 sec, max 1.01 sec, min 0.92 sec)
+[2023.09.01-09.01.05:878][702]LogShaderCompilers: Display:                                      FLandscapeGrassWeightVS (compiled    4 times, average 0.94 sec, max 1.00 sec, min 0.88 sec)
+[2023.09.01-09.01.05:878][702]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.09.01-09.01.05:878][702]LogShaderCompilers: Display:                                                 FLumenCardVS - 13.93% of total time (compiled    6 times, average 0.89 sec, max 1.02 sec, min 0.61 sec)
+[2023.09.01-09.01.05:878][702]LogShaderCompilers: Display:      TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy - 10.85% of total time (compiled    4 times, average 1.04 sec, max 1.06 sec, min 1.03 sec)
+[2023.09.01-09.01.05:878][702]LogShaderCompilers: Display:                                 TVirtualTextureVSWorldHeight - 10.13% of total time (compiled    4 times, average 0.98 sec, max 1.00 sec, min 0.95 sec)
+[2023.09.01-09.01.05:878][702]LogShaderCompilers: Display:                     TVirtualTextureVSBaseColorNormalSpecular - 10.12% of total time (compiled    4 times, average 0.97 sec, max 0.99 sec, min 0.95 sec)
+[2023.09.01-09.01.05:878][702]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy - 9.90% of total time (compiled    4 times, average 0.95 sec, max 1.01 sec, min 0.92 sec)
+[2023.09.01-09.01.05:878][702]LogShaderCompilers: Display: ================================================
+[2023.09.01-09.01.06:291][740]MaterialEditorStats: Texture samplers: 2/16
+[2023.09.01-09.01.06:291][740]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.09.01-09.01.06:291][740]MaterialEditorStats: Shader Count: 4
+[2023.09.01-09.01.19:013][ 69]LogMaterial: Display: Missing cached shadermap for Preview:Grass_Material in PCD3D_SM5, Default, SM5 (DDC key hash: 9AC01A0297C90391232830B20174AD79FB5591BC), compiling. 
+[2023.09.01-09.01.19:015][ 69]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.01-09.01.19:015][ 69]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.09.01-09.01.19:015][ 69]MaterialEditorStats: Shader Count: 0
+[2023.09.01-09.01.19:835][143]MaterialEditorStats: Texture samplers: 2/16
+[2023.09.01-09.01.19:835][143]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.09.01-09.01.19:835][143]MaterialEditorStats: Shader Count: 4
+[2023.09.01-09.03.35:753][966]LogMaterial: Display: Missing cached shadermap for Preview:Grass_Material in PCD3D_SM5, Default, SM5 (DDC key hash: FC1B26273A8ADBE476390A83EB1DAD2B19DBA187), compiling. 
+[2023.09.01-09.03.35:756][966]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.01-09.03.35:756][966]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.09.01-09.03.35:756][966]MaterialEditorStats: Shader Count: 0
+[2023.09.01-09.03.35:840][967]MaterialEditorStats: Texture samplers: 2/16
+[2023.09.01-09.03.35:840][967]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.09.01-09.03.35:840][967]MaterialEditorStats: Shader Count: 4
+[2023.09.01-09.03.48:255][156]LogMaterial: Display: Missing cached shadermap for Preview:Grass_Material in PCD3D_SM5, Default, SM5 (DDC key hash: 5C859A9EC3F84AE80A19D262E2A3BC4C74C0ED89), compiling. 
+[2023.09.01-09.03.48:258][156]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.01-09.03.48:258][156]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.09.01-09.03.48:258][156]MaterialEditorStats: Shader Count: 0
+[2023.09.01-09.03.48:305][157]MaterialEditorStats: Texture samplers: 2/16
+[2023.09.01-09.03.48:305][157]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.09.01-09.03.48:305][157]MaterialEditorStats: Shader Count: 4
+[2023.09.01-09.04.00:951][580]LogMaterial: Display: Missing cached shadermap for Preview:Grass_Material in PCD3D_SM5, Default, SM5 (DDC key hash: CEA73848A0E6260D9C996E6DC58F4A353D752B9E), compiling. 
+[2023.09.01-09.04.00:954][580]LogMaterial: Display: Missing cached shadermap for Preview:Grass_Material in PCD3D_SM5, Default, SM5 (DDC key hash: D102D50CDFE344C199A9053876AC231B1263E4E4), compiling. 
+[2023.09.01-09.04.00:956][580]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.01-09.04.00:956][580]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.09.01-09.04.00:956][580]MaterialEditorStats: Shader Count: 0
+[2023.09.01-09.04.01:001][581]MaterialEditorStats: Texture samplers: 2/16
+[2023.09.01-09.04.01:001][581]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.09.01-09.04.01:001][581]MaterialEditorStats: Shader Count: 4
+[2023.09.01-09.04.37:900][320]LogMaterial: Display: Missing cached shadermap for Preview:Grass_Material in PCD3D_SM5, Default, SM5 (DDC key hash: C5FB27F240337C28731795D35A6BA1CCFB2DE226), compiling. 
+[2023.09.01-09.04.37:905][320]LogMaterial: Display: Missing cached shadermap for Preview:Grass_Material in PCD3D_SM5, Default, SM5 (DDC key hash: C72A451CA766328B88DA6ED4E5D14EE5E52FA343), compiling. 
+[2023.09.01-09.04.37:909][320]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.01-09.04.37:909][320]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.09.01-09.04.37:909][320]MaterialEditorStats: Shader Count: 0
+[2023.09.01-09.04.37:954][320]LogShaderCompilers: Display: ================================================
+[2023.09.01-09.04.37:954][320]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.09.01-09.04.37:954][320]LogShaderCompilers: Display: Total job queries 134, among them cache hits 36 (26.87%)
+[2023.09.01-09.04.37:954][320]LogShaderCompilers: Display: Tracking 66 distinct input hashes that result in 29 distinct outputs (43.94%)
+[2023.09.01-09.04.37:954][320]LogShaderCompilers: Display: RAM used: 0.06 MB (0.00 GB) of 3276.80 MB (3.20 GB) budget. Usage: 0.00%
+[2023.09.01-09.04.37:954][320]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.09.01-09.04.37:954][320]LogShaderCompilers: Display: Shaders Compiled: 48
+[2023.09.01-09.04.37:954][320]LogShaderCompilers: Display: Jobs assigned 66, completed 66 (100.00%)
+[2023.09.01-09.04.37:954][320]LogShaderCompilers: Display: Average time worker was idle: 197.41 s
+[2023.09.01-09.04.37:954][320]LogShaderCompilers: Display: Time job spent in pending queue: average 0.07 s, longest 0.12 s
+[2023.09.01-09.04.37:954][320]LogShaderCompilers: Display: Job execution time: average 0.83 s, max 1.28 s
+[2023.09.01-09.04.37:954][320]LogShaderCompilers: Display: Job life time (pending + execution): average 0.90 s, max 1.38
+[2023.09.01-09.04.37:954][320]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 10.38 s
+[2023.09.01-09.04.37:954][320]LogShaderCompilers: Display: Jobs were issued in 66 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.09.01-09.04.37:954][320]LogShaderCompilers: Display: Average processing rate: 6.36 jobs/sec
+[2023.09.01-09.04.37:954][320]LogShaderCompilers: Display: Effective parallelization: 4.34 (times faster than compiling all shaders on one thread). Compare with number of workers: 10
+[2023.09.01-09.04.37:954][320]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.09.01-09.04.37:954][320]LogShaderCompilers: Display:      TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy (compiled    4 times, average 1.04 sec, max 1.06 sec, min 1.03 sec)
+[2023.09.01-09.04.37:954][320]LogShaderCompilers: Display:                                 TVirtualTextureVSWorldHeight (compiled    4 times, average 0.98 sec, max 1.00 sec, min 0.95 sec)
+[2023.09.01-09.04.37:954][320]LogShaderCompilers: Display:                     TVirtualTextureVSBaseColorNormalSpecular (compiled    4 times, average 0.97 sec, max 0.99 sec, min 0.95 sec)
+[2023.09.01-09.04.37:954][320]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy (compiled    4 times, average 0.95 sec, max 1.01 sec, min 0.92 sec)
+[2023.09.01-09.04.37:954][320]LogShaderCompilers: Display:                                      FLandscapeGrassWeightVS (compiled    4 times, average 0.94 sec, max 1.00 sec, min 0.88 sec)
+[2023.09.01-09.04.37:954][320]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.09.01-09.04.37:954][320]LogShaderCompilers: Display:                                                 FLumenCardVS - 14.76% of total time (compiled    8 times, average 0.83 sec, max 1.02 sec, min 0.61 sec)
+[2023.09.01-09.04.37:954][320]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 13.47% of total time (compiled    9 times, average 0.67 sec, max 0.72 sec, min 0.64 sec)
+[2023.09.01-09.04.37:954][320]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 11.62% of total time (compiled    9 times, average 0.58 sec, max 0.66 sec, min 0.54 sec)
+[2023.09.01-09.04.37:954][320]LogShaderCompilers: Display:      TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy - 9.29% of total time (compiled    4 times, average 1.04 sec, max 1.06 sec, min 1.03 sec)
+[2023.09.01-09.04.37:954][320]LogShaderCompilers: Display:                                 TVirtualTextureVSWorldHeight - 8.67% of total time (compiled    4 times, average 0.98 sec, max 1.00 sec, min 0.95 sec)
+[2023.09.01-09.04.37:954][320]LogShaderCompilers: Display: ================================================
+[2023.09.01-09.04.37:963][321]MaterialEditorStats: Texture samplers: 2/16
+[2023.09.01-09.04.37:963][321]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.09.01-09.04.37:963][321]MaterialEditorStats: Shader Count: 4
+[2023.09.01-09.05.04:198][735]LogMaterial: Display: Missing cached shadermap for Preview:Grass_Material in PCD3D_SM5, Default, SM5 (DDC key hash: 4D761C03A044B00D0FB691F8B914A16FC15E79F4), compiling. 
+[2023.09.01-09.05.04:202][735]LogMaterial: Display: Missing cached shadermap for Preview:Grass_Material in PCD3D_SM5, Default, SM5 (DDC key hash: 6E3822A415908BD18F51CC47D354CC6C2F8AACB8), compiling. 
+[2023.09.01-09.05.04:206][735]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.01-09.05.04:206][735]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.09.01-09.05.04:206][735]MaterialEditorStats: Shader Count: 0
+[2023.09.01-09.05.04:264][736]MaterialEditorStats: Texture samplers: 2/16
+[2023.09.01-09.05.04:264][736]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.09.01-09.05.04:264][736]MaterialEditorStats: Shader Count: 4
+[2023.09.01-09.05.07:941][134]LogMaterialEditor: Saving and Compiling material Grass_Material
+[2023.09.01-09.05.08:289][134]LogMaterial: Display: Missing cached shadermap for Preview:Grass_Material in PCD3D_SM5, Default, SM5 (DDC key hash: 7FD8AFA80FDE4DA3A23D61F88515D9D2FEB623D7), compiling. 
+[2023.09.01-09.05.08:298][134]LogMaterial: Display: Missing cached shadermap for Grass_Material in PCD3D_SM5, Default, SM5 (DDC key hash: 83917C6BC8D7007C8441ADC32CC79B7CDCD8A412), compiling. 
+[2023.09.01-09.05.08:335][134]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2023.09.01-09.05.09:107][134]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2023.09.01-09.05.10:542][134]LogSavePackage: Moving output files for package: /Game/SeriousGames_Levels/Forest_Scene/Assets/grass/Grass_Material
+[2023.09.01-09.05.10:542][134]LogSavePackage: Moving 'D:/Unreal Projects/Serious_Games/Serious_Games/Saved/Grass_MaterialE9A4E54943661D159E4783901015883E.tmp' to 'D:/Unreal Projects/Serious_Games/Serious_Games/Content/SeriousGames_Levels/Forest_Scene/Assets/grass/Grass_Material.uasset'
+[2023.09.01-09.05.10:554][134]AssetCheck: New page: Asset Save: Grass_Material
+[2023.09.01-09.05.10:554][134]LogContentValidation: Display: Validating Material /Game/SeriousGames_Levels/Forest_Scene/Assets/grass/Grass_Material.Grass_Material
+[2023.09.01-09.05.10:555][134]MaterialEditorStats: Base pass shader: 123 instructions
+[2023.09.01-09.05.10:555][134]MaterialEditorStats: Base pass vertex shader: 108 instructions
+[2023.09.01-09.05.10:555][134]MaterialEditorStats: Texture samplers: 3/16
+[2023.09.01-09.05.10:555][134]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.09.01-09.05.10:555][134]MaterialEditorStats: Shader Count: 16
+[2023.09.01-09.07.50:465][224]LogMaterial: Display: Missing cached shadermap for Preview:Grass_Material in PCD3D_SM5, Default, SM5 (DDC key hash: 08845C655FBFBC0D9D460123C9C80AA6BC7DA5CE), compiling. 
+[2023.09.01-09.07.50:467][224]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionConstant3Vector_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 829CAF673CEAE9EC24471F7B000E7F196DE0CC9D), compiling. 
+[2023.09.01-09.07.50:470][224]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.01-09.07.50:470][224]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.09.01-09.07.50:470][224]MaterialEditorStats: Shader Count: 0
+[2023.09.01-09.07.50:502][224]LogShaderCompilers: Display: ================================================
+[2023.09.01-09.07.50:502][224]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.09.01-09.07.50:502][224]LogShaderCompilers: Display: Total job queries 162, among them cache hits 52 (32.10%)
+[2023.09.01-09.07.50:502][224]LogShaderCompilers: Display: Tracking 78 distinct input hashes that result in 38 distinct outputs (48.72%)
+[2023.09.01-09.07.50:502][224]LogShaderCompilers: Display: RAM used: 0.08 MB (0.00 GB) of 3276.80 MB (3.20 GB) budget. Usage: 0.00%
+[2023.09.01-09.07.50:502][224]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.09.01-09.07.50:502][224]LogShaderCompilers: Display: Shaders Compiled: 50
+[2023.09.01-09.07.50:502][224]LogShaderCompilers: Display: Jobs assigned 78, completed 78 (100.00%)
+[2023.09.01-09.07.50:502][224]LogShaderCompilers: Display: Average time worker was idle: 400.51 s
+[2023.09.01-09.07.50:502][224]LogShaderCompilers: Display: Time job spent in pending queue: average 0.06 s, longest 0.12 s
+[2023.09.01-09.07.50:502][224]LogShaderCompilers: Display: Job execution time: average 0.87 s, max 1.28 s
+[2023.09.01-09.07.50:502][224]LogShaderCompilers: Display: Job life time (pending + execution): average 0.93 s, max 1.38
+[2023.09.01-09.07.50:502][224]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 12.28 s
+[2023.09.01-09.07.50:502][224]LogShaderCompilers: Display: Jobs were issued in 78 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.09.01-09.07.50:502][224]LogShaderCompilers: Display: Average processing rate: 6.35 jobs/sec
+[2023.09.01-09.07.50:502][224]LogShaderCompilers: Display: Effective parallelization: 4.51 (times faster than compiling all shaders on one thread). Compare with number of workers: 10
+[2023.09.01-09.07.50:502][224]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.09.01-09.07.50:502][224]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    1 times, average 1.02 sec, max 1.02 sec, min 1.02 sec)
+[2023.09.01-09.07.50:503][224]LogShaderCompilers: Display:      TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy (compiled    5 times, average 1.02 sec, max 1.06 sec, min 0.92 sec)
+[2023.09.01-09.07.50:503][224]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled    1 times, average 0.99 sec, max 0.99 sec, min 0.99 sec)
+[2023.09.01-09.07.50:503][224]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled    1 times, average 0.98 sec, max 0.98 sec, min 0.98 sec)
+[2023.09.01-09.07.50:503][224]LogShaderCompilers: Display:                                 TVirtualTextureVSWorldHeight (compiled    4 times, average 0.98 sec, max 1.00 sec, min 0.95 sec)
+[2023.09.01-09.07.50:503][224]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.09.01-09.07.50:503][224]LogShaderCompilers: Display:                                                 FLumenCardVS - 12.00% of total time (compiled    8 times, average 0.83 sec, max 1.02 sec, min 0.61 sec)
+[2023.09.01-09.07.50:503][224]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 10.96% of total time (compiled    9 times, average 0.67 sec, max 0.72 sec, min 0.64 sec)
+[2023.09.01-09.07.50:503][224]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 9.45% of total time (compiled    9 times, average 0.58 sec, max 0.66 sec, min 0.54 sec)
+[2023.09.01-09.07.50:503][224]LogShaderCompilers: Display:      TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy - 9.22% of total time (compiled    5 times, average 1.02 sec, max 1.06 sec, min 0.92 sec)
+[2023.09.01-09.07.50:503][224]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy - 8.55% of total time (compiled    5 times, average 0.95 sec, max 1.01 sec, min 0.92 sec)
+[2023.09.01-09.07.50:503][224]LogShaderCompilers: Display: ================================================
+[2023.09.01-09.07.50:518][225]MaterialEditorStats: Texture samplers: 2/16
+[2023.09.01-09.07.50:518][225]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.09.01-09.07.50:518][225]MaterialEditorStats: Shader Count: 4
+[2023.09.01-09.07.55:480][575]LogMaterial: Display: Missing cached shadermap for Preview:Grass_Material in PCD3D_SM5, Default, SM5 (DDC key hash: 2D0F841E7A3D8E82314420D9DC802FD102077A25), compiling. 
+[2023.09.01-09.07.55:482][575]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 0C2B52D3E3294ED8108622277B4A4553ABEF3F9D), compiling. 
+[2023.09.01-09.07.55:483][575]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_1 in PCD3D_SM5, Default, SM5 (DDC key hash: E07C03C4C6D949317F4E8604E725B9E323FD47D1), compiling. 
+[2023.09.01-09.07.55:491][575]LogMaterial: Display: Missing cached shadermap for Preview:Grass_Material in PCD3D_SM5, Default, SM5 (DDC key hash: 66F03714BAFB1ACDB1B100DF06CF422D845342D6), compiling. 
+[2023.09.01-09.07.55:499][575]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.01-09.07.55:499][575]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.09.01-09.07.55:499][575]MaterialEditorStats: Shader Count: 0
+[2023.09.01-09.07.55:592][576]MaterialEditorStats: Texture samplers: 2/16
+[2023.09.01-09.07.55:592][576]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.09.01-09.07.55:592][576]MaterialEditorStats: Shader Count: 4
+[2023.09.01-09.08.51:422][956]LogMaterial: Display: Missing cached shadermap for Preview:Grass_Material in PCD3D_SM5, Default, SM5 (DDC key hash: 5723DD8DA2240955124EA018925FFDA7501C66CB), compiling. 
+[2023.09.01-09.08.51:424][956]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 262D0D74591B38CD9EAC430E8AC964BC5C7CAA4B), compiling. 
+[2023.09.01-09.08.51:426][956]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_1 in PCD3D_SM5, Default, SM5 (DDC key hash: AD17AF3E4AC14AADEE6D8FF3157C8917909CD96C), compiling. 
+[2023.09.01-09.08.51:429][956]LogMaterial: Display: Missing cached shadermap for Preview:Grass_Material in PCD3D_SM5, Default, SM5 (DDC key hash: F7B3A9DDD894D0650E62AA7F06DAB5DD93B7B9CA), compiling. 
+[2023.09.01-09.08.51:431][956]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_1 in PCD3D_SM5, Default, SM5 (DDC key hash: FFBF603D5F400174E0F1B60F233661644EA2A31B), compiling. 
+[2023.09.01-09.08.51:433][956]LogMaterial: Display: Missing cached shadermap for Preview:Grass_Material in PCD3D_SM5, Default, SM5 (DDC key hash: 2A8B8E06CAF412BC40FEE1039E44BD601E800246), compiling. 
+[2023.09.01-09.08.51:435][956]LogSlate: Window 'Color Picker' being destroyed
+[2023.09.01-09.08.51:443][956]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.01-09.08.51:443][956]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.09.01-09.08.51:443][956]MaterialEditorStats: Shader Count: 0
+[2023.09.01-09.08.51:484][957]MaterialEditorStats: Texture samplers: 2/16
+[2023.09.01-09.08.51:484][957]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.09.01-09.08.51:484][957]MaterialEditorStats: Shader Count: 4
+[2023.09.01-09.09.22:547][ 23]LogMaterial: Display: Missing cached shadermap for Preview:Grass_Material in PCD3D_SM5, Default, SM5 (DDC key hash: 50C67FCF5D01C75278AC8D57CAFEDECD1F4A8D51), compiling. 
+[2023.09.01-09.09.36:866][535]LogMaterial: Display: Missing cached shadermap for Preview:Grass_Material in PCD3D_SM5, Default, SM5 (DDC key hash: 6ABE3C79F0FFED7A82F4C91CE95B01D4B00924EB), compiling. 
+[2023.09.01-09.09.44:219][344]LogMaterial: Display: Missing cached shadermap for Preview:Grass_Material in PCD3D_SM5, Default, SM5 (DDC key hash: BEE24F369DE3D510B79B9C1FEB4CB602DD10FD55), compiling. 
+[2023.09.01-09.09.44:224][344]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.01-09.09.44:224][344]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.09.01-09.09.44:224][344]MaterialEditorStats: Shader Count: 0
+[2023.09.01-09.09.44:274][345]MaterialEditorStats: Texture samplers: 2/16
+[2023.09.01-09.09.44:274][345]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.09.01-09.09.44:274][345]MaterialEditorStats: Shader Count: 4
+[2023.09.01-09.09.58:818][930]LogMaterial: Display: Missing cached shadermap for Preview:Grass_Material in PCD3D_SM5, Default, SM5 (DDC key hash: FC36E75E1CDB330EDE6966695D68D4A947414939), compiling. 
+[2023.09.01-09.09.58:821][930]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.01-09.09.58:821][930]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.09.01-09.09.58:821][930]MaterialEditorStats: Shader Count: 0
+[2023.09.01-09.09.58:878][931]MaterialEditorStats: Texture samplers: 2/16
+[2023.09.01-09.09.58:878][931]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.09.01-09.09.58:878][931]MaterialEditorStats: Shader Count: 4
+[2023.09.01-09.10.19:344][225]LogMaterial: Display: Missing cached shadermap for Preview:Grass_Material in PCD3D_SM5, Default, SM5 (DDC key hash: 3E8B2B243FD6690F440A59F3E308870E5374FD28), compiling. 
+[2023.09.01-09.10.19:349][225]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.01-09.10.19:349][225]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.09.01-09.10.19:349][225]MaterialEditorStats: Shader Count: 0
+[2023.09.01-09.10.19:400][226]MaterialEditorStats: Texture samplers: 2/16
+[2023.09.01-09.10.19:400][226]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.09.01-09.10.19:400][226]MaterialEditorStats: Shader Count: 4
+[2023.09.01-09.10.37:881][922]LogMaterial: Display: Missing cached shadermap for Preview:Grass_Material in PCD3D_SM5, Default, SM5 (DDC key hash: 199379AE04A9CBD350624B9940155DD9DA6EDE04), compiling. 
+[2023.09.01-09.10.37:885][922]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.01-09.10.37:885][922]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.09.01-09.10.37:885][922]MaterialEditorStats: Shader Count: 0
+[2023.09.01-09.10.37:968][923]MaterialEditorStats: Texture samplers: 2/16
+[2023.09.01-09.10.37:969][923]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.09.01-09.10.37:969][923]MaterialEditorStats: Shader Count: 4
+[2023.09.01-09.10.42:871][ 87]LogMaterial: Display: Missing cached shadermap for Preview:Grass_Material in PCD3D_SM5, Default, SM5 (DDC key hash: 41799837116531A7B2A07DF1F17152433D8B29FD), compiling. 
+[2023.09.01-09.10.42:877][ 87]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.01-09.10.42:877][ 87]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.09.01-09.10.42:877][ 87]MaterialEditorStats: Shader Count: 0
+[2023.09.01-09.10.42:940][ 88]MaterialEditorStats: Texture samplers: 2/16
+[2023.09.01-09.10.42:940][ 88]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.09.01-09.10.42:940][ 88]MaterialEditorStats: Shader Count: 4
+[2023.09.01-09.11.10:636][560]LogMaterial: Display: Missing cached shadermap for Preview:Grass_Material in PCD3D_SM5, Default, SM5 (DDC key hash: CDDD7FD37D58C63BAE211CBE5BD21F3D628B0FF0), compiling. 
+[2023.09.01-09.11.10:678][560]LogShaderCompilers: Display: ================================================
+[2023.09.01-09.11.10:678][560]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.09.01-09.11.10:678][560]LogShaderCompilers: Display: Total job queries 210, among them cache hits 98 (46.67%)
+[2023.09.01-09.11.10:678][560]LogShaderCompilers: Display: Tracking 80 distinct input hashes that result in 39 distinct outputs (48.75%)
+[2023.09.01-09.11.10:678][560]LogShaderCompilers: Display: RAM used: 0.08 MB (0.00 GB) of 3276.80 MB (3.20 GB) budget. Usage: 0.00%
+[2023.09.01-09.11.10:678][560]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.09.01-09.11.10:678][560]LogShaderCompilers: Display: Shaders Compiled: 52
+[2023.09.01-09.11.10:678][560]LogShaderCompilers: Display: Jobs assigned 80, completed 80 (100.00%)
+[2023.09.01-09.11.10:678][560]LogShaderCompilers: Display: Average time worker was idle: 393.64 s
+[2023.09.01-09.11.10:678][560]LogShaderCompilers: Display: Time job spent in pending queue: average 0.06 s, longest 0.12 s
+[2023.09.01-09.11.10:678][560]LogShaderCompilers: Display: Job execution time: average 0.86 s, max 1.28 s
+[2023.09.01-09.11.10:678][560]LogShaderCompilers: Display: Job life time (pending + execution): average 0.92 s, max 1.38
+[2023.09.01-09.11.10:678][560]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 13.01 s
+[2023.09.01-09.11.10:678][560]LogShaderCompilers: Display: Jobs were issued in 80 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.09.01-09.11.10:678][560]LogShaderCompilers: Display: Average processing rate: 6.15 jobs/sec
+[2023.09.01-09.11.10:678][560]LogShaderCompilers: Display: Effective parallelization: 4.33 (times faster than compiling all shaders on one thread). Compare with number of workers: 10
+[2023.09.01-09.11.10:678][560]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.09.01-09.11.10:678][560]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    1 times, average 1.02 sec, max 1.02 sec, min 1.02 sec)
+[2023.09.01-09.11.10:678][560]LogShaderCompilers: Display:      TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy (compiled    5 times, average 1.02 sec, max 1.06 sec, min 0.92 sec)
+[2023.09.01-09.11.10:678][560]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled    1 times, average 0.99 sec, max 0.99 sec, min 0.99 sec)
+[2023.09.01-09.11.10:678][560]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled    1 times, average 0.98 sec, max 0.98 sec, min 0.98 sec)
+[2023.09.01-09.11.10:679][560]LogShaderCompilers: Display:                                 TVirtualTextureVSWorldHeight (compiled    4 times, average 0.98 sec, max 1.00 sec, min 0.95 sec)
+[2023.09.01-09.11.10:679][560]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.09.01-09.11.10:679][560]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 11.78% of total time (compiled   10 times, average 0.66 sec, max 0.72 sec, min 0.58 sec)
+[2023.09.01-09.11.10:679][560]LogShaderCompilers: Display:                                                 FLumenCardVS - 11.78% of total time (compiled    8 times, average 0.83 sec, max 1.02 sec, min 0.61 sec)
+[2023.09.01-09.11.10:679][560]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 10.10% of total time (compiled   10 times, average 0.57 sec, max 0.66 sec, min 0.47 sec)
+[2023.09.01-09.11.10:679][560]LogShaderCompilers: Display:      TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy - 9.05% of total time (compiled    5 times, average 1.02 sec, max 1.06 sec, min 0.92 sec)
+[2023.09.01-09.11.10:679][560]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy - 8.39% of total time (compiled    5 times, average 0.95 sec, max 1.01 sec, min 0.92 sec)
+[2023.09.01-09.11.10:679][560]LogShaderCompilers: Display: ================================================
+[2023.09.01-09.11.19:080][223]LogMaterial: Display: Missing cached shadermap for Preview:Grass_Material in PCD3D_SM5, Default, SM5 (DDC key hash: 5AA4F4695AAA5455C62A25CE1AA3A749EB4CE43A), compiling. 
+[2023.09.01-09.11.19:086][223]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.01-09.11.19:086][223]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.09.01-09.11.19:086][223]MaterialEditorStats: Shader Count: 0
+[2023.09.01-09.11.19:148][224]MaterialEditorStats: Texture samplers: 2/16
+[2023.09.01-09.11.19:148][224]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.09.01-09.11.19:148][224]MaterialEditorStats: Shader Count: 4
+[2023.09.01-09.11.54:133][790]LogMaterialEditor: Saving and Compiling material Grass_Material
+[2023.09.01-09.11.54:472][790]LogMaterial: Display: Missing cached shadermap for Preview:Grass_Material in PCD3D_SM5, Default, SM5 (DDC key hash: FD986979121B9A974B71F57BE553430895CC5D28), compiling. 
+[2023.09.01-09.11.54:481][790]LogMaterial: Display: Missing cached shadermap for Grass_Material in PCD3D_SM5, Default, SM5 (DDC key hash: FD6D36D5DD99518C1F36BD2FECD5D47E1AA93B3A), compiling. 
+[2023.09.01-09.11.54:490][790]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2023.09.01-09.11.54:699][790]LogUObjectHash: Compacting FUObjectHashTables data took   0.16ms
+[2023.09.01-09.11.54:853][790]LogSavePackage: Moving output files for package: /Game/SeriousGames_Levels/Forest_Scene/Assets/grass/Grass_Material
+[2023.09.01-09.11.54:853][790]LogSavePackage: Moving 'D:/Unreal Projects/Serious_Games/Serious_Games/Saved/Grass_MaterialBE1F77DE4483BFF3841FF3AABC5D0C91.tmp' to 'D:/Unreal Projects/Serious_Games/Serious_Games/Content/SeriousGames_Levels/Forest_Scene/Assets/grass/Grass_Material.uasset'
+[2023.09.01-09.11.54:864][790]AssetCheck: New page: Asset Save: Grass_Material
+[2023.09.01-09.11.54:864][790]LogContentValidation: Display: Validating Material /Game/SeriousGames_Levels/Forest_Scene/Assets/grass/Grass_Material.Grass_Material
+[2023.09.01-09.11.54:865][790]MaterialEditorStats: Base pass shader: 123 instructions
+[2023.09.01-09.11.54:865][790]MaterialEditorStats: Base pass vertex shader: 108 instructions
+[2023.09.01-09.11.54:865][790]MaterialEditorStats: Texture samplers: 3/16
+[2023.09.01-09.11.54:865][790]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.09.01-09.11.54:865][790]MaterialEditorStats: Shader Count: 16
