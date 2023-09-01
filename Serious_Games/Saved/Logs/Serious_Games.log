@@ -755,3 +755,184 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2023.09.01-04.47.30:650][457]LogFileHelpers: No new changes to save!
 [2023.09.01-04.47.30:659][457]AssetCheck: New page: Asset Save: ForestScene
 [2023.09.01-04.47.30:659][457]LogContentValidation: Display: Validating World /Game/SeriousGames_Levels/ForestScene.ForestScene
+[2023.09.01-04.48.10:713][712]LogDerivedDataCache: C:/Users/Janara/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.246 and deleted 0 file(s) with total size 0 MiB.
+[2023.09.01-04.52.45:962][804]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.09.01-04.52.45:977][804]LogContentBrowser: Creating deferred item: NewFolder
+[2023.09.01-04.52.45:982][805]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.09.01-04.52.54:981][862]LogContentBrowser: Attempting asset rename: NewFolder -> Forest_Scene
+[2023.09.01-04.52.54:981][862]LogContentBrowser: End creating deferred item NewFolder
+[2023.09.01-04.53.00:961][549]LogSavePackage: Moving output files for package: /Game/SeriousGames_Levels/Forest_Scene/ForestScene_BuiltData
+[2023.09.01-04.53.00:961][549]LogSavePackage: Moving 'D:/Unreal Projects/Serious_Games/Serious_Games/Saved/ForestScene_BuiltData2AEC833045A781DCFE0162A99E0139D7.tmp' to 'D:/Unreal Projects/Serious_Games/Serious_Games/Content/SeriousGames_Levels/Forest_Scene/ForestScene_BuiltData.uasset'
+[2023.09.01-04.53.00:969][549]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2023.09.01-04.53.00:974][549]LogSavePackage: Moving output files for package: /Game/SeriousGames_Levels/Forest_Scene/ForestScene
+[2023.09.01-04.53.00:974][549]LogSavePackage: Moving 'D:/Unreal Projects/Serious_Games/Serious_Games/Saved/ForestSceneFC9C125F4AE3C7103612C394CF24D4E0.tmp' to 'D:/Unreal Projects/Serious_Games/Serious_Games/Content/SeriousGames_Levels/Forest_Scene/ForestScene.umap'
+[2023.09.01-04.53.00:984][549]LogFileHelpers: No new changes to save!
+[2023.09.01-04.53.00:984][549]LogFileHelpers: Saving map 'ForestScene' took 0.022
+[2023.09.01-04.53.01:003][549]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2023.09.01-04.53.01:009][549]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2023.09.01-04.53.01:014][549]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2023.09.01-04.53.01:026][549]AssetCheck: New page: Asset Save: multiple assets
+[2023.09.01-04.53.01:026][549]LogContentValidation: Display: Validating World /Game/SeriousGames_Levels/Forest_Scene/ForestScene.ForestScene
+[2023.09.01-04.53.01:026][549]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/SeriousGames_Levels/Forest_Scene/ForestScene_BuiltData.ForestScene_BuiltData
+[2023.09.01-04.55.02:756][802]LogSlate: Took 0.000129 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.09.01-04.55.10:139][663]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/LevelPrototyping/Content/Materials/MF_ProcGrid.uasset to D:/Unreal Projects/Serious_Games/Serious_Games/Content/LevelPrototyping/Materials/MF_ProcGrid.uasset
+[2023.09.01-04.55.10:143][663]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/LevelPrototyping/Content/Materials/MI_PrototypeGrid_Gray.uasset to D:/Unreal Projects/Serious_Games/Serious_Games/Content/LevelPrototyping/Materials/MI_PrototypeGrid_Gray.uasset
+[2023.09.01-04.55.10:150][663]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/LevelPrototyping/Content/Materials/MI_PrototypeGrid_TopDark.uasset to D:/Unreal Projects/Serious_Games/Serious_Games/Content/LevelPrototyping/Materials/MI_PrototypeGrid_TopDark.uasset
+[2023.09.01-04.55.10:159][663]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/LevelPrototyping/Content/Materials/M_PrototypeGrid.uasset to D:/Unreal Projects/Serious_Games/Serious_Games/Content/LevelPrototyping/Materials/M_PrototypeGrid.uasset
+[2023.09.01-04.55.10:170][663]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/LevelPrototyping/Content/Meshes/SM_Cube.uasset to D:/Unreal Projects/Serious_Games/Serious_Games/Content/LevelPrototyping/Meshes/SM_Cube.uasset
+[2023.09.01-04.55.10:177][663]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/LevelPrototyping/Content/Meshes/SM_QuarterCylinder.uasset to D:/Unreal Projects/Serious_Games/Serious_Games/Content/LevelPrototyping/Meshes/SM_QuarterCylinder.uasset
+[2023.09.01-04.55.10:181][663]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/LevelPrototyping/Content/Meshes/SM_Ramp.uasset to D:/Unreal Projects/Serious_Games/Serious_Games/Content/LevelPrototyping/Meshes/SM_Ramp.uasset
+[2023.09.01-04.55.10:185][663]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/LevelPrototyping/Content/Textures/T_GridChecker_A.uasset to D:/Unreal Projects/Serious_Games/Serious_Games/Content/LevelPrototyping/Textures/T_GridChecker_A.uasset
+[2023.09.01-04.55.11:789][663]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPersonBP.upack)
+[2023.09.01-04.55.11:791][663]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2023.09.01-04.55.11:796][663]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset" to "D:/Unreal Projects/Serious_Games/Serious_Games/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset"
+[2023.09.01-04.55.11:800][663]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset" to "D:/Unreal Projects/Serious_Games/Serious_Games/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset"
+[2023.09.01-04.55.11:804][663]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/ThirdPerson/Maps/ThirdPersonMap.umap" to "D:/Unreal Projects/Serious_Games/Serious_Games/Content/ThirdPerson/Maps/ThirdPersonMap.umap"
+[2023.09.01-04.55.11:817][663]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/ThirdPerson/Maps/ThirdPersonMap_BuiltData.uasset" to "D:/Unreal Projects/Serious_Games/Serious_Games/Content/ThirdPerson/Maps/ThirdPersonMap_BuiltData.uasset"
+[2023.09.01-04.55.11:829][663]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/43/HYQWORMY4JDQ5X3OKZXFLC.uasset" to "D:/Unreal Projects/Serious_Games/Serious_Games/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/43/HYQWORMY4JDQ5X3OKZXFLC.uasset"
+[2023.09.01-04.55.11:833][663]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/EY/87SHEJN5UBEAN2K5OV1G6R.uasset" to "D:/Unreal Projects/Serious_Games/Serious_Games/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/EY/87SHEJN5UBEAN2K5OV1G6R.uasset"
+[2023.09.01-04.55.11:837][663]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/M3/7JQC72ZY37QM4IT43WD5CW.uasset" to "D:/Unreal Projects/Serious_Games/Serious_Games/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/M3/7JQC72ZY37QM4IT43WD5CW.uasset"
+[2023.09.01-04.55.11:840][663]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/FG/C9C8NKPQ680JETAE5ROTT1.uasset" to "D:/Unreal Projects/Serious_Games/Serious_Games/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/FG/C9C8NKPQ680JETAE5ROTT1.uasset"
+[2023.09.01-04.55.11:844][663]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/EA/9BWDWCNL7OZT2HTML9LK1Y.uasset" to "D:/Unreal Projects/Serious_Games/Serious_Games/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/EA/9BWDWCNL7OZT2HTML9LK1Y.uasset"
+[2023.09.01-04.55.11:848][663]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/FB/8RB55FM1HBEUVO4IOQC4YN.uasset" to "D:/Unreal Projects/Serious_Games/Serious_Games/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/FB/8RB55FM1HBEUVO4IOQC4YN.uasset"
+[2023.09.01-04.55.11:851][663]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/AZ/A7GPT109Y6ZTTJD4A7TXER.uasset" to "D:/Unreal Projects/Serious_Games/Serious_Games/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/AZ/A7GPT109Y6ZTTJD4A7TXER.uasset"
+[2023.09.01-04.55.11:855][663]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/3V/NMHOKL5LGQDOAAG00FUMZR.uasset" to "D:/Unreal Projects/Serious_Games/Serious_Games/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/3V/NMHOKL5LGQDOAAG00FUMZR.uasset"
+[2023.09.01-04.55.11:859][663]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/P3/O43ETCZTFMLWWH1CJ941H2.uasset" to "D:/Unreal Projects/Serious_Games/Serious_Games/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/P3/O43ETCZTFMLWWH1CJ941H2.uasset"
+[2023.09.01-04.55.11:863][663]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/HL/XWFFRCIJ8QK4NRO30ALA6J.uasset" to "D:/Unreal Projects/Serious_Games/Serious_Games/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/HL/XWFFRCIJ8QK4NRO30ALA6J.uasset"
+[2023.09.01-04.55.11:866][663]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/WU/NB37RT5Q32Z8MJWD8BD2SO.uasset" to "D:/Unreal Projects/Serious_Games/Serious_Games/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/WU/NB37RT5Q32Z8MJWD8BD2SO.uasset"
+[2023.09.01-04.55.11:870][663]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/4D/BBOCKSZY1GVHTFRX0PR0O8.uasset" to "D:/Unreal Projects/Serious_Games/Serious_Games/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/4D/BBOCKSZY1GVHTFRX0PR0O8.uasset"
+[2023.09.01-04.55.11:874][663]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/0G/JNKFA4X9LRMSF343ESPF6Q.uasset" to "D:/Unreal Projects/Serious_Games/Serious_Games/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/0G/JNKFA4X9LRMSF343ESPF6Q.uasset"
+[2023.09.01-04.55.11:877][663]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/8K/1IKKDYS7RULH8FRYRPPF04.uasset" to "D:/Unreal Projects/Serious_Games/Serious_Games/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/8K/1IKKDYS7RULH8FRYRPPF04.uasset"
+[2023.09.01-04.55.11:881][663]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/CZ/K2YM0JIRZ78IHGM8W2QBAF.uasset" to "D:/Unreal Projects/Serious_Games/Serious_Games/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/CZ/K2YM0JIRZ78IHGM8W2QBAF.uasset"
+[2023.09.01-04.55.11:885][663]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/SY/Z4CTQ4LG3YV10EKPD0UE8Q.uasset" to "D:/Unreal Projects/Serious_Games/Serious_Games/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/SY/Z4CTQ4LG3YV10EKPD0UE8Q.uasset"
+[2023.09.01-04.55.11:888][663]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/HF/9H7TKAXH9DD8KI3TIXGI2I.uasset" to "D:/Unreal Projects/Serious_Games/Serious_Games/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/HF/9H7TKAXH9DD8KI3TIXGI2I.uasset"
+[2023.09.01-04.55.11:892][663]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DE/SWSI13675DVYIZ0N4NF7Y3.uasset" to "D:/Unreal Projects/Serious_Games/Serious_Games/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DE/SWSI13675DVYIZ0N4NF7Y3.uasset"
+[2023.09.01-04.55.11:896][663]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/U7/H8YL2PPHZPBTI74SUD0RNL.uasset" to "D:/Unreal Projects/Serious_Games/Serious_Games/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/U7/H8YL2PPHZPBTI74SUD0RNL.uasset"
+[2023.09.01-04.55.11:899][663]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/IR/OTJMGDDXDV5TI7982YKZ5P.uasset" to "D:/Unreal Projects/Serious_Games/Serious_Games/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/IR/OTJMGDDXDV5TI7982YKZ5P.uasset"
+[2023.09.01-04.55.11:903][663]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/J7/N10XDC9G27EMLS5AGZ6AVV.uasset" to "D:/Unreal Projects/Serious_Games/Serious_Games/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/J7/N10XDC9G27EMLS5AGZ6AVV.uasset"
+[2023.09.01-04.55.11:907][663]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/NC/UUYHDUFQAXTRRN4RVOPIUF.uasset" to "D:/Unreal Projects/Serious_Games/Serious_Games/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/NC/UUYHDUFQAXTRRN4RVOPIUF.uasset"
+[2023.09.01-04.55.11:910][663]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/XB/9VVR39MG0K7W5GQIEFE7SO.uasset" to "D:/Unreal Projects/Serious_Games/Serious_Games/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/XB/9VVR39MG0K7W5GQIEFE7SO.uasset"
+[2023.09.01-04.55.11:914][663]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/8O/GK06JAEJ82TQ0GA2QB0DJG.uasset" to "D:/Unreal Projects/Serious_Games/Serious_Games/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/8O/GK06JAEJ82TQ0GA2QB0DJG.uasset"
+[2023.09.01-04.55.11:918][663]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/YO/NG2R9BPZVA7ZDN0Z4VSTG6.uasset" to "D:/Unreal Projects/Serious_Games/Serious_Games/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/YO/NG2R9BPZVA7ZDN0Z4VSTG6.uasset"
+[2023.09.01-04.55.11:921][663]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/FR/LBG6LPN5JCL3FMVSI2CK6R.uasset" to "D:/Unreal Projects/Serious_Games/Serious_Games/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/FR/LBG6LPN5JCL3FMVSI2CK6R.uasset"
+[2023.09.01-04.55.11:925][663]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/3J/6B9RJI3FDPCETRKXUXCQ4C.uasset" to "D:/Unreal Projects/Serious_Games/Serious_Games/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/3J/6B9RJI3FDPCETRKXUXCQ4C.uasset"
+[2023.09.01-04.55.11:929][663]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/YT/CQR16QFDKKEYP53M51TV4F.uasset" to "D:/Unreal Projects/Serious_Games/Serious_Games/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/YT/CQR16QFDKKEYP53M51TV4F.uasset"
+[2023.09.01-04.55.11:932][663]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/4/VW/TY7TSUER9KKGHX2BMKSL0L.uasset" to "D:/Unreal Projects/Serious_Games/Serious_Games/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/4/VW/TY7TSUER9KKGHX2BMKSL0L.uasset"
+[2023.09.01-04.55.11:936][663]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/S1/DXUWD12MD3HRWVVXX076BY.uasset" to "D:/Unreal Projects/Serious_Games/Serious_Games/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/S1/DXUWD12MD3HRWVVXX076BY.uasset"
+[2023.09.01-04.55.11:940][663]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/C/7N/FDH7Y28CQFXDK8P6MM1HXM.uasset" to "D:/Unreal Projects/Serious_Games/Serious_Games/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/C/7N/FDH7Y28CQFXDK8P6MM1HXM.uasset"
+[2023.09.01-04.55.11:943][663]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/9/KN/KHZG97SS6AL73U7AXDWH6J.uasset" to "D:/Unreal Projects/Serious_Games/Serious_Games/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/9/KN/KHZG97SS6AL73U7AXDWH6J.uasset"
+[2023.09.01-04.55.11:947][663]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/QF/BY1DA5CRGQSAMOTK8RA8KR.uasset" to "D:/Unreal Projects/Serious_Games/Serious_Games/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/QF/BY1DA5CRGQSAMOTK8RA8KR.uasset"
+[2023.09.01-04.55.11:950][663]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/60/5PI42YRDC8HSSG6BVV2GRR.uasset" to "D:/Unreal Projects/Serious_Games/Serious_Games/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/60/5PI42YRDC8HSSG6BVV2GRR.uasset"
+[2023.09.01-04.55.11:954][663]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/PN/2QISIGK5DJNQ05US8O8FXW.uasset" to "D:/Unreal Projects/Serious_Games/Serious_Games/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/PN/2QISIGK5DJNQ05US8O8FXW.uasset"
+[2023.09.01-04.55.11:957][663]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/LN/30UBDLYFFA5ZR7U4W4L4GG.uasset" to "D:/Unreal Projects/Serious_Games/Serious_Games/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/LN/30UBDLYFFA5ZR7U4W4L4GG.uasset"
+[2023.09.01-04.55.11:961][663]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/6/D8/3MZ6M1DB94VN44C87D65WR.uasset" to "D:/Unreal Projects/Serious_Games/Serious_Games/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/6/D8/3MZ6M1DB94VN44C87D65WR.uasset"
+[2023.09.01-04.55.11:965][663]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/11/IM858T68EBXCBX1T2FNR96.uasset" to "D:/Unreal Projects/Serious_Games/Serious_Games/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/11/IM858T68EBXCBX1T2FNR96.uasset"
+[2023.09.01-04.55.11:968][663]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/6/TK/PIQ0B2FNWR15P52TECP27A.uasset" to "D:/Unreal Projects/Serious_Games/Serious_Games/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/6/TK/PIQ0B2FNWR15P52TECP27A.uasset"
+[2023.09.01-04.55.11:971][663]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/7E/BEYC27T14FHBU6LF2F60RR.uasset" to "D:/Unreal Projects/Serious_Games/Serious_Games/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/7E/BEYC27T14FHBU6LF2F60RR.uasset"
+[2023.09.01-04.55.11:974][663]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/9Q/U98KGKQ41NJYFOGFQM8ZDY.uasset" to "D:/Unreal Projects/Serious_Games/Serious_Games/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/9Q/U98KGKQ41NJYFOGFQM8ZDY.uasset"
+[2023.09.01-04.55.11:978][663]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/QO/CO9MG7REJF8N8AQFYRCI06.uasset" to "D:/Unreal Projects/Serious_Games/Serious_Games/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/QO/CO9MG7REJF8N8AQFYRCI06.uasset"
+[2023.09.01-04.55.11:981][663]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/R1/TS5OQ5CRUWFZYL1ZQ7I416.uasset" to "D:/Unreal Projects/Serious_Games/Serious_Games/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/R1/TS5OQ5CRUWFZYL1ZQ7I416.uasset"
+[2023.09.01-04.55.11:985][663]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/MS/MRHJREJ6H7USQYWF1KO8F6.uasset" to "D:/Unreal Projects/Serious_Games/Serious_Games/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/MS/MRHJREJ6H7USQYWF1KO8F6.uasset"
+[2023.09.01-04.55.11:989][663]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/17/6LXV4Y6DE3LUT705XNU4DZ.uasset" to "D:/Unreal Projects/Serious_Games/Serious_Games/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/17/6LXV4Y6DE3LUT705XNU4DZ.uasset"
+[2023.09.01-04.55.11:992][663]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/16/Q7Y1URWWFS0TXGWUTO3S61.uasset" to "D:/Unreal Projects/Serious_Games/Serious_Games/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/16/Q7Y1URWWFS0TXGWUTO3S61.uasset"
+[2023.09.01-04.55.11:996][663]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/E/GP/22PD314FCWY4ZK61DE3XZC.uasset" to "D:/Unreal Projects/Serious_Games/Serious_Games/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/E/GP/22PD314FCWY4ZK61DE3XZC.uasset"
+[2023.09.01-04.55.12:491][663]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2023.09.01-04.55.12:491][663]LogSavePackage: Moving 'D:/Unreal Projects/Serious_Games/Serious_Games/Saved/BP_ThirdPersonCharacter3EB671644C12D896D46307A55A4F94D0.tmp' to 'D:/Unreal Projects/Serious_Games/Serious_Games/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2023.09.01-04.55.12:497][663]LogLinker: Warning: Failed to load '/Game/ThirdPerson/Blueprints': Can't find file.
+[2023.09.01-04.55.12:497][663]LogLinker: Warning: Failed to load '/Game/ThirdPerson/Blueprints': Can't find file.
+[2023.09.01-04.55.12:497][663]LogUObjectGlobals: Warning: Failed to find object 'Object None./Game/ThirdPerson/Blueprints'
+[2023.09.01-04.55.12:504][663]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2023.09.01-04.55.12:504][663]LogContentValidation: Display: Validating Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2023.09.01-04.55.16:517][100]LogSlate: Window 'Add Content to the Project' being destroyed
+[2023.09.01-04.55.21:120][613]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C
+[2023.09.01-04.55.21:120][613]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C
+[2023.09.01-04.55.21:126][613]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter as actor: BP_ThirdPersonCharacter_C /Game/SeriousGames_Levels/Forest_Scene/ForestScene.ForestScene:PersistentLevel.BP_ThirdPersonCharacter_C_0
+[2023.09.01-04.55.21:128][613]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter as actor: BP_ThirdPersonCharacter_C /Game/SeriousGames_Levels/Forest_Scene/ForestScene.ForestScene:PersistentLevel.BP_ThirdPersonCharacter_C_0
+[2023.09.01-04.55.23:805][922]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C
+[2023.09.01-04.55.23:805][922]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C
+[2023.09.01-04.55.23:809][922]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter as actor: BP_ThirdPersonCharacter_C /Game/SeriousGames_Levels/Forest_Scene/ForestScene.ForestScene:PersistentLevel.BP_ThirdPersonCharacter_C_1
+[2023.09.01-04.55.23:811][922]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter as actor: BP_ThirdPersonCharacter_C /Game/SeriousGames_Levels/Forest_Scene/ForestScene.ForestScene:PersistentLevel.BP_ThirdPersonCharacter_C_1
+[2023.09.01-04.55.23:971][923]LogViewport: Scene viewport resized to 500x284, mode Windowed.
+[2023.09.01-04.55.24:005][923]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.09.01-04.55.29:295][326]Cmd: TRANSACTION UNDO
+[2023.09.01-04.55.29:295][326]LogEditorTransaction: Undo Create Actors
+[2023.09.01-04.56.07:201][556]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2023.09.01-04.56.07:202][556]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.01-04.56.22:338][929]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.09.01-04.57.20:328][828]LogSlate: Window 'BP_ThirdPersonCharacter' being destroyed
+[2023.09.01-04.57.20:336][828]LogSlate: Window 'BP_ThirdPersonCharacter' being destroyed
+[2023.09.01-04.57.20:349][828]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2023.09.01-04.57.20:349][828]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.01-04.57.35:439][565]LogTexture: Display: Building textures: /Game/Characters/Mannequin_UE4/Textures/T_UELogo_Mask.T_UELogo_Mask (TFO_AutoDXT, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2023.09.01-04.57.35:439][565]LogTexture: Display: Building textures: /Game/Characters/Mannequin_UE4/Textures/T_UELogo_N_TGA.T_UELogo_N_TGA (TFO_BC5, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2023.09.01-04.57.35:439][565]LogTexture: Display: Building textures: /Game/Characters/Mannequin_UE4/Textures/T_ML_Aluminum01_N.T_ML_Aluminum01_N (TFO_BC5, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2023.09.01-04.57.35:439][565]LogTexture: Display: Building textures: /Game/Characters/Mannequin_UE4/Textures/T_ML_Rubber_Blue_01_D.T_ML_Rubber_Blue_01_D (TFO_AutoDXT, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2023.09.01-04.57.35:439][565]LogTexture: Display: Building textures: /Game/Characters/Mannequin_UE4/Textures/T_ML_Rubber_Blue_01_N.T_ML_Rubber_Blue_01_N (TFO_BC5, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2023.09.01-04.57.35:439][565]LogTexture: Display: Building textures: /Game/Characters/Mannequin_UE4/Textures/T_ML_Aluminum01.T_ML_Aluminum01 (TFO_AutoDXT, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2023.09.01-04.57.35:439][565]LogTexture: Display: Building textures: /Game/Characters/Mannequin_UE4/Textures/T_UE4_Mannequin_MAT_MASKA.T_UE4_Mannequin_MAT_MASKA (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2023.09.01-04.57.35:439][565]LogMaterial: Display: Missing cached shadermap for M_MannequinUE4_Body in PCD3D_SM5, Default, SM5 (DDC key hash: 467EDF54512C69430575D17746BF6269B0E78DEC), compiling. 
+[2023.09.01-04.57.35:590][565]LogTexture: Display: Building textures: /Game/Characters/Mannequin_UE4/Textures/T_UE4_Mannequin__normals.T_UE4_Mannequin__normals (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.09.01-04.57.35:590][565]LogMaterial: Display: Missing cached shadermap for M_MannequinUE4_ChestLogo in PCD3D_SM5, Default, SM5 (DDC key hash: 283C14E850C687648250DA598D0BAC9C001ECE60), compiling. 
+[2023.09.01-04.57.35:667][565]LogSkeletalMesh: Building Skeletal Mesh SK_Mannequin...
+[2023.09.01-04.57.35:703][565]LogSkeletalMesh: Built Skeletal Mesh [0.04s] /Game/Characters/Mannequin_UE4/Meshes/SK_Mannequin.SK_Mannequin
+[2023.09.01-04.57.35:713][565]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/Characters/Mannequin_UE4/Meshes/SK_Mannequin.SK_Mannequin
+[2023.09.01-04.57.35:713][565]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/Characters/Mannequin_UE4/Meshes/SK_Mannequin.SK_Mannequin
+[2023.09.01-04.57.35:714][565]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Characters/Mannequin_UE4/Meshes/SK_Mannequin.SK_Mannequin as actor: SkeletalMeshActor /Game/SeriousGames_Levels/Forest_Scene/ForestScene.ForestScene:PersistentLevel.SkeletalMeshActor_0
+[2023.09.01-04.57.35:715][565]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Characters/Mannequin_UE4/Meshes/SK_Mannequin.SK_Mannequin as actor: SkeletalMeshActor /Game/SeriousGames_Levels/Forest_Scene/ForestScene.ForestScene:PersistentLevel.SkeletalMeshActor_0
+[2023.09.01-04.57.36:412][621]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/Characters/Mannequin_UE4/Meshes/SK_Mannequin.SK_Mannequin
+[2023.09.01-04.57.36:412][621]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/Characters/Mannequin_UE4/Meshes/SK_Mannequin.SK_Mannequin
+[2023.09.01-04.57.36:413][621]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Characters/Mannequin_UE4/Meshes/SK_Mannequin.SK_Mannequin as actor: SkeletalMeshActor /Game/SeriousGames_Levels/Forest_Scene/ForestScene.ForestScene:PersistentLevel.SkeletalMeshActor_1
+[2023.09.01-04.57.36:414][621]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Characters/Mannequin_UE4/Meshes/SK_Mannequin.SK_Mannequin as actor: SkeletalMeshActor /Game/SeriousGames_Levels/Forest_Scene/ForestScene.ForestScene:PersistentLevel.SkeletalMeshActor_1
+[2023.09.01-04.57.36:498][621]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.09.01-04.57.36:529][622]LogShaderCompilers: Display: ================================================
+[2023.09.01-04.57.36:529][622]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.09.01-04.57.36:529][622]LogShaderCompilers: Display: Total job queries 128, among them cache hits 0 (0.00%)
+[2023.09.01-04.57.36:529][622]LogShaderCompilers: Display: Tracking 1 distinct input hashes that result in 1 distinct outputs (100.00%)
+[2023.09.01-04.57.36:529][622]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 3276.80 MB (3.20 GB) budget. Usage: 0.00%
+[2023.09.01-04.57.36:529][622]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.09.01-04.57.36:529][622]LogShaderCompilers: Display: Shaders Compiled: 128
+[2023.09.01-04.57.36:529][622]LogShaderCompilers: Display: Jobs assigned 65, completed 1 (1.54%)
+[2023.09.01-04.57.36:529][622]LogShaderCompilers: Display: Average time worker was idle: 0.00 s
+[2023.09.01-04.57.36:530][622]LogShaderCompilers: Display: Time job spent in pending queue: average 0.03 s, longest 0.82 s
+[2023.09.01-04.57.36:530][622]LogShaderCompilers: Display: Job execution time: average 0.87 s, max 0.87 s
+[2023.09.01-04.57.36:530][622]LogShaderCompilers: Display: Job life time (pending + execution): average 0.88 s, max 0.88
+[2023.09.01-04.57.36:530][622]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.88 s
+[2023.09.01-04.57.36:530][622]LogShaderCompilers: Display: Jobs were issued in 11 batches (only local compilation was used), average 5.91 jobs/batch
+[2023.09.01-04.57.36:530][622]LogShaderCompilers: Display: Average processing rate: 1.13 jobs/sec
+[2023.09.01-04.57.36:530][622]LogShaderCompilers: Display: Effective parallelization: 0.46 (times faster than compiling all shaders on one thread). Compare with number of workers: 10
+[2023.09.01-04.57.36:530][622]LogShaderCompilers: Display: Top 1 most expensive shader types by average time:
+[2023.09.01-04.57.36:530][622]LogShaderCompilers: Display:              TShadowDepthPSPixelShadowDepth_VirtualShadowMap (compiled    1 times, average 0.41 sec, max 0.41 sec, min 0.41 sec)
+[2023.09.01-04.57.36:530][622]LogShaderCompilers: Display: Top 1 shader types by total compile time:
+[2023.09.01-04.57.36:530][622]LogShaderCompilers: Display:              TShadowDepthPSPixelShadowDepth_VirtualShadowMap - 100.00% of total time (compiled    1 times, average 0.41 sec, max 0.41 sec, min 0.41 sec)
+[2023.09.01-04.57.36:530][622]LogShaderCompilers: Display: ================================================
+[2023.09.01-04.57.36:593][622]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.09.01-04.57.36:715][623]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.09.01-04.57.42:524][899]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.09.01-04.57.42:608][900]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.09.01-04.57.42:675][901]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.09.01-04.57.42:748][902]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.09.01-04.57.42:820][903]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.09.01-04.57.43:027][913]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.09.01-04.57.43:135][917]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.09.01-04.57.43:238][922]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.09.01-04.57.43:369][926]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.09.01-04.57.43:475][927]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.09.01-04.57.45:304][  9]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.09.01-04.58.41:170][143]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.09.01-04.58.41:170][143]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.09.01-04.58.42:964][348]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.09.01-04.58.42:964][348]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.09.01-04.59.27:100][101]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.09.01-04.59.27:100][101]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.09.01-04.59.27:579][148]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.09.01-04.59.27:579][148]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.09.01-05.02.39:638][393]LogSlate: Window 'FBX Export Options' being destroyed
+[2023.09.01-05.02.39:714][393]LogFbx: FBX version number for this version of the FBX SDK is 7.7.0
+
+
+[2023.09.01-05.02.44:465][918]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2023.09.01-05.02.44:472][918]LogSavePackage: Moving output files for package: /Game/SeriousGames_Levels/Forest_Scene/ForestScene
+[2023.09.01-05.02.44:472][918]LogSavePackage: Moving 'D:/Unreal Projects/Serious_Games/Serious_Games/Saved/ForestScene45410A3144B5E05CD7CFB78BCFC18244.tmp' to 'D:/Unreal Projects/Serious_Games/Serious_Games/Content/SeriousGames_Levels/Forest_Scene/ForestScene.umap'
+[2023.09.01-05.02.44:483][918]LogFileHelpers: No new changes to save!
+[2023.09.01-05.02.44:495][918]AssetCheck: New page: Asset Save: ForestScene
+[2023.09.01-05.02.44:495][918]LogContentValidation: Display: Validating World /Game/SeriousGames_Levels/Forest_Scene/ForestScene.ForestScene
