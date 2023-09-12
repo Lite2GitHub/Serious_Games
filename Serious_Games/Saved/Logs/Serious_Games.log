@@ -1942,3 +1942,1508 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2023.09.12-04.46.07:625][ 83]LogContentValidation: Display: Validating Material /Game/OurProject/Maps/bedroom_scene/assets/coffee_table/resources/coffee_table_top_mat.coffee_table_top_mat
 [2023.09.12-04.46.08:177][118]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
 [2023.09.12-04.46.11:038][299]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.09.12-04.46.46:022][609]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.09.12-04.46.46:999][664]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.09.12-04.46.49:521][819]Cmd: TRANSACTION UNDO
+[2023.09.12-04.46.49:521][819]LogEditorTransaction: Undo Scale Elements
+[2023.09.12-04.46.49:542][819]LogMaterial: Display: Missing cached shadermap for Preview:material in PCD3D_SM5, Default, SM5 (DDC key hash: 53212E35F5B80A8EBA19EF68787F4DDA02DDCF10), compiling. 
+[2023.09.12-04.46.49:548][819]LogMaterial: Display: Missing cached shadermap for Preview:coffee_table_drawer in PCD3D_SM5, Default, SM5 (DDC key hash: 99FDBF135212841B6971A0997970D44AFA813601), compiling. 
+[2023.09.12-04.46.49:556][819]LogMaterial: Display: Missing cached shadermap for Preview:daybed_mat in PCD3D_SM5, Default, SM5 (DDC key hash: A70EFBEDA07720CB9CF1B0E1AE3C69EDD3AA0FF0), compiling. 
+[2023.09.12-04.46.49:565][819]LogMaterial: Display: Missing cached shadermap for Preview:throwrug_mat in PCD3D_SM5, Default, SM5 (DDC key hash: 99F89A92F03021A5A3F83A43CF0F0A7360C81FD1), compiling. 
+[2023.09.12-04.46.49:568][819]LogMaterial: Display: Missing cached shadermap for Preview:NewMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: A593E59B88F5A2AF72304072D542A5D8D0C99821), compiling. 
+[2023.09.12-04.46.49:573][819]LogMaterial: Display: Missing cached shadermap for Preview:coffee_table_top_mat in PCD3D_SM5, Default, SM5 (DDC key hash: CB9B64DA44084E17827823867171FE85A16017C2), compiling. 
+[2023.09.12-04.46.49:585][819]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.12-04.46.49:585][819]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-04.46.49:585][819]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-04.46.49:585][819]MaterialEditorStats: Shader Count: 0
+[2023.09.12-04.46.49:585][819]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.12-04.46.49:585][819]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-04.46.49:585][819]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-04.46.49:585][819]MaterialEditorStats: Shader Count: 0
+[2023.09.12-04.46.49:585][819]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.12-04.46.49:585][819]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-04.46.49:585][819]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-04.46.49:585][819]MaterialEditorStats: Shader Count: 0
+[2023.09.12-04.46.49:585][819]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.12-04.46.49:585][819]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-04.46.49:585][819]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-04.46.49:585][819]MaterialEditorStats: Shader Count: 0
+[2023.09.12-04.46.49:585][819]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.12-04.46.49:585][819]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-04.46.49:585][819]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-04.46.49:585][819]MaterialEditorStats: Shader Count: 0
+[2023.09.12-04.46.49:585][819]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.12-04.46.49:585][819]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-04.46.49:585][819]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-04.46.49:585][819]MaterialEditorStats: Shader Count: 0
+[2023.09.12-04.46.49:618][820]LogShaderCompilers: Display: ================================================
+[2023.09.12-04.46.49:618][820]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.09.12-04.46.49:618][820]LogShaderCompilers: Display: Total job queries 752, among them cache hits 386 (51.33%)
+[2023.09.12-04.46.49:618][820]LogShaderCompilers: Display: Tracking 294 distinct input hashes that result in 76 distinct outputs (25.85%)
+[2023.09.12-04.46.49:618][820]LogShaderCompilers: Display: RAM used: 0.22 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.01%
+[2023.09.12-04.46.49:618][820]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.09.12-04.46.49:618][820]LogShaderCompilers: Display: Shaders Compiled: 90
+[2023.09.12-04.46.49:618][820]LogShaderCompilers: Display: Jobs assigned 294, completed 294 (100.00%)
+[2023.09.12-04.46.49:618][820]LogShaderCompilers: Display: Average time worker was idle: 17.38 s
+[2023.09.12-04.46.49:618][820]LogShaderCompilers: Display: Time job spent in pending queue: average 0.15 s, longest 1.46 s
+[2023.09.12-04.46.49:618][820]LogShaderCompilers: Display: Job execution time: average 0.92 s, max 1.57 s
+[2023.09.12-04.46.49:618][820]LogShaderCompilers: Display: Job life time (pending + execution): average 1.07 s, max 2.81
+[2023.09.12-04.46.49:618][820]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 67.54 s
+[2023.09.12-04.46.49:618][820]LogShaderCompilers: Display: Jobs were issued in 294 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.09.12-04.46.49:618][820]LogShaderCompilers: Display: Average processing rate: 4.35 jobs/sec
+[2023.09.12-04.46.49:618][820]LogShaderCompilers: Display: Effective parallelization: 3.48 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.09.12-04.46.49:618][820]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.09.12-04.46.49:618][820]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled   10 times, average 1.27 sec, max 1.36 sec, min 1.20 sec)
+[2023.09.12-04.46.49:618][820]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled   10 times, average 1.21 sec, max 1.32 sec, min 1.08 sec)
+[2023.09.12-04.46.49:618][820]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled   10 times, average 1.20 sec, max 1.33 sec, min 0.85 sec)
+[2023.09.12-04.46.49:618][820]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled   10 times, average 1.18 sec, max 1.29 sec, min 1.00 sec)
+[2023.09.12-04.46.49:618][820]LogShaderCompilers: Display:                TBasePassVSFCachedPointIndirectLightingPolicy (compiled   10 times, average 1.18 sec, max 1.26 sec, min 1.14 sec)
+[2023.09.12-04.46.49:618][820]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.09.12-04.46.49:618][820]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 16.29% of total time (compiled   46 times, average 0.83 sec, max 1.23 sec, min 0.71 sec)
+[2023.09.12-04.46.49:618][820]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 15.00% of total time (compiled   46 times, average 0.77 sec, max 1.09 sec, min 0.68 sec)
+[2023.09.12-04.46.49:619][820]LogShaderCompilers: Display:                                                 FLumenCardVS - 13.71% of total time (compiled   41 times, average 0.79 sec, max 1.11 sec, min 0.72 sec)
+[2023.09.12-04.46.49:619][820]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 5.59% of total time (compiled   41 times, average 0.32 sec, max 0.35 sec, min 0.30 sec)
+[2023.09.12-04.46.49:619][820]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 5.41% of total time (compiled   10 times, average 1.27 sec, max 1.36 sec, min 1.20 sec)
+[2023.09.12-04.46.49:619][820]LogShaderCompilers: Display: ================================================
+[2023.09.12-04.46.49:671][821]MaterialEditorStats: Texture samplers: 5/16
+[2023.09.12-04.46.49:671][821]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-04.46.49:671][821]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-04.46.49:671][821]MaterialEditorStats: Shader Count: 4
+[2023.09.12-04.46.49:712][822]MaterialEditorStats: Texture samplers: 5/16
+[2023.09.12-04.46.49:712][822]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-04.46.49:712][822]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-04.46.49:712][822]MaterialEditorStats: Shader Count: 4
+[2023.09.12-04.46.49:712][822]MaterialEditorStats: Texture samplers: 5/16
+[2023.09.12-04.46.49:712][822]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-04.46.49:712][822]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-04.46.49:712][822]MaterialEditorStats: Shader Count: 4
+[2023.09.12-04.46.49:712][822]MaterialEditorStats: Texture samplers: 5/16
+[2023.09.12-04.46.49:712][822]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-04.46.49:712][822]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-04.46.49:712][822]MaterialEditorStats: Shader Count: 4
+[2023.09.12-04.46.49:712][822]MaterialEditorStats: Texture samplers: 5/16
+[2023.09.12-04.46.49:712][822]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-04.46.49:712][822]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-04.46.49:712][822]MaterialEditorStats: Shader Count: 4
+[2023.09.12-04.46.49:712][822]MaterialEditorStats: Texture samplers: 5/16
+[2023.09.12-04.46.49:712][822]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-04.46.49:712][822]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-04.46.49:712][822]MaterialEditorStats: Shader Count: 4
+[2023.09.12-04.46.52:524][978]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.09.12-04.46.54:969][137]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.09.12-04.47.22:730][467]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2023.09.12-04.47.22:731][467]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.008
+[2023.09.12-04.47.22:731][467]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/OurProject/Maps/bedroom_scene/assets/coffee_table/resources/coffee_table_smoothed_drawer_OcclusionRoughnessMetallic] ([1] browsable assets)...
+[2023.09.12-04.47.22:734][467]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/OurProject/Maps/bedroom_scene/assets/coffee_table/resources/coffee_table_smoothed_drawer_OcclusionRoughnessMetallic.coffee_table_smoothed_drawer_OcclusionRoughnessMetallic]
+[2023.09.12-04.47.22:734][467]OBJ SavePackage: Finished generating thumbnails for package [/Game/OurProject/Maps/bedroom_scene/assets/coffee_table/resources/coffee_table_smoothed_drawer_OcclusionRoughnessMetallic]
+[2023.09.12-04.47.22:741][467]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/OurProject/Maps/bedroom_scene/assets/coffee_table/resources/coffee_table_smoothed_drawer_OcclusionRoughnessMetallic_Auto2
+[2023.09.12-04.47.22:741][467]LogSavePackage: Moving '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Saved/coffee_table_smoothed_drawer_OccD6AD2A544015C2933D467EBD0BC8534E.tmp' to '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Saved/Autosaves/Game/OurProject/Maps/bedroom_scene/assets/coffee_table/resources/coffee_table_smoothed_drawer_OcclusionRoughnessMetallic_Auto2.uasset'
+[2023.09.12-04.47.22:742][467]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/OurProject/Maps/bedroom_scene/assets/coffee_table/resources/coffee_table_smoothed_drawer_BaseColor] ([1] browsable assets)...
+[2023.09.12-04.47.22:743][467]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/OurProject/Maps/bedroom_scene/assets/coffee_table/resources/coffee_table_smoothed_drawer_BaseColor.coffee_table_smoothed_drawer_BaseColor]
+[2023.09.12-04.47.22:743][467]OBJ SavePackage: Finished generating thumbnails for package [/Game/OurProject/Maps/bedroom_scene/assets/coffee_table/resources/coffee_table_smoothed_drawer_BaseColor]
+[2023.09.12-04.47.22:751][467]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/OurProject/Maps/bedroom_scene/assets/coffee_table/resources/coffee_table_smoothed_drawer_BaseColor_Auto2
+[2023.09.12-04.47.22:752][467]LogSavePackage: Moving '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Saved/coffee_table_smoothed_drawer_Bas35B712F748E377CA4FE22AA96473ADE6.tmp' to '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Saved/Autosaves/Game/OurProject/Maps/bedroom_scene/assets/coffee_table/resources/coffee_table_smoothed_drawer_BaseColor_Auto2.uasset'
+[2023.09.12-04.47.22:752][467]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/OurProject/Maps/bedroom_scene/assets/coffee_table/resources/coffee_table_smoothed_drawer_Normal] ([1] browsable assets)...
+[2023.09.12-04.47.22:755][467]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/OurProject/Maps/bedroom_scene/assets/coffee_table/resources/coffee_table_smoothed_drawer_Normal.coffee_table_smoothed_drawer_Normal]
+[2023.09.12-04.47.22:755][467]OBJ SavePackage: Finished generating thumbnails for package [/Game/OurProject/Maps/bedroom_scene/assets/coffee_table/resources/coffee_table_smoothed_drawer_Normal]
+[2023.09.12-04.47.22:762][467]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/OurProject/Maps/bedroom_scene/assets/coffee_table/resources/coffee_table_smoothed_drawer_Normal_Auto2
+[2023.09.12-04.47.22:762][467]LogSavePackage: Moving '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Saved/coffee_table_smoothed_drawer_Nor6D16C9044F234FA20C89D89F0E565FC6.tmp' to '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Saved/Autosaves/Game/OurProject/Maps/bedroom_scene/assets/coffee_table/resources/coffee_table_smoothed_drawer_Normal_Auto2.uasset'
+[2023.09.12-04.47.22:762][467]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/OurProject/Maps/bedroom_scene/assets/coffee_table/resources/coffee_table_smoothed_legs_OcclusionRoughnessMetallic] ([1] browsable assets)...
+[2023.09.12-04.47.22:766][467]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/OurProject/Maps/bedroom_scene/assets/coffee_table/resources/coffee_table_smoothed_legs_OcclusionRoughnessMetallic.coffee_table_smoothed_legs_OcclusionRoughnessMetallic]
+[2023.09.12-04.47.22:766][467]OBJ SavePackage: Finished generating thumbnails for package [/Game/OurProject/Maps/bedroom_scene/assets/coffee_table/resources/coffee_table_smoothed_legs_OcclusionRoughnessMetallic]
+[2023.09.12-04.47.22:773][467]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/OurProject/Maps/bedroom_scene/assets/coffee_table/resources/coffee_table_smoothed_legs_OcclusionRoughnessMetallic_Auto2
+[2023.09.12-04.47.22:773][467]LogSavePackage: Moving '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Saved/coffee_table_smoothed_legs_OccluFC24174E484D05BCA3A99A8160779B9F.tmp' to '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Saved/Autosaves/Game/OurProject/Maps/bedroom_scene/assets/coffee_table/resources/coffee_table_smoothed_legs_OcclusionRoughnessMetallic_Auto2.uasset'
+[2023.09.12-04.47.22:774][467]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/OurProject/Maps/bedroom_scene/assets/coffee_table/resources/coffee_table_smoothed_legs_BaseColor] ([1] browsable assets)...
+[2023.09.12-04.47.22:776][467]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/OurProject/Maps/bedroom_scene/assets/coffee_table/resources/coffee_table_smoothed_legs_BaseColor.coffee_table_smoothed_legs_BaseColor]
+[2023.09.12-04.47.22:776][467]OBJ SavePackage: Finished generating thumbnails for package [/Game/OurProject/Maps/bedroom_scene/assets/coffee_table/resources/coffee_table_smoothed_legs_BaseColor]
+[2023.09.12-04.47.22:783][467]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/OurProject/Maps/bedroom_scene/assets/coffee_table/resources/coffee_table_smoothed_legs_BaseColor_Auto2
+[2023.09.12-04.47.22:783][467]LogSavePackage: Moving '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Saved/coffee_table_smoothed_legs_BaseC488D740C46C27267850F7485D0A9BC14.tmp' to '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Saved/Autosaves/Game/OurProject/Maps/bedroom_scene/assets/coffee_table/resources/coffee_table_smoothed_legs_BaseColor_Auto2.uasset'
+[2023.09.12-04.47.22:784][467]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/OurProject/Maps/bedroom_scene/assets/coffee_table/resources/coffee_table_smoothed_legs_Normal] ([1] browsable assets)...
+[2023.09.12-04.47.22:786][467]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/OurProject/Maps/bedroom_scene/assets/coffee_table/resources/coffee_table_smoothed_legs_Normal.coffee_table_smoothed_legs_Normal]
+[2023.09.12-04.47.22:786][467]OBJ SavePackage: Finished generating thumbnails for package [/Game/OurProject/Maps/bedroom_scene/assets/coffee_table/resources/coffee_table_smoothed_legs_Normal]
+[2023.09.12-04.47.22:793][467]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/OurProject/Maps/bedroom_scene/assets/coffee_table/resources/coffee_table_smoothed_legs_Normal_Auto2
+[2023.09.12-04.47.22:793][467]LogSavePackage: Moving '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Saved/coffee_table_smoothed_legs_Norma64C645964A3C48CB653E97BCAA8CE492.tmp' to '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Saved/Autosaves/Game/OurProject/Maps/bedroom_scene/assets/coffee_table/resources/coffee_table_smoothed_legs_Normal_Auto2.uasset'
+[2023.09.12-04.47.22:793][467]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/OurProject/Maps/bedroom_scene/assets/coffee_table/resources/coffee_table_smoothed_top_OcclusionRoughnessMetallic] ([1] browsable assets)...
+[2023.09.12-04.47.22:800][467]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/OurProject/Maps/bedroom_scene/assets/coffee_table/resources/coffee_table_smoothed_top_OcclusionRoughnessMetallic.coffee_table_smoothed_top_OcclusionRoughnessMetallic]
+[2023.09.12-04.47.22:800][467]OBJ SavePackage: Finished generating thumbnails for package [/Game/OurProject/Maps/bedroom_scene/assets/coffee_table/resources/coffee_table_smoothed_top_OcclusionRoughnessMetallic]
+[2023.09.12-04.47.22:807][467]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/OurProject/Maps/bedroom_scene/assets/coffee_table/resources/coffee_table_smoothed_top_OcclusionRoughnessMetallic_Auto2
+[2023.09.12-04.47.22:807][467]LogSavePackage: Moving '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Saved/coffee_table_smoothed_top_OcclusCC32300842338BA935C1F89C5AA931F8.tmp' to '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Saved/Autosaves/Game/OurProject/Maps/bedroom_scene/assets/coffee_table/resources/coffee_table_smoothed_top_OcclusionRoughnessMetallic_Auto2.uasset'
+[2023.09.12-04.47.22:807][467]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/OurProject/Maps/bedroom_scene/assets/coffee_table/resources/coffee_table_smoothed_top_BaseColor] ([1] browsable assets)...
+[2023.09.12-04.47.22:809][467]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/OurProject/Maps/bedroom_scene/assets/coffee_table/resources/coffee_table_smoothed_top_BaseColor.coffee_table_smoothed_top_BaseColor]
+[2023.09.12-04.47.22:809][467]OBJ SavePackage: Finished generating thumbnails for package [/Game/OurProject/Maps/bedroom_scene/assets/coffee_table/resources/coffee_table_smoothed_top_BaseColor]
+[2023.09.12-04.47.22:818][467]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/OurProject/Maps/bedroom_scene/assets/coffee_table/resources/coffee_table_smoothed_top_BaseColor_Auto2
+[2023.09.12-04.47.22:818][467]LogSavePackage: Moving '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Saved/coffee_table_smoothed_top_BaseCoF0769C664C45175ABD4C4B8945BE319C.tmp' to '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Saved/Autosaves/Game/OurProject/Maps/bedroom_scene/assets/coffee_table/resources/coffee_table_smoothed_top_BaseColor_Auto2.uasset'
+[2023.09.12-04.47.22:818][467]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/OurProject/Maps/bedroom_scene/assets/coffee_table/resources/coffee_table_smoothed_top_Normal] ([1] browsable assets)...
+[2023.09.12-04.47.22:822][467]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/OurProject/Maps/bedroom_scene/assets/coffee_table/resources/coffee_table_smoothed_top_Normal.coffee_table_smoothed_top_Normal]
+[2023.09.12-04.47.22:822][467]OBJ SavePackage: Finished generating thumbnails for package [/Game/OurProject/Maps/bedroom_scene/assets/coffee_table/resources/coffee_table_smoothed_top_Normal]
+[2023.09.12-04.47.22:828][467]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/OurProject/Maps/bedroom_scene/assets/coffee_table/resources/coffee_table_smoothed_top_Normal_Auto2
+[2023.09.12-04.47.22:829][467]LogSavePackage: Moving '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Saved/coffee_table_smoothed_top_Normal94F931AF4C9F994C12875CA0252B7D77.tmp' to '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Saved/Autosaves/Game/OurProject/Maps/bedroom_scene/assets/coffee_table/resources/coffee_table_smoothed_top_Normal_Auto2.uasset'
+[2023.09.12-04.47.22:829][467]LogFileHelpers: Auto-saving content packages took 0.098
+[2023.09.12-04.52.00:056][164]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.09.12-04.52.00:065][164]LogContentBrowser: Creating deferred item: NewFolder
+[2023.09.12-04.52.00:078][165]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.09.12-04.52.03:461][409]LogContentBrowser: Attempting asset rename: NewFolder -> floor_lamp
+[2023.09.12-04.52.03:462][409]LogContentBrowser: End creating deferred item NewFolder
+[2023.09.12-04.52.09:751][711]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 E:\2130GFS Serious Games\props\bedroom\props\floorlamp\floorlamp.fbx)
+[2023.09.12-04.52.09:758][711]LogFbx: Loading FBX Scene from E:\2130GFS Serious Games\props\bedroom\props\floorlamp\floorlamp.fbx
+[2023.09.12-04.52.09:770][711]LogFbx: FBX Scene Loaded Succesfully
+[2023.09.12-04.52.11:417][711]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.09.12-04.52.11:466][711]LogStaticMesh: Display: Building static mesh floorlamp...
+[2023.09.12-04.52.11:562][711]LogStaticMesh: Built static mesh [0.10s] /Game/OurProject/Maps/bedroom_scene/assets/floor_lamp/floorlamp.floorlamp
+[2023.09.12-04.52.11:597][711]FBXImport: FBX File Loading: Found name clash, node 'default' was renamed to 'default1' 
+[2023.09.12-04.52.11:597][711]FBXImport: FBX File Loading: Found name clash, node 'floorlamp polySurface185' was renamed to 'floorlamp polySurface1852' 
+[2023.09.12-04.52.11:597][711]FBXImport: FBX File Loading: Found name clash, node 'floorlamp polySurface185' was renamed to 'floorlamp polySurface1853' 
+[2023.09.12-04.52.11:597][711]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.09.12-04.52.13:498][837]LogSlate: Window 'Message Log' being destroyed
+[2023.09.12-04.52.13:507][837]LogSlate: Window 'Message Log' being destroyed
+[2023.09.12-04.52.14:973][926]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/OurProject/Maps/bedroom_scene/assets/floor_lamp/floorlamp.floorlamp
+[2023.09.12-04.52.14:973][926]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/OurProject/Maps/bedroom_scene/assets/floor_lamp/floorlamp.floorlamp
+[2023.09.12-04.52.14:973][926]LogActorFactory: Actor Factory spawned StaticMesh /Game/OurProject/Maps/bedroom_scene/assets/floor_lamp/floorlamp.floorlamp as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_2
+[2023.09.12-04.52.15:593][972]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/OurProject/Maps/bedroom_scene/assets/floor_lamp/floorlamp.floorlamp
+[2023.09.12-04.52.15:593][972]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/OurProject/Maps/bedroom_scene/assets/floor_lamp/floorlamp.floorlamp
+[2023.09.12-04.52.15:594][972]LogActorFactory: Actor Factory spawned StaticMesh /Game/OurProject/Maps/bedroom_scene/assets/floor_lamp/floorlamp.floorlamp as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_04421A293C7487A801_1421644329
+[2023.09.12-04.52.16:125][  5]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.09.12-04.52.30:462][997]LogStaticMesh: Display: Building static mesh floorlamp...
+[2023.09.12-04.52.30:462][997]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/OurProject/Maps/bedroom_scene/assets/floor_lamp/floorlamp) ...
+[2023.09.12-04.52.30:555][997]LogStaticMesh: Built static mesh [0.09s] /Game/OurProject/Maps/bedroom_scene/assets/floor_lamp/floorlamp.floorlamp
+[2023.09.12-04.52.32:540][130]Cmd: TRANSACTION UNDO
+[2023.09.12-04.52.32:540][130]LogEditorTransaction: Undo Scale Elements
+[2023.09.12-04.52.32:555][130]LogMaterial: Display: Missing cached shadermap for Preview:material in PCD3D_SM5, Default, SM5 (DDC key hash: 472BEB25708561CECEC67F79638D1F114BF950D6), compiling. 
+[2023.09.12-04.52.32:559][130]LogMaterial: Display: Missing cached shadermap for Preview:coffee_table_drawer in PCD3D_SM5, Default, SM5 (DDC key hash: D685A538D57B8AF53387244D711E21B915525C1C), compiling. 
+[2023.09.12-04.52.32:562][130]LogMaterial: Display: Missing cached shadermap for Preview:daybed_mat in PCD3D_SM5, Default, SM5 (DDC key hash: 8F978B251B3DE2B8DA971DB73A8A6B82D9C91D9A), compiling. 
+[2023.09.12-04.52.32:565][130]LogMaterial: Display: Missing cached shadermap for Preview:throwrug_mat in PCD3D_SM5, Default, SM5 (DDC key hash: F0F3371C590D843820C3CE4161884BD86C9EFF30), compiling. 
+[2023.09.12-04.52.32:568][130]LogMaterial: Display: Missing cached shadermap for Preview:NewMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: D52ACC7C66F88A18500FD792066D44CB4D0C1B4C), compiling. 
+[2023.09.12-04.52.32:571][130]LogMaterial: Display: Missing cached shadermap for Preview:coffee_table_top_mat in PCD3D_SM5, Default, SM5 (DDC key hash: 361DE6BB71467E8D5344ECED13270A55A1B31EA9), compiling. 
+[2023.09.12-04.52.32:583][130]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.12-04.52.32:583][130]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-04.52.32:583][130]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-04.52.32:583][130]MaterialEditorStats: Shader Count: 0
+[2023.09.12-04.52.32:583][130]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.12-04.52.32:583][130]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-04.52.32:583][130]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-04.52.32:583][130]MaterialEditorStats: Shader Count: 0
+[2023.09.12-04.52.32:583][130]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.12-04.52.32:583][130]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-04.52.32:583][130]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-04.52.32:583][130]MaterialEditorStats: Shader Count: 0
+[2023.09.12-04.52.32:583][130]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.12-04.52.32:583][130]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-04.52.32:583][130]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-04.52.32:583][130]MaterialEditorStats: Shader Count: 0
+[2023.09.12-04.52.32:583][130]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.12-04.52.32:583][130]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-04.52.32:583][130]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-04.52.32:583][130]MaterialEditorStats: Shader Count: 0
+[2023.09.12-04.52.32:583][130]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.12-04.52.32:583][130]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-04.52.32:583][130]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-04.52.32:583][130]MaterialEditorStats: Shader Count: 0
+[2023.09.12-04.52.32:615][131]LogShaderCompilers: Display: ================================================
+[2023.09.12-04.52.32:615][131]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.09.12-04.52.32:615][131]LogShaderCompilers: Display: Total job queries 778, among them cache hits 412 (52.96%)
+[2023.09.12-04.52.32:615][131]LogShaderCompilers: Display: Tracking 294 distinct input hashes that result in 76 distinct outputs (25.85%)
+[2023.09.12-04.52.32:615][131]LogShaderCompilers: Display: RAM used: 0.22 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.01%
+[2023.09.12-04.52.32:615][131]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.09.12-04.52.32:615][131]LogShaderCompilers: Display: Shaders Compiled: 90
+[2023.09.12-04.52.32:615][131]LogShaderCompilers: Display: Jobs assigned 294, completed 294 (100.00%)
+[2023.09.12-04.52.32:615][131]LogShaderCompilers: Display: Average time worker was idle: 17.38 s
+[2023.09.12-04.52.32:615][131]LogShaderCompilers: Display: Time job spent in pending queue: average 0.15 s, longest 1.46 s
+[2023.09.12-04.52.32:615][131]LogShaderCompilers: Display: Job execution time: average 0.92 s, max 1.57 s
+[2023.09.12-04.52.32:615][131]LogShaderCompilers: Display: Job life time (pending + execution): average 1.07 s, max 2.81
+[2023.09.12-04.52.32:615][131]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 67.54 s
+[2023.09.12-04.52.32:615][131]LogShaderCompilers: Display: Jobs were issued in 294 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.09.12-04.52.32:615][131]LogShaderCompilers: Display: Average processing rate: 4.35 jobs/sec
+[2023.09.12-04.52.32:615][131]LogShaderCompilers: Display: Effective parallelization: 3.48 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.09.12-04.52.32:615][131]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.09.12-04.52.32:615][131]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled   10 times, average 1.27 sec, max 1.36 sec, min 1.20 sec)
+[2023.09.12-04.52.32:615][131]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled   10 times, average 1.21 sec, max 1.32 sec, min 1.08 sec)
+[2023.09.12-04.52.32:615][131]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled   10 times, average 1.20 sec, max 1.33 sec, min 0.85 sec)
+[2023.09.12-04.52.32:615][131]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled   10 times, average 1.18 sec, max 1.29 sec, min 1.00 sec)
+[2023.09.12-04.52.32:615][131]LogShaderCompilers: Display:                TBasePassVSFCachedPointIndirectLightingPolicy (compiled   10 times, average 1.18 sec, max 1.26 sec, min 1.14 sec)
+[2023.09.12-04.52.32:615][131]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.09.12-04.52.32:615][131]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 16.29% of total time (compiled   46 times, average 0.83 sec, max 1.23 sec, min 0.71 sec)
+[2023.09.12-04.52.32:615][131]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 15.00% of total time (compiled   46 times, average 0.77 sec, max 1.09 sec, min 0.68 sec)
+[2023.09.12-04.52.32:615][131]LogShaderCompilers: Display:                                                 FLumenCardVS - 13.71% of total time (compiled   41 times, average 0.79 sec, max 1.11 sec, min 0.72 sec)
+[2023.09.12-04.52.32:615][131]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 5.59% of total time (compiled   41 times, average 0.32 sec, max 0.35 sec, min 0.30 sec)
+[2023.09.12-04.52.32:615][131]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 5.41% of total time (compiled   10 times, average 1.27 sec, max 1.36 sec, min 1.20 sec)
+[2023.09.12-04.52.32:615][131]LogShaderCompilers: Display: ================================================
+[2023.09.12-04.52.32:674][132]MaterialEditorStats: Texture samplers: 5/16
+[2023.09.12-04.52.32:674][132]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-04.52.32:674][132]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-04.52.32:674][132]MaterialEditorStats: Shader Count: 4
+[2023.09.12-04.52.32:713][133]MaterialEditorStats: Texture samplers: 5/16
+[2023.09.12-04.52.32:713][133]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-04.52.32:713][133]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-04.52.32:713][133]MaterialEditorStats: Shader Count: 4
+[2023.09.12-04.52.32:713][133]MaterialEditorStats: Texture samplers: 5/16
+[2023.09.12-04.52.32:713][133]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-04.52.32:713][133]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-04.52.32:713][133]MaterialEditorStats: Shader Count: 4
+[2023.09.12-04.52.32:713][133]MaterialEditorStats: Texture samplers: 5/16
+[2023.09.12-04.52.32:713][133]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-04.52.32:713][133]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-04.52.32:713][133]MaterialEditorStats: Shader Count: 4
+[2023.09.12-04.52.32:713][133]MaterialEditorStats: Texture samplers: 5/16
+[2023.09.12-04.52.32:713][133]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-04.52.32:713][133]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-04.52.32:713][133]MaterialEditorStats: Shader Count: 4
+[2023.09.12-04.52.32:713][133]MaterialEditorStats: Texture samplers: 5/16
+[2023.09.12-04.52.32:713][133]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-04.52.32:713][133]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-04.52.32:713][133]MaterialEditorStats: Shader Count: 4
+[2023.09.12-04.52.43:939][904]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2023.09.12-04.52.43:947][904]LogContentBrowser: Creating deferred item: NewMaterial
+[2023.09.12-04.52.43:958][905]LogContentBrowser: Renaming the item being created (Deferred Item: NewMaterial).
+[2023.09.12-04.52.50:502][262]LogContentBrowser: Attempting asset rename: NewMaterial -> NewMaterial
+[2023.09.12-04.52.50:503][262]LogContentBrowser: End creating deferred item NewMaterial
+[2023.09.12-04.52.57:773][821]LogContentBrowser: Attempting asset rename: NewMaterial -> bulb_base_mat
+[2023.09.12-04.52.57:824][821]LogSavePackage: Moving output files for package: /Game/OurProject/Maps/bedroom_scene/assets/floor_lamp/bulb_base_mat
+[2023.09.12-04.52.57:824][821]LogSavePackage: Moving '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Saved/bulb_base_matD70B52294B141B9280605D901E6A3B35.tmp' to '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Content/OurProject/Maps/bedroom_scene/assets/floor_lamp/bulb_base_mat.uasset'
+[2023.09.12-04.52.57:846][821]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2023.09.12-04.52.57:853][821]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2023.09.12-04.52.57:860][821]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2023.09.12-04.52.57:862][821]AssetCheck: New page: Asset Save: bulb_base_mat
+[2023.09.12-04.52.57:862][821]LogContentValidation: Display: Validating Material /Game/OurProject/Maps/bedroom_scene/assets/floor_lamp/bulb_base_mat.bulb_base_mat
+[2023.09.12-04.53.06:996][488]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/OurProject/Maps/bedroom_scene/assets/floor_lamp/bulb_base_mat.bulb_base_mat
+[2023.09.12-04.53.06:998][488]LogMaterial: Display: Missing cached shadermap for Preview:bulb_base_mat in PCD3D_SM5, Default, SM5 (DDC key hash: E04085A0EB534A5B73AE4B67E5C7239ED41CE45C), compiling. 
+[2023.09.12-04.53.07:013][488]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.12-04.53.07:055][488]LogSlate: The tab "MaterialEditor_Strata" attempted to spawn in layout 'Standalone_MaterialEditor_Layout_v13' but failed for some reason. An "unrecognized tab" will be returned instead.
+[2023.09.12-04.53.07:060][488]LogMaterial: Display: Missing cached shadermap for Preview:bulb_base_mat in PCD3D_SM5, Default, SM5 (DDC key hash: 155FAEF7094F9BDA7B89223E36AB84D17791F486), compiling. 
+[2023.09.12-04.53.07:063][488]LogMaterial: Display: Missing cached shadermap for Preview:bulb_base_mat in PCD3D_SM5, Default, SM5 (DDC key hash: B36E97D1B06F44277570525D11DA0410F4F0AB1F), compiling. 
+[2023.09.12-04.53.07:084][488]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.12-04.53.07:084][488]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.09.12-04.53.07:084][488]MaterialEditorStats: Shader Count: 0
+[2023.09.12-04.53.07:091][488]LogViewport: Scene viewport resized to 376x445, mode Windowed.
+[2023.09.12-04.53.08:295][534]MaterialEditorStats: Texture samplers: 2/16
+[2023.09.12-04.53.08:295][534]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.09.12-04.53.08:295][534]MaterialEditorStats: Shader Count: 2
+[2023.09.12-04.53.13:975][578]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:\2130GFS Serious Games\props\bedroom\props\floorlamp\floorlamp_bulb_base_OcclusionRoughnessMetallic.png)
+[2023.09.12-04.53.14:026][578]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:\2130GFS Serious Games\props\bedroom\props\floorlamp\floorlamp_bulb_base_BaseColor.png)
+[2023.09.12-04.53.14:077][578]LogTexture: Display: Building textures: /Game/OurProject/Maps/bedroom_scene/assets/floor_lamp/floorlamp_bulb_base_OcclusionRoughnessMetallic.floorlamp_bulb_base_OcclusionRoughnessMetallic (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.09.12-04.53.14:077][578]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:\2130GFS Serious Games\props\bedroom\props\floorlamp\floorlamp_bulb_base_Normal.png)
+[2023.09.12-04.53.14:141][578]LogTexture: Display: Building textures: /Game/OurProject/Maps/bedroom_scene/assets/floor_lamp/floorlamp_bulb_base_BaseColor.floorlamp_bulb_base_BaseColor (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.09.12-04.53.14:161][578]LogTexture: Display: Building textures: /Game/OurProject/Maps/bedroom_scene/assets/floor_lamp/floorlamp_bulb_base_Normal.floorlamp_bulb_base_Normal (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.09.12-04.53.18:102][716]LogMaterial: Display: Missing cached shadermap for Preview:bulb_base_mat in PCD3D_SM5, Default, SM5 (DDC key hash: 42765B9C5F99B2EDBD91AC2056DEF909CF4CC65C), compiling. 
+[2023.09.12-04.53.18:103][716]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 7A100B468B6C4C7C4E90A85CC7F6B9D1A8A4F968), compiling. 
+[2023.09.12-04.53.18:105][716]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 96C9EA8AAF644D45B64328397955721FC23FB873), compiling. 
+[2023.09.12-04.53.18:112][716]LogMaterial: Display: Missing cached shadermap for Preview:bulb_base_mat in PCD3D_SM5, Default, SM5 (DDC key hash: 47501B76C4A298C2B7C3B23ED9DE9914F7A81C36), compiling. 
+[2023.09.12-04.53.18:114][716]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 0A187BDEB45F6FB5DAB2BC752802C00F6E19C4F4), compiling. 
+[2023.09.12-04.53.18:115][716]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 6631B42673C394B0097ECC6CE1F30C664F3D4F50), compiling. 
+[2023.09.12-04.53.18:115][716]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 65529F3564AEC09DBD1C541A6E6BEDB2A5F51F35), compiling. 
+[2023.09.12-04.53.18:123][716]LogMaterial: Display: Missing cached shadermap for Preview:bulb_base_mat in PCD3D_SM5, Default, SM5 (DDC key hash: 5E48C980BD7D71CD7545560E94B54B55223780C6), compiling. 
+[2023.09.12-04.53.18:124][716]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 53048A86B1428559891311F1B448E2D369E66949), compiling. 
+[2023.09.12-04.53.18:125][716]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 49DC70E763F801EE466EA1A514FF6CF780BA4A23), compiling. 
+[2023.09.12-04.53.18:127][716]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 3FFD00BA4080ADB8BE44D42413A32E8FD6C553AE), compiling. 
+[2023.09.12-04.53.18:128][716]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 34AC7D1DCE7B07FD254B8EA92233052945091751), compiling. 
+[2023.09.12-04.53.18:133][716]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.12-04.53.18:133][716]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.09.12-04.53.18:133][716]MaterialEditorStats: Shader Count: 0
+[2023.09.12-04.53.18:178][718]MaterialEditorStats: Texture samplers: 2/16
+[2023.09.12-04.53.18:178][718]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.09.12-04.53.18:178][718]MaterialEditorStats: Shader Count: 4
+[2023.09.12-04.53.22:800][ 61]LogMaterial: Display: Missing cached shadermap for Preview:bulb_base_mat in PCD3D_SM5, Default, SM5 (DDC key hash: CC7947AE7377FEE28615B610E6557ED0607A204F), compiling. 
+[2023.09.12-04.53.22:802][ 61]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 0448A0330BB7D6085354CD3C30B97F9048A5EA96), compiling. 
+[2023.09.12-04.53.22:805][ 61]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.12-04.53.22:805][ 61]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.09.12-04.53.22:805][ 61]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-04.53.22:805][ 61]MaterialEditorStats: Shader Count: 0
+[2023.09.12-04.53.23:537][ 92]MaterialEditorStats: Texture samplers: 1/16
+[2023.09.12-04.53.23:537][ 92]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.09.12-04.53.23:537][ 92]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-04.53.23:537][ 92]MaterialEditorStats: Shader Count: 1
+[2023.09.12-04.53.23:753][101]MaterialEditorStats: Texture samplers: 3/16
+[2023.09.12-04.53.23:753][101]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.09.12-04.53.23:753][101]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-04.53.23:753][101]MaterialEditorStats: Shader Count: 3
+[2023.09.12-04.53.24:685][175]LogMaterial: Display: Missing cached shadermap for Preview:bulb_base_mat in PCD3D_SM5, Default, SM5 (DDC key hash: 31903B1DE2D4277852002CE526A8D8D1370A03D4), compiling. 
+[2023.09.12-04.53.24:686][175]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 1A80128EE98FA95F880A081295C8F54112D30342), compiling. 
+[2023.09.12-04.53.24:690][175]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.12-04.53.24:690][175]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2023.09.12-04.53.24:690][175]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-04.53.24:690][175]MaterialEditorStats: Shader Count: 0
+[2023.09.12-04.53.25:683][223]MaterialEditorStats: Texture samplers: 4/16
+[2023.09.12-04.53.25:683][223]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2023.09.12-04.53.25:683][223]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-04.53.25:683][223]MaterialEditorStats: Shader Count: 4
+[2023.09.12-04.53.31:773][661]LogMaterial: Display: Missing cached shadermap for Preview:bulb_base_mat in PCD3D_SM5, Default, SM5 (DDC key hash: 4A8BAB2F3B98BB84F690645CEDD6BF14F41B7A28), compiling. 
+[2023.09.12-04.53.31:776][661]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 43A52A395F103191557D6CD485F333AD74C59F0A), compiling. 
+[2023.09.12-04.53.31:780][661]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.12-04.53.31:780][661]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-04.53.31:780][661]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-04.53.31:780][661]MaterialEditorStats: Shader Count: 0
+[2023.09.12-04.53.33:046][728]LogMaterial: Display: Missing cached shadermap for Preview:bulb_base_mat in PCD3D_SM5, Default, SM5 (DDC key hash: C6E4FED0410D055B5EE25CA0CA79868AD4079B04), compiling. 
+[2023.09.12-04.53.33:048][728]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 2841ED85DD25D31861BF42961A5A628B23E3C8DC), compiling. 
+[2023.09.12-04.53.33:553][746]MaterialEditorStats: Texture samplers: 2/16
+[2023.09.12-04.53.33:553][746]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-04.53.33:553][746]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-04.53.33:553][746]MaterialEditorStats: Shader Count: 1
+[2023.09.12-04.53.34:288][801]MaterialEditorStats: Texture samplers: 5/16
+[2023.09.12-04.53.34:288][801]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-04.53.34:288][801]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-04.53.34:288][801]MaterialEditorStats: Shader Count: 4
+[2023.09.12-04.53.35:828][933]LogMaterial: Display: Missing cached shadermap for Preview:bulb_base_mat in PCD3D_SM5, Default, SM5 (DDC key hash: BFC965650ACBEBFAAA60FF23A555B12CC1E7D7DB), compiling. 
+[2023.09.12-04.53.35:830][933]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: D295E9D687CB2FBC054DEA5381562AD363AA63D8), compiling. 
+[2023.09.12-04.53.35:834][933]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.12-04.53.35:834][933]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-04.53.35:834][933]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-04.53.35:834][933]MaterialEditorStats: Shader Count: 0
+[2023.09.12-04.53.36:558][964]MaterialEditorStats: Texture samplers: 3/16
+[2023.09.12-04.53.36:558][964]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-04.53.36:558][964]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-04.53.36:558][964]MaterialEditorStats: Shader Count: 1
+[2023.09.12-04.53.36:757][973]MaterialEditorStats: Texture samplers: 5/16
+[2023.09.12-04.53.36:758][973]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-04.53.36:758][973]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-04.53.36:758][973]MaterialEditorStats: Shader Count: 4
+[2023.09.12-04.53.38:485][ 88]LogMaterialEditor: Saving and Compiling material bulb_base_mat
+[2023.09.12-04.53.38:833][ 88]LogMaterial: Display: Missing cached shadermap for Preview:bulb_base_mat in PCD3D_SM5, Default, SM5 (DDC key hash: BE9330E0C03C328BE18F254994D579569B41FB3E), compiling. 
+[2023.09.12-04.53.38:841][ 88]LogMaterial: Display: Missing cached shadermap for bulb_base_mat in PCD3D_SM5, Default, SM5 (DDC key hash: 574A8FDA62E18C0B4377E641F528A98D80D51A3D), compiling. 
+[2023.09.12-04.53.38:871][ 88]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2023.09.12-04.53.39:610][ 88]LogUObjectHash: Compacting FUObjectHashTables data took   0.15ms
+[2023.09.12-04.53.41:585][ 88]LogSavePackage: Moving output files for package: /Game/OurProject/Maps/bedroom_scene/assets/floor_lamp/bulb_base_mat
+[2023.09.12-04.53.41:586][ 88]LogSavePackage: Moving '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Saved/bulb_base_matFD20AA604248403C8E5A7580A800AD26.tmp' to '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Content/OurProject/Maps/bedroom_scene/assets/floor_lamp/bulb_base_mat.uasset'
+[2023.09.12-04.53.41:594][ 88]AssetCheck: New page: Asset Save: bulb_base_mat
+[2023.09.12-04.53.41:594][ 88]LogContentValidation: Display: Validating Material /Game/OurProject/Maps/bedroom_scene/assets/floor_lamp/bulb_base_mat.bulb_base_mat
+[2023.09.12-04.53.41:595][ 88]MaterialEditorStats: Base pass shader: 134 instructions
+[2023.09.12-04.53.41:595][ 88]MaterialEditorStats: Base pass vertex shader: 112 instructions
+[2023.09.12-04.53.41:595][ 88]MaterialEditorStats: Texture samplers: 6/16
+[2023.09.12-04.53.41:595][ 88]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-04.53.41:595][ 88]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-04.53.41:595][ 88]MaterialEditorStats: Shader Count: 16
+[2023.09.12-04.53.55:638][277]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.09.12-04.53.55:649][277]LogContentBrowser: Creating deferred item: NewFolder
+[2023.09.12-04.53.55:661][278]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.09.12-04.53.57:198][412]LogContentBrowser: Attempting asset rename: NewFolder -> resources
+[2023.09.12-04.53.57:198][412]LogContentBrowser: End creating deferred item NewFolder
+[2023.09.12-04.53.59:891][627]LogSavePackage: Moving output files for package: /Game/OurProject/Maps/bedroom_scene/assets/floor_lamp/bulb_base_mat
+[2023.09.12-04.53.59:891][627]LogSavePackage: Moving '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Saved/bulb_base_mat478CB9AE464DCB8DF7F9AF889F80FF4C.tmp' to '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Content/OurProject/Maps/bedroom_scene/assets/floor_lamp/bulb_base_mat.uasset'
+[2023.09.12-04.53.59:976][627]LogSavePackage: Moving output files for package: /Game/OurProject/Maps/bedroom_scene/assets/floor_lamp/resources/floorlamp_bulb_base_BaseColor
+[2023.09.12-04.53.59:976][627]LogSavePackage: Moving '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Saved/floorlamp_bulb_base_BaseColor57B6C22C4C7D6E1DCCD82A8D342171E1.tmp' to '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Content/OurProject/Maps/bedroom_scene/assets/floor_lamp/resources/floorlamp_bulb_base_BaseColor.uasset'
+[2023.09.12-04.54.00:064][627]LogSavePackage: Moving output files for package: /Game/OurProject/Maps/bedroom_scene/assets/floor_lamp/resources/floorlamp_bulb_base_Normal
+[2023.09.12-04.54.00:064][627]LogSavePackage: Moving '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Saved/floorlamp_bulb_base_NormalA15F42D041B97E4750C41BB7CECAFCE8.tmp' to '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Content/OurProject/Maps/bedroom_scene/assets/floor_lamp/resources/floorlamp_bulb_base_Normal.uasset'
+[2023.09.12-04.54.00:183][627]LogSavePackage: Moving output files for package: /Game/OurProject/Maps/bedroom_scene/assets/floor_lamp/resources/floorlamp_bulb_base_OcclusionRoughnessMetallic
+[2023.09.12-04.54.00:183][627]LogSavePackage: Moving '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Saved/floorlamp_bulb_base_OcclusionRouD62A350E44C9A711A8AB5C94C574CEBB.tmp' to '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Content/OurProject/Maps/bedroom_scene/assets/floor_lamp/resources/floorlamp_bulb_base_OcclusionRoughnessMetallic.uasset'
+[2023.09.12-04.54.00:207][627]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2023.09.12-04.54.00:214][627]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2023.09.12-04.54.00:221][627]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2023.09.12-04.54.00:235][627]AssetCheck: New page: Asset Save: multiple assets
+[2023.09.12-04.54.00:235][627]LogContentValidation: Display: Validating Material /Game/OurProject/Maps/bedroom_scene/assets/floor_lamp/bulb_base_mat.bulb_base_mat
+[2023.09.12-04.54.00:235][627]LogContentValidation: Display: Validating Texture2D /Game/OurProject/Maps/bedroom_scene/assets/floor_lamp/resources/floorlamp_bulb_base_OcclusionRoughnessMetallic.floorlamp_bulb_base_OcclusionRoughnessMetallic
+[2023.09.12-04.54.00:235][627]LogContentValidation: Display: Validating Texture2D /Game/OurProject/Maps/bedroom_scene/assets/floor_lamp/resources/floorlamp_bulb_base_BaseColor.floorlamp_bulb_base_BaseColor
+[2023.09.12-04.54.00:235][627]LogContentValidation: Display: Validating Texture2D /Game/OurProject/Maps/bedroom_scene/assets/floor_lamp/resources/floorlamp_bulb_base_Normal.floorlamp_bulb_base_Normal
+[2023.09.12-04.54.04:999][ 22]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2023.09.12-04.54.05:035][ 22]LogContentBrowser: Creating deferred item: NewMaterial
+[2023.09.12-04.54.05:049][ 23]LogContentBrowser: Renaming the item being created (Deferred Item: NewMaterial).
+[2023.09.12-04.54.13:252][575]LogContentBrowser: Attempting asset rename: NewMaterial -> bulb_filament
+[2023.09.12-04.54.13:252][575]LogContentBrowser: End creating deferred item NewMaterial
+[2023.09.12-04.54.14:866][704]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.09.12-04.54.14:866][704]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.09.12-04.54.18:381][999]LogContentBrowser: Attempting asset rename: bulb_filament -> bulb_filament_mat
+[2023.09.12-04.54.18:421][999]LogSavePackage: Moving output files for package: /Game/OurProject/Maps/bedroom_scene/assets/floor_lamp/bulb_filament_mat
+[2023.09.12-04.54.18:421][999]LogSavePackage: Moving '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Saved/bulb_filament_mat145D91B049A3F27B0BB717AC9211BC3A.tmp' to '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Content/OurProject/Maps/bedroom_scene/assets/floor_lamp/bulb_filament_mat.uasset'
+[2023.09.12-04.54.18:437][999]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2023.09.12-04.54.18:444][999]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2023.09.12-04.54.18:448][999]LogUObjectHash: Compacting FUObjectHashTables data took   0.14ms
+[2023.09.12-04.54.18:451][999]AssetCheck: New page: Asset Save: bulb_filament_mat
+[2023.09.12-04.54.18:451][999]LogContentValidation: Display: Validating Material /Game/OurProject/Maps/bedroom_scene/assets/floor_lamp/bulb_filament_mat.bulb_filament_mat
+[2023.09.12-04.54.19:744][102]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/OurProject/Maps/bedroom_scene/assets/floor_lamp/bulb_filament_mat.bulb_filament_mat
+[2023.09.12-04.54.19:746][102]LogMaterial: Display: Missing cached shadermap for Preview:bulb_filament_mat in PCD3D_SM5, Default, SM5 (DDC key hash: 8356A6EB05B0084CF68C9D3CF8C32AECD2403643), compiling. 
+[2023.09.12-04.54.19:760][102]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.12-04.54.19:800][102]LogSlate: The tab "MaterialEditor_Strata" attempted to spawn in layout 'Standalone_MaterialEditor_Layout_v13' but failed for some reason. An "unrecognized tab" will be returned instead.
+[2023.09.12-04.54.19:804][102]LogMaterial: Display: Missing cached shadermap for Preview:bulb_filament_mat in PCD3D_SM5, Default, SM5 (DDC key hash: FB55A9812877B489FC4E2E16069A803F1DFAC1C3), compiling. 
+[2023.09.12-04.54.19:807][102]LogMaterial: Display: Missing cached shadermap for Preview:bulb_filament_mat in PCD3D_SM5, Default, SM5 (DDC key hash: 3AFC62BB91DF1F6ED73288899B77260BDFF4D42E), compiling. 
+[2023.09.12-04.54.19:827][102]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.12-04.54.19:827][102]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.09.12-04.54.19:827][102]MaterialEditorStats: Shader Count: 0
+[2023.09.12-04.54.19:836][102]LogViewport: Scene viewport resized to 376x445, mode Windowed.
+[2023.09.12-04.54.20:858][145]MaterialEditorStats: Texture samplers: 2/16
+[2023.09.12-04.54.20:858][145]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.09.12-04.54.20:858][145]MaterialEditorStats: Shader Count: 2
+[2023.09.12-04.54.25:944][240]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:\2130GFS Serious Games\props\bedroom\props\floorlamp\floorlamp_bulb_filament_OcclusionRoughnessMetallic.png)
+[2023.09.12-04.54.25:989][240]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:\2130GFS Serious Games\props\bedroom\props\floorlamp\floorlamp_bulb_filament_BaseColor.png)
+[2023.09.12-04.54.26:052][240]LogTexture: Display: Building textures: /Game/OurProject/Maps/bedroom_scene/assets/floor_lamp/floorlamp_bulb_filament_OcclusionRoughnessMetallic.floorlamp_bulb_filament_OcclusionRoughnessMetallic (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.09.12-04.54.26:052][240]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:\2130GFS Serious Games\props\bedroom\props\floorlamp\floorlamp_bulb_filament_Emissive.png)
+[2023.09.12-04.54.26:114][240]LogTexture: Display: Building textures: /Game/OurProject/Maps/bedroom_scene/assets/floor_lamp/floorlamp_bulb_filament_BaseColor.floorlamp_bulb_filament_BaseColor (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.09.12-04.54.26:114][240]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:\2130GFS Serious Games\props\bedroom\props\floorlamp\floorlamp_bulb_filament_Normal.png)
+[2023.09.12-04.54.26:174][240]LogTexture: Display: Building textures: /Game/OurProject/Maps/bedroom_scene/assets/floor_lamp/floorlamp_bulb_filament_Emissive.floorlamp_bulb_filament_Emissive (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.09.12-04.54.26:192][240]LogTexture: Display: Building textures: /Game/OurProject/Maps/bedroom_scene/assets/floor_lamp/floorlamp_bulb_filament_Normal.floorlamp_bulb_filament_Normal (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.09.12-04.54.29:778][420]LogMaterial: Display: Missing cached shadermap for Preview:bulb_filament_mat in PCD3D_SM5, Default, SM5 (DDC key hash: 3D6D26E53816959999563D594B0BF0FE67A59EB2), compiling. 
+[2023.09.12-04.54.29:780][420]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 55DCFA0BC16AE0AA8690D64B2A227652D870D2C9), compiling. 
+[2023.09.12-04.54.29:781][420]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: D6960FB5F1AABECCD15EEF0EF9CF0515723934A2), compiling. 
+[2023.09.12-04.54.29:788][420]LogMaterial: Display: Missing cached shadermap for Preview:bulb_filament_mat in PCD3D_SM5, Default, SM5 (DDC key hash: 9053F520C216ECD38CE930A02D144A95D609A680), compiling. 
+[2023.09.12-04.54.29:790][420]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: EF339BDC764E37CC4C6E2DB3D41A3901BE718A57), compiling. 
+[2023.09.12-04.54.29:791][420]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: B150A5106E5A3E3699EA9E59F4504D3828D174AA), compiling. 
+[2023.09.12-04.54.29:793][420]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 85BA5954F62297178535A5D4147E8A614493E347), compiling. 
+[2023.09.12-04.54.29:800][420]LogMaterial: Display: Missing cached shadermap for Preview:bulb_filament_mat in PCD3D_SM5, Default, SM5 (DDC key hash: 05E03ADF2DFECEFF68CE075F632FE224F9CAEF0D), compiling. 
+[2023.09.12-04.54.29:802][420]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 907A7654B56E0296813EF514DD4E299E9A7C54EA), compiling. 
+[2023.09.12-04.54.29:803][420]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: A946948DD803974739BE9FC8412EEC6F99669035), compiling. 
+[2023.09.12-04.54.29:804][420]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 72BC9017A471B02E36CEADD51B70C9B8B5103DB8), compiling. 
+[2023.09.12-04.54.29:806][420]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: B1D92E6DBAB5A37020D31A1B8A1A087ABCFCF622), compiling. 
+[2023.09.12-04.54.29:812][420]LogMaterial: Display: Missing cached shadermap for Preview:bulb_filament_mat in PCD3D_SM5, Default, SM5 (DDC key hash: A378D6D0616936A29A0145EF6A62999CB57535F9), compiling. 
+[2023.09.12-04.54.29:814][420]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_3 in PCD3D_SM5, Default, SM5 (DDC key hash: 6A4673518201DEF165ACF29AA73A872527BD1728), compiling. 
+[2023.09.12-04.54.29:815][420]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: AE866B2B5430154B43B5D368681FFF191D1A49AA), compiling. 
+[2023.09.12-04.54.29:816][420]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 72405B20C31412054799FDC033CDC55B8461C962), compiling. 
+[2023.09.12-04.54.29:817][420]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: FF47100BCB4DB45469B5CC1E5BB945E2BE3EC564), compiling. 
+[2023.09.12-04.54.29:818][420]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_3 in PCD3D_SM5, Default, SM5 (DDC key hash: 709BF594BDDC94E9D69044093FC4A57A5D96B1CD), compiling. 
+[2023.09.12-04.54.29:824][420]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.12-04.54.29:824][420]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.09.12-04.54.29:824][420]MaterialEditorStats: Shader Count: 0
+[2023.09.12-04.54.29:870][422]MaterialEditorStats: Texture samplers: 2/16
+[2023.09.12-04.54.29:870][422]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.09.12-04.54.29:870][422]MaterialEditorStats: Shader Count: 4
+[2023.09.12-04.54.35:481][875]LogMaterial: Display: Missing cached shadermap for Preview:bulb_filament_mat in PCD3D_SM5, Default, SM5 (DDC key hash: 1858B606A5112D7AD98A3A41CF8F111EB45B50AB), compiling. 
+[2023.09.12-04.54.35:483][875]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_3 in PCD3D_SM5, Default, SM5 (DDC key hash: 92EADB6417DA1D1C18EC22336C7C90031D31590B), compiling. 
+[2023.09.12-04.54.35:488][875]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.12-04.54.35:488][875]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.09.12-04.54.35:488][875]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-04.54.35:488][875]MaterialEditorStats: Shader Count: 0
+[2023.09.12-04.54.36:132][905]MaterialEditorStats: Texture samplers: 1/16
+[2023.09.12-04.54.36:132][905]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.09.12-04.54.36:132][905]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-04.54.36:132][905]MaterialEditorStats: Shader Count: 1
+[2023.09.12-04.54.36:390][918]MaterialEditorStats: Texture samplers: 3/16
+[2023.09.12-04.54.36:390][918]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.09.12-04.54.36:390][918]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-04.54.36:390][918]MaterialEditorStats: Shader Count: 3
+[2023.09.12-04.54.43:224][503]LogMaterial: Display: Missing cached shadermap for Preview:bulb_filament_mat in PCD3D_SM5, Default, SM5 (DDC key hash: 63BDF24FEEC2347812606BA1BB08135A59AAF95E), compiling. 
+[2023.09.12-04.54.43:226][503]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: C12B5329478C8D9D14B29DA333C6C7E71607CA00), compiling. 
+[2023.09.12-04.54.43:228][503]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.12-04.54.43:229][503]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2023.09.12-04.54.43:229][503]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-04.54.43:229][503]MaterialEditorStats: Shader Count: 0
+[2023.09.12-04.54.43:698][520]MaterialEditorStats: Texture samplers: 2/16
+[2023.09.12-04.54.43:698][520]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2023.09.12-04.54.43:698][520]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-04.54.43:698][520]MaterialEditorStats: Shader Count: 1
+[2023.09.12-04.54.44:547][581]LogMaterial: Display: Missing cached shadermap for Preview:bulb_filament_mat in PCD3D_SM5, Default, SM5 (DDC key hash: E1D341EC8960F95EFAFDE668FD1A68B35816A1AB), compiling. 
+[2023.09.12-04.54.44:549][581]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: DBCA0A9CF2CEAC1A39EA699890B8C84EA0016A31), compiling. 
+[2023.09.12-04.54.44:552][581]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.12-04.54.44:552][581]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-04.54.44:552][581]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-04.54.44:552][581]MaterialEditorStats: Shader Count: 0
+[2023.09.12-04.54.45:063][602]MaterialEditorStats: Texture samplers: 3/16
+[2023.09.12-04.54.45:063][602]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-04.54.45:063][602]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-04.54.45:063][602]MaterialEditorStats: Shader Count: 1
+[2023.09.12-04.54.45:460][622]MaterialEditorStats: Texture samplers: 5/16
+[2023.09.12-04.54.45:460][622]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-04.54.45:460][622]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-04.54.45:460][622]MaterialEditorStats: Shader Count: 3
+[2023.09.12-04.54.49:592][977]LogMaterial: Display: Missing cached shadermap for Preview:bulb_filament_mat in PCD3D_SM5, Default, SM5 (DDC key hash: 461FBB2F39B19F96F12EBFE95374D77CED7FFCC4), compiling. 
+[2023.09.12-04.54.49:594][977]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 2D9D34CF71B61B2C44CE5C1FD271F45B2C1C5A8C), compiling. 
+[2023.09.12-04.54.49:598][977]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.12-04.54.49:598][977]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2023.09.12-04.54.49:598][977]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-04.54.49:598][977]MaterialEditorStats: Shader Count: 0
+[2023.09.12-04.54.50:100][997]MaterialEditorStats: Texture samplers: 3/16
+[2023.09.12-04.54.50:100][997]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2023.09.12-04.54.50:100][997]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-04.54.50:100][997]MaterialEditorStats: Shader Count: 1
+[2023.09.12-04.54.50:953][ 58]LogMaterial: Display: Missing cached shadermap for Preview:bulb_filament_mat in PCD3D_SM5, Default, SM5 (DDC key hash: B8F29257420A7BD4520B86D30E841841E6E967D6), compiling. 
+[2023.09.12-04.54.50:955][ 58]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 160CD4C17B768E98A117045CB46DD60F4DAD7519), compiling. 
+[2023.09.12-04.54.50:959][ 58]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.12-04.54.50:959][ 58]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2023.09.12-04.54.50:959][ 58]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-04.54.50:959][ 58]MaterialEditorStats: Shader Count: 0
+[2023.09.12-04.54.51:445][ 78]MaterialEditorStats: Texture samplers: 3/16
+[2023.09.12-04.54.51:445][ 78]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2023.09.12-04.54.51:445][ 78]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-04.54.51:445][ 78]MaterialEditorStats: Shader Count: 1
+[2023.09.12-04.54.52:394][145]LogMaterial: Display: Missing cached shadermap for Preview:bulb_filament_mat in PCD3D_SM5, Default, SM5 (DDC key hash: 54837414C8238E2B08494C698025F7FE198A6B8E), compiling. 
+[2023.09.12-04.54.52:395][145]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: C3F4ED7CC2B929A34DFE6CBC611A73456C467A99), compiling. 
+[2023.09.12-04.54.52:399][145]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.12-04.54.52:399][145]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2023.09.12-04.54.52:399][145]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-04.54.52:400][145]MaterialEditorStats: Shader Count: 0
+[2023.09.12-04.54.52:941][168]MaterialEditorStats: Texture samplers: 4/16
+[2023.09.12-04.54.52:941][168]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2023.09.12-04.54.52:941][168]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-04.54.52:941][168]MaterialEditorStats: Shader Count: 1
+[2023.09.12-04.54.53:327][186]MaterialEditorStats: Texture samplers: 6/16
+[2023.09.12-04.54.53:327][186]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2023.09.12-04.54.53:327][186]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-04.54.53:327][186]MaterialEditorStats: Shader Count: 4
+[2023.09.12-04.54.57:454][517]LogMaterialEditor: Saving and Compiling material bulb_filament_mat
+[2023.09.12-04.54.57:795][517]LogMaterial: Display: Missing cached shadermap for Preview:bulb_filament_mat in PCD3D_SM5, Default, SM5 (DDC key hash: 7F490BF35871E276105F5506572E575BF52AC6A8), compiling. 
+[2023.09.12-04.54.57:804][517]LogMaterial: Display: Missing cached shadermap for bulb_filament_mat in PCD3D_SM5, Default, SM5 (DDC key hash: 0F4C8477D87FB0BED9585235BE5EA678BF8DD5F4), compiling. 
+[2023.09.12-04.54.57:834][517]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2023.09.12-04.54.58:725][517]LogUObjectHash: Compacting FUObjectHashTables data took   0.16ms
+[2023.09.12-04.55.00:711][517]LogSavePackage: Moving output files for package: /Game/OurProject/Maps/bedroom_scene/assets/floor_lamp/bulb_filament_mat
+[2023.09.12-04.55.00:711][517]LogSavePackage: Moving '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Saved/bulb_filament_mat2709C47E4AC9FC80C1C2229DD60C71FB.tmp' to '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Content/OurProject/Maps/bedroom_scene/assets/floor_lamp/bulb_filament_mat.uasset'
+[2023.09.12-04.55.00:720][517]AssetCheck: New page: Asset Save: bulb_filament_mat
+[2023.09.12-04.55.00:720][517]LogContentValidation: Display: Validating Material /Game/OurProject/Maps/bedroom_scene/assets/floor_lamp/bulb_filament_mat.bulb_filament_mat
+[2023.09.12-04.55.00:721][517]MaterialEditorStats: Base pass shader: 136 instructions
+[2023.09.12-04.55.00:721][517]MaterialEditorStats: Base pass vertex shader: 112 instructions
+[2023.09.12-04.55.00:721][517]MaterialEditorStats: Texture samplers: 7/16
+[2023.09.12-04.55.00:721][517]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2023.09.12-04.55.00:721][517]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-04.55.00:721][517]MaterialEditorStats: Shader Count: 16
+[2023.09.12-04.55.03:330][712]LogSavePackage: Moving output files for package: /Game/OurProject/Maps/bedroom_scene/assets/floor_lamp/bulb_filament_mat
+[2023.09.12-04.55.03:331][712]LogSavePackage: Moving '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Saved/bulb_filament_matB6506B7842C07263673AC7A55E2E46A2.tmp' to '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Content/OurProject/Maps/bedroom_scene/assets/floor_lamp/bulb_filament_mat.uasset'
+[2023.09.12-04.55.03:435][712]LogSavePackage: Moving output files for package: /Game/OurProject/Maps/bedroom_scene/assets/floor_lamp/resources/floorlamp_bulb_filament_OcclusionRoughnessMetallic
+[2023.09.12-04.55.03:435][712]LogSavePackage: Moving '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Saved/floorlamp_bulb_filament_OcclusioE62A547541A9A0C26C2B2EB1664CD873.tmp' to '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Content/OurProject/Maps/bedroom_scene/assets/floor_lamp/resources/floorlamp_bulb_filament_OcclusionRoughnessMetallic.uasset'
+[2023.09.12-04.55.03:519][712]LogSavePackage: Moving output files for package: /Game/OurProject/Maps/bedroom_scene/assets/floor_lamp/resources/floorlamp_bulb_filament_BaseColor
+[2023.09.12-04.55.03:519][712]LogSavePackage: Moving '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Saved/floorlamp_bulb_filament_BaseColoE452926044878051492E11BB74AA391F.tmp' to '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Content/OurProject/Maps/bedroom_scene/assets/floor_lamp/resources/floorlamp_bulb_filament_BaseColor.uasset'
+[2023.09.12-04.55.03:606][712]LogSavePackage: Moving output files for package: /Game/OurProject/Maps/bedroom_scene/assets/floor_lamp/resources/floorlamp_bulb_filament_Emissive
+[2023.09.12-04.55.03:606][712]LogSavePackage: Moving '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Saved/floorlamp_bulb_filament_EmissiveC2ED8202435E520E7AAB498D8F2512EF.tmp' to '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Content/OurProject/Maps/bedroom_scene/assets/floor_lamp/resources/floorlamp_bulb_filament_Emissive.uasset'
+[2023.09.12-04.55.03:703][712]LogSavePackage: Moving output files for package: /Game/OurProject/Maps/bedroom_scene/assets/floor_lamp/resources/floorlamp_bulb_filament_Normal
+[2023.09.12-04.55.03:703][712]LogSavePackage: Moving '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Saved/floorlamp_bulb_filament_Normal0B73985C4A47EB9C9EAC40B9509720B8.tmp' to '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Content/OurProject/Maps/bedroom_scene/assets/floor_lamp/resources/floorlamp_bulb_filament_Normal.uasset'
+[2023.09.12-04.55.03:734][712]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2023.09.12-04.55.03:740][712]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2023.09.12-04.55.03:748][712]LogUObjectHash: Compacting FUObjectHashTables data took   0.15ms
+[2023.09.12-04.55.03:764][712]AssetCheck: New page: Asset Save: multiple assets
+[2023.09.12-04.55.03:764][712]LogContentValidation: Display: Validating Material /Game/OurProject/Maps/bedroom_scene/assets/floor_lamp/bulb_filament_mat.bulb_filament_mat
+[2023.09.12-04.55.03:764][712]LogContentValidation: Display: Validating Texture2D /Game/OurProject/Maps/bedroom_scene/assets/floor_lamp/resources/floorlamp_bulb_filament_OcclusionRoughnessMetallic.floorlamp_bulb_filament_OcclusionRoughnessMetallic
+[2023.09.12-04.55.03:764][712]LogContentValidation: Display: Validating Texture2D /Game/OurProject/Maps/bedroom_scene/assets/floor_lamp/resources/floorlamp_bulb_filament_BaseColor.floorlamp_bulb_filament_BaseColor
+[2023.09.12-04.55.03:764][712]LogContentValidation: Display: Validating Texture2D /Game/OurProject/Maps/bedroom_scene/assets/floor_lamp/resources/floorlamp_bulb_filament_Emissive.floorlamp_bulb_filament_Emissive
+[2023.09.12-04.55.03:764][712]LogContentValidation: Display: Validating Texture2D /Game/OurProject/Maps/bedroom_scene/assets/floor_lamp/resources/floorlamp_bulb_filament_Normal.floorlamp_bulb_filament_Normal
+[2023.09.12-04.55.05:814][804]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/VR/ISCAMYHCW9F5BHKZHBN42B
+[2023.09.12-04.55.05:814][804]LogSavePackage: Moving '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Saved/ISCAMYHCW9F5BHKZHBN42B0C82A006474C3E9886996EA3661A4ED8.tmp' to '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/VR/ISCAMYHCW9F5BHKZHBN42B.uasset'
+[2023.09.12-04.55.05:823][804]AssetCheck: New page: Asset Save: StaticMeshActor_UAID_04421A293C7487A801_1421644329
+[2023.09.12-04.55.05:823][804]LogContentValidation: Display: Validating StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_04421A293C7487A801_1421644329
+[2023.09.12-04.55.08:140][928]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2023.09.12-04.55.08:183][928]LogContentBrowser: Creating deferred item: NewMaterial
+[2023.09.12-04.55.08:197][929]LogContentBrowser: Renaming the item being created (Deferred Item: NewMaterial).
+[2023.09.12-04.55.15:364][458]LogContentBrowser: Attempting asset rename: NewMaterial -> bulb_glass_mat
+[2023.09.12-04.55.15:364][458]LogContentBrowser: End creating deferred item NewMaterial
+[2023.09.12-04.55.16:704][564]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/OurProject/Maps/bedroom_scene/assets/floor_lamp/bulb_glass_mat.bulb_glass_mat
+[2023.09.12-04.55.16:705][564]LogMaterial: Display: Missing cached shadermap for Preview:bulb_glass_mat in PCD3D_SM5, Default, SM5 (DDC key hash: A968038A65FB6545E48973C6040E5573CDD9E38F), compiling. 
+[2023.09.12-04.55.16:719][564]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.12-04.55.16:757][564]LogSlate: The tab "MaterialEditor_Strata" attempted to spawn in layout 'Standalone_MaterialEditor_Layout_v13' but failed for some reason. An "unrecognized tab" will be returned instead.
+[2023.09.12-04.55.16:761][564]LogMaterial: Display: Missing cached shadermap for Preview:bulb_glass_mat in PCD3D_SM5, Default, SM5 (DDC key hash: 93F2F724AD808CEEBFFBA081DFA27F4F5E5C5D3A), compiling. 
+[2023.09.12-04.55.16:764][564]LogMaterial: Display: Missing cached shadermap for Preview:bulb_glass_mat in PCD3D_SM5, Default, SM5 (DDC key hash: 2655140C26E5A2BB91EBA844CDABE2A357ED270D), compiling. 
+[2023.09.12-04.55.16:787][564]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.12-04.55.16:787][564]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.09.12-04.55.16:787][564]MaterialEditorStats: Shader Count: 0
+[2023.09.12-04.55.16:795][564]LogViewport: Scene viewport resized to 376x445, mode Windowed.
+[2023.09.12-04.55.17:741][604]MaterialEditorStats: Texture samplers: 2/16
+[2023.09.12-04.55.17:741][604]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.09.12-04.55.17:741][604]MaterialEditorStats: Shader Count: 2
+[2023.09.12-04.55.21:216][657]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:\2130GFS Serious Games\props\bedroom\props\floorlamp\floorlamp_bulb_glass_Opacity.png)
+[2023.09.12-04.55.21:272][657]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:\2130GFS Serious Games\props\bedroom\props\floorlamp\floorlamp_bulb_glass_BaseColor.png)
+[2023.09.12-04.55.21:344][657]LogTexture: Display: Building textures: /Game/OurProject/Maps/bedroom_scene/assets/floor_lamp/floorlamp_bulb_glass_Opacity.floorlamp_bulb_glass_Opacity (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.09.12-04.55.21:344][657]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:\2130GFS Serious Games\props\bedroom\props\floorlamp\floorlamp_bulb_glass_Normal.png)
+[2023.09.12-04.55.21:414][657]LogTexture: Display: Building textures: /Game/OurProject/Maps/bedroom_scene/assets/floor_lamp/floorlamp_bulb_glass_BaseColor.floorlamp_bulb_glass_BaseColor (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.09.12-04.55.21:433][657]LogTexture: Display: Building textures: /Game/OurProject/Maps/bedroom_scene/assets/floor_lamp/floorlamp_bulb_glass_Normal.floorlamp_bulb_glass_Normal (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.09.12-04.55.21:442][657]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:\2130GFS Serious Games\props\bedroom\props\floorlamp\floorlamp_bulb_glass_OcclusionRoughnessMetallic.png)
+[2023.09.12-04.55.21:514][657]LogTexture: Display: Building textures: /Game/OurProject/Maps/bedroom_scene/assets/floor_lamp/floorlamp_bulb_glass_OcclusionRoughnessMetallic.floorlamp_bulb_glass_OcclusionRoughnessMetallic (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.09.12-04.55.28:301][100]LogMaterial: Display: Missing cached shadermap for Preview:bulb_glass_mat in PCD3D_SM5, Default, SM5 (DDC key hash: 6A2394AB320EDD998A5A1EEE00370B5D796484DA), compiling. 
+[2023.09.12-04.55.28:303][100]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: E81BA5BEB096462D66E89C189C00C34616C60CCE), compiling. 
+[2023.09.12-04.55.28:304][100]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 6A196212F46A5847F7E02BB561FE144068873E84), compiling. 
+[2023.09.12-04.55.28:313][100]LogMaterial: Display: Missing cached shadermap for Preview:bulb_glass_mat in PCD3D_SM5, Default, SM5 (DDC key hash: D7520386213F431EC26C8DD3A929256B9002B57F), compiling. 
+[2023.09.12-04.55.28:314][100]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: B239A24425C704742841767CC05CB13A2A8CCDF5), compiling. 
+[2023.09.12-04.55.28:315][100]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 813C328170AF04D64C5863A103E30926C498466C), compiling. 
+[2023.09.12-04.55.28:317][100]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 6C5813005F6D02D85E1A6EA18197F3ECD756E8C5), compiling. 
+[2023.09.12-04.55.28:325][100]LogMaterial: Display: Missing cached shadermap for Preview:bulb_glass_mat in PCD3D_SM5, Default, SM5 (DDC key hash: DE8478E3ACE58813A74B707979FC75AB71E638DA), compiling. 
+[2023.09.12-04.55.28:325][100]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 46CA38B7B32BA19AF86AC97A71E506EDC2D415A7), compiling. 
+[2023.09.12-04.55.28:327][100]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: AE770C890B7C699758124060036D186FDCA2667C), compiling. 
+[2023.09.12-04.55.28:328][100]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 0250B395CE35D5E793A5F02885602A6C7DA90EAF), compiling. 
+[2023.09.12-04.55.28:330][100]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 190C2BA38F087EEE9381103A7CF30078BA1534B8), compiling. 
+[2023.09.12-04.55.28:337][100]LogMaterial: Display: Missing cached shadermap for Preview:bulb_glass_mat in PCD3D_SM5, Default, SM5 (DDC key hash: 4C9D10C2094F7635FE01A66D9A879A1D2D92132C), compiling. 
+[2023.09.12-04.55.28:338][100]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_3 in PCD3D_SM5, Default, SM5 (DDC key hash: 0A9F4DDD88281A006BA308F26F392230FDA0A1E8), compiling. 
+[2023.09.12-04.55.28:339][100]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 0E3525C51F45D2A826416997D7ECFEACEA27905A), compiling. 
+[2023.09.12-04.55.28:341][100]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: D97904ABBE49802F94ABBCFE0B16E64D81E7FA0C), compiling. 
+[2023.09.12-04.55.28:343][100]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 560A1F1411521D67E38D5E90A81FD8D4B8F0FE25), compiling. 
+[2023.09.12-04.55.28:344][100]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_3 in PCD3D_SM5, Default, SM5 (DDC key hash: B3C6EFDCB9BC0E84590D8632FF9D37686B69DA53), compiling. 
+[2023.09.12-04.55.28:348][100]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.12-04.55.28:348][100]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.09.12-04.55.28:348][100]MaterialEditorStats: Shader Count: 0
+[2023.09.12-04.55.28:396][102]MaterialEditorStats: Texture samplers: 2/16
+[2023.09.12-04.55.28:396][102]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.09.12-04.55.28:396][102]MaterialEditorStats: Shader Count: 4
+[2023.09.12-04.55.34:653][597]LogMaterial: Display: Missing cached shadermap for Preview:bulb_glass_mat in PCD3D_SM5, Default, SM5 (DDC key hash: D9FD6981E976C11DB33E1114D4C42FB5296AD8C1), compiling. 
+[2023.09.12-04.55.34:655][597]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 11C47BC8838B6673849E1FCB1FD54A8E5A6D2397), compiling. 
+[2023.09.12-04.55.34:660][597]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.12-04.55.34:660][597]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.09.12-04.55.34:660][597]MaterialEditorStats: Shader Count: 0
+[2023.09.12-04.55.34:673][598]LogShaderCompilers: Display: ================================================
+[2023.09.12-04.55.34:673][598]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.09.12-04.55.34:673][598]LogShaderCompilers: Display: Total job queries 1053, among them cache hits 567 (53.85%)
+[2023.09.12-04.55.34:673][598]LogShaderCompilers: Display: Tracking 378 distinct input hashes that result in 93 distinct outputs (24.60%)
+[2023.09.12-04.55.34:673][598]LogShaderCompilers: Display: RAM used: 0.26 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.02%
+[2023.09.12-04.55.34:673][598]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.09.12-04.55.34:673][598]LogShaderCompilers: Display: Shaders Compiled: 132
+[2023.09.12-04.55.34:673][598]LogShaderCompilers: Display: Jobs assigned 378, completed 378 (100.00%)
+[2023.09.12-04.55.34:673][598]LogShaderCompilers: Display: Average time worker was idle: 26.63 s
+[2023.09.12-04.55.34:673][598]LogShaderCompilers: Display: Time job spent in pending queue: average 0.14 s, longest 1.46 s
+[2023.09.12-04.55.34:673][598]LogShaderCompilers: Display: Job execution time: average 0.90 s, max 1.57 s
+[2023.09.12-04.55.34:673][598]LogShaderCompilers: Display: Job life time (pending + execution): average 1.04 s, max 2.81
+[2023.09.12-04.55.34:673][598]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 87.53 s
+[2023.09.12-04.55.34:673][598]LogShaderCompilers: Display: Jobs were issued in 378 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.09.12-04.55.34:673][598]LogShaderCompilers: Display: Average processing rate: 4.32 jobs/sec
+[2023.09.12-04.55.34:673][598]LogShaderCompilers: Display: Effective parallelization: 3.40 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.09.12-04.55.34:673][598]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.09.12-04.55.34:673][598]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled   12 times, average 1.28 sec, max 1.36 sec, min 1.20 sec)
+[2023.09.12-04.55.34:673][598]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled   12 times, average 1.21 sec, max 1.33 sec, min 0.85 sec)
+[2023.09.12-04.55.34:673][598]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled   12 times, average 1.21 sec, max 1.32 sec, min 1.08 sec)
+[2023.09.12-04.55.34:673][598]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled   12 times, average 1.19 sec, max 1.29 sec, min 1.00 sec)
+[2023.09.12-04.55.34:673][598]LogShaderCompilers: Display:                TBasePassVSFCachedPointIndirectLightingPolicy (compiled   12 times, average 1.19 sec, max 1.26 sec, min 1.14 sec)
+[2023.09.12-04.55.34:673][598]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.09.12-04.55.34:673][598]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 17.04% of total time (compiled   62 times, average 0.82 sec, max 1.23 sec, min 0.62 sec)
+[2023.09.12-04.55.34:673][598]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 15.63% of total time (compiled   62 times, average 0.75 sec, max 1.09 sec, min 0.50 sec)
+[2023.09.12-04.55.34:673][598]LogShaderCompilers: Display:                                                 FLumenCardVS - 14.49% of total time (compiled   55 times, average 0.78 sec, max 1.11 sec, min 0.72 sec)
+[2023.09.12-04.55.34:673][598]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 5.92% of total time (compiled   55 times, average 0.32 sec, max 0.35 sec, min 0.30 sec)
+[2023.09.12-04.55.34:673][598]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 5.14% of total time (compiled   12 times, average 1.28 sec, max 1.36 sec, min 1.20 sec)
+[2023.09.12-04.55.34:673][598]LogShaderCompilers: Display: ================================================
+[2023.09.12-04.55.34:703][599]MaterialEditorStats: Texture samplers: 2/16
+[2023.09.12-04.55.34:703][599]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.09.12-04.55.34:703][599]MaterialEditorStats: Shader Count: 2
+[2023.09.12-04.55.35:837][689]LogEditorTransaction: Undo Create Pin Link
+[2023.09.12-04.55.35:840][689]LogMaterial: Display: Missing cached shadermap for Preview:bulb_glass_mat in PCD3D_SM5, Default, SM5 (DDC key hash: EBBC80484A4604F30D38220C92673740C9B31C18), compiling. 
+[2023.09.12-04.55.35:843][689]LogMaterial: Display: Missing cached shadermap for Preview:material in PCD3D_SM5, Default, SM5 (DDC key hash: 6EB60183D054E372E49E69E89461D612FE48D9B9), compiling. 
+[2023.09.12-04.55.35:846][689]LogMaterial: Display: Missing cached shadermap for Preview:coffee_table_drawer in PCD3D_SM5, Default, SM5 (DDC key hash: 68A6DA9B20A02CCC9657427779745874E39EEB4A), compiling. 
+[2023.09.12-04.55.35:848][689]LogMaterial: Display: Missing cached shadermap for Preview:daybed_mat in PCD3D_SM5, Default, SM5 (DDC key hash: 7AE053FE3900C743EFAD3AA1F4730E8A9BFE772F), compiling. 
+[2023.09.12-04.55.35:851][689]LogMaterial: Display: Missing cached shadermap for Preview:throwrug_mat in PCD3D_SM5, Default, SM5 (DDC key hash: 96BA1F5E867AD124FFE013C2E180C52F6A491159), compiling. 
+[2023.09.12-04.55.35:854][689]LogMaterial: Display: Missing cached shadermap for Preview:NewMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: D932A8564393508BE5B8D80758C3EF632D8F75FE), compiling. 
+[2023.09.12-04.55.35:856][689]LogMaterial: Display: Missing cached shadermap for Preview:coffee_table_top_mat in PCD3D_SM5, Default, SM5 (DDC key hash: B7E810FE3E06EE31AA3D1A77EAD70262A14330CF), compiling. 
+[2023.09.12-04.55.35:864][689]LogMaterial: Display: Missing cached shadermap for Preview:bulb_base_mat in PCD3D_SM5, Default, SM5 (DDC key hash: 0F2BA2478BB57AADBCF964348E7B5150F0BA909A), compiling. 
+[2023.09.12-04.55.35:871][689]LogMaterial: Display: Missing cached shadermap for Preview:bulb_filament_mat in PCD3D_SM5, Default, SM5 (DDC key hash: 7BB2B3E85CD250A51AEFB2D1584F497AB4CBDC87), compiling. 
+[2023.09.12-04.55.35:879][689]LogMaterial: Display: Missing cached shadermap for Preview:bulb_glass_mat in PCD3D_SM5, Default, SM5 (DDC key hash: E1D7F882AAD84A62EFBDD1D74BF0AA4467A71EBB), compiling. 
+[2023.09.12-04.55.35:881][689]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: F8E6659D71E1A79B1146C61FB187EB70753D231F), compiling. 
+[2023.09.12-04.55.35:893][689]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.12-04.55.35:893][689]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-04.55.35:893][689]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-04.55.35:893][689]MaterialEditorStats: Shader Count: 0
+[2023.09.12-04.55.35:893][689]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.12-04.55.35:893][689]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-04.55.35:893][689]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-04.55.35:893][689]MaterialEditorStats: Shader Count: 0
+[2023.09.12-04.55.35:893][689]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.12-04.55.35:893][689]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-04.55.35:893][689]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-04.55.35:894][689]MaterialEditorStats: Shader Count: 0
+[2023.09.12-04.55.35:894][689]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.12-04.55.35:894][689]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-04.55.35:894][689]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-04.55.35:894][689]MaterialEditorStats: Shader Count: 0
+[2023.09.12-04.55.35:894][689]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.12-04.55.35:894][689]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-04.55.35:894][689]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-04.55.35:894][689]MaterialEditorStats: Shader Count: 0
+[2023.09.12-04.55.35:894][689]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.12-04.55.35:894][689]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-04.55.35:894][689]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-04.55.35:894][689]MaterialEditorStats: Shader Count: 0
+[2023.09.12-04.55.35:894][689]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.12-04.55.35:894][689]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-04.55.35:894][689]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-04.55.35:894][689]MaterialEditorStats: Shader Count: 0
+[2023.09.12-04.55.35:894][689]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.12-04.55.35:894][689]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2023.09.12-04.55.35:894][689]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-04.55.35:894][689]MaterialEditorStats: Shader Count: 0
+[2023.09.12-04.55.35:894][689]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.12-04.55.35:894][689]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.09.12-04.55.35:894][689]MaterialEditorStats: Shader Count: 0
+[2023.09.12-04.55.35:953][691]MaterialEditorStats: Texture samplers: 2/16
+[2023.09.12-04.55.35:953][691]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.09.12-04.55.35:953][691]MaterialEditorStats: Shader Count: 4
+[2023.09.12-04.55.35:980][692]MaterialEditorStats: Texture samplers: 5/16
+[2023.09.12-04.55.35:980][692]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-04.55.35:980][692]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-04.55.35:980][692]MaterialEditorStats: Shader Count: 4
+[2023.09.12-04.55.35:980][692]MaterialEditorStats: Texture samplers: 5/16
+[2023.09.12-04.55.35:980][692]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-04.55.35:980][692]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-04.55.35:980][692]MaterialEditorStats: Shader Count: 4
+[2023.09.12-04.55.35:980][692]MaterialEditorStats: Texture samplers: 5/16
+[2023.09.12-04.55.35:980][692]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-04.55.35:980][692]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-04.55.35:980][692]MaterialEditorStats: Shader Count: 4
+[2023.09.12-04.55.35:980][692]MaterialEditorStats: Texture samplers: 5/16
+[2023.09.12-04.55.35:980][692]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-04.55.35:980][692]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-04.55.35:980][692]MaterialEditorStats: Shader Count: 4
+[2023.09.12-04.55.35:980][692]MaterialEditorStats: Texture samplers: 5/16
+[2023.09.12-04.55.35:980][692]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-04.55.35:980][692]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-04.55.35:980][692]MaterialEditorStats: Shader Count: 4
+[2023.09.12-04.55.36:006][693]MaterialEditorStats: Texture samplers: 5/16
+[2023.09.12-04.55.36:006][693]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-04.55.36:006][693]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-04.55.36:006][693]MaterialEditorStats: Shader Count: 4
+[2023.09.12-04.55.36:006][693]MaterialEditorStats: Texture samplers: 5/16
+[2023.09.12-04.55.36:006][693]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-04.55.36:006][693]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-04.55.36:006][693]MaterialEditorStats: Shader Count: 4
+[2023.09.12-04.55.36:006][693]MaterialEditorStats: Texture samplers: 6/16
+[2023.09.12-04.55.36:006][693]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2023.09.12-04.55.36:006][693]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-04.55.36:006][693]MaterialEditorStats: Shader Count: 4
+[2023.09.12-04.55.46:773][593]LogMaterial: Display: Missing cached shadermap for Preview:bulb_glass_mat in PCD3D_SM5, Default, SM5 (DDC key hash: 4E942923088052A499F0D15B76C3387074459954), compiling. 
+[2023.09.12-04.55.46:775][593]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: A03AA19178F7427E951A970A03A6AEB4CFC970B7), compiling. 
+[2023.09.12-04.55.46:780][593]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.12-04.55.46:780][593]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.09.12-04.55.46:780][593]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-04.55.46:780][593]MaterialEditorStats: Shader Count: 0
+[2023.09.12-04.55.47:415][619]MaterialEditorStats: Texture samplers: 1/16
+[2023.09.12-04.55.47:415][619]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.09.12-04.55.47:415][619]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-04.55.47:415][619]MaterialEditorStats: Shader Count: 1
+[2023.09.12-04.55.47:700][633]MaterialEditorStats: Texture samplers: 3/16
+[2023.09.12-04.55.47:700][633]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.09.12-04.55.47:700][633]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-04.55.47:700][633]MaterialEditorStats: Shader Count: 3
+[2023.09.12-04.55.49:433][773]LogMaterial: Display: Missing cached shadermap for Preview:bulb_glass_mat in PCD3D_SM5, Default, SM5 (DDC key hash: 690D4A9C1CC5187D297DC150CA4EFB1D792E5738), compiling. 
+[2023.09.12-04.55.49:434][773]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: CA02A0F0C70F6AC1EA220AD4CBCDB0F863BB07F5), compiling. 
+[2023.09.12-04.55.49:438][773]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.12-04.55.49:438][773]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2023.09.12-04.55.49:438][773]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-04.55.49:438][773]MaterialEditorStats: Shader Count: 0
+[2023.09.12-04.55.50:664][846]MaterialEditorStats: Texture samplers: 4/16
+[2023.09.12-04.55.50:664][846]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2023.09.12-04.55.50:664][846]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-04.55.50:664][846]MaterialEditorStats: Shader Count: 4
+[2023.09.12-04.55.52:647][  5]LogMaterial: Display: Missing cached shadermap for Preview:bulb_glass_mat in PCD3D_SM5, Default, SM5 (DDC key hash: 5B3877C9AF492EEBBAAF90DC9933BE37FA2BD064), compiling. 
+[2023.09.12-04.55.52:648][  5]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_3 in PCD3D_SM5, Default, SM5 (DDC key hash: B92FEC4D77F5B2B31099F9E147B14D6501667748), compiling. 
+[2023.09.12-04.55.52:653][  5]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.12-04.55.52:653][  5]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-04.55.52:653][  5]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-04.55.52:653][  5]MaterialEditorStats: Shader Count: 0
+[2023.09.12-04.55.53:148][ 25]MaterialEditorStats: Texture samplers: 2/16
+[2023.09.12-04.55.53:148][ 25]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-04.55.53:148][ 25]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-04.55.53:148][ 25]MaterialEditorStats: Shader Count: 1
+[2023.09.12-04.55.54:407][120]LogMaterial: Display: Missing cached shadermap for Preview:bulb_glass_mat in PCD3D_SM5, Default, SM5 (DDC key hash: D0B83A95B08618BD1EB996BABB9BA77967C1F4EE), compiling. 
+[2023.09.12-04.55.54:409][120]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_3 in PCD3D_SM5, Default, SM5 (DDC key hash: FCB86EEA70DE787FD787F4822A9E76DE1755A3CD), compiling. 
+[2023.09.12-04.55.54:413][120]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.12-04.55.54:413][120]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-04.55.54:413][120]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-04.55.54:413][120]MaterialEditorStats: Shader Count: 0
+[2023.09.12-04.55.54:971][145]MaterialEditorStats: Texture samplers: 2/16
+[2023.09.12-04.55.54:971][145]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-04.55.54:971][145]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-04.55.54:971][145]MaterialEditorStats: Shader Count: 1
+[2023.09.12-04.55.55:606][184]LogMaterial: Display: Missing cached shadermap for Preview:bulb_glass_mat in PCD3D_SM5, Default, SM5 (DDC key hash: 2A5CD51AC444806248AEB8E2560C591476028349), compiling. 
+[2023.09.12-04.55.55:607][184]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_3 in PCD3D_SM5, Default, SM5 (DDC key hash: 9744D0302A631F09396E351F77A1CDA59FC85417), compiling. 
+[2023.09.12-04.55.55:612][184]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.12-04.55.55:612][184]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-04.55.55:612][184]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-04.55.55:612][184]MaterialEditorStats: Shader Count: 0
+[2023.09.12-04.55.56:115][205]MaterialEditorStats: Texture samplers: 3/16
+[2023.09.12-04.55.56:115][205]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-04.55.56:115][205]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-04.55.56:115][205]MaterialEditorStats: Shader Count: 1
+[2023.09.12-04.55.57:257][302]MaterialEditorStats: Texture samplers: 5/16
+[2023.09.12-04.55.57:257][302]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-04.55.57:257][302]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-04.55.57:257][302]MaterialEditorStats: Shader Count: 4
+[2023.09.12-04.56.06:632][104]LogMaterialEditor: Saving and Compiling material bulb_glass_mat
+[2023.09.12-04.56.06:971][104]LogMaterial: Display: Missing cached shadermap for Preview:bulb_glass_mat in PCD3D_SM5, Default, SM5 (DDC key hash: 44C6DF8F189E8DC458C382340A1367B8B6ABFDC2), compiling. 
+[2023.09.12-04.56.06:979][104]LogMaterial: Display: Missing cached shadermap for bulb_glass_mat in PCD3D_SM5, Default, SM5 (DDC key hash: 90486AE7BCD096DF1DEC1AD332F6BB6611CCE6F2), compiling. 
+[2023.09.12-04.56.07:010][104]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2023.09.12-04.56.07:899][104]LogUObjectHash: Compacting FUObjectHashTables data took   0.15ms
+[2023.09.12-04.56.09:874][104]LogSavePackage: Moving output files for package: /Game/OurProject/Maps/bedroom_scene/assets/floor_lamp/bulb_glass_mat
+[2023.09.12-04.56.09:874][104]LogSavePackage: Moving '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Saved/bulb_glass_mat2DCDD18848EFAC02E5DA62A17522BAAA.tmp' to '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Content/OurProject/Maps/bedroom_scene/assets/floor_lamp/bulb_glass_mat.uasset'
+[2023.09.12-04.56.09:881][104]AssetCheck: New page: Asset Save: bulb_glass_mat
+[2023.09.12-04.56.09:881][104]LogContentValidation: Display: Validating Material /Game/OurProject/Maps/bedroom_scene/assets/floor_lamp/bulb_glass_mat.bulb_glass_mat
+[2023.09.12-04.56.09:882][104]MaterialEditorStats: Base pass shader: 134 instructions
+[2023.09.12-04.56.09:882][104]MaterialEditorStats: Base pass vertex shader: 112 instructions
+[2023.09.12-04.56.09:882][104]MaterialEditorStats: Texture samplers: 6/16
+[2023.09.12-04.56.09:882][104]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-04.56.09:882][104]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-04.56.09:882][104]MaterialEditorStats: Shader Count: 16
+[2023.09.12-04.56.12:910][342]LogSavePackage: Moving output files for package: /Game/OurProject/Maps/bedroom_scene/assets/floor_lamp/bulb_glass_mat
+[2023.09.12-04.56.12:910][342]LogSavePackage: Moving '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Saved/bulb_glass_matA70572474A3DA3228C427F9560940EBF.tmp' to '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Content/OurProject/Maps/bedroom_scene/assets/floor_lamp/bulb_glass_mat.uasset'
+[2023.09.12-04.56.12:994][342]LogSavePackage: Moving output files for package: /Game/OurProject/Maps/bedroom_scene/assets/floor_lamp/resources/floorlamp_bulb_glass_Opacity
+[2023.09.12-04.56.12:994][342]LogSavePackage: Moving '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Saved/floorlamp_bulb_glass_OpacityE05839E24A954492B129DF91E3558FCD.tmp' to '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Content/OurProject/Maps/bedroom_scene/assets/floor_lamp/resources/floorlamp_bulb_glass_Opacity.uasset'
+[2023.09.12-04.56.13:079][342]LogSavePackage: Moving output files for package: /Game/OurProject/Maps/bedroom_scene/assets/floor_lamp/resources/floorlamp_bulb_glass_BaseColor
+[2023.09.12-04.56.13:079][342]LogSavePackage: Moving '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Saved/floorlamp_bulb_glass_BaseColor0ED154724B5C9BFA01CBB1A8E1133863.tmp' to '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Content/OurProject/Maps/bedroom_scene/assets/floor_lamp/resources/floorlamp_bulb_glass_BaseColor.uasset'
+[2023.09.12-04.56.13:164][342]LogSavePackage: Moving output files for package: /Game/OurProject/Maps/bedroom_scene/assets/floor_lamp/resources/floorlamp_bulb_glass_Normal
+[2023.09.12-04.56.13:164][342]LogSavePackage: Moving '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Saved/floorlamp_bulb_glass_Normal65B46CB743ED39A192BA50A5F1D0BD12.tmp' to '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Content/OurProject/Maps/bedroom_scene/assets/floor_lamp/resources/floorlamp_bulb_glass_Normal.uasset'
+[2023.09.12-04.56.13:348][342]LogSavePackage: Moving output files for package: /Game/OurProject/Maps/bedroom_scene/assets/floor_lamp/resources/floorlamp_bulb_glass_OcclusionRoughnessMetallic
+[2023.09.12-04.56.13:348][342]LogSavePackage: Moving '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Saved/floorlamp_bulb_glass_OcclusionRoD6ACC9B24D0BE3AB13AC98A959CAAB5C.tmp' to '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Content/OurProject/Maps/bedroom_scene/assets/floor_lamp/resources/floorlamp_bulb_glass_OcclusionRoughnessMetallic.uasset'
+[2023.09.12-04.56.13:378][342]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2023.09.12-04.56.13:384][342]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2023.09.12-04.56.13:390][342]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2023.09.12-04.56.13:402][342]AssetCheck: New page: Asset Save: multiple assets
+[2023.09.12-04.56.13:402][342]LogContentValidation: Display: Validating Material /Game/OurProject/Maps/bedroom_scene/assets/floor_lamp/bulb_glass_mat.bulb_glass_mat
+[2023.09.12-04.56.13:402][342]LogContentValidation: Display: Validating Texture2D /Game/OurProject/Maps/bedroom_scene/assets/floor_lamp/resources/floorlamp_bulb_glass_Opacity.floorlamp_bulb_glass_Opacity
+[2023.09.12-04.56.13:402][342]LogContentValidation: Display: Validating Texture2D /Game/OurProject/Maps/bedroom_scene/assets/floor_lamp/resources/floorlamp_bulb_glass_BaseColor.floorlamp_bulb_glass_BaseColor
+[2023.09.12-04.56.13:402][342]LogContentValidation: Display: Validating Texture2D /Game/OurProject/Maps/bedroom_scene/assets/floor_lamp/resources/floorlamp_bulb_glass_Normal.floorlamp_bulb_glass_Normal
+[2023.09.12-04.56.13:402][342]LogContentValidation: Display: Validating Texture2D /Game/OurProject/Maps/bedroom_scene/assets/floor_lamp/resources/floorlamp_bulb_glass_OcclusionRoughnessMetallic.floorlamp_bulb_glass_OcclusionRoughnessMetallic
+[2023.09.12-04.56.24:357][201]LogMaterial: Display: Missing cached shadermap for Preview:bulb_glass_mat in PCD3D_SM5, Default, SM5 (DDC key hash: 9162ACBF6175160A18A6C9061E855B1DF9436FA2), compiling. 
+[2023.09.12-04.56.24:359][201]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: A4E298BE27F32F15B78504143F3036A05CA382CB), compiling. 
+[2023.09.12-04.56.24:363][201]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.12-04.56.24:363][201]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-04.56.24:363][201]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-04.56.24:363][201]MaterialEditorStats: Shader Count: 0
+[2023.09.12-04.56.24:426][204]MaterialEditorStats: Texture samplers: 5/16
+[2023.09.12-04.56.24:426][204]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-04.56.24:426][204]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-04.56.24:426][204]MaterialEditorStats: Shader Count: 4
+[2023.09.12-04.56.26:595][349]LogMaterialEditor: Saving and Compiling material bulb_glass_mat
+[2023.09.12-04.56.26:931][349]LogMaterial: Display: Missing cached shadermap for Preview:bulb_glass_mat in PCD3D_SM5, Default, SM5 (DDC key hash: B1F8840D76E9A4DC60BC8EFE9D6B7E8F10D85A1A), compiling. 
+[2023.09.12-04.56.26:939][349]LogMaterial: Display: Missing cached shadermap for bulb_glass_mat in PCD3D_SM5, Default, SM5 (DDC key hash: 93A82214CDAD6562B0C8FA041AC608AE670AD3EA), compiling. 
+[2023.09.12-04.56.26:948][349]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2023.09.12-04.56.27:112][349]LogUObjectHash: Compacting FUObjectHashTables data took   0.16ms
+[2023.09.12-04.56.27:182][349]LogSavePackage: Moving output files for package: /Game/OurProject/Maps/bedroom_scene/assets/floor_lamp/bulb_glass_mat
+[2023.09.12-04.56.27:183][349]LogSavePackage: Moving '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Saved/bulb_glass_matAF6E697B4F6990F5FDBC77806202199B.tmp' to '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Content/OurProject/Maps/bedroom_scene/assets/floor_lamp/bulb_glass_mat.uasset'
+[2023.09.12-04.56.27:192][349]AssetCheck: New page: Asset Save: bulb_glass_mat
+[2023.09.12-04.56.27:192][349]LogContentValidation: Display: Validating Material /Game/OurProject/Maps/bedroom_scene/assets/floor_lamp/bulb_glass_mat.bulb_glass_mat
+[2023.09.12-04.56.27:192][349]MaterialEditorStats: Base pass shader: 134 instructions
+[2023.09.12-04.56.27:192][349]MaterialEditorStats: Base pass vertex shader: 112 instructions
+[2023.09.12-04.56.27:192][349]MaterialEditorStats: Texture samplers: 6/16
+[2023.09.12-04.56.27:192][349]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-04.56.27:192][349]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-04.56.27:192][349]MaterialEditorStats: Shader Count: 16
+[2023.09.12-04.56.30:165][549]Cmd: TRANSACTION UNDO
+[2023.09.12-04.56.30:165][549]LogEditorTransaction: Undo Create Pin Link
+[2023.09.12-04.56.30:181][549]LogMaterial: Display: Missing cached shadermap for Preview:bulb_glass_mat in PCD3D_SM5, Default, SM5 (DDC key hash: 600B7BDEAA963F0922775203E93732149EC172AE), compiling. 
+[2023.09.12-04.56.30:184][549]LogMaterial: Display: Missing cached shadermap for Preview:material in PCD3D_SM5, Default, SM5 (DDC key hash: BA61BEC82909F0D9F54ACE11D86B9B0B03866777), compiling. 
+[2023.09.12-04.56.30:188][549]LogMaterial: Display: Missing cached shadermap for Preview:coffee_table_drawer in PCD3D_SM5, Default, SM5 (DDC key hash: A607226A35013D118C8B4637F832226A1788C462), compiling. 
+[2023.09.12-04.56.30:191][549]LogMaterial: Display: Missing cached shadermap for Preview:daybed_mat in PCD3D_SM5, Default, SM5 (DDC key hash: B080ECB6E6B0433EF00B5EAE650239D9513D696D), compiling. 
+[2023.09.12-04.56.30:194][549]LogMaterial: Display: Missing cached shadermap for Preview:throwrug_mat in PCD3D_SM5, Default, SM5 (DDC key hash: 165C29EDF594290B26D7A39F237F46839A0A88BB), compiling. 
+[2023.09.12-04.56.30:196][549]LogMaterial: Display: Missing cached shadermap for Preview:NewMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 0CAC852372A7E93DF5A364EC636D076E95408936), compiling. 
+[2023.09.12-04.56.30:199][549]LogMaterial: Display: Missing cached shadermap for Preview:coffee_table_top_mat in PCD3D_SM5, Default, SM5 (DDC key hash: E1283B72D4BCEF4AB3A1DD783FABB48574A059FD), compiling. 
+[2023.09.12-04.56.30:201][549]LogMaterial: Display: Missing cached shadermap for Preview:bulb_base_mat in PCD3D_SM5, Default, SM5 (DDC key hash: 02857161CD8ACE5340EF72D86B92A068ABD0825C), compiling. 
+[2023.09.12-04.56.30:204][549]LogMaterial: Display: Missing cached shadermap for Preview:bulb_filament_mat in PCD3D_SM5, Default, SM5 (DDC key hash: 4BABB41AE3C2250B2168A2F60C35C7F34F5B0F9D), compiling. 
+[2023.09.12-04.56.30:211][549]LogMaterial: Display: Missing cached shadermap for Preview:bulb_glass_mat in PCD3D_SM5, Default, SM5 (DDC key hash: 9192F576B451851AE00A068F14646ACE401A12F1), compiling. 
+[2023.09.12-04.56.30:213][549]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 6A445F912E1BE1B8231938C942A682662CBCB0EA), compiling. 
+[2023.09.12-04.56.30:224][549]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.12-04.56.30:224][549]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-04.56.30:224][549]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-04.56.30:224][549]MaterialEditorStats: Shader Count: 0
+[2023.09.12-04.56.30:224][549]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.12-04.56.30:224][549]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-04.56.30:224][549]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-04.56.30:224][549]MaterialEditorStats: Shader Count: 0
+[2023.09.12-04.56.30:224][549]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.12-04.56.30:224][549]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-04.56.30:224][549]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-04.56.30:224][549]MaterialEditorStats: Shader Count: 0
+[2023.09.12-04.56.30:224][549]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.12-04.56.30:224][549]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-04.56.30:224][549]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-04.56.30:224][549]MaterialEditorStats: Shader Count: 0
+[2023.09.12-04.56.30:224][549]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.12-04.56.30:224][549]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-04.56.30:224][549]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-04.56.30:224][549]MaterialEditorStats: Shader Count: 0
+[2023.09.12-04.56.30:224][549]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.12-04.56.30:224][549]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-04.56.30:224][549]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-04.56.30:224][549]MaterialEditorStats: Shader Count: 0
+[2023.09.12-04.56.30:224][549]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.12-04.56.30:224][549]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-04.56.30:224][549]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-04.56.30:224][549]MaterialEditorStats: Shader Count: 0
+[2023.09.12-04.56.30:224][549]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.12-04.56.30:224][549]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2023.09.12-04.56.30:224][549]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-04.56.30:224][549]MaterialEditorStats: Shader Count: 0
+[2023.09.12-04.56.30:224][549]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.12-04.56.30:224][549]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-04.56.30:224][549]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-04.56.30:224][549]MaterialEditorStats: Shader Count: 0
+[2023.09.12-04.56.30:293][551]MaterialEditorStats: Texture samplers: 5/16
+[2023.09.12-04.56.30:293][551]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-04.56.30:293][551]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-04.56.30:293][551]MaterialEditorStats: Shader Count: 4
+[2023.09.12-04.56.30:321][552]MaterialEditorStats: Texture samplers: 5/16
+[2023.09.12-04.56.30:321][552]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-04.56.30:321][552]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-04.56.30:321][552]MaterialEditorStats: Shader Count: 4
+[2023.09.12-04.56.30:321][552]MaterialEditorStats: Texture samplers: 5/16
+[2023.09.12-04.56.30:321][552]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-04.56.30:321][552]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-04.56.30:321][552]MaterialEditorStats: Shader Count: 4
+[2023.09.12-04.56.30:321][552]MaterialEditorStats: Texture samplers: 5/16
+[2023.09.12-04.56.30:321][552]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-04.56.30:321][552]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-04.56.30:321][552]MaterialEditorStats: Shader Count: 4
+[2023.09.12-04.56.30:321][552]MaterialEditorStats: Texture samplers: 5/16
+[2023.09.12-04.56.30:321][552]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-04.56.30:321][552]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-04.56.30:321][552]MaterialEditorStats: Shader Count: 4
+[2023.09.12-04.56.30:321][552]MaterialEditorStats: Texture samplers: 5/16
+[2023.09.12-04.56.30:321][552]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-04.56.30:321][552]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-04.56.30:321][552]MaterialEditorStats: Shader Count: 4
+[2023.09.12-04.56.30:321][552]MaterialEditorStats: Texture samplers: 5/16
+[2023.09.12-04.56.30:321][552]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-04.56.30:321][552]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-04.56.30:321][552]MaterialEditorStats: Shader Count: 4
+[2023.09.12-04.56.30:345][553]MaterialEditorStats: Texture samplers: 5/16
+[2023.09.12-04.56.30:345][553]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-04.56.30:345][553]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-04.56.30:345][553]MaterialEditorStats: Shader Count: 4
+[2023.09.12-04.56.30:345][553]MaterialEditorStats: Texture samplers: 6/16
+[2023.09.12-04.56.30:345][553]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2023.09.12-04.56.30:345][553]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-04.56.30:345][553]MaterialEditorStats: Shader Count: 4
+[2023.09.12-04.56.32:116][661]LogMaterialEditor: Saving and Compiling material bulb_glass_mat
+[2023.09.12-04.56.32:448][661]LogMaterial: Display: Missing cached shadermap for Preview:bulb_glass_mat in PCD3D_SM5, Default, SM5 (DDC key hash: F09ECB702615069ACC71BFAF455FB32F3B617042), compiling. 
+[2023.09.12-04.56.32:456][661]LogMaterial: Display: Missing cached shadermap for bulb_glass_mat in PCD3D_SM5, Default, SM5 (DDC key hash: 6365F13045A86C7AF620BC82C0612D6B7CEF21E8), compiling. 
+[2023.09.12-04.56.32:464][661]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2023.09.12-04.56.32:626][661]LogUObjectHash: Compacting FUObjectHashTables data took   0.14ms
+[2023.09.12-04.56.32:692][661]LogSavePackage: Moving output files for package: /Game/OurProject/Maps/bedroom_scene/assets/floor_lamp/bulb_glass_mat
+[2023.09.12-04.56.32:692][661]LogSavePackage: Moving '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Saved/bulb_glass_mat5E017E534298D7CB330B4CAF5052D665.tmp' to '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Content/OurProject/Maps/bedroom_scene/assets/floor_lamp/bulb_glass_mat.uasset'
+[2023.09.12-04.56.32:702][661]AssetCheck: New page: Asset Save: bulb_glass_mat
+[2023.09.12-04.56.32:702][661]LogContentValidation: Display: Validating Material /Game/OurProject/Maps/bedroom_scene/assets/floor_lamp/bulb_glass_mat.bulb_glass_mat
+[2023.09.12-04.56.32:703][661]MaterialEditorStats: Base pass shader: 134 instructions
+[2023.09.12-04.56.32:703][661]MaterialEditorStats: Base pass vertex shader: 112 instructions
+[2023.09.12-04.56.32:703][661]MaterialEditorStats: Texture samplers: 6/16
+[2023.09.12-04.56.32:703][661]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-04.56.32:703][661]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-04.56.32:703][661]MaterialEditorStats: Shader Count: 16
+[2023.09.12-04.56.35:203][843]LogMaterial: Display: Missing cached shadermap for Preview:bulb_glass_mat in PCD3D_SM5, Default, SM5 (DDC key hash: 02D68E204741D6A4F2E2AAB276FD5F0161F358BC), compiling. 
+[2023.09.12-04.56.35:205][843]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 84D44EB4A6F8F7543CE6719533CCF331A8FDC10C), compiling. 
+[2023.09.12-04.56.35:210][843]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.12-04.56.35:210][843]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-04.56.35:210][843]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-04.56.35:210][843]MaterialEditorStats: Shader Count: 0
+[2023.09.12-04.56.35:275][846]MaterialEditorStats: Texture samplers: 5/16
+[2023.09.12-04.56.35:275][846]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-04.56.35:275][846]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-04.56.35:275][846]MaterialEditorStats: Shader Count: 4
+[2023.09.12-04.56.36:511][929]LogMaterialEditor: Saving and Compiling material bulb_glass_mat
+[2023.09.12-04.56.36:848][929]LogMaterial: Display: Missing cached shadermap for Preview:bulb_glass_mat in PCD3D_SM5, Default, SM5 (DDC key hash: 9FC6E99EB67C535F7D8DBB0E7E49AAC1035B5573), compiling. 
+[2023.09.12-04.56.36:855][929]LogMaterial: Display: Missing cached shadermap for bulb_glass_mat in PCD3D_SM5, Default, SM5 (DDC key hash: 1690F110C9160EC4BF61DC95FE1F5D140AEA5AFF), compiling. 
+[2023.09.12-04.56.36:863][929]LogUObjectHash: Compacting FUObjectHashTables data took   0.16ms
+[2023.09.12-04.56.37:025][929]LogUObjectHash: Compacting FUObjectHashTables data took   0.16ms
+[2023.09.12-04.56.37:098][929]LogSavePackage: Moving output files for package: /Game/OurProject/Maps/bedroom_scene/assets/floor_lamp/bulb_glass_mat
+[2023.09.12-04.56.37:098][929]LogSavePackage: Moving '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Saved/bulb_glass_mat8CB0488B41CDCF04C7C621ACB36E0194.tmp' to '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Content/OurProject/Maps/bedroom_scene/assets/floor_lamp/bulb_glass_mat.uasset'
+[2023.09.12-04.56.37:106][929]AssetCheck: New page: Asset Save: bulb_glass_mat
+[2023.09.12-04.56.37:106][929]LogContentValidation: Display: Validating Material /Game/OurProject/Maps/bedroom_scene/assets/floor_lamp/bulb_glass_mat.bulb_glass_mat
+[2023.09.12-04.56.37:107][929]MaterialEditorStats: Base pass shader: 134 instructions
+[2023.09.12-04.56.37:107][929]MaterialEditorStats: Base pass vertex shader: 112 instructions
+[2023.09.12-04.56.37:107][929]MaterialEditorStats: Texture samplers: 6/16
+[2023.09.12-04.56.37:107][929]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-04.56.37:107][929]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-04.56.37:107][929]MaterialEditorStats: Shader Count: 16
+[2023.09.12-04.57.31:076][629]LogUObjectHash: Compacting FUObjectHashTables data took   0.14ms
+[2023.09.12-04.57.31:077][629]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/VR/ISCAMYHCW9F5BHKZHBN42B_Auto3
+[2023.09.12-04.57.31:078][629]LogSavePackage: Moving '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Saved/ISCAMYHCW9F5BHKZHBN42B_Auto3A612BA2747E34AF6FC60EB86A91502B3.tmp' to '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/VR/ISCAMYHCW9F5BHKZHBN42B_Auto3.uasset'
+[2023.09.12-04.57.31:078][629]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.009
+[2023.09.12-04.57.31:078][629]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.009
+[2023.09.12-04.57.31:078][629]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/OurProject/Maps/bedroom_scene/assets/floor_lamp/floorlamp] ([1] browsable assets)...
+[2023.09.12-04.57.31:116][629]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/OurProject/Maps/bedroom_scene/assets/floor_lamp/floorlamp.floorlamp]
+[2023.09.12-04.57.31:116][629]OBJ SavePackage: Finished generating thumbnails for package [/Game/OurProject/Maps/bedroom_scene/assets/floor_lamp/floorlamp]
+[2023.09.12-04.57.31:135][629]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/OurProject/Maps/bedroom_scene/assets/floor_lamp/floorlamp_Auto3
+[2023.09.12-04.57.31:135][629]LogSavePackage: Moving '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Saved/floorlamp_Auto364B05E8D444CF5D3779472A5D861787B.tmp' to '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Saved/Autosaves/Game/OurProject/Maps/bedroom_scene/assets/floor_lamp/floorlamp_Auto3.uasset'
+[2023.09.12-04.57.31:135][629]LogFileHelpers: Auto-saving content packages took 0.058
+[2023.09.12-04.57.54:482][370]LogMaterial: Display: Missing cached shadermap for Preview:bulb_glass_mat in PCD3D_SM5, Default, SM5 (DDC key hash: 28406458725158CEEB04D30A5A7855C82BA00079), compiling. 
+[2023.09.12-04.57.56:259][548]LogMaterial: Display: Missing cached shadermap for Preview:bulb_glass_mat in PCD3D_SM5, Default, SM5 (DDC key hash: E9B5D9370027DD060563DAB455C94F0EF29BFF44), compiling. 
+[2023.09.12-04.57.56:264][548]LogMaterial: Display: Missing cached shadermap for Preview:bulb_glass_mat in PCD3D_SM5, Default, SM5 (DDC key hash: E1C1D0B035F171C48A976F6B07D372B1917B07D8), compiling. 
+[2023.09.12-04.57.56:267][548]LogMaterial: Display: Missing cached shadermap for Preview:bulb_glass_mat in PCD3D_SM5, Default, SM5 (DDC key hash: DC18C1DC6FBFC2AB8438D9166083888B5B15CDEC), compiling. 
+[2023.09.12-04.57.56:274][548]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.12-04.57.56:274][548]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-04.57.56:274][548]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-04.57.56:274][548]MaterialEditorStats: Shader Count: 0
+[2023.09.12-04.57.57:233][599]MaterialEditorStats: Texture samplers: 5/16
+[2023.09.12-04.57.57:233][599]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-04.57.57:233][599]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-04.57.57:233][599]MaterialEditorStats: Shader Count: 1
+[2023.09.12-04.58.01:492][879]LogMaterialEditor: Saving and Compiling material bulb_glass_mat
+[2023.09.12-04.58.01:833][879]LogMaterial: Display: Missing cached shadermap for Preview:bulb_glass_mat in PCD3D_SM5, Default, SM5 (DDC key hash: F7F16A67B3D0DAFC9C28C1115D2D04B95EA3952E), compiling. 
+[2023.09.12-04.58.01:842][879]LogMaterial: Display: Missing cached shadermap for bulb_glass_mat in PCD3D_SM5, Default, SM5 (DDC key hash: 391456C4CFAB8FA7C6AFD925254CD7E7CC9896C7), compiling. 
+[2023.09.12-04.58.01:850][879]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2023.09.12-04.58.02:657][879]LogUObjectHash: Compacting FUObjectHashTables data took   0.14ms
+[2023.09.12-04.58.04:744][879]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2023.09.12-04.58.06:265][879]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.001171s (1.525438s overbudget)
+[2023.09.12-04.58.06:305][879]LogSavePackage: Moving output files for package: /Game/OurProject/Maps/bedroom_scene/assets/floor_lamp/bulb_glass_mat
+[2023.09.12-04.58.06:307][879]LogSavePackage: Moving '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Saved/bulb_glass_mat35B087784D5ADFA24F7C5883D17F86C3.tmp' to '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Content/OurProject/Maps/bedroom_scene/assets/floor_lamp/bulb_glass_mat.uasset'
+[2023.09.12-04.58.06:317][879]AssetCheck: New page: Asset Save: bulb_glass_mat
+[2023.09.12-04.58.06:317][879]LogContentValidation: Display: Validating Material /Game/OurProject/Maps/bedroom_scene/assets/floor_lamp/bulb_glass_mat.bulb_glass_mat
+[2023.09.12-04.58.06:317][879]MaterialEditorStats: Base pass shader: 125 instructions
+[2023.09.12-04.58.06:317][879]MaterialEditorStats: Base pass vertex shader: 277 instructions
+[2023.09.12-04.58.06:317][879]MaterialEditorStats: Texture samplers: 5/16
+[2023.09.12-04.58.06:317][879]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-04.58.06:317][879]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-04.58.06:317][879]MaterialEditorStats: Shader Count: 26
+[2023.09.12-04.58.12:351][316]LogMaterial: Display: Missing cached shadermap for Preview:bulb_glass_mat in PCD3D_SM5, Default, SM5 (DDC key hash: 8E759332C1DE0CED25FD6AA2ACE057268207E21C), compiling. 
+[2023.09.12-04.58.12:353][316]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 4AB7DA41A65CC24AC610051FAFA6572D14730ED5), compiling. 
+[2023.09.12-04.58.12:357][316]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.12-04.58.12:357][316]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-04.58.12:357][316]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-04.58.12:357][316]MaterialEditorStats: Shader Count: 0
+[2023.09.12-04.58.13:222][359]MaterialEditorStats: Texture samplers: 5/16
+[2023.09.12-04.58.13:222][359]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-04.58.13:222][359]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-04.58.13:222][359]MaterialEditorStats: Shader Count: 1
+[2023.09.12-04.58.13:962][405]LogMaterialEditor: Saving and Compiling material bulb_glass_mat
+[2023.09.12-04.58.14:311][405]LogMaterial: Display: Missing cached shadermap for Preview:bulb_glass_mat in PCD3D_SM5, Default, SM5 (DDC key hash: EB890D4477440E535D50C7740EC9EA0C9CB4A184), compiling. 
+[2023.09.12-04.58.14:319][405]LogMaterial: Display: Missing cached shadermap for bulb_glass_mat in PCD3D_SM5, Default, SM5 (DDC key hash: 0E8629AB0697EF4D68E5A0A339F213CCC47FAF7E), compiling. 
+[2023.09.12-04.58.14:327][405]LogUObjectHash: Compacting FUObjectHashTables data took   0.14ms
+[2023.09.12-04.58.15:129][405]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2023.09.12-04.58.17:411][405]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2023.09.12-04.58.18:551][405]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.003178s (1.347310s overbudget)
+[2023.09.12-04.58.18:593][405]LogSavePackage: Moving output files for package: /Game/OurProject/Maps/bedroom_scene/assets/floor_lamp/bulb_glass_mat
+[2023.09.12-04.58.18:593][405]LogSavePackage: Moving '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Saved/bulb_glass_matD8A3338E43C6808D0C429385ED0E716E.tmp' to '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Content/OurProject/Maps/bedroom_scene/assets/floor_lamp/bulb_glass_mat.uasset'
+[2023.09.12-04.58.18:602][405]AssetCheck: New page: Asset Save: bulb_glass_mat
+[2023.09.12-04.58.18:602][405]LogContentValidation: Display: Validating Material /Game/OurProject/Maps/bedroom_scene/assets/floor_lamp/bulb_glass_mat.bulb_glass_mat
+[2023.09.12-04.58.18:603][405]MaterialEditorStats: Base pass shader: 125 instructions
+[2023.09.12-04.58.18:603][405]MaterialEditorStats: Base pass vertex shader: 277 instructions
+[2023.09.12-04.58.18:603][405]MaterialEditorStats: Texture samplers: 5/16
+[2023.09.12-04.58.18:603][405]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-04.58.18:603][405]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-04.58.18:603][405]MaterialEditorStats: Shader Count: 26
+[2023.09.12-04.58.26:834][987]Cmd: TRANSACTION UNDO
+[2023.09.12-04.58.26:834][987]LogEditorTransaction: Undo Replace component used material
+[2023.09.12-04.58.26:850][987]LogMaterial: Display: Missing cached shadermap for Preview:material in PCD3D_SM5, Default, SM5 (DDC key hash: 4773C365E7616E534224AA10EF154329781B0A6B), compiling. 
+[2023.09.12-04.58.26:853][987]LogMaterial: Display: Missing cached shadermap for Preview:coffee_table_drawer in PCD3D_SM5, Default, SM5 (DDC key hash: 162844A052A6DFD90DC9B31EA7014DD7CFBD3F3B), compiling. 
+[2023.09.12-04.58.26:855][987]LogMaterial: Display: Missing cached shadermap for Preview:daybed_mat in PCD3D_SM5, Default, SM5 (DDC key hash: F511A74887D49B3213C1694B42DEA1FC6C37B809), compiling. 
+[2023.09.12-04.58.26:859][987]LogMaterial: Display: Missing cached shadermap for Preview:throwrug_mat in PCD3D_SM5, Default, SM5 (DDC key hash: AD809F76B2E1F207EB0C2D002901D6A4DAE18EC2), compiling. 
+[2023.09.12-04.58.26:862][987]LogMaterial: Display: Missing cached shadermap for Preview:NewMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: B1DF3D480FC98C5852D8A95C4624BEA878719613), compiling. 
+[2023.09.12-04.58.26:866][987]LogMaterial: Display: Missing cached shadermap for Preview:coffee_table_top_mat in PCD3D_SM5, Default, SM5 (DDC key hash: E8C1AA53D8230DB8318578FF59C88317C3C24269), compiling. 
+[2023.09.12-04.58.26:867][987]LogMaterial: Display: Missing cached shadermap for Preview:bulb_base_mat in PCD3D_SM5, Default, SM5 (DDC key hash: 0F288DBF110D6EA9E24C732F2DD6849EAF6CF7F5), compiling. 
+[2023.09.12-04.58.26:871][987]LogMaterial: Display: Missing cached shadermap for Preview:bulb_filament_mat in PCD3D_SM5, Default, SM5 (DDC key hash: EED198E5D948733BA09C14E93F8F2D20E41AA5E0), compiling. 
+[2023.09.12-04.58.26:878][987]LogMaterial: Display: Missing cached shadermap for Preview:bulb_glass_mat in PCD3D_SM5, Default, SM5 (DDC key hash: E2D6DA46B941E25AEE6EA53DFA761671C07CC26C), compiling. 
+[2023.09.12-04.58.26:892][987]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.12-04.58.26:892][987]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-04.58.26:892][987]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-04.58.26:892][987]MaterialEditorStats: Shader Count: 0
+[2023.09.12-04.58.26:892][987]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.12-04.58.26:892][987]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-04.58.26:892][987]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-04.58.26:892][987]MaterialEditorStats: Shader Count: 0
+[2023.09.12-04.58.26:892][987]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.12-04.58.26:892][987]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-04.58.26:892][987]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-04.58.26:892][987]MaterialEditorStats: Shader Count: 0
+[2023.09.12-04.58.26:892][987]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.12-04.58.26:892][987]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-04.58.26:892][987]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-04.58.26:892][987]MaterialEditorStats: Shader Count: 0
+[2023.09.12-04.58.26:892][987]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.12-04.58.26:892][987]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-04.58.26:892][987]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-04.58.26:892][987]MaterialEditorStats: Shader Count: 0
+[2023.09.12-04.58.26:892][987]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.12-04.58.26:892][987]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-04.58.26:892][987]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-04.58.26:892][987]MaterialEditorStats: Shader Count: 0
+[2023.09.12-04.58.26:892][987]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.12-04.58.26:892][987]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-04.58.26:892][987]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-04.58.26:892][987]MaterialEditorStats: Shader Count: 0
+[2023.09.12-04.58.26:892][987]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.12-04.58.26:892][987]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2023.09.12-04.58.26:892][987]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-04.58.26:892][987]MaterialEditorStats: Shader Count: 0
+[2023.09.12-04.58.26:892][987]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.12-04.58.26:892][987]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-04.58.26:892][987]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-04.58.26:892][987]MaterialEditorStats: Shader Count: 0
+[2023.09.12-04.58.26:962][989]MaterialEditorStats: Texture samplers: 5/16
+[2023.09.12-04.58.26:962][989]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-04.58.26:962][989]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-04.58.26:962][989]MaterialEditorStats: Shader Count: 2
+[2023.09.12-04.58.26:990][990]MaterialEditorStats: Texture samplers: 5/16
+[2023.09.12-04.58.26:990][990]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-04.58.26:990][990]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-04.58.26:990][990]MaterialEditorStats: Shader Count: 4
+[2023.09.12-04.58.26:990][990]MaterialEditorStats: Texture samplers: 5/16
+[2023.09.12-04.58.26:990][990]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-04.58.26:990][990]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-04.58.26:990][990]MaterialEditorStats: Shader Count: 4
+[2023.09.12-04.58.26:990][990]MaterialEditorStats: Texture samplers: 5/16
+[2023.09.12-04.58.26:990][990]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-04.58.26:990][990]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-04.58.26:990][990]MaterialEditorStats: Shader Count: 4
+[2023.09.12-04.58.26:990][990]MaterialEditorStats: Texture samplers: 5/16
+[2023.09.12-04.58.26:990][990]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-04.58.26:990][990]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-04.58.26:990][990]MaterialEditorStats: Shader Count: 4
+[2023.09.12-04.58.26:990][990]MaterialEditorStats: Texture samplers: 5/16
+[2023.09.12-04.58.26:990][990]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-04.58.26:990][990]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-04.58.26:990][990]MaterialEditorStats: Shader Count: 4
+[2023.09.12-04.58.26:990][990]MaterialEditorStats: Texture samplers: 5/16
+[2023.09.12-04.58.26:990][990]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-04.58.26:990][990]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-04.58.26:990][990]MaterialEditorStats: Shader Count: 4
+[2023.09.12-04.58.26:990][990]MaterialEditorStats: Texture samplers: 5/16
+[2023.09.12-04.58.26:990][990]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-04.58.26:990][990]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-04.58.26:990][990]MaterialEditorStats: Shader Count: 2
+[2023.09.12-04.58.27:014][991]MaterialEditorStats: Texture samplers: 6/16
+[2023.09.12-04.58.27:014][991]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2023.09.12-04.58.27:014][991]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-04.58.27:014][991]MaterialEditorStats: Shader Count: 4
+[2023.09.12-04.58.39:753][865]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2023.09.12-04.58.39:761][865]LogContentBrowser: Creating deferred item: NewMaterial
+[2023.09.12-04.58.39:775][866]LogContentBrowser: Renaming the item being created (Deferred Item: NewMaterial).
+[2023.09.12-04.58.46:308][343]LogContentBrowser: Attempting asset rename: NewMaterial -> floorlamp_base
+[2023.09.12-04.58.46:308][343]LogContentBrowser: End creating deferred item NewMaterial
+[2023.09.12-04.58.49:739][586]LogContentBrowser: Attempting asset rename: floorlamp_base -> floorlamp_base
+[2023.09.12-04.58.50:585][639]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.09.12-04.58.50:585][639]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.09.12-04.58.53:474][849]LogContentBrowser: Attempting asset rename: floorlamp_base -> floorlamp_base_mat
+[2023.09.12-04.58.53:520][849]LogSavePackage: Moving output files for package: /Game/OurProject/Maps/bedroom_scene/assets/floor_lamp/floorlamp_base_mat
+[2023.09.12-04.58.53:520][849]LogSavePackage: Moving '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Saved/floorlamp_base_mat4C81ECCA44369D0C133BA092DF356631.tmp' to '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Content/OurProject/Maps/bedroom_scene/assets/floor_lamp/floorlamp_base_mat.uasset'
+[2023.09.12-04.58.53:535][849]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2023.09.12-04.58.53:542][849]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2023.09.12-04.58.53:547][849]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2023.09.12-04.58.53:549][849]AssetCheck: New page: Asset Save: floorlamp_base_mat
+[2023.09.12-04.58.53:549][849]LogContentValidation: Display: Validating Material /Game/OurProject/Maps/bedroom_scene/assets/floor_lamp/floorlamp_base_mat.floorlamp_base_mat
+[2023.09.12-04.58.56:124][ 49]LogMaterial: Display: Missing cached shadermap for Preview:bulb_glass_mat in PCD3D_SM5, Default, SM5 (DDC key hash: A6C9D399BA6F5CEB787EBB704C7AE570AD3B00A0), compiling. 
+[2023.09.12-04.58.56:126][ 49]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 6217FBDBD783AC15FC01F87AF7B4C4A275C6708B), compiling. 
+[2023.09.12-04.58.56:130][ 49]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.12-04.58.56:130][ 49]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-04.58.56:130][ 49]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-04.58.56:130][ 49]MaterialEditorStats: Shader Count: 0
+[2023.09.12-04.58.56:172][ 51]LogShaderCompilers: Display: ================================================
+[2023.09.12-04.58.56:172][ 51]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.09.12-04.58.56:172][ 51]LogShaderCompilers: Display: Total job queries 1420, among them cache hits 848 (59.72%)
+[2023.09.12-04.58.56:172][ 51]LogShaderCompilers: Display: Tracking 462 distinct input hashes that result in 134 distinct outputs (29.00%)
+[2023.09.12-04.58.56:172][ 51]LogShaderCompilers: Display: RAM used: 0.37 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.02%
+[2023.09.12-04.58.56:172][ 51]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.09.12-04.58.56:172][ 51]LogShaderCompilers: Display: Shaders Compiled: 138
+[2023.09.12-04.58.56:172][ 51]LogShaderCompilers: Display: Jobs assigned 462, completed 462 (100.00%)
+[2023.09.12-04.58.56:172][ 51]LogShaderCompilers: Display: Average time worker was idle: 24.81 s
+[2023.09.12-04.58.56:172][ 51]LogShaderCompilers: Display: Time job spent in pending queue: average 0.23 s, longest 2.61 s
+[2023.09.12-04.58.56:172][ 51]LogShaderCompilers: Display: Job execution time: average 0.92 s, max 1.70 s
+[2023.09.12-04.58.56:172][ 51]LogShaderCompilers: Display: Job life time (pending + execution): average 1.14 s, max 3.52
+[2023.09.12-04.58.56:172][ 51]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 104.88 s
+[2023.09.12-04.58.56:172][ 51]LogShaderCompilers: Display: Jobs were issued in 462 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.09.12-04.58.56:172][ 51]LogShaderCompilers: Display: Average processing rate: 4.41 jobs/sec
+[2023.09.12-04.58.56:172][ 51]LogShaderCompilers: Display: Effective parallelization: 3.53 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.09.12-04.58.56:172][ 51]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.09.12-04.58.56:172][ 51]LogShaderCompilers: Display:             TBasePassVSFSelfShadowedVolumetricLightmapPolicy (compiled    2 times, average 1.42 sec, max 1.43 sec, min 1.41 sec)
+[2023.09.12-04.58.56:172][ 51]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled   15 times, average 1.25 sec, max 1.36 sec, min 1.05 sec)
+[2023.09.12-04.58.56:172][ 51]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled   13 times, average 1.21 sec, max 1.33 sec, min 0.85 sec)
+[2023.09.12-04.58.56:172][ 51]LogShaderCompilers: Display:     TBasePassPSFSelfShadowedVolumetricLightmapPolicySkylight (compiled    2 times, average 1.21 sec, max 1.23 sec, min 1.20 sec)
+[2023.09.12-04.58.56:172][ 51]LogShaderCompilers: Display:                TBasePassVSFCachedPointIndirectLightingPolicy (compiled   15 times, average 1.21 sec, max 1.36 sec, min 1.14 sec)
+[2023.09.12-04.58.56:172][ 51]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.09.12-04.58.56:172][ 51]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 15.16% of total time (compiled   69 times, average 0.81 sec, max 1.23 sec, min 0.62 sec)
+[2023.09.12-04.58.56:172][ 51]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 14.12% of total time (compiled   69 times, average 0.76 sec, max 1.09 sec, min 0.50 sec)
+[2023.09.12-04.58.56:172][ 51]LogShaderCompilers: Display:                                                 FLumenCardVS - 13.29% of total time (compiled   62 times, average 0.79 sec, max 1.18 sec, min 0.72 sec)
+[2023.09.12-04.58.56:172][ 51]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 5.36% of total time (compiled   62 times, average 0.32 sec, max 0.41 sec, min 0.25 sec)
+[2023.09.12-04.58.56:172][ 51]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 5.06% of total time (compiled   15 times, average 1.25 sec, max 1.36 sec, min 1.05 sec)
+[2023.09.12-04.58.56:172][ 51]LogShaderCompilers: Display: ================================================
+[2023.09.12-04.58.57:060][ 95]MaterialEditorStats: Texture samplers: 5/16
+[2023.09.12-04.58.57:060][ 95]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-04.58.57:060][ 95]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-04.58.57:060][ 95]MaterialEditorStats: Shader Count: 1
+[2023.09.12-04.58.58:123][166]LogMaterialEditor: Saving and Compiling material bulb_glass_mat
+[2023.09.12-04.58.58:465][166]LogMaterial: Display: Missing cached shadermap for Preview:bulb_glass_mat in PCD3D_SM5, Default, SM5 (DDC key hash: EC05370CABF825E08EA586814A40958FE8D674D4), compiling. 
+[2023.09.12-04.58.58:475][166]LogMaterial: Display: Missing cached shadermap for bulb_glass_mat in PCD3D_SM5, Default, SM5 (DDC key hash: 3E89FDE850F81999B7029727E408CFA7D0EDC934), compiling. 
+[2023.09.12-04.58.58:483][166]LogUObjectHash: Compacting FUObjectHashTables data took   0.14ms
+[2023.09.12-04.58.59:237][166]LogUObjectHash: Compacting FUObjectHashTables data took   0.15ms
+[2023.09.12-04.59.01:515][166]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2023.09.12-04.59.02:941][166]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.002204s (1.625633s overbudget)
+[2023.09.12-04.59.02:981][166]LogSavePackage: Moving output files for package: /Game/OurProject/Maps/bedroom_scene/assets/floor_lamp/bulb_glass_mat
+[2023.09.12-04.59.02:982][166]LogSavePackage: Moving '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Saved/bulb_glass_mat76B4CD0D458498B7B302008827089B57.tmp' to '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Content/OurProject/Maps/bedroom_scene/assets/floor_lamp/bulb_glass_mat.uasset'
+[2023.09.12-04.59.02:992][166]AssetCheck: New page: Asset Save: bulb_glass_mat
+[2023.09.12-04.59.02:992][166]LogContentValidation: Display: Validating Material /Game/OurProject/Maps/bedroom_scene/assets/floor_lamp/bulb_glass_mat.bulb_glass_mat
+[2023.09.12-04.59.02:993][166]MaterialEditorStats: Base pass shader: 125 instructions
+[2023.09.12-04.59.02:994][166]MaterialEditorStats: Base pass vertex shader: 277 instructions
+[2023.09.12-04.59.02:994][166]MaterialEditorStats: Texture samplers: 5/16
+[2023.09.12-04.59.02:994][166]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-04.59.02:994][166]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-04.59.02:994][166]MaterialEditorStats: Shader Count: 26
+[2023.09.12-04.59.11:907][544]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:\2130GFS Serious Games\props\bedroom\props\floorlamp\floorlamp_lamp_BaseColor.png)
+[2023.09.12-04.59.11:954][544]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:\2130GFS Serious Games\props\bedroom\props\floorlamp\floorlamp_lamp_Normal.png)
+[2023.09.12-04.59.12:024][544]LogTexture: Display: Building textures: /Game/OurProject/Maps/bedroom_scene/assets/floor_lamp/floorlamp_lamp_BaseColor.floorlamp_lamp_BaseColor (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.09.12-04.59.12:033][544]LogTexture: Display: Building textures: /Game/OurProject/Maps/bedroom_scene/assets/floor_lamp/floorlamp_lamp_Normal.floorlamp_lamp_Normal (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.09.12-04.59.12:033][544]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:\2130GFS Serious Games\props\bedroom\props\floorlamp\floorlamp_lamp_OcclusionRoughnessMetallic.png)
+[2023.09.12-04.59.12:115][544]LogTexture: Display: Building textures: /Game/OurProject/Maps/bedroom_scene/assets/floor_lamp/floorlamp_lamp_OcclusionRoughnessMetallic.floorlamp_lamp_OcclusionRoughnessMetallic (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.09.12-04.59.15:133][628]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/OurProject/Maps/bedroom_scene/assets/floor_lamp/floorlamp_base_mat.floorlamp_base_mat
+[2023.09.12-04.59.15:134][628]LogMaterial: Display: Missing cached shadermap for Preview:floorlamp_base_mat in PCD3D_SM5, Default, SM5 (DDC key hash: 85A78984BB8C9D872C06345AA2F928B4901947ED), compiling. 
+[2023.09.12-04.59.15:148][628]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.12-04.59.15:191][628]LogSlate: The tab "MaterialEditor_Strata" attempted to spawn in layout 'Standalone_MaterialEditor_Layout_v13' but failed for some reason. An "unrecognized tab" will be returned instead.
+[2023.09.12-04.59.15:196][628]LogMaterial: Display: Missing cached shadermap for Preview:floorlamp_base_mat in PCD3D_SM5, Default, SM5 (DDC key hash: 4DB2D6F30A4ED807A428905BF938A5B68D3F8BDD), compiling. 
+[2023.09.12-04.59.15:198][628]LogMaterial: Display: Missing cached shadermap for Preview:floorlamp_base_mat in PCD3D_SM5, Default, SM5 (DDC key hash: 00B3013EE278DDCB165C6FDC1BBE67C31C231FFB), compiling. 
+[2023.09.12-04.59.15:222][628]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.12-04.59.15:222][628]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.09.12-04.59.15:222][628]MaterialEditorStats: Shader Count: 0
+[2023.09.12-04.59.15:231][628]LogViewport: Scene viewport resized to 376x445, mode Windowed.
+[2023.09.12-04.59.16:125][663]MaterialEditorStats: Texture samplers: 2/16
+[2023.09.12-04.59.16:125][663]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.09.12-04.59.16:125][663]MaterialEditorStats: Shader Count: 3
+[2023.09.12-04.59.16:872][722]LogMaterial: Display: Missing cached shadermap for Preview:floorlamp_base_mat in PCD3D_SM5, Default, SM5 (DDC key hash: CF42D4A2FC2720C1A28DC9940A000E9402E093C9), compiling. 
+[2023.09.12-04.59.16:874][722]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 99CBE8564AACFE15FEBA72C34544E6CDC8349BF6), compiling. 
+[2023.09.12-04.59.16:875][722]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: C381078A87E57B6F0861D3802A9684E4CA24A27D), compiling. 
+[2023.09.12-04.59.16:882][722]LogMaterial: Display: Missing cached shadermap for Preview:floorlamp_base_mat in PCD3D_SM5, Default, SM5 (DDC key hash: CC690C1765C6AFD7B7AAA0820B30BC1C7D852730), compiling. 
+[2023.09.12-04.59.16:884][722]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: E78D1D91A4CAF1A6B09304E235DBF587538BEA4C), compiling. 
+[2023.09.12-04.59.16:885][722]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: F4E671D6651D35C9460B16684BFEB8F9D1C510AF), compiling. 
+[2023.09.12-04.59.16:886][722]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 2A7A7EF0C9D574FA7DB6386C6D4C323DF9C643E0), compiling. 
+[2023.09.12-04.59.16:894][722]LogMaterial: Display: Missing cached shadermap for Preview:floorlamp_base_mat in PCD3D_SM5, Default, SM5 (DDC key hash: FDE13615BF9571491AF53A36971B1DEB4FA53729), compiling. 
+[2023.09.12-04.59.16:896][722]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: FFBD782A2CD86462EE46F663E7259A1B4214CF9B), compiling. 
+[2023.09.12-04.59.16:897][722]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 58B717D7BEE99B3B60733D7ACD9D95865D2EB435), compiling. 
+[2023.09.12-04.59.16:898][722]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 884FBC64DE3B417A0BD75A18B67DAD709FA31A91), compiling. 
+[2023.09.12-04.59.16:899][722]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 8021E441351D3180EFCFC23C21E3EAC0098612EC), compiling. 
+[2023.09.12-04.59.16:904][722]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.12-04.59.16:904][722]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.09.12-04.59.16:904][722]MaterialEditorStats: Shader Count: 0
+[2023.09.12-04.59.16:979][725]MaterialEditorStats: Texture samplers: 2/16
+[2023.09.12-04.59.16:979][725]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.09.12-04.59.16:979][725]MaterialEditorStats: Shader Count: 4
+[2023.09.12-04.59.18:951][865]LogSavePackage: Moving output files for package: /Game/OurProject/Maps/bedroom_scene/assets/floor_lamp/resources/floorlamp_lamp_BaseColor
+[2023.09.12-04.59.18:951][865]LogSavePackage: Moving '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Saved/floorlamp_lamp_BaseColor0F3566404F52DE9A0C9ABDAF4EB4A50E.tmp' to '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Content/OurProject/Maps/bedroom_scene/assets/floor_lamp/resources/floorlamp_lamp_BaseColor.uasset'
+[2023.09.12-04.59.19:043][865]LogSavePackage: Moving output files for package: /Game/OurProject/Maps/bedroom_scene/assets/floor_lamp/resources/floorlamp_lamp_Normal
+[2023.09.12-04.59.19:043][865]LogSavePackage: Moving '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Saved/floorlamp_lamp_Normal653274E14FE130D83C9B68B145456B2D.tmp' to '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Content/OurProject/Maps/bedroom_scene/assets/floor_lamp/resources/floorlamp_lamp_Normal.uasset'
+[2023.09.12-04.59.19:209][865]LogSavePackage: Moving output files for package: /Game/OurProject/Maps/bedroom_scene/assets/floor_lamp/resources/floorlamp_lamp_OcclusionRoughnessMetallic
+[2023.09.12-04.59.19:209][865]LogSavePackage: Moving '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Saved/floorlamp_lamp_OcclusionRoughnesBBE1168844EF9FDF05B2759CE1D41C61.tmp' to '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Content/OurProject/Maps/bedroom_scene/assets/floor_lamp/resources/floorlamp_lamp_OcclusionRoughnessMetallic.uasset'
+[2023.09.12-04.59.19:236][865]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2023.09.12-04.59.19:242][865]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2023.09.12-04.59.19:249][865]LogUObjectHash: Compacting FUObjectHashTables data took   0.16ms
+[2023.09.12-04.59.19:260][865]AssetCheck: New page: Asset Save: multiple assets
+[2023.09.12-04.59.19:260][865]LogContentValidation: Display: Validating Texture2D /Game/OurProject/Maps/bedroom_scene/assets/floor_lamp/resources/floorlamp_lamp_OcclusionRoughnessMetallic.floorlamp_lamp_OcclusionRoughnessMetallic
+[2023.09.12-04.59.19:260][865]LogContentValidation: Display: Validating Texture2D /Game/OurProject/Maps/bedroom_scene/assets/floor_lamp/resources/floorlamp_lamp_Normal.floorlamp_lamp_Normal
+[2023.09.12-04.59.19:260][865]LogContentValidation: Display: Validating Texture2D /Game/OurProject/Maps/bedroom_scene/assets/floor_lamp/resources/floorlamp_lamp_BaseColor.floorlamp_lamp_BaseColor
+[2023.09.12-04.59.22:388][100]LogMaterial: Display: Missing cached shadermap for Preview:floorlamp_base_mat in PCD3D_SM5, Default, SM5 (DDC key hash: D11F67E19F306C1A76235EC6331DD2D5DE68F31F), compiling. 
+[2023.09.12-04.59.22:390][100]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: C24BF924E0ABFF9241090B66648AD601A6E48E31), compiling. 
+[2023.09.12-04.59.22:395][100]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.12-04.59.22:395][100]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.09.12-04.59.22:395][100]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-04.59.22:395][100]MaterialEditorStats: Shader Count: 0
+[2023.09.12-04.59.22:870][116]MaterialEditorStats: Texture samplers: 1/16
+[2023.09.12-04.59.22:871][116]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.09.12-04.59.22:871][116]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-04.59.22:871][116]MaterialEditorStats: Shader Count: 1
+[2023.09.12-04.59.23:266][136]MaterialEditorStats: Texture samplers: 3/16
+[2023.09.12-04.59.23:266][136]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.09.12-04.59.23:266][136]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-04.59.23:266][136]MaterialEditorStats: Shader Count: 4
+[2023.09.12-04.59.25:095][275]LogMaterial: Display: Missing cached shadermap for Preview:floorlamp_base_mat in PCD3D_SM5, Default, SM5 (DDC key hash: 74D8BA59853BC213BC26F5A71B408A74B2FC30E0), compiling. 
+[2023.09.12-04.59.25:097][275]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 4B85A5A23ADA17182848B403C4D384698B23CB55), compiling. 
+[2023.09.12-04.59.25:099][275]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.12-04.59.25:100][275]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2023.09.12-04.59.25:100][275]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-04.59.25:100][275]MaterialEditorStats: Shader Count: 0
+[2023.09.12-04.59.25:724][300]MaterialEditorStats: Texture samplers: 2/16
+[2023.09.12-04.59.25:724][300]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2023.09.12-04.59.25:724][300]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-04.59.25:724][300]MaterialEditorStats: Shader Count: 1
+[2023.09.12-04.59.25:980][311]MaterialEditorStats: Texture samplers: 4/16
+[2023.09.12-04.59.25:980][311]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2023.09.12-04.59.25:980][311]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-04.59.25:980][311]MaterialEditorStats: Shader Count: 3
+[2023.09.12-04.59.35:733][132]LogMaterial: Display: Missing cached shadermap for Preview:floorlamp_base_mat in PCD3D_SM5, Default, SM5 (DDC key hash: 2B516A70F03A2715FC3DF488D4CB2C6F29CBD4A0), compiling. 
+[2023.09.12-04.59.35:734][132]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 9622E3C45516DBC9DD36A3666A5C8912EB04B069), compiling. 
+[2023.09.12-04.59.35:738][132]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.12-04.59.35:738][132]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-04.59.35:738][132]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-04.59.35:738][132]MaterialEditorStats: Shader Count: 0
+[2023.09.12-04.59.36:267][151]MaterialEditorStats: Texture samplers: 2/16
+[2023.09.12-04.59.36:267][151]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-04.59.36:267][151]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-04.59.36:267][151]MaterialEditorStats: Shader Count: 1
+[2023.09.12-04.59.36:668][168]MaterialEditorStats: Texture samplers: 4/16
+[2023.09.12-04.59.36:668][168]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-04.59.36:668][168]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-04.59.36:668][168]MaterialEditorStats: Shader Count: 3
+[2023.09.12-04.59.37:704][256]LogMaterial: Display: Missing cached shadermap for Preview:floorlamp_base_mat in PCD3D_SM5, Default, SM5 (DDC key hash: DE22E27065FCC30F91B9205907E84E7B3F80328E), compiling. 
+[2023.09.12-04.59.37:706][256]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 1DFD3B989038463941DD36537AE2BAB997D5456B), compiling. 
+[2023.09.12-04.59.37:709][256]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.12-04.59.37:709][256]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-04.59.37:709][256]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-04.59.37:709][256]MaterialEditorStats: Shader Count: 0
+[2023.09.12-04.59.38:183][271]MaterialEditorStats: Texture samplers: 2/16
+[2023.09.12-04.59.38:183][271]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-04.59.38:183][271]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-04.59.38:183][271]MaterialEditorStats: Shader Count: 1
+[2023.09.12-04.59.39:034][332]LogMaterial: Display: Missing cached shadermap for Preview:floorlamp_base_mat in PCD3D_SM5, Default, SM5 (DDC key hash: 5D246B6A65419F4E17944F0FABCE34DD0AD81D79), compiling. 
+[2023.09.12-04.59.39:035][332]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: C2AAAEF0B5F9326093147C962B98E98ADDAA4F3D), compiling. 
+[2023.09.12-04.59.39:040][332]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.12-04.59.39:040][332]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-04.59.39:040][332]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-04.59.39:040][332]MaterialEditorStats: Shader Count: 0
+[2023.09.12-04.59.39:567][350]MaterialEditorStats: Texture samplers: 3/16
+[2023.09.12-04.59.39:569][350]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-04.59.39:569][350]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-04.59.39:569][350]MaterialEditorStats: Shader Count: 1
+[2023.09.12-04.59.39:950][365]MaterialEditorStats: Texture samplers: 5/16
+[2023.09.12-04.59.39:950][365]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-04.59.39:950][365]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-04.59.39:950][365]MaterialEditorStats: Shader Count: 2
+[2023.09.12-04.59.40:467][398]LogMaterialEditor: Saving and Compiling material floorlamp_base_mat
+[2023.09.12-04.59.40:808][398]LogMaterial: Display: Missing cached shadermap for Preview:floorlamp_base_mat in PCD3D_SM5, Default, SM5 (DDC key hash: 18C08B9095BFFE644DFD3C225CFF23FCED9A0A79), compiling. 
+[2023.09.12-04.59.40:816][398]LogMaterial: Display: Missing cached shadermap for floorlamp_base_mat in PCD3D_SM5, Default, SM5 (DDC key hash: 50F6C77E3C803FF861C7B262873707C19DAB4BF8), compiling. 
+[2023.09.12-04.59.40:824][398]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2023.09.12-04.59.41:592][398]LogUObjectHash: Compacting FUObjectHashTables data took   0.14ms
+[2023.09.12-04.59.43:641][398]LogSavePackage: Moving output files for package: /Game/OurProject/Maps/bedroom_scene/assets/floor_lamp/floorlamp_base_mat
+[2023.09.12-04.59.43:641][398]LogSavePackage: Moving '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Saved/floorlamp_base_mat0D64C60C43DC60BF796EF2A6D19F619A.tmp' to '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Content/OurProject/Maps/bedroom_scene/assets/floor_lamp/floorlamp_base_mat.uasset'
+[2023.09.12-04.59.43:650][398]AssetCheck: New page: Asset Save: floorlamp_base_mat
+[2023.09.12-04.59.43:650][398]LogContentValidation: Display: Validating Material /Game/OurProject/Maps/bedroom_scene/assets/floor_lamp/floorlamp_base_mat.floorlamp_base_mat
+[2023.09.12-04.59.43:651][398]MaterialEditorStats: Base pass shader: 134 instructions
+[2023.09.12-04.59.43:651][398]MaterialEditorStats: Base pass vertex shader: 112 instructions
+[2023.09.12-04.59.43:651][398]MaterialEditorStats: Texture samplers: 6/16
+[2023.09.12-04.59.43:651][398]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-04.59.43:651][398]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-04.59.43:651][398]MaterialEditorStats: Shader Count: 16
+[2023.09.12-04.59.46:054][558]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/VR/ISCAMYHCW9F5BHKZHBN42B
+[2023.09.12-04.59.46:054][558]LogSavePackage: Moving '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Saved/ISCAMYHCW9F5BHKZHBN42B616062E24FB1DE8B22842BAF4454BCD0.tmp' to '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/VR/ISCAMYHCW9F5BHKZHBN42B.uasset'
+[2023.09.12-04.59.46:063][558]AssetCheck: New page: Asset Save: StaticMeshActor_UAID_04421A293C7487A801_1421644329
+[2023.09.12-04.59.46:063][558]LogContentValidation: Display: Validating StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_04421A293C7487A801_1421644329
+[2023.09.12-05.00.09:052][156]LogMaterial: Display: Missing cached shadermap for Preview:floorlamp_base_mat in PCD3D_SM5, Default, SM5 (DDC key hash: 63622570D1DB8BB86F937A52D2E54122ADBB562F), compiling. 
+[2023.09.12-05.00.10:255][279]MaterialEditorStats: Texture samplers: 5/16
+[2023.09.12-05.00.10:255][279]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-05.00.10:255][279]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-05.00.10:255][279]MaterialEditorStats: Shader Count: 4
+[2023.09.12-05.00.11:198][343]LogMaterial: Display: Missing cached shadermap for Preview:floorlamp_base_mat in PCD3D_SM5, Default, SM5 (DDC key hash: 30EE21E2CA9E4D6D4DC75BBD8595052BB075E959), compiling. 
+[2023.09.12-05.00.21:346][ 81]Cmd: DELETE
+[2023.09.12-05.00.21:346][ 81]Cmd: ACTOR DELETE
+[2023.09.12-05.00.21:348][ 81]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.09.12-05.00.21:356][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2023.09.12-05.00.21:357][ 81]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2023.09.12-05.00.21:770][109]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2023.09.12-05.00.21:776][109]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2023.09.12-05.00.21:782][109]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2023.09.12-05.00.26:685][442]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.09.12-05.00.30:604][706]Cmd: TRANSACTION UNDO
+[2023.09.12-05.00.30:604][706]LogEditorTransaction: Undo Move Elements
+[2023.09.12-05.00.30:634][706]LogMaterial: Display: Missing cached shadermap for Preview:material in PCD3D_SM5, Default, SM5 (DDC key hash: 51D51D50FA0F48793B98D286FACC7135A7E9AA7C), compiling. 
+[2023.09.12-05.00.30:637][706]LogMaterial: Display: Missing cached shadermap for Preview:coffee_table_drawer in PCD3D_SM5, Default, SM5 (DDC key hash: E51D2E02D8BC84E45E6CC5DA7D754E6E0F530764), compiling. 
+[2023.09.12-05.00.30:640][706]LogMaterial: Display: Missing cached shadermap for Preview:daybed_mat in PCD3D_SM5, Default, SM5 (DDC key hash: 191AE28E1816186345E4631D65B0AB008C3E8E8F), compiling. 
+[2023.09.12-05.00.30:643][706]LogMaterial: Display: Missing cached shadermap for Preview:throwrug_mat in PCD3D_SM5, Default, SM5 (DDC key hash: 96B51788A93C3A15C7687BDC49879249F3E4F784), compiling. 
+[2023.09.12-05.00.30:645][706]LogMaterial: Display: Missing cached shadermap for Preview:NewMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 8F27E12EB25D5C255A7F19C9B66E5261D7CADAFC), compiling. 
+[2023.09.12-05.00.30:649][706]LogMaterial: Display: Missing cached shadermap for Preview:coffee_table_top_mat in PCD3D_SM5, Default, SM5 (DDC key hash: 5322EF91BE1B942586E18EEA886A5D790A87BBE6), compiling. 
+[2023.09.12-05.00.30:651][706]LogMaterial: Display: Missing cached shadermap for Preview:bulb_base_mat in PCD3D_SM5, Default, SM5 (DDC key hash: 2E6057043B33B16AD434881CCC2C1CB30073484D), compiling. 
+[2023.09.12-05.00.30:654][706]LogMaterial: Display: Missing cached shadermap for Preview:bulb_filament_mat in PCD3D_SM5, Default, SM5 (DDC key hash: 23C0B8B192F82E11BDBAC16D26F847A7A6106DE3), compiling. 
+[2023.09.12-05.00.30:660][706]LogMaterial: Display: Missing cached shadermap for Preview:bulb_glass_mat in PCD3D_SM5, Default, SM5 (DDC key hash: CCDFC968D894311115DDD67E4E21DCE08E3DDE5C), compiling. 
+[2023.09.12-05.00.30:669][706]LogMaterial: Display: Missing cached shadermap for Preview:floorlamp_base_mat in PCD3D_SM5, Default, SM5 (DDC key hash: A207A2F9340C3FA27C25AF4F1FD4DF4B133B29E7), compiling. 
+[2023.09.12-05.00.30:682][706]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.12-05.00.30:682][706]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-05.00.30:682][706]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-05.00.30:682][706]MaterialEditorStats: Shader Count: 0
+[2023.09.12-05.00.30:682][706]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.12-05.00.30:682][706]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-05.00.30:682][706]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-05.00.30:682][706]MaterialEditorStats: Shader Count: 0
+[2023.09.12-05.00.30:682][706]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.12-05.00.30:682][706]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-05.00.30:682][706]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-05.00.30:682][706]MaterialEditorStats: Shader Count: 0
+[2023.09.12-05.00.30:682][706]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.12-05.00.30:682][706]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-05.00.30:682][706]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-05.00.30:682][706]MaterialEditorStats: Shader Count: 0
+[2023.09.12-05.00.30:682][706]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.12-05.00.30:682][706]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-05.00.30:682][706]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-05.00.30:682][706]MaterialEditorStats: Shader Count: 0
+[2023.09.12-05.00.30:682][706]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.12-05.00.30:682][706]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-05.00.30:682][706]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-05.00.30:683][706]MaterialEditorStats: Shader Count: 0
+[2023.09.12-05.00.30:683][706]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.12-05.00.30:683][706]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-05.00.30:683][706]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-05.00.30:683][706]MaterialEditorStats: Shader Count: 0
+[2023.09.12-05.00.30:683][706]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.12-05.00.30:683][706]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2023.09.12-05.00.30:683][706]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-05.00.30:683][706]MaterialEditorStats: Shader Count: 0
+[2023.09.12-05.00.30:683][706]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.12-05.00.30:683][706]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-05.00.30:683][706]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-05.00.30:683][706]MaterialEditorStats: Shader Count: 0
+[2023.09.12-05.00.30:683][706]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.12-05.00.30:683][706]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-05.00.30:683][706]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-05.00.30:683][706]MaterialEditorStats: Shader Count: 0
+[2023.09.12-05.00.30:806][708]MaterialEditorStats: Texture samplers: 5/16
+[2023.09.12-05.00.30:806][708]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-05.00.30:806][708]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-05.00.30:806][708]MaterialEditorStats: Shader Count: 4
+[2023.09.12-05.00.30:806][708]MaterialEditorStats: Texture samplers: 5/16
+[2023.09.12-05.00.30:806][708]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-05.00.30:806][708]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-05.00.30:806][708]MaterialEditorStats: Shader Count: 4
+[2023.09.12-05.00.30:806][708]MaterialEditorStats: Texture samplers: 5/16
+[2023.09.12-05.00.30:806][708]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-05.00.30:806][708]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-05.00.30:806][708]MaterialEditorStats: Shader Count: 4
+[2023.09.12-05.00.30:806][708]MaterialEditorStats: Texture samplers: 5/16
+[2023.09.12-05.00.30:806][708]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-05.00.30:806][708]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-05.00.30:806][708]MaterialEditorStats: Shader Count: 4
+[2023.09.12-05.00.30:806][708]MaterialEditorStats: Texture samplers: 5/16
+[2023.09.12-05.00.30:806][708]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-05.00.30:806][708]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-05.00.30:806][708]MaterialEditorStats: Shader Count: 4
+[2023.09.12-05.00.30:807][708]MaterialEditorStats: Texture samplers: 5/16
+[2023.09.12-05.00.30:807][708]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-05.00.30:807][708]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-05.00.30:807][708]MaterialEditorStats: Shader Count: 4
+[2023.09.12-05.00.30:807][708]MaterialEditorStats: Texture samplers: 5/16
+[2023.09.12-05.00.30:807][708]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-05.00.30:807][708]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-05.00.30:807][708]MaterialEditorStats: Shader Count: 4
+[2023.09.12-05.00.30:807][708]MaterialEditorStats: Texture samplers: 6/16
+[2023.09.12-05.00.30:807][708]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2023.09.12-05.00.30:807][708]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-05.00.30:807][708]MaterialEditorStats: Shader Count: 4
+[2023.09.12-05.00.30:807][708]MaterialEditorStats: Texture samplers: 5/16
+[2023.09.12-05.00.30:807][708]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-05.00.30:807][708]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-05.00.30:807][708]MaterialEditorStats: Shader Count: 4
+[2023.09.12-05.00.35:949][ 48]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.09.12-05.00.36:443][ 77]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.09.12-05.00.44:337][621]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.09.12-05.00.53:826][277]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/VR/ISCAMYHCW9F5BHKZHBN42B
+[2023.09.12-05.00.53:827][277]LogSavePackage: Moving '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Saved/ISCAMYHCW9F5BHKZHBN42B767F7F7D44CB19990D5C8B97870C9CF5.tmp' to '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/VR/ISCAMYHCW9F5BHKZHBN42B.uasset'
+[2023.09.12-05.00.53:828][277]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/HW/J1747AROPSLEFIVN6R8DD7
+[2023.09.12-05.00.53:828][277]LogSavePackage: Moving '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Saved/J1747AROPSLEFIVN6R8DD7A30C34CE4C2D0BEC44EB1C9D0B02CE98.tmp' to '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/HW/J1747AROPSLEFIVN6R8DD7.uasset'
+[2023.09.12-05.00.53:837][277]AssetCheck: New page: Asset Save: multiple assets
+[2023.09.12-05.00.53:837][277]LogContentValidation: Display: Validating PointLight /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.PointLight_UAID_00BE43BC623B17A501_1622208492
+[2023.09.12-05.00.53:837][277]LogContentValidation: Display: Validating StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_04421A293C7487A801_1421644329
+[2023.09.12-05.00.54:195][307]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.09.12-05.00.54:204][307]LogWorldPartition: Display: GenerateStreaming started...
+[2023.09.12-05.00.54:204][307]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.09.12-05.00.54:204][307]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.09.12-05.00.54:204][307]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2023.09.12-05.00.54:204][307]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2023.09.12-05.00.54:204][307]LogWorldPartition: Display: GetPartitionedActors took 48 us
+[2023.09.12-05.00.54:204][307]LogWorldPartition: Display: GenerateStreaming took 476 us
+[2023.09.12-05.00.54:207][307]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.09.12-05.00.54:207][307]PIE: New page: PIE session: FirstPersonMap (13 Sep 2023, 1:00:54 am)
+[2023.09.12-05.00.54:210][307]LogOnline: OSS: Created online subsystem instance for: NULL
+[2023.09.12-05.00.54:210][307]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2023.09.12-05.00.54:211][307]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2023.09.12-05.00.54:216][307]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2023.09.12-05.00.54:217][307]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004961s)
+[2023.09.12-05.00.54:217][307]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.005184s)
+[2023.09.12-05.00.54:217][307]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.12-05.00.54:217][307]LogAIModule: Creating AISystem for world FirstPersonMap
+[2023.09.12-05.00.54:218][307]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.09.12-05.00.54:218][307]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2023.09.12-05.00.54:218][307]LogWorldPartition: Display: WorldPartition initialize took 1 ms
+[2023.09.12-05.00.54:219][307]LogPlayLevel: PIE: World Init took: (0.002336s)
+[2023.09.12-05.00.54:225][307]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2023.09.12-05.00.54:226][307]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2023.09.12-05.00.54:227][307]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.09.12-05.00.54:227][307]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.09.12-05.00.54:227][307]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.09.12-05.00.54:227][307]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.09.12-05.00.54:227][307]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.09.12-05.00.54:227][307]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.09.12-05.00.54:227][307]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.09.12-05.00.54:227][307]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.09.12-05.00.54:227][307]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.09.12-05.00.54:227][307]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.09.12-05.00.54:227][307]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.09.12-05.00.54:228][307]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.09.12-05.00.54:244][307]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Logitech G733 Gaming Headset)
+[2023.09.12-05.00.54:244][307]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.09.12-05.00.54:244][307]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.09.12-05.00.54:244][307]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.09.12-05.00.54:245][307]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2023.09.12-05.00.54:245][307]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=2
+[2023.09.12-05.00.54:247][307]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2023.09.12-05.00.54:247][307]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2023.09.12-05.00.54:247][307]LogInit: FAudioDevice initialized.
+[2023.09.12-05.00.54:247][307]LogAudio: Display: Audio Device (ID: 2) registered with world 'FirstPersonMap'.
+[2023.09.12-05.00.54:263][307]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.09.12-05.00.54:264][307]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2023.09.12-15.00.54
+[2023.09.12-05.00.54:265][307]LogWorld: Bringing up level for play took: 0.002149
+[2023.09.12-05.00.54:268][307]LogOnline: OSS: Created online subsystem instance for: :Context_13
+[2023.09.12-05.00.54:298][307]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=750.000 Y=205.063 Z=98.212
+[2023.09.12-05.00.54:298][307]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.09.12-05.00.54:300][307]PIE: Server logged in
+[2023.09.12-05.00.54:301][307]PIE: Play in editor total start time 0.1 seconds.
+[2023.09.12-05.01.11:869][909]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.12-05.01.11:869][909]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2023.09.12-05.01.11:869][909]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.09.12-05.01.11:870][909]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.12-05.01.11:883][909]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.09.12-05.01.11:885][909]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.12-05.01.11:890][909]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.12-05.01.11:891][909]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2023.09.12-05.01.11:892][909]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2023.09.12-05.01.11:897][909]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2023.09.12-05.01.11:936][910]LogPlayLevel: Display: Destroying online subsystem :Context_13
