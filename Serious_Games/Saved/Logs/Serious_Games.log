@@ -9381,3 +9381,971 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2023.09.12-05.43.59:940][515]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
 [2023.09.12-05.43.59:940][515]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
 [2023.09.12-05.43.59:940][515]MaterialEditorStats: Shader Count: 16
+[2023.09.12-05.44.29:566][875]LogUObjectHash: Compacting FUObjectHashTables data took   0.15ms
+[2023.09.12-05.44.29:567][875]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.008
+[2023.09.12-05.44.29:568][875]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/OurProject/Maps/bedroom_scene/assets/architecture/daybed_windows] ([1] browsable assets)...
+[2023.09.12-05.44.29:598][875]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/OurProject/Maps/bedroom_scene/assets/architecture/daybed_windows.daybed_windows]
+[2023.09.12-05.44.29:598][875]OBJ SavePackage: Finished generating thumbnails for package [/Game/OurProject/Maps/bedroom_scene/assets/architecture/daybed_windows]
+[2023.09.12-05.44.29:600][875]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/OurProject/Maps/bedroom_scene/assets/architecture/daybed_windows_Auto4
+[2023.09.12-05.44.29:600][875]LogSavePackage: Moving '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Saved/daybed_windows_Auto4A974C8A7424E2D829B30109218B56BA8.tmp' to '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Saved/Autosaves/Game/OurProject/Maps/bedroom_scene/assets/architecture/daybed_windows_Auto4.uasset'
+[2023.09.12-05.44.29:601][875]LogFileHelpers: Auto-saving content packages took 0.034
+[2023.09.12-05.44.44:622][915]LogSlate: Window 'Message' being destroyed
+[2023.09.12-05.44.44:630][915]Message dialog closed, result: No, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/OurProject/Maps/bedroom_scene/assets/coffee_table/resources/coffee_table_base_mat.coffee_table_base_mat
+(Selecting 'No' will cause all changes to be lost!)
+[2023.09.12-05.44.45:975][915]LogSlate: Window 'Message' being destroyed
+[2023.09.12-05.44.45:992][915]Message dialog closed, result: Cancel, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/OurProject/Maps/bedroom_scene/assets/coffee_table/resources/coffee_table_drawer_mat.coffee_table_drawer_mat
+(Selecting 'No' will cause all changes to be lost!)
+[2023.09.12-05.44.48:041][ 44]LogSavePackage: Moving output files for package: /Game/OurProject/Maps/bedroom_scene/assets/architecture/window_glass_mat
+[2023.09.12-05.44.48:042][ 44]LogSavePackage: Moving '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Saved/window_glass_matE1583334450F51135A6594B1254A27BD.tmp' to '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Content/OurProject/Maps/bedroom_scene/assets/architecture/window_glass_mat.uasset'
+[2023.09.12-05.44.48:050][ 44]AssetCheck: New page: Asset Save: window_glass_mat
+[2023.09.12-05.44.48:050][ 44]LogContentValidation: Display: Validating Material /Game/OurProject/Maps/bedroom_scene/assets/architecture/window_glass_mat.window_glass_mat
+[2023.09.12-05.44.49:723][143]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.09.12-05.44.49:730][143]LogWorldPartition: Display: GenerateStreaming started...
+[2023.09.12-05.44.49:730][143]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.09.12-05.44.49:730][143]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.09.12-05.44.49:730][143]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2023.09.12-05.44.49:730][143]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2023.09.12-05.44.49:730][143]LogWorldPartition: Display: GetPartitionedActors took 59 us
+[2023.09.12-05.44.49:730][143]LogWorldPartition: Display: GenerateStreaming took 473 us
+[2023.09.12-05.44.49:731][143]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.09.12-05.44.49:731][143]PIE: New page: PIE session: FirstPersonMap (13 Sep 2023, 1:44:49 am)
+[2023.09.12-05.44.49:731][143]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2023.09.12-05.44.49:736][143]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2023.09.12-05.44.49:736][143]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005141s)
+[2023.09.12-05.44.49:736][143]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.005205s)
+[2023.09.12-05.44.49:736][143]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.12-05.44.49:736][143]LogAIModule: Creating AISystem for world FirstPersonMap
+[2023.09.12-05.44.49:737][143]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.09.12-05.44.49:737][143]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2023.09.12-05.44.49:738][143]LogWorldPartition: Display: WorldPartition initialize took 1 ms
+[2023.09.12-05.44.49:738][143]LogPlayLevel: PIE: World Init took: (0.002120s)
+[2023.09.12-05.44.49:745][143]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2023.09.12-05.44.49:746][143]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2023.09.12-05.44.49:746][143]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.09.12-05.44.49:746][143]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.09.12-05.44.49:746][143]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.09.12-05.44.49:746][143]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.09.12-05.44.49:746][143]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.09.12-05.44.49:746][143]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.09.12-05.44.49:746][143]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.09.12-05.44.49:746][143]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.09.12-05.44.49:746][143]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.09.12-05.44.49:746][143]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.09.12-05.44.49:746][143]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.09.12-05.44.49:748][143]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.09.12-05.44.49:764][143]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Logitech G733 Gaming Headset)
+[2023.09.12-05.44.49:764][143]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.09.12-05.44.49:764][143]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.09.12-05.44.49:764][143]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.09.12-05.44.49:764][143]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2023.09.12-05.44.49:764][143]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=5
+[2023.09.12-05.44.49:765][143]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2023.09.12-05.44.49:765][143]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2023.09.12-05.44.49:765][143]LogInit: FAudioDevice initialized.
+[2023.09.12-05.44.49:765][143]LogAudio: Display: Audio Device (ID: 5) registered with world 'FirstPersonMap'.
+[2023.09.12-05.44.49:780][143]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.09.12-05.44.49:782][143]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2023.09.12-15.44.49
+[2023.09.12-05.44.49:782][143]LogWorld: Bringing up level for play took: 0.001389
+[2023.09.12-05.44.49:783][143]LogOnline: OSS: Created online subsystem instance for: :Context_19
+[2023.09.12-05.44.49:785][143]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=750.000 Y=205.063 Z=98.212
+[2023.09.12-05.44.49:785][143]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.09.12-05.44.49:785][143]PIE: Server logged in
+[2023.09.12-05.44.49:785][143]PIE: Play in editor total start time 0.059 seconds.
+[2023.09.12-05.44.56:208][684]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.12-05.44.56:208][684]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2023.09.12-05.44.56:209][684]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.09.12-05.44.56:209][684]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.12-05.44.56:222][684]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.09.12-05.44.56:224][684]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.12-05.44.56:230][684]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.12-05.44.56:230][684]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2023.09.12-05.44.56:231][684]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2023.09.12-05.44.56:235][684]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2023.09.12-05.44.56:310][685]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2023.09.12-05.45.00:763][972]Cmd: DUPLICATE
+[2023.09.12-05.45.00:764][972]Cmd: ACTOR DUPLICATE
+[2023.09.12-05.45.02:492][ 78]Cmd: TRANSACTION UNDO
+[2023.09.12-05.45.02:492][ 78]LogEditorTransaction: Undo Move Elements
+[2023.09.12-05.45.02:528][ 78]LogMaterial: Display: Missing cached shadermap for Preview:material in PCD3D_SM5, Default, SM5 (DDC key hash: 691BEA4724CC905FACB04C987E642FC287D6AA1D), compiling. 
+[2023.09.12-05.45.02:531][ 78]LogMaterial: Display: Missing cached shadermap for Preview:coffee_table_drawer in PCD3D_SM5, Default, SM5 (DDC key hash: D7EF9735CE619AC638EED06BD521CD1A68325BC2), compiling. 
+[2023.09.12-05.45.02:534][ 78]LogMaterial: Display: Missing cached shadermap for Preview:daybed_mat in PCD3D_SM5, Default, SM5 (DDC key hash: FC0B946DFE1EA04B5D6F5E543734DFAEB07C9903), compiling. 
+[2023.09.12-05.45.02:537][ 78]LogMaterial: Display: Missing cached shadermap for Preview:throwrug_mat in PCD3D_SM5, Default, SM5 (DDC key hash: 391A35FFDD1933F568056F100B9A8CDFC3F860D9), compiling. 
+[2023.09.12-05.45.02:540][ 78]LogMaterial: Display: Missing cached shadermap for Preview:NewMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: F4AF6BD0E12540A32688CAEB0821F8424C2FFC1F), compiling. 
+[2023.09.12-05.45.02:543][ 78]LogMaterial: Display: Missing cached shadermap for Preview:coffee_table_top_mat in PCD3D_SM5, Default, SM5 (DDC key hash: 538D2C5FECA0DA706AF7AD5F0A3D10B57AC1BB53), compiling. 
+[2023.09.12-05.45.02:546][ 78]LogMaterial: Display: Missing cached shadermap for Preview:bulb_base_mat in PCD3D_SM5, Default, SM5 (DDC key hash: FF964F1323E8D0ED8782A791C8E3552435426E0D), compiling. 
+[2023.09.12-05.45.02:548][ 78]LogMaterial: Display: Missing cached shadermap for Preview:bulb_filament_mat in PCD3D_SM5, Default, SM5 (DDC key hash: 17589A09A2A1B9D85CE489A338C0EA18D1042D2C), compiling. 
+[2023.09.12-05.45.02:554][ 78]LogMaterial: Display: Missing cached shadermap for Preview:bulb_glass_mat in PCD3D_SM5, Default, SM5 (DDC key hash: 5705419B1670FA12108AA5EF80C27E03BFF8C8CB), compiling. 
+[2023.09.12-05.45.02:558][ 78]LogMaterial: Display: Missing cached shadermap for Preview:floorlamp_base_mat in PCD3D_SM5, Default, SM5 (DDC key hash: 74E81AA0A7290ED77603189364F150D9875C550B), compiling. 
+[2023.09.12-05.45.02:589][ 78]LogMaterial: Display: Missing cached shadermap for Preview:window_glass_mat in PCD3D_SM5, Default, SM5 (DDC key hash: 868EC9604D8C2756D3910D17072F3941D1635C66), compiling. 
+[2023.09.12-05.45.02:592][ 78]LogMaterial: Display: Missing cached shadermap for Preview:daybed_window_frame in PCD3D_SM5, Default, SM5 (DDC key hash: 919693663C4DE2D0194FE59E3E19A8B5EDF466FA), compiling. 
+[2023.09.12-05.45.02:610][ 78]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.12-05.45.02:610][ 78]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-05.45.02:610][ 78]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-05.45.02:610][ 78]MaterialEditorStats: Shader Count: 0
+[2023.09.12-05.45.02:610][ 78]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.12-05.45.02:610][ 78]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-05.45.02:610][ 78]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-05.45.02:610][ 78]MaterialEditorStats: Shader Count: 0
+[2023.09.12-05.45.02:610][ 78]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.12-05.45.02:610][ 78]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-05.45.02:611][ 78]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-05.45.02:611][ 78]MaterialEditorStats: Shader Count: 0
+[2023.09.12-05.45.02:611][ 78]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.12-05.45.02:611][ 78]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-05.45.02:611][ 78]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-05.45.02:611][ 78]MaterialEditorStats: Shader Count: 0
+[2023.09.12-05.45.02:611][ 78]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.12-05.45.02:611][ 78]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-05.45.02:611][ 78]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-05.45.02:611][ 78]MaterialEditorStats: Shader Count: 0
+[2023.09.12-05.45.02:611][ 78]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.12-05.45.02:611][ 78]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-05.45.02:611][ 78]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-05.45.02:611][ 78]MaterialEditorStats: Shader Count: 0
+[2023.09.12-05.45.02:611][ 78]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.12-05.45.02:611][ 78]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-05.45.02:611][ 78]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-05.45.02:611][ 78]MaterialEditorStats: Shader Count: 0
+[2023.09.12-05.45.02:611][ 78]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.12-05.45.02:611][ 78]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2023.09.12-05.45.02:611][ 78]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-05.45.02:611][ 78]MaterialEditorStats: Shader Count: 0
+[2023.09.12-05.45.02:611][ 78]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.12-05.45.02:611][ 78]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-05.45.02:611][ 78]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-05.45.02:611][ 78]MaterialEditorStats: Shader Count: 0
+[2023.09.12-05.45.02:611][ 78]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.12-05.45.02:611][ 78]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2023.09.12-05.45.02:611][ 78]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-05.45.02:611][ 78]MaterialEditorStats: Shader Count: 0
+[2023.09.12-05.45.02:611][ 78]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.12-05.45.02:611][ 78]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-05.45.02:611][ 78]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-05.45.02:611][ 78]MaterialEditorStats: Shader Count: 0
+[2023.09.12-05.45.02:772][ 80]MaterialEditorStats: Texture samplers: 5/16
+[2023.09.12-05.45.02:772][ 80]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-05.45.02:774][ 80]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-05.45.02:774][ 80]MaterialEditorStats: Shader Count: 4
+[2023.09.12-05.45.02:774][ 80]MaterialEditorStats: Texture samplers: 5/16
+[2023.09.12-05.45.02:774][ 80]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-05.45.02:774][ 80]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-05.45.02:774][ 80]MaterialEditorStats: Shader Count: 4
+[2023.09.12-05.45.02:774][ 80]MaterialEditorStats: Texture samplers: 5/16
+[2023.09.12-05.45.02:774][ 80]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-05.45.02:774][ 80]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-05.45.02:774][ 80]MaterialEditorStats: Shader Count: 4
+[2023.09.12-05.45.02:774][ 80]MaterialEditorStats: Texture samplers: 5/16
+[2023.09.12-05.45.02:774][ 80]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-05.45.02:774][ 80]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-05.45.02:774][ 80]MaterialEditorStats: Shader Count: 4
+[2023.09.12-05.45.02:774][ 80]MaterialEditorStats: Texture samplers: 5/16
+[2023.09.12-05.45.02:774][ 80]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-05.45.02:774][ 80]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-05.45.02:774][ 80]MaterialEditorStats: Shader Count: 4
+[2023.09.12-05.45.02:774][ 80]MaterialEditorStats: Texture samplers: 5/16
+[2023.09.12-05.45.02:774][ 80]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-05.45.02:774][ 80]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-05.45.02:774][ 80]MaterialEditorStats: Shader Count: 4
+[2023.09.12-05.45.02:774][ 80]MaterialEditorStats: Texture samplers: 5/16
+[2023.09.12-05.45.02:774][ 80]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-05.45.02:774][ 80]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-05.45.02:774][ 80]MaterialEditorStats: Shader Count: 4
+[2023.09.12-05.45.02:774][ 80]MaterialEditorStats: Texture samplers: 6/16
+[2023.09.12-05.45.02:774][ 80]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2023.09.12-05.45.02:774][ 80]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-05.45.02:774][ 80]MaterialEditorStats: Shader Count: 4
+[2023.09.12-05.45.02:774][ 80]MaterialEditorStats: Texture samplers: 5/16
+[2023.09.12-05.45.02:774][ 80]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-05.45.02:774][ 80]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-05.45.02:774][ 80]MaterialEditorStats: Shader Count: 4
+[2023.09.12-05.45.02:774][ 80]MaterialEditorStats: Texture samplers: 6/16
+[2023.09.12-05.45.02:774][ 80]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2023.09.12-05.45.02:774][ 80]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-05.45.02:774][ 80]MaterialEditorStats: Shader Count: 12
+[2023.09.12-05.45.02:774][ 80]MaterialEditorStats: Texture samplers: 5/16
+[2023.09.12-05.45.02:774][ 80]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-05.45.02:774][ 80]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-05.45.02:774][ 80]MaterialEditorStats: Shader Count: 4
+[2023.09.12-05.45.05:277][214]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.09.12-05.45.09:803][506]Cmd: TRANSACTION UNDO
+[2023.09.12-05.45.09:803][506]LogEditorTransaction: Undo Move Elements
+[2023.09.12-05.45.09:819][506]LogMaterial: Display: Missing cached shadermap for Preview:material in PCD3D_SM5, Default, SM5 (DDC key hash: 8219C257A20B381A8B22C7E4855BFC5227CE0EDC), compiling. 
+[2023.09.12-05.45.09:823][506]LogMaterial: Display: Missing cached shadermap for Preview:coffee_table_drawer in PCD3D_SM5, Default, SM5 (DDC key hash: F91976A1575EE2E5982384B03D9144FDB5E263F5), compiling. 
+[2023.09.12-05.45.09:825][506]LogMaterial: Display: Missing cached shadermap for Preview:daybed_mat in PCD3D_SM5, Default, SM5 (DDC key hash: B393627361A87E5530C22E5F0B3BEE7246D0C5A6), compiling. 
+[2023.09.12-05.45.09:829][506]LogMaterial: Display: Missing cached shadermap for Preview:throwrug_mat in PCD3D_SM5, Default, SM5 (DDC key hash: FF9927B979A18A060566FE5E86DE96FBB4EB34D5), compiling. 
+[2023.09.12-05.45.09:832][506]LogMaterial: Display: Missing cached shadermap for Preview:NewMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 8CD37CDBA38A956022B7A74A6F233F82474704EB), compiling. 
+[2023.09.12-05.45.09:835][506]LogMaterial: Display: Missing cached shadermap for Preview:coffee_table_top_mat in PCD3D_SM5, Default, SM5 (DDC key hash: 435686DA42962BA45268C065D93D5AAD8C8A64A1), compiling. 
+[2023.09.12-05.45.09:837][506]LogMaterial: Display: Missing cached shadermap for Preview:bulb_base_mat in PCD3D_SM5, Default, SM5 (DDC key hash: D1EF07405FAD58EE705F0E044212E3699883471B), compiling. 
+[2023.09.12-05.45.09:840][506]LogMaterial: Display: Missing cached shadermap for Preview:bulb_filament_mat in PCD3D_SM5, Default, SM5 (DDC key hash: 2FB0332F62C5E84EEFCC78BE36C1293F91788884), compiling. 
+[2023.09.12-05.45.09:843][506]LogMaterial: Display: Missing cached shadermap for Preview:bulb_glass_mat in PCD3D_SM5, Default, SM5 (DDC key hash: 425B693AFA5B19BCA23A8B2ED964F9813E5377EC), compiling. 
+[2023.09.12-05.45.09:847][506]LogMaterial: Display: Missing cached shadermap for Preview:floorlamp_base_mat in PCD3D_SM5, Default, SM5 (DDC key hash: 62FA3D959D1C74FA9AB326B5D501298B306682C4), compiling. 
+[2023.09.12-05.45.09:850][506]LogMaterial: Display: Missing cached shadermap for Preview:window_glass_mat in PCD3D_SM5, Default, SM5 (DDC key hash: 68FDA80E57BD10573D2C3AEA6A831A970D9A6503), compiling. 
+[2023.09.12-05.45.09:853][506]LogMaterial: Display: Missing cached shadermap for Preview:daybed_window_frame in PCD3D_SM5, Default, SM5 (DDC key hash: BFE30722BA3E8129D3D1B5528DA32A284E651CC5), compiling. 
+[2023.09.12-05.45.09:865][506]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.12-05.45.09:865][506]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-05.45.09:865][506]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-05.45.09:865][506]MaterialEditorStats: Shader Count: 0
+[2023.09.12-05.45.09:865][506]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.12-05.45.09:865][506]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-05.45.09:865][506]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-05.45.09:865][506]MaterialEditorStats: Shader Count: 0
+[2023.09.12-05.45.09:865][506]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.12-05.45.09:865][506]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-05.45.09:865][506]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-05.45.09:865][506]MaterialEditorStats: Shader Count: 0
+[2023.09.12-05.45.09:865][506]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.12-05.45.09:865][506]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-05.45.09:865][506]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-05.45.09:865][506]MaterialEditorStats: Shader Count: 0
+[2023.09.12-05.45.09:865][506]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.12-05.45.09:865][506]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-05.45.09:865][506]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-05.45.09:865][506]MaterialEditorStats: Shader Count: 0
+[2023.09.12-05.45.09:865][506]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.12-05.45.09:865][506]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-05.45.09:865][506]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-05.45.09:865][506]MaterialEditorStats: Shader Count: 0
+[2023.09.12-05.45.09:865][506]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.12-05.45.09:865][506]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-05.45.09:865][506]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-05.45.09:865][506]MaterialEditorStats: Shader Count: 0
+[2023.09.12-05.45.09:865][506]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.12-05.45.09:865][506]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2023.09.12-05.45.09:865][506]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-05.45.09:865][506]MaterialEditorStats: Shader Count: 0
+[2023.09.12-05.45.09:865][506]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.12-05.45.09:865][506]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-05.45.09:865][506]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-05.45.09:865][506]MaterialEditorStats: Shader Count: 0
+[2023.09.12-05.45.09:865][506]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.12-05.45.09:865][506]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2023.09.12-05.45.09:865][506]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-05.45.09:865][506]MaterialEditorStats: Shader Count: 0
+[2023.09.12-05.45.09:865][506]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.12-05.45.09:865][506]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-05.45.09:865][506]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-05.45.09:865][506]MaterialEditorStats: Shader Count: 0
+[2023.09.12-05.45.09:990][508]MaterialEditorStats: Texture samplers: 5/16
+[2023.09.12-05.45.09:990][508]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-05.45.09:990][508]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-05.45.09:990][508]MaterialEditorStats: Shader Count: 4
+[2023.09.12-05.45.10:030][509]MaterialEditorStats: Texture samplers: 5/16
+[2023.09.12-05.45.10:030][509]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-05.45.10:030][509]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-05.45.10:030][509]MaterialEditorStats: Shader Count: 4
+[2023.09.12-05.45.10:030][509]MaterialEditorStats: Texture samplers: 5/16
+[2023.09.12-05.45.10:030][509]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-05.45.10:030][509]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-05.45.10:030][509]MaterialEditorStats: Shader Count: 4
+[2023.09.12-05.45.10:030][509]MaterialEditorStats: Texture samplers: 5/16
+[2023.09.12-05.45.10:030][509]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-05.45.10:030][509]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-05.45.10:030][509]MaterialEditorStats: Shader Count: 4
+[2023.09.12-05.45.10:030][509]MaterialEditorStats: Texture samplers: 5/16
+[2023.09.12-05.45.10:030][509]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-05.45.10:030][509]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-05.45.10:030][509]MaterialEditorStats: Shader Count: 4
+[2023.09.12-05.45.10:030][509]MaterialEditorStats: Texture samplers: 5/16
+[2023.09.12-05.45.10:030][509]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-05.45.10:030][509]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-05.45.10:030][509]MaterialEditorStats: Shader Count: 4
+[2023.09.12-05.45.10:030][509]MaterialEditorStats: Texture samplers: 5/16
+[2023.09.12-05.45.10:030][509]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-05.45.10:030][509]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-05.45.10:030][509]MaterialEditorStats: Shader Count: 4
+[2023.09.12-05.45.10:030][509]MaterialEditorStats: Texture samplers: 5/16
+[2023.09.12-05.45.10:030][509]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-05.45.10:030][509]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-05.45.10:030][509]MaterialEditorStats: Shader Count: 4
+[2023.09.12-05.45.10:030][509]MaterialEditorStats: Texture samplers: 6/16
+[2023.09.12-05.45.10:030][509]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2023.09.12-05.45.10:030][509]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-05.45.10:030][509]MaterialEditorStats: Shader Count: 4
+[2023.09.12-05.45.10:030][509]MaterialEditorStats: Texture samplers: 5/16
+[2023.09.12-05.45.10:030][509]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-05.45.10:030][509]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-05.45.10:030][509]MaterialEditorStats: Shader Count: 4
+[2023.09.12-05.45.10:030][509]MaterialEditorStats: Texture samplers: 6/16
+[2023.09.12-05.45.10:030][509]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2023.09.12-05.45.10:030][509]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-05.45.10:030][509]MaterialEditorStats: Shader Count: 12
+[2023.09.12-05.45.10:555][535]Cmd: TRANSACTION UNDO
+[2023.09.12-05.45.10:555][535]LogEditorTransaction: Undo Move Elements
+[2023.09.12-05.45.10:586][535]LogMaterial: Display: Missing cached shadermap for Preview:material in PCD3D_SM5, Default, SM5 (DDC key hash: 0ABC816FAAEBDD115D8851D26B20FF3CC92718C5), compiling. 
+[2023.09.12-05.45.10:588][535]LogMaterial: Display: Missing cached shadermap for Preview:coffee_table_drawer in PCD3D_SM5, Default, SM5 (DDC key hash: 6481AECED8FB112E7FE141E3EE8600A9AC95E478), compiling. 
+[2023.09.12-05.45.10:592][535]LogMaterial: Display: Missing cached shadermap for Preview:daybed_mat in PCD3D_SM5, Default, SM5 (DDC key hash: F4165C2B101BE437E3853C9ACBAFD478FE4F4549), compiling. 
+[2023.09.12-05.45.10:595][535]LogMaterial: Display: Missing cached shadermap for Preview:throwrug_mat in PCD3D_SM5, Default, SM5 (DDC key hash: C437720EBB32C795394FAFA3D6ACA427FA21BDFF), compiling. 
+[2023.09.12-05.45.10:598][535]LogMaterial: Display: Missing cached shadermap for Preview:NewMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: B54F963C15EAC7F4D0606AE6CECEA4AC4429714C), compiling. 
+[2023.09.12-05.45.10:600][535]LogMaterial: Display: Missing cached shadermap for Preview:coffee_table_top_mat in PCD3D_SM5, Default, SM5 (DDC key hash: 401A8BF11089B9E8E681ED7DE273CD2D64094DA6), compiling. 
+[2023.09.12-05.45.10:603][535]LogMaterial: Display: Missing cached shadermap for Preview:bulb_base_mat in PCD3D_SM5, Default, SM5 (DDC key hash: 9ACB04B382C0CB4DE2798852FAD84201F24753EA), compiling. 
+[2023.09.12-05.45.10:606][535]LogMaterial: Display: Missing cached shadermap for Preview:bulb_filament_mat in PCD3D_SM5, Default, SM5 (DDC key hash: 584B9DC7316443A4B6E2373D37926A21E551E9D9), compiling. 
+[2023.09.12-05.45.10:609][535]LogMaterial: Display: Missing cached shadermap for Preview:bulb_glass_mat in PCD3D_SM5, Default, SM5 (DDC key hash: 03DD65487A7DE1EFF0AEF4161C0B3E9199743125), compiling. 
+[2023.09.12-05.45.10:612][535]LogMaterial: Display: Missing cached shadermap for Preview:floorlamp_base_mat in PCD3D_SM5, Default, SM5 (DDC key hash: 3192804A7FB4CAEF7F57613BDE832F4899B5198E), compiling. 
+[2023.09.12-05.45.10:616][535]LogMaterial: Display: Missing cached shadermap for Preview:window_glass_mat in PCD3D_SM5, Default, SM5 (DDC key hash: 1E5545D02986EB246D94BA37ED9FC763DCA1DCB4), compiling. 
+[2023.09.12-05.45.10:619][535]LogMaterial: Display: Missing cached shadermap for Preview:daybed_window_frame in PCD3D_SM5, Default, SM5 (DDC key hash: 15EA660E7E33B06E7A828D6FEE101497E7DEDC32), compiling. 
+[2023.09.12-05.45.10:626][535]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.12-05.45.10:627][535]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-05.45.10:627][535]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-05.45.10:627][535]MaterialEditorStats: Shader Count: 0
+[2023.09.12-05.45.10:627][535]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.12-05.45.10:627][535]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-05.45.10:627][535]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-05.45.10:627][535]MaterialEditorStats: Shader Count: 0
+[2023.09.12-05.45.10:627][535]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.12-05.45.10:627][535]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-05.45.10:627][535]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-05.45.10:627][535]MaterialEditorStats: Shader Count: 0
+[2023.09.12-05.45.10:627][535]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.12-05.45.10:627][535]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-05.45.10:627][535]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-05.45.10:627][535]MaterialEditorStats: Shader Count: 0
+[2023.09.12-05.45.10:627][535]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.12-05.45.10:627][535]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-05.45.10:627][535]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-05.45.10:627][535]MaterialEditorStats: Shader Count: 0
+[2023.09.12-05.45.10:627][535]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.12-05.45.10:627][535]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-05.45.10:627][535]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-05.45.10:627][535]MaterialEditorStats: Shader Count: 0
+[2023.09.12-05.45.10:627][535]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.12-05.45.10:627][535]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-05.45.10:627][535]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-05.45.10:627][535]MaterialEditorStats: Shader Count: 0
+[2023.09.12-05.45.10:627][535]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.12-05.45.10:627][535]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2023.09.12-05.45.10:627][535]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-05.45.10:627][535]MaterialEditorStats: Shader Count: 0
+[2023.09.12-05.45.10:627][535]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.12-05.45.10:627][535]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-05.45.10:627][535]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-05.45.10:627][535]MaterialEditorStats: Shader Count: 0
+[2023.09.12-05.45.10:627][535]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.12-05.45.10:627][535]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2023.09.12-05.45.10:627][535]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-05.45.10:627][535]MaterialEditorStats: Shader Count: 0
+[2023.09.12-05.45.10:627][535]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.12-05.45.10:627][535]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-05.45.10:627][535]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-05.45.10:627][535]MaterialEditorStats: Shader Count: 0
+[2023.09.12-05.45.10:760][537]MaterialEditorStats: Texture samplers: 5/16
+[2023.09.12-05.45.10:760][537]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-05.45.10:760][537]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-05.45.10:760][537]MaterialEditorStats: Shader Count: 4
+[2023.09.12-05.45.10:760][537]MaterialEditorStats: Texture samplers: 5/16
+[2023.09.12-05.45.10:760][537]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-05.45.10:760][537]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-05.45.10:760][537]MaterialEditorStats: Shader Count: 4
+[2023.09.12-05.45.10:760][537]MaterialEditorStats: Texture samplers: 5/16
+[2023.09.12-05.45.10:760][537]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-05.45.10:760][537]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-05.45.10:760][537]MaterialEditorStats: Shader Count: 4
+[2023.09.12-05.45.10:760][537]MaterialEditorStats: Texture samplers: 5/16
+[2023.09.12-05.45.10:760][537]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-05.45.10:760][537]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-05.45.10:760][537]MaterialEditorStats: Shader Count: 4
+[2023.09.12-05.45.10:760][537]MaterialEditorStats: Texture samplers: 5/16
+[2023.09.12-05.45.10:760][537]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-05.45.10:760][537]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-05.45.10:760][537]MaterialEditorStats: Shader Count: 4
+[2023.09.12-05.45.10:760][537]MaterialEditorStats: Texture samplers: 5/16
+[2023.09.12-05.45.10:760][537]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-05.45.10:760][537]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-05.45.10:760][537]MaterialEditorStats: Shader Count: 4
+[2023.09.12-05.45.10:760][537]MaterialEditorStats: Texture samplers: 5/16
+[2023.09.12-05.45.10:760][537]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-05.45.10:760][537]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-05.45.10:760][537]MaterialEditorStats: Shader Count: 4
+[2023.09.12-05.45.10:760][537]MaterialEditorStats: Texture samplers: 6/16
+[2023.09.12-05.45.10:760][537]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2023.09.12-05.45.10:760][537]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-05.45.10:760][537]MaterialEditorStats: Shader Count: 4
+[2023.09.12-05.45.10:760][537]MaterialEditorStats: Texture samplers: 5/16
+[2023.09.12-05.45.10:760][537]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-05.45.10:760][537]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-05.45.10:760][537]MaterialEditorStats: Shader Count: 4
+[2023.09.12-05.45.10:760][537]MaterialEditorStats: Texture samplers: 6/16
+[2023.09.12-05.45.10:760][537]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2023.09.12-05.45.10:760][537]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-05.45.10:760][537]MaterialEditorStats: Shader Count: 12
+[2023.09.12-05.45.10:760][537]MaterialEditorStats: Texture samplers: 5/16
+[2023.09.12-05.45.10:760][537]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-05.45.10:760][537]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-05.45.10:760][537]MaterialEditorStats: Shader Count: 4
+[2023.09.12-05.45.33:053][969]LogStaticMesh: Display: Building static mesh daybed...
+[2023.09.12-05.45.33:053][969]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/OurProject/Maps/Forest_Scene/Assets/Bedroom/daybed) ...
+[2023.09.12-05.45.33:360][969]LogStaticMesh: Built static mesh [0.28s] /Game/OurProject/Maps/Forest_Scene/Assets/Bedroom/daybed.daybed
+[2023.09.12-05.45.34:318][ 30]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.09.12-05.45.43:240][620]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.09.12-05.46.00:339][733]Cmd: TRANSACTION UNDO
+[2023.09.12-05.46.00:339][733]LogEditorTransaction: Undo Clicking on Elements
+[2023.09.12-05.46.00:355][733]LogMaterial: Display: Missing cached shadermap for Preview:material in PCD3D_SM5, Default, SM5 (DDC key hash: DFEFCE65923626FA6280C76865CB81545A746069), compiling. 
+[2023.09.12-05.46.00:359][733]LogMaterial: Display: Missing cached shadermap for Preview:coffee_table_drawer in PCD3D_SM5, Default, SM5 (DDC key hash: 551FB4C3E89D3E82C8EE3361F4EEB4385497F133), compiling. 
+[2023.09.12-05.46.00:362][733]LogMaterial: Display: Missing cached shadermap for Preview:daybed_mat in PCD3D_SM5, Default, SM5 (DDC key hash: A0B47876D30F64AF3DB6BCFBB65549468EF01992), compiling. 
+[2023.09.12-05.46.00:365][733]LogMaterial: Display: Missing cached shadermap for Preview:throwrug_mat in PCD3D_SM5, Default, SM5 (DDC key hash: EFE19A9A0929424D3BF3A3EF2C00C3AFA210D8B6), compiling. 
+[2023.09.12-05.46.00:368][733]LogMaterial: Display: Missing cached shadermap for Preview:NewMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 6FE846F22B501B289DB2115A018F86F0D3310F81), compiling. 
+[2023.09.12-05.46.00:370][733]LogMaterial: Display: Missing cached shadermap for Preview:coffee_table_top_mat in PCD3D_SM5, Default, SM5 (DDC key hash: 6AA6C04DB9366A1B831D8812050A2C4E3606ECF7), compiling. 
+[2023.09.12-05.46.00:373][733]LogMaterial: Display: Missing cached shadermap for Preview:bulb_base_mat in PCD3D_SM5, Default, SM5 (DDC key hash: A90A7B29DB044A05AAD00832B0A372C1179F484B), compiling. 
+[2023.09.12-05.46.00:377][733]LogMaterial: Display: Missing cached shadermap for Preview:bulb_filament_mat in PCD3D_SM5, Default, SM5 (DDC key hash: 6DB51D499FA448FCE3F0A4800D2568065316B896), compiling. 
+[2023.09.12-05.46.00:379][733]LogMaterial: Display: Missing cached shadermap for Preview:bulb_glass_mat in PCD3D_SM5, Default, SM5 (DDC key hash: 70C5147532B024EDC30CEE8945E49B75C40A11DF), compiling. 
+[2023.09.12-05.46.00:382][733]LogMaterial: Display: Missing cached shadermap for Preview:floorlamp_base_mat in PCD3D_SM5, Default, SM5 (DDC key hash: D95FFA3D9F3689EFD81DCC2FC9B8C4AACF5889F4), compiling. 
+[2023.09.12-05.46.00:387][733]LogMaterial: Display: Missing cached shadermap for Preview:window_glass_mat in PCD3D_SM5, Default, SM5 (DDC key hash: 095ACF5CA4700EB4768A52861424E715FAA4D23A), compiling. 
+[2023.09.12-05.46.00:389][733]LogMaterial: Display: Missing cached shadermap for Preview:daybed_window_frame in PCD3D_SM5, Default, SM5 (DDC key hash: 04313AFD305356AF8D084A092AE2F00C36A6D392), compiling. 
+[2023.09.12-05.46.00:407][733]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.12-05.46.00:407][733]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-05.46.00:407][733]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-05.46.00:407][733]MaterialEditorStats: Shader Count: 0
+[2023.09.12-05.46.00:407][733]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.12-05.46.00:407][733]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-05.46.00:407][733]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-05.46.00:407][733]MaterialEditorStats: Shader Count: 0
+[2023.09.12-05.46.00:407][733]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.12-05.46.00:407][733]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-05.46.00:407][733]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-05.46.00:407][733]MaterialEditorStats: Shader Count: 0
+[2023.09.12-05.46.00:407][733]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.12-05.46.00:407][733]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-05.46.00:407][733]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-05.46.00:407][733]MaterialEditorStats: Shader Count: 0
+[2023.09.12-05.46.00:407][733]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.12-05.46.00:407][733]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-05.46.00:407][733]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-05.46.00:407][733]MaterialEditorStats: Shader Count: 0
+[2023.09.12-05.46.00:407][733]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.12-05.46.00:407][733]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-05.46.00:407][733]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-05.46.00:407][733]MaterialEditorStats: Shader Count: 0
+[2023.09.12-05.46.00:407][733]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.12-05.46.00:407][733]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-05.46.00:407][733]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-05.46.00:407][733]MaterialEditorStats: Shader Count: 0
+[2023.09.12-05.46.00:407][733]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.12-05.46.00:407][733]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2023.09.12-05.46.00:407][733]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-05.46.00:407][733]MaterialEditorStats: Shader Count: 0
+[2023.09.12-05.46.00:407][733]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.12-05.46.00:407][733]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-05.46.00:407][733]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-05.46.00:407][733]MaterialEditorStats: Shader Count: 0
+[2023.09.12-05.46.00:407][733]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.12-05.46.00:407][733]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2023.09.12-05.46.00:407][733]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-05.46.00:407][733]MaterialEditorStats: Shader Count: 0
+[2023.09.12-05.46.00:407][733]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.12-05.46.00:407][733]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-05.46.00:407][733]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-05.46.00:407][733]MaterialEditorStats: Shader Count: 0
+[2023.09.12-05.46.00:522][734]LogShaderCompilers: Display: ================================================
+[2023.09.12-05.46.00:522][734]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.09.12-05.46.00:522][734]LogShaderCompilers: Display: Total job queries 5838, among them cache hits 4648 (79.62%)
+[2023.09.12-05.46.00:522][734]LogShaderCompilers: Display: Tracking 1040 distinct input hashes that result in 390 distinct outputs (37.50%)
+[2023.09.12-05.46.00:522][734]LogShaderCompilers: Display: RAM used: 1.03 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.06%
+[2023.09.12-05.46.00:522][734]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.09.12-05.46.00:522][734]LogShaderCompilers: Display: Shaders Compiled: 251
+[2023.09.12-05.46.00:522][734]LogShaderCompilers: Display: Jobs assigned 1040, completed 1040 (100.00%)
+[2023.09.12-05.46.00:522][734]LogShaderCompilers: Display: Average time worker was idle: 32.27 s
+[2023.09.12-05.46.00:522][734]LogShaderCompilers: Display: Time job spent in pending queue: average 0.41 s, longest 7.07 s
+[2023.09.12-05.46.00:522][734]LogShaderCompilers: Display: Job execution time: average 1.10 s, max 6.58 s
+[2023.09.12-05.46.00:522][734]LogShaderCompilers: Display: Job life time (pending + execution): average 1.51 s, max 7.89
+[2023.09.12-05.46.00:522][734]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 229.75 s
+[2023.09.12-05.46.00:522][734]LogShaderCompilers: Display: Jobs were issued in 1018 batches (only local compilation was used), average 1.02 jobs/batch
+[2023.09.12-05.46.00:522][734]LogShaderCompilers: Display: Average processing rate: 4.53 jobs/sec
+[2023.09.12-05.46.00:522][734]LogShaderCompilers: Display: Effective parallelization: 3.86 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.09.12-05.46.00:522][734]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.09.12-05.46.00:522][734]LogShaderCompilers: Display:  TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight (compiled    1 times, average 1.94 sec, max 1.94 sec, min 1.94 sec)
+[2023.09.12-05.46.00:522][734]LogShaderCompilers: Display:          TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQ (compiled    1 times, average 1.71 sec, max 1.71 sec, min 1.71 sec)
+[2023.09.12-05.46.00:522][734]LogShaderCompilers: Display:                         TBasePassPSTLightMapPolicyHQSkylight (compiled    1 times, average 1.70 sec, max 1.70 sec, min 1.70 sec)
+[2023.09.12-05.46.00:522][734]LogShaderCompilers: Display:                         TBasePassPSTLightMapPolicyLQSkylight (compiled    1 times, average 1.50 sec, max 1.50 sec, min 1.50 sec)
+[2023.09.12-05.46.00:522][734]LogShaderCompilers: Display:                                 TBasePassPSTLightMapPolicyHQ (compiled    1 times, average 1.49 sec, max 1.49 sec, min 1.49 sec)
+[2023.09.12-05.46.00:522][734]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.09.12-05.46.00:522][734]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 10.98% of total time (compiled  117 times, average 0.83 sec, max 1.44 sec, min 0.62 sec)
+[2023.09.12-05.46.00:522][734]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 10.01% of total time (compiled  113 times, average 0.78 sec, max 1.30 sec, min 0.50 sec)
+[2023.09.12-05.46.00:522][734]LogShaderCompilers: Display:                                                 FLumenCardVS - 9.69% of total time (compiled  103 times, average 0.83 sec, max 1.38 sec, min 0.66 sec)
+[2023.09.12-05.46.00:522][734]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 5.35% of total time (compiled   38 times, average 1.25 sec, max 1.80 sec, min 0.93 sec)
+[2023.09.12-05.46.00:522][734]LogShaderCompilers: Display:      TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy - 5.28% of total time (compiled   38 times, average 1.23 sec, max 1.46 sec, min 1.10 sec)
+[2023.09.12-05.46.00:522][734]LogShaderCompilers: Display: ================================================
+[2023.09.12-05.46.00:564][735]MaterialEditorStats: Texture samplers: 5/16
+[2023.09.12-05.46.00:564][735]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-05.46.00:564][735]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-05.46.00:564][735]MaterialEditorStats: Shader Count: 4
+[2023.09.12-05.46.00:564][735]MaterialEditorStats: Texture samplers: 5/16
+[2023.09.12-05.46.00:564][735]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-05.46.00:564][735]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-05.46.00:564][735]MaterialEditorStats: Shader Count: 4
+[2023.09.12-05.46.00:564][735]MaterialEditorStats: Texture samplers: 5/16
+[2023.09.12-05.46.00:564][735]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-05.46.00:564][735]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-05.46.00:564][735]MaterialEditorStats: Shader Count: 4
+[2023.09.12-05.46.00:564][735]MaterialEditorStats: Texture samplers: 5/16
+[2023.09.12-05.46.00:564][735]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-05.46.00:564][735]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-05.46.00:564][735]MaterialEditorStats: Shader Count: 4
+[2023.09.12-05.46.00:564][735]MaterialEditorStats: Texture samplers: 5/16
+[2023.09.12-05.46.00:564][735]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-05.46.00:564][735]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-05.46.00:564][735]MaterialEditorStats: Shader Count: 4
+[2023.09.12-05.46.00:564][735]MaterialEditorStats: Texture samplers: 5/16
+[2023.09.12-05.46.00:564][735]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-05.46.00:564][735]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-05.46.00:564][735]MaterialEditorStats: Shader Count: 4
+[2023.09.12-05.46.00:565][735]MaterialEditorStats: Texture samplers: 5/16
+[2023.09.12-05.46.00:565][735]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-05.46.00:565][735]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-05.46.00:565][735]MaterialEditorStats: Shader Count: 4
+[2023.09.12-05.46.00:565][735]MaterialEditorStats: Texture samplers: 6/16
+[2023.09.12-05.46.00:565][735]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2023.09.12-05.46.00:565][735]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-05.46.00:565][735]MaterialEditorStats: Shader Count: 4
+[2023.09.12-05.46.00:565][735]MaterialEditorStats: Texture samplers: 5/16
+[2023.09.12-05.46.00:565][735]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-05.46.00:565][735]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-05.46.00:565][735]MaterialEditorStats: Shader Count: 4
+[2023.09.12-05.46.00:565][735]MaterialEditorStats: Texture samplers: 6/16
+[2023.09.12-05.46.00:565][735]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2023.09.12-05.46.00:565][735]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-05.46.00:565][735]MaterialEditorStats: Shader Count: 12
+[2023.09.12-05.46.00:565][735]MaterialEditorStats: Texture samplers: 5/16
+[2023.09.12-05.46.00:565][735]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-05.46.00:565][735]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-05.46.00:565][735]MaterialEditorStats: Shader Count: 4
+[2023.09.12-05.46.00:812][742]Cmd: TRANSACTION UNDO
+[2023.09.12-05.46.00:812][742]LogEditorTransaction: Undo Clicking on Elements
+[2023.09.12-05.46.00:827][742]LogMaterial: Display: Missing cached shadermap for Preview:material in PCD3D_SM5, Default, SM5 (DDC key hash: 6B5A8517E353AB9FFCE1FAF2FE90338A67BCE214), compiling. 
+[2023.09.12-05.46.00:829][742]LogMaterial: Display: Missing cached shadermap for Preview:coffee_table_drawer in PCD3D_SM5, Default, SM5 (DDC key hash: F7A5502E6D36725D50F3732B492DCCFA9D6BF98D), compiling. 
+[2023.09.12-05.46.00:832][742]LogMaterial: Display: Missing cached shadermap for Preview:daybed_mat in PCD3D_SM5, Default, SM5 (DDC key hash: 5E82303CEAD5DFC48CB38D91B8F7ACDA392FC713), compiling. 
+[2023.09.12-05.46.00:835][742]LogMaterial: Display: Missing cached shadermap for Preview:throwrug_mat in PCD3D_SM5, Default, SM5 (DDC key hash: 72AB0B433BD63223B74A7F2F9D640745AED8C5D7), compiling. 
+[2023.09.12-05.46.00:838][742]LogMaterial: Display: Missing cached shadermap for Preview:NewMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 0B2AEBA35BE3256F969C8CFE7962EE5A79D23CDA), compiling. 
+[2023.09.12-05.46.00:841][742]LogMaterial: Display: Missing cached shadermap for Preview:coffee_table_top_mat in PCD3D_SM5, Default, SM5 (DDC key hash: CB90F84AF22E9449E97B7E14DEC584C16B8C2EC0), compiling. 
+[2023.09.12-05.46.00:844][742]LogMaterial: Display: Missing cached shadermap for Preview:bulb_base_mat in PCD3D_SM5, Default, SM5 (DDC key hash: 012F881D0369EEE659CFD8EB0FADBAB98E6C5382), compiling. 
+[2023.09.12-05.46.00:847][742]LogMaterial: Display: Missing cached shadermap for Preview:bulb_filament_mat in PCD3D_SM5, Default, SM5 (DDC key hash: 8F891E11F602C5E559B4D1D4F9ECCA1822F9CAA3), compiling. 
+[2023.09.12-05.46.00:850][742]LogMaterial: Display: Missing cached shadermap for Preview:bulb_glass_mat in PCD3D_SM5, Default, SM5 (DDC key hash: 698E812668AF9F4FA0CFD3240827DBC5929DB608), compiling. 
+[2023.09.12-05.46.00:853][742]LogMaterial: Display: Missing cached shadermap for Preview:floorlamp_base_mat in PCD3D_SM5, Default, SM5 (DDC key hash: 1ADAEDD29A6C9728EF6959D1D07FE15D9EC5BCD5), compiling. 
+[2023.09.12-05.46.00:857][742]LogMaterial: Display: Missing cached shadermap for Preview:window_glass_mat in PCD3D_SM5, Default, SM5 (DDC key hash: D8468EC08383DF0F9E950FA5EA4EEADD92E3F997), compiling. 
+[2023.09.12-05.46.00:859][742]LogMaterial: Display: Missing cached shadermap for Preview:daybed_window_frame in PCD3D_SM5, Default, SM5 (DDC key hash: 2201CD1248575E9338ADC915D5B45E57099C8BD9), compiling. 
+[2023.09.12-05.46.00:866][742]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.12-05.46.00:866][742]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-05.46.00:866][742]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-05.46.00:866][742]MaterialEditorStats: Shader Count: 0
+[2023.09.12-05.46.00:866][742]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.12-05.46.00:866][742]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-05.46.00:866][742]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-05.46.00:866][742]MaterialEditorStats: Shader Count: 0
+[2023.09.12-05.46.00:866][742]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.12-05.46.00:866][742]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-05.46.00:866][742]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-05.46.00:866][742]MaterialEditorStats: Shader Count: 0
+[2023.09.12-05.46.00:866][742]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.12-05.46.00:866][742]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-05.46.00:866][742]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-05.46.00:866][742]MaterialEditorStats: Shader Count: 0
+[2023.09.12-05.46.00:866][742]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.12-05.46.00:866][742]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-05.46.00:866][742]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-05.46.00:866][742]MaterialEditorStats: Shader Count: 0
+[2023.09.12-05.46.00:867][742]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.12-05.46.00:867][742]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-05.46.00:867][742]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-05.46.00:867][742]MaterialEditorStats: Shader Count: 0
+[2023.09.12-05.46.00:867][742]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.12-05.46.00:867][742]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-05.46.00:867][742]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-05.46.00:867][742]MaterialEditorStats: Shader Count: 0
+[2023.09.12-05.46.00:867][742]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.12-05.46.00:867][742]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2023.09.12-05.46.00:867][742]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-05.46.00:867][742]MaterialEditorStats: Shader Count: 0
+[2023.09.12-05.46.00:867][742]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.12-05.46.00:867][742]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-05.46.00:867][742]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-05.46.00:867][742]MaterialEditorStats: Shader Count: 0
+[2023.09.12-05.46.00:867][742]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.12-05.46.00:867][742]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2023.09.12-05.46.00:867][742]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-05.46.00:867][742]MaterialEditorStats: Shader Count: 0
+[2023.09.12-05.46.00:867][742]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.12-05.46.00:867][742]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-05.46.00:867][742]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-05.46.00:867][742]MaterialEditorStats: Shader Count: 0
+[2023.09.12-05.46.00:989][744]MaterialEditorStats: Texture samplers: 5/16
+[2023.09.12-05.46.00:989][744]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-05.46.00:989][744]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-05.46.00:989][744]MaterialEditorStats: Shader Count: 4
+[2023.09.12-05.46.01:017][745]MaterialEditorStats: Texture samplers: 5/16
+[2023.09.12-05.46.01:017][745]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-05.46.01:017][745]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-05.46.01:017][745]MaterialEditorStats: Shader Count: 4
+[2023.09.12-05.46.01:017][745]MaterialEditorStats: Texture samplers: 5/16
+[2023.09.12-05.46.01:017][745]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-05.46.01:017][745]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-05.46.01:017][745]MaterialEditorStats: Shader Count: 4
+[2023.09.12-05.46.01:017][745]MaterialEditorStats: Texture samplers: 5/16
+[2023.09.12-05.46.01:017][745]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-05.46.01:018][745]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-05.46.01:018][745]MaterialEditorStats: Shader Count: 4
+[2023.09.12-05.46.01:018][745]MaterialEditorStats: Texture samplers: 5/16
+[2023.09.12-05.46.01:018][745]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-05.46.01:018][745]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-05.46.01:018][745]MaterialEditorStats: Shader Count: 4
+[2023.09.12-05.46.01:018][745]MaterialEditorStats: Texture samplers: 5/16
+[2023.09.12-05.46.01:018][745]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-05.46.01:018][745]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-05.46.01:018][745]MaterialEditorStats: Shader Count: 4
+[2023.09.12-05.46.01:018][745]MaterialEditorStats: Texture samplers: 5/16
+[2023.09.12-05.46.01:018][745]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-05.46.01:018][745]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-05.46.01:018][745]MaterialEditorStats: Shader Count: 4
+[2023.09.12-05.46.01:018][745]MaterialEditorStats: Texture samplers: 5/16
+[2023.09.12-05.46.01:018][745]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-05.46.01:018][745]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-05.46.01:018][745]MaterialEditorStats: Shader Count: 4
+[2023.09.12-05.46.01:018][745]MaterialEditorStats: Texture samplers: 6/16
+[2023.09.12-05.46.01:018][745]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2023.09.12-05.46.01:018][745]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-05.46.01:018][745]MaterialEditorStats: Shader Count: 4
+[2023.09.12-05.46.01:018][745]MaterialEditorStats: Texture samplers: 5/16
+[2023.09.12-05.46.01:018][745]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-05.46.01:018][745]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-05.46.01:018][745]MaterialEditorStats: Shader Count: 4
+[2023.09.12-05.46.01:018][745]MaterialEditorStats: Texture samplers: 6/16
+[2023.09.12-05.46.01:018][745]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2023.09.12-05.46.01:018][745]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-05.46.01:018][745]MaterialEditorStats: Shader Count: 12
+[2023.09.12-05.46.01:209][756]Cmd: TRANSACTION UNDO
+[2023.09.12-05.46.01:209][756]LogEditorTransaction: Undo Clicking on Elements
+[2023.09.12-05.46.01:226][756]LogMaterial: Display: Missing cached shadermap for Preview:material in PCD3D_SM5, Default, SM5 (DDC key hash: BB40638ECCF0E9FA867A45518B129E7BE04DC4EA), compiling. 
+[2023.09.12-05.46.01:229][756]LogMaterial: Display: Missing cached shadermap for Preview:coffee_table_drawer in PCD3D_SM5, Default, SM5 (DDC key hash: 8B01FB91E9F7AFFDCFC0D4E2D76DE39411345C03), compiling. 
+[2023.09.12-05.46.01:232][756]LogMaterial: Display: Missing cached shadermap for Preview:daybed_mat in PCD3D_SM5, Default, SM5 (DDC key hash: A810E774A802E22DCC8819A225DF0A0424BFEE47), compiling. 
+[2023.09.12-05.46.01:235][756]LogMaterial: Display: Missing cached shadermap for Preview:throwrug_mat in PCD3D_SM5, Default, SM5 (DDC key hash: 840AB8B8DC8F1D2F01BDB4C311C260F70D824214), compiling. 
+[2023.09.12-05.46.01:238][756]LogMaterial: Display: Missing cached shadermap for Preview:NewMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 916A96B39437EF3FF98D83F6CA33A24322C84251), compiling. 
+[2023.09.12-05.46.01:241][756]LogMaterial: Display: Missing cached shadermap for Preview:coffee_table_top_mat in PCD3D_SM5, Default, SM5 (DDC key hash: AB4BE8ED88419830985E2DD15BE167E513513E57), compiling. 
+[2023.09.12-05.46.01:244][756]LogMaterial: Display: Missing cached shadermap for Preview:bulb_base_mat in PCD3D_SM5, Default, SM5 (DDC key hash: 7FCC6F2C9DA8A43DA313E4FC6BEAACAE3826E292), compiling. 
+[2023.09.12-05.46.01:247][756]LogMaterial: Display: Missing cached shadermap for Preview:bulb_filament_mat in PCD3D_SM5, Default, SM5 (DDC key hash: FACD57F89E051E501728A9E4A993DC271EC94B5C), compiling. 
+[2023.09.12-05.46.01:250][756]LogMaterial: Display: Missing cached shadermap for Preview:bulb_glass_mat in PCD3D_SM5, Default, SM5 (DDC key hash: 425B903C81FAD98607708667EDF746CDE8C0D178), compiling. 
+[2023.09.12-05.46.01:254][756]LogMaterial: Display: Missing cached shadermap for Preview:floorlamp_base_mat in PCD3D_SM5, Default, SM5 (DDC key hash: 63C96C9F1E283DBAFE9CE9ECD9A0A1E8D795C287), compiling. 
+[2023.09.12-05.46.01:257][756]LogMaterial: Display: Missing cached shadermap for Preview:window_glass_mat in PCD3D_SM5, Default, SM5 (DDC key hash: 94B29C6CF0231A694FB2E7283D416A77945B7B07), compiling. 
+[2023.09.12-05.46.01:260][756]LogMaterial: Display: Missing cached shadermap for Preview:daybed_window_frame in PCD3D_SM5, Default, SM5 (DDC key hash: DF556D59E0669A87644102A12853F5D61D5E43C9), compiling. 
+[2023.09.12-05.46.01:267][756]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.12-05.46.01:267][756]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-05.46.01:267][756]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-05.46.01:267][756]MaterialEditorStats: Shader Count: 0
+[2023.09.12-05.46.01:267][756]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.12-05.46.01:267][756]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-05.46.01:267][756]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-05.46.01:267][756]MaterialEditorStats: Shader Count: 0
+[2023.09.12-05.46.01:267][756]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.12-05.46.01:267][756]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-05.46.01:267][756]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-05.46.01:267][756]MaterialEditorStats: Shader Count: 0
+[2023.09.12-05.46.01:267][756]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.12-05.46.01:267][756]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-05.46.01:267][756]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-05.46.01:267][756]MaterialEditorStats: Shader Count: 0
+[2023.09.12-05.46.01:267][756]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.12-05.46.01:267][756]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-05.46.01:267][756]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-05.46.01:267][756]MaterialEditorStats: Shader Count: 0
+[2023.09.12-05.46.01:267][756]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.12-05.46.01:267][756]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-05.46.01:267][756]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-05.46.01:267][756]MaterialEditorStats: Shader Count: 0
+[2023.09.12-05.46.01:267][756]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.12-05.46.01:267][756]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-05.46.01:267][756]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-05.46.01:267][756]MaterialEditorStats: Shader Count: 0
+[2023.09.12-05.46.01:267][756]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.12-05.46.01:267][756]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2023.09.12-05.46.01:267][756]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-05.46.01:267][756]MaterialEditorStats: Shader Count: 0
+[2023.09.12-05.46.01:267][756]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.12-05.46.01:267][756]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-05.46.01:267][756]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-05.46.01:267][756]MaterialEditorStats: Shader Count: 0
+[2023.09.12-05.46.01:267][756]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.12-05.46.01:267][756]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2023.09.12-05.46.01:267][756]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-05.46.01:267][756]MaterialEditorStats: Shader Count: 0
+[2023.09.12-05.46.01:267][756]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.12-05.46.01:267][756]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-05.46.01:267][756]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-05.46.01:267][756]MaterialEditorStats: Shader Count: 0
+[2023.09.12-05.46.01:318][758]MaterialEditorStats: Texture samplers: 5/16
+[2023.09.12-05.46.01:318][758]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-05.46.01:318][758]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-05.46.01:318][758]MaterialEditorStats: Shader Count: 4
+[2023.09.12-05.46.01:368][759]MaterialEditorStats: Texture samplers: 5/16
+[2023.09.12-05.46.01:368][759]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-05.46.01:368][759]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-05.46.01:368][759]MaterialEditorStats: Shader Count: 4
+[2023.09.12-05.46.01:368][759]MaterialEditorStats: Texture samplers: 5/16
+[2023.09.12-05.46.01:368][759]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-05.46.01:368][759]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-05.46.01:368][759]MaterialEditorStats: Shader Count: 4
+[2023.09.12-05.46.01:369][759]MaterialEditorStats: Texture samplers: 5/16
+[2023.09.12-05.46.01:369][759]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-05.46.01:369][759]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-05.46.01:369][759]MaterialEditorStats: Shader Count: 4
+[2023.09.12-05.46.01:369][759]MaterialEditorStats: Texture samplers: 5/16
+[2023.09.12-05.46.01:369][759]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-05.46.01:369][759]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-05.46.01:369][759]MaterialEditorStats: Shader Count: 2
+[2023.09.12-05.46.01:391][760]MaterialEditorStats: Texture samplers: 5/16
+[2023.09.12-05.46.01:391][760]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-05.46.01:391][760]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-05.46.01:391][760]MaterialEditorStats: Shader Count: 4
+[2023.09.12-05.46.01:391][760]MaterialEditorStats: Texture samplers: 5/16
+[2023.09.12-05.46.01:391][760]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-05.46.01:391][760]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-05.46.01:391][760]MaterialEditorStats: Shader Count: 4
+[2023.09.12-05.46.01:391][760]MaterialEditorStats: Texture samplers: 5/16
+[2023.09.12-05.46.01:391][760]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-05.46.01:391][760]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-05.46.01:391][760]MaterialEditorStats: Shader Count: 4
+[2023.09.12-05.46.01:391][760]MaterialEditorStats: Texture samplers: 6/16
+[2023.09.12-05.46.01:391][760]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2023.09.12-05.46.01:391][760]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-05.46.01:391][760]MaterialEditorStats: Shader Count: 4
+[2023.09.12-05.46.01:391][760]MaterialEditorStats: Texture samplers: 5/16
+[2023.09.12-05.46.01:391][760]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-05.46.01:391][760]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-05.46.01:391][760]MaterialEditorStats: Shader Count: 4
+[2023.09.12-05.46.01:391][760]MaterialEditorStats: Texture samplers: 6/16
+[2023.09.12-05.46.01:391][760]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2023.09.12-05.46.01:391][760]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-05.46.01:391][760]MaterialEditorStats: Shader Count: 12
+[2023.09.12-05.46.17:971][826]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/YU/2AYVHG7D4ZIKK56VMEASMY
+[2023.09.12-05.46.17:972][826]LogSavePackage: Moving '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Saved/2AYVHG7D4ZIKK56VMEASMYF1774A2E44E65961357EDBA6343B66D2.tmp' to '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/YU/2AYVHG7D4ZIKK56VMEASMY.uasset'
+[2023.09.12-05.46.17:975][826]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/LP/APARDLFLMJY67XMK6O4NXK
+[2023.09.12-05.46.17:976][826]LogSavePackage: Moving '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Saved/APARDLFLMJY67XMK6O4NXKD3B72B344591FBEE0C4B2787DE9506A2.tmp' to '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/LP/APARDLFLMJY67XMK6O4NXK.uasset'
+[2023.09.12-05.46.17:977][826]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/1N/CI6Z94FQ34XNJ4A5TVIN6B
+[2023.09.12-05.46.17:977][826]LogSavePackage: Moving '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Saved/CI6Z94FQ34XNJ4A5TVIN6B11672B3E4DF282A4915F8ABA8019B7BA.tmp' to '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/1N/CI6Z94FQ34XNJ4A5TVIN6B.uasset'
+[2023.09.12-05.46.17:979][826]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/T8/W56B2W4IPEM2XTH0NZ0NBE
+[2023.09.12-05.46.17:979][826]LogSavePackage: Moving '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Saved/W56B2W4IPEM2XTH0NZ0NBEC2B4BD054990B11B998DAFB8FD95D3EC.tmp' to '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/T8/W56B2W4IPEM2XTH0NZ0NBE.uasset'
+[2023.09.12-05.46.17:981][826]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/V4/H2HK8NE39VZJ5K34VAFL1Y
+[2023.09.12-05.46.17:981][826]LogSavePackage: Moving '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Saved/H2HK8NE39VZJ5K34VAFL1Y12FF4CA141E2C4E63BBA21B044DD5325.tmp' to '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/V4/H2HK8NE39VZJ5K34VAFL1Y.uasset'
+[2023.09.12-05.46.17:983][826]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/TO/5UMMGULPQLG639TIIFOV56
+[2023.09.12-05.46.17:983][826]LogSavePackage: Moving '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Saved/5UMMGULPQLG639TIIFOV56142304D24AE7694D98849EB2FEA85838.tmp' to '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/TO/5UMMGULPQLG639TIIFOV56.uasset'
+[2023.09.12-05.46.17:987][826]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/XR/A9V598G9B5Q4BI85AH9CF7
+[2023.09.12-05.46.17:987][826]LogSavePackage: Moving '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Saved/A9V598G9B5Q4BI85AH9CF790B3CCF048BE7CAD91F327A580DF754C.tmp' to '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/XR/A9V598G9B5Q4BI85AH9CF7.uasset'
+[2023.09.12-05.46.17:996][826]AssetCheck: New page: Asset Save: multiple assets
+[2023.09.12-05.46.17:996][826]LogContentValidation: Display: Validating StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_04421A293C7435A701_2146495848
+[2023.09.12-05.46.17:996][826]LogContentValidation: Display: Validating StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_04421A293C7436A701_1084776025
+[2023.09.12-05.46.17:996][826]LogContentValidation: Display: Validating StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_00BE43BC623B14A501_1359617932
+[2023.09.12-05.46.17:996][826]LogContentValidation: Display: Validating StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_04421A293C7434A701_2109103664
+[2023.09.12-05.46.17:996][826]LogContentValidation: Display: Validating StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_04421A293C7435A701_2140337847
+[2023.09.12-05.46.17:996][826]LogContentValidation: Display: Validating StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_04421A293C7489A801_1205367683
+[2023.09.12-05.46.17:996][826]LogContentValidation: Display: Validating StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_04421A293C748AA801_1365589864
+[2023.09.12-05.46.33:651][799]LogSlate: Window 'Color Picker' being destroyed
+[2023.09.12-05.46.39:477][162]LogSlate: Window 'Color Picker' being destroyed
+[2023.09.12-05.46.42:827][365]LogSlate: Window 'Color Picker' being destroyed
+[2023.09.12-05.47.06:389][890]Cmd: TRANSACTION UNDO
+[2023.09.12-05.47.06:389][890]LogEditorTransaction: Undo Edit Planet Radius
+[2023.09.12-05.47.06:407][890]LogMaterial: Display: Missing cached shadermap for Preview:material in PCD3D_SM5, Default, SM5 (DDC key hash: 9756176E8D893E8BB9F3633569762494AE083AB9), compiling. 
+[2023.09.12-05.47.06:410][890]LogMaterial: Display: Missing cached shadermap for Preview:coffee_table_drawer in PCD3D_SM5, Default, SM5 (DDC key hash: 1F80CBD03822A524F1C790E49D8D8553DF8829E6), compiling. 
+[2023.09.12-05.47.06:413][890]LogMaterial: Display: Missing cached shadermap for Preview:daybed_mat in PCD3D_SM5, Default, SM5 (DDC key hash: 1EF527DF2D22B8AD0DB18FF371DDC60E13AA1952), compiling. 
+[2023.09.12-05.47.06:417][890]LogMaterial: Display: Missing cached shadermap for Preview:throwrug_mat in PCD3D_SM5, Default, SM5 (DDC key hash: E1CA0647D8E87188F0D5BAC71A799CF8650B26E0), compiling. 
+[2023.09.12-05.47.06:419][890]LogMaterial: Display: Missing cached shadermap for Preview:NewMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 45CA080CE67757063A9DA5DD1F154A73814F6307), compiling. 
+[2023.09.12-05.47.06:422][890]LogMaterial: Display: Missing cached shadermap for Preview:coffee_table_top_mat in PCD3D_SM5, Default, SM5 (DDC key hash: DF62CA7DF236BA9845EB9D7920C01B390F913FD0), compiling. 
+[2023.09.12-05.47.06:425][890]LogMaterial: Display: Missing cached shadermap for Preview:bulb_base_mat in PCD3D_SM5, Default, SM5 (DDC key hash: 666D7D520DE918C78B464A0988D2A8CC77136DF0), compiling. 
+[2023.09.12-05.47.06:428][890]LogMaterial: Display: Missing cached shadermap for Preview:bulb_filament_mat in PCD3D_SM5, Default, SM5 (DDC key hash: 0B0B83BA3664E153976C6B8F07326EBC4BCD02FB), compiling. 
+[2023.09.12-05.47.06:432][890]LogMaterial: Display: Missing cached shadermap for Preview:bulb_glass_mat in PCD3D_SM5, Default, SM5 (DDC key hash: 4479027BF7CFD5D59628048C2DB0C08C73945557), compiling. 
+[2023.09.12-05.47.06:435][890]LogMaterial: Display: Missing cached shadermap for Preview:floorlamp_base_mat in PCD3D_SM5, Default, SM5 (DDC key hash: 9121BD728E7AE428D3F291A9668F2FA361DBA616), compiling. 
+[2023.09.12-05.47.06:438][890]LogMaterial: Display: Missing cached shadermap for Preview:window_glass_mat in PCD3D_SM5, Default, SM5 (DDC key hash: 3F42135A9A140211BCD2AC12176354C29253C62A), compiling. 
+[2023.09.12-05.47.06:442][890]LogMaterial: Display: Missing cached shadermap for Preview:daybed_window_frame in PCD3D_SM5, Default, SM5 (DDC key hash: 1129A380E1D24DE4D7C25CE54AF20333B1174A83), compiling. 
+[2023.09.12-05.47.06:455][890]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.12-05.47.06:455][890]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-05.47.06:455][890]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-05.47.06:455][890]MaterialEditorStats: Shader Count: 0
+[2023.09.12-05.47.06:455][890]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.12-05.47.06:455][890]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-05.47.06:455][890]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-05.47.06:455][890]MaterialEditorStats: Shader Count: 0
+[2023.09.12-05.47.06:455][890]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.12-05.47.06:455][890]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-05.47.06:455][890]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-05.47.06:455][890]MaterialEditorStats: Shader Count: 0
+[2023.09.12-05.47.06:455][890]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.12-05.47.06:455][890]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-05.47.06:455][890]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-05.47.06:455][890]MaterialEditorStats: Shader Count: 0
+[2023.09.12-05.47.06:455][890]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.12-05.47.06:455][890]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-05.47.06:455][890]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-05.47.06:455][890]MaterialEditorStats: Shader Count: 0
+[2023.09.12-05.47.06:455][890]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.12-05.47.06:455][890]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-05.47.06:455][890]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-05.47.06:455][890]MaterialEditorStats: Shader Count: 0
+[2023.09.12-05.47.06:455][890]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.12-05.47.06:455][890]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-05.47.06:455][890]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-05.47.06:455][890]MaterialEditorStats: Shader Count: 0
+[2023.09.12-05.47.06:455][890]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.12-05.47.06:455][890]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2023.09.12-05.47.06:455][890]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-05.47.06:455][890]MaterialEditorStats: Shader Count: 0
+[2023.09.12-05.47.06:455][890]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.12-05.47.06:455][890]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-05.47.06:455][890]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-05.47.06:455][890]MaterialEditorStats: Shader Count: 0
+[2023.09.12-05.47.06:455][890]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.12-05.47.06:455][890]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2023.09.12-05.47.06:455][890]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-05.47.06:455][890]MaterialEditorStats: Shader Count: 0
+[2023.09.12-05.47.06:455][890]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.12-05.47.06:455][890]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-05.47.06:455][890]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-05.47.06:455][890]MaterialEditorStats: Shader Count: 0
+[2023.09.12-05.47.06:510][892]MaterialEditorStats: Texture samplers: 5/16
+[2023.09.12-05.47.06:510][892]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-05.47.06:510][892]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-05.47.06:510][892]MaterialEditorStats: Shader Count: 4
+[2023.09.12-05.47.06:553][893]MaterialEditorStats: Texture samplers: 5/16
+[2023.09.12-05.47.06:553][893]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-05.47.06:553][893]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-05.47.06:553][893]MaterialEditorStats: Shader Count: 4
+[2023.09.12-05.47.06:553][893]MaterialEditorStats: Texture samplers: 5/16
+[2023.09.12-05.47.06:553][893]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-05.47.06:553][893]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-05.47.06:553][893]MaterialEditorStats: Shader Count: 4
+[2023.09.12-05.47.06:553][893]MaterialEditorStats: Texture samplers: 5/16
+[2023.09.12-05.47.06:553][893]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-05.47.06:553][893]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-05.47.06:553][893]MaterialEditorStats: Shader Count: 4
+[2023.09.12-05.47.06:553][893]MaterialEditorStats: Texture samplers: 5/16
+[2023.09.12-05.47.06:553][893]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-05.47.06:553][893]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-05.47.06:553][893]MaterialEditorStats: Shader Count: 4
+[2023.09.12-05.47.06:553][893]MaterialEditorStats: Texture samplers: 5/16
+[2023.09.12-05.47.06:553][893]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-05.47.06:553][893]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-05.47.06:553][893]MaterialEditorStats: Shader Count: 4
+[2023.09.12-05.47.06:553][893]MaterialEditorStats: Texture samplers: 5/16
+[2023.09.12-05.47.06:553][893]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-05.47.06:553][893]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-05.47.06:553][893]MaterialEditorStats: Shader Count: 2
+[2023.09.12-05.47.06:580][894]MaterialEditorStats: Texture samplers: 5/16
+[2023.09.12-05.47.06:580][894]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-05.47.06:580][894]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-05.47.06:580][894]MaterialEditorStats: Shader Count: 4
+[2023.09.12-05.47.06:580][894]MaterialEditorStats: Texture samplers: 6/16
+[2023.09.12-05.47.06:580][894]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2023.09.12-05.47.06:580][894]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-05.47.06:580][894]MaterialEditorStats: Shader Count: 4
+[2023.09.12-05.47.06:580][894]MaterialEditorStats: Texture samplers: 5/16
+[2023.09.12-05.47.06:580][894]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-05.47.06:580][894]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-05.47.06:580][894]MaterialEditorStats: Shader Count: 4
+[2023.09.12-05.47.06:580][894]MaterialEditorStats: Texture samplers: 6/16
+[2023.09.12-05.47.06:580][894]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2023.09.12-05.47.06:580][894]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-05.47.06:580][894]MaterialEditorStats: Shader Count: 12
+[2023.09.12-05.47.09:832][ 74]LogSlate: Window 'Color Picker' being destroyed
+[2023.09.12-05.47.11:963][210]Cmd: TRANSACTION UNDO
+[2023.09.12-05.47.11:963][210]LogEditorTransaction: Undo Edit Ground Albedo
+[2023.09.12-05.47.11:980][210]LogMaterial: Display: Missing cached shadermap for Preview:material in PCD3D_SM5, Default, SM5 (DDC key hash: 1A38FC54ADCF06A0D0B25E7ABE6F52247C74A489), compiling. 
+[2023.09.12-05.47.11:983][210]LogMaterial: Display: Missing cached shadermap for Preview:coffee_table_drawer in PCD3D_SM5, Default, SM5 (DDC key hash: 37D16391065E0983921E6CC6CADE58CC2F186F56), compiling. 
+[2023.09.12-05.47.11:986][210]LogMaterial: Display: Missing cached shadermap for Preview:daybed_mat in PCD3D_SM5, Default, SM5 (DDC key hash: 9F4D4C4E85F8433FFD5659AB92F5949FFF113AF5), compiling. 
+[2023.09.12-05.47.11:989][210]LogMaterial: Display: Missing cached shadermap for Preview:throwrug_mat in PCD3D_SM5, Default, SM5 (DDC key hash: 51FA5F51765BFE6906DE2E024FC732686971A47C), compiling. 
+[2023.09.12-05.47.11:992][210]LogMaterial: Display: Missing cached shadermap for Preview:NewMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: AE00DEAC379F04A2E2DCD2C0B41C9B95F6E2E49A), compiling. 
+[2023.09.12-05.47.11:994][210]LogMaterial: Display: Missing cached shadermap for Preview:coffee_table_top_mat in PCD3D_SM5, Default, SM5 (DDC key hash: EB25D2C29C824A8A07A95392F2737EFED05A62FE), compiling. 
+[2023.09.12-05.47.11:998][210]LogMaterial: Display: Missing cached shadermap for Preview:bulb_base_mat in PCD3D_SM5, Default, SM5 (DDC key hash: A072B6C8231CDB01854E4147879AE17196B52D28), compiling. 
+[2023.09.12-05.47.12:000][210]LogMaterial: Display: Missing cached shadermap for Preview:bulb_filament_mat in PCD3D_SM5, Default, SM5 (DDC key hash: D2BEE0092DFD63A6F265AA474CA75AB74CA8E191), compiling. 
+[2023.09.12-05.47.12:004][210]LogMaterial: Display: Missing cached shadermap for Preview:bulb_glass_mat in PCD3D_SM5, Default, SM5 (DDC key hash: C94758A95AE13B1AA434FECC487AE982A09FCFBC), compiling. 
+[2023.09.12-05.47.12:006][210]LogMaterial: Display: Missing cached shadermap for Preview:floorlamp_base_mat in PCD3D_SM5, Default, SM5 (DDC key hash: 5D6626796F8592A86E599F1AF7721156E923319E), compiling. 
+[2023.09.12-05.47.12:010][210]LogMaterial: Display: Missing cached shadermap for Preview:window_glass_mat in PCD3D_SM5, Default, SM5 (DDC key hash: F33CBFD50DAFDCF63DAD28D506D953537016A4FD), compiling. 
+[2023.09.12-05.47.12:013][210]LogMaterial: Display: Missing cached shadermap for Preview:daybed_window_frame in PCD3D_SM5, Default, SM5 (DDC key hash: 38EED210A375570C303703ADAD8250E071CE9AD3), compiling. 
+[2023.09.12-05.47.12:027][210]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.12-05.47.12:027][210]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-05.47.12:027][210]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-05.47.12:027][210]MaterialEditorStats: Shader Count: 0
+[2023.09.12-05.47.12:027][210]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.12-05.47.12:027][210]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-05.47.12:027][210]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-05.47.12:027][210]MaterialEditorStats: Shader Count: 0
+[2023.09.12-05.47.12:027][210]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.12-05.47.12:027][210]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-05.47.12:027][210]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-05.47.12:027][210]MaterialEditorStats: Shader Count: 0
+[2023.09.12-05.47.12:027][210]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.12-05.47.12:027][210]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-05.47.12:027][210]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-05.47.12:027][210]MaterialEditorStats: Shader Count: 0
+[2023.09.12-05.47.12:027][210]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.12-05.47.12:027][210]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-05.47.12:027][210]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-05.47.12:027][210]MaterialEditorStats: Shader Count: 0
+[2023.09.12-05.47.12:027][210]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.12-05.47.12:027][210]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-05.47.12:027][210]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-05.47.12:027][210]MaterialEditorStats: Shader Count: 0
+[2023.09.12-05.47.12:027][210]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.12-05.47.12:027][210]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-05.47.12:027][210]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-05.47.12:027][210]MaterialEditorStats: Shader Count: 0
+[2023.09.12-05.47.12:027][210]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.12-05.47.12:027][210]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2023.09.12-05.47.12:027][210]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-05.47.12:027][210]MaterialEditorStats: Shader Count: 0
+[2023.09.12-05.47.12:027][210]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.12-05.47.12:027][210]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-05.47.12:027][210]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-05.47.12:027][210]MaterialEditorStats: Shader Count: 0
+[2023.09.12-05.47.12:027][210]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.12-05.47.12:027][210]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2023.09.12-05.47.12:027][210]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-05.47.12:027][210]MaterialEditorStats: Shader Count: 0
+[2023.09.12-05.47.12:027][210]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.12-05.47.12:027][210]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-05.47.12:027][210]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-05.47.12:027][210]MaterialEditorStats: Shader Count: 0
+[2023.09.12-05.47.12:097][212]MaterialEditorStats: Texture samplers: 5/16
+[2023.09.12-05.47.12:097][212]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-05.47.12:097][212]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-05.47.12:097][212]MaterialEditorStats: Shader Count: 4
+[2023.09.12-05.47.12:139][213]MaterialEditorStats: Texture samplers: 5/16
+[2023.09.12-05.47.12:139][213]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-05.47.12:139][213]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-05.47.12:139][213]MaterialEditorStats: Shader Count: 4
+[2023.09.12-05.47.12:139][213]MaterialEditorStats: Texture samplers: 5/16
+[2023.09.12-05.47.12:139][213]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-05.47.12:139][213]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-05.47.12:139][213]MaterialEditorStats: Shader Count: 4
+[2023.09.12-05.47.12:139][213]MaterialEditorStats: Texture samplers: 5/16
+[2023.09.12-05.47.12:139][213]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-05.47.12:139][213]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-05.47.12:139][213]MaterialEditorStats: Shader Count: 4
+[2023.09.12-05.47.12:139][213]MaterialEditorStats: Texture samplers: 5/16
+[2023.09.12-05.47.12:139][213]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-05.47.12:139][213]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-05.47.12:139][213]MaterialEditorStats: Shader Count: 4
+[2023.09.12-05.47.12:139][213]MaterialEditorStats: Texture samplers: 5/16
+[2023.09.12-05.47.12:139][213]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-05.47.12:139][213]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-05.47.12:139][213]MaterialEditorStats: Shader Count: 4
+[2023.09.12-05.47.12:139][213]MaterialEditorStats: Texture samplers: 5/16
+[2023.09.12-05.47.12:139][213]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-05.47.12:139][213]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-05.47.12:139][213]MaterialEditorStats: Shader Count: 2
+[2023.09.12-05.47.12:166][214]MaterialEditorStats: Texture samplers: 5/16
+[2023.09.12-05.47.12:166][214]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-05.47.12:166][214]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-05.47.12:166][214]MaterialEditorStats: Shader Count: 4
+[2023.09.12-05.47.12:166][214]MaterialEditorStats: Texture samplers: 6/16
+[2023.09.12-05.47.12:166][214]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2023.09.12-05.47.12:166][214]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-05.47.12:166][214]MaterialEditorStats: Shader Count: 4
+[2023.09.12-05.47.12:166][214]MaterialEditorStats: Texture samplers: 5/16
+[2023.09.12-05.47.12:166][214]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.12-05.47.12:166][214]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-05.47.12:166][214]MaterialEditorStats: Shader Count: 4
+[2023.09.12-05.47.12:166][214]MaterialEditorStats: Texture samplers: 6/16
+[2023.09.12-05.47.12:166][214]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2023.09.12-05.47.12:166][214]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.12-05.47.12:166][214]MaterialEditorStats: Shader Count: 12
+[2023.09.12-05.47.21:272][776]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/0Z/5RQIHCZ9W3UXRGL4LTLQAK
+[2023.09.12-05.47.21:273][776]LogSavePackage: Moving '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Saved/5RQIHCZ9W3UXRGL4LTLQAK082AD715497902D22F11789A577B41F8.tmp' to '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/0Z/5RQIHCZ9W3UXRGL4LTLQAK.uasset'
+[2023.09.12-05.47.21:281][776]AssetCheck: New page: Asset Save: SkyLight_0
+[2023.09.12-05.47.21:282][776]LogContentValidation: Display: Validating SkyLight /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.SkyLight_0
+[2023.09.12-05.47.22:822][878]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.09.12-05.47.24:505][981]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
