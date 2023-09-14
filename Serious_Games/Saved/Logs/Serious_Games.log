@@ -1820,3 +1820,239 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2023.09.14-01.33.30:278][947]LogSavePackage: Moving '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Saved/70SM1KR31H6VCF0RDI42R067D2D3974FA7A7AB0B7D75A35DC69B3B.tmp' to '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/FL/70SM1KR31H6VCF0RDI42R0.uasset'
 [2023.09.14-01.33.30:286][947]AssetCheck: New page: Asset Save: StaticMeshActor_UAID_04421A293C741CA901_1507711554
 [2023.09.14-01.33.30:286][947]LogContentValidation: Display: Validating StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_04421A293C741CA901_1507711554
+[2023.09.14-01.33.55:636][540]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.09.14-01.34.08:466][455]LogMaterial: Display: Missing cached shadermap for Preview:study_desk_mat in PCD3D_SM5, Default, SM5 (DDC key hash: 50AEE73A4839E4854F8331EF7F069320C2877017), compiling. 
+[2023.09.14-01.34.08:477][455]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.14-01.34.08:477][455]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.14-01.34.08:477][455]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.14-01.34.08:477][455]MaterialEditorStats: Shader Count: 0
+[2023.09.14-01.34.08:513][457]MaterialEditorStats: Texture samplers: 5/16
+[2023.09.14-01.34.08:513][457]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.14-01.34.08:513][457]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.14-01.34.08:513][457]MaterialEditorStats: Shader Count: 4
+[2023.09.14-01.34.11:946][709]LogMaterial: Display: Missing cached shadermap for Preview:study_desk_mat in PCD3D_SM5, Default, SM5 (DDC key hash: 374CAF4F9415206F8CD0276695138205D35B0E73), compiling. 
+[2023.09.14-01.34.11:947][709]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_4 in PCD3D_SM5, Default, SM5 (DDC key hash: 427A745D341355CB5BA26191E808E11B6DE1BA0D), compiling. 
+[2023.09.14-01.34.11:950][709]LogMaterial: Display: Missing cached shadermap for Preview:study_desk_mat in PCD3D_SM5, Default, SM5 (DDC key hash: 407041C6ED5C7FAE898A8C55CE31F04C3DE324BD), compiling. 
+[2023.09.14-01.34.11:954][709]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.14-01.34.11:954][709]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.14-01.34.11:954][709]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.14-01.34.11:954][709]MaterialEditorStats: Shader Count: 0
+[2023.09.14-01.34.11:979][711]MaterialEditorStats: Texture samplers: 5/16
+[2023.09.14-01.34.11:979][711]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.14-01.34.11:979][711]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.14-01.34.11:979][711]MaterialEditorStats: Shader Count: 4
+[2023.09.14-01.34.12:515][747]LogMaterial: Display: Missing cached shadermap for Preview:study_desk_mat in PCD3D_SM5, Default, SM5 (DDC key hash: EF5EED51AEA2FCEFAC58DDD57BCAF813EE326FDC), compiling. 
+[2023.09.14-01.34.12:517][747]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_4 in PCD3D_SM5, Default, SM5 (DDC key hash: 393CE9798E2B67F105009E46216AF1D2A6B53F4F), compiling. 
+[2023.09.14-01.34.12:520][747]LogMaterial: Display: Missing cached shadermap for Preview:study_desk_mat in PCD3D_SM5, Default, SM5 (DDC key hash: 42C9F553A9DEDE4033A4655145E0AA86DF9CD954), compiling. 
+[2023.09.14-01.34.12:523][747]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.14-01.34.12:523][747]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.14-01.34.12:523][747]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.14-01.34.12:523][747]MaterialEditorStats: Shader Count: 0
+[2023.09.14-01.34.12:549][749]MaterialEditorStats: Texture samplers: 5/16
+[2023.09.14-01.34.12:549][749]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.14-01.34.12:549][749]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.14-01.34.12:549][749]MaterialEditorStats: Shader Count: 4
+[2023.09.14-01.34.12:949][774]LogMaterial: Display: Missing cached shadermap for Preview:study_desk_mat in PCD3D_SM5, Default, SM5 (DDC key hash: 6A6C1C5BB623BC2C701468888FD3CD9BDD202B9A), compiling. 
+[2023.09.14-01.34.12:951][774]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_4 in PCD3D_SM5, Default, SM5 (DDC key hash: 3AC3ACB83E556CE13CF365EC41A510B30DD9E683), compiling. 
+[2023.09.14-01.34.12:953][774]LogMaterial: Display: Missing cached shadermap for Preview:study_desk_mat in PCD3D_SM5, Default, SM5 (DDC key hash: 893701BB085254261072D13236942150CBB58FF6), compiling. 
+[2023.09.14-01.34.12:957][774]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.14-01.34.12:957][774]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.14-01.34.12:957][774]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.14-01.34.12:957][774]MaterialEditorStats: Shader Count: 0
+[2023.09.14-01.34.12:978][776]MaterialEditorStats: Texture samplers: 5/16
+[2023.09.14-01.34.12:978][776]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.14-01.34.12:978][776]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.14-01.34.12:978][776]MaterialEditorStats: Shader Count: 4
+[2023.09.14-01.34.13:230][791]LogMaterial: Display: Missing cached shadermap for Preview:study_desk_mat in PCD3D_SM5, Default, SM5 (DDC key hash: 6E1D7CDA082E2E8B2F8245EC9FF1DA38139D3827), compiling. 
+[2023.09.14-01.34.13:232][791]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_4 in PCD3D_SM5, Default, SM5 (DDC key hash: 3928B5BF775E35516DFD9EC100EA395825400B5C), compiling. 
+[2023.09.14-01.34.13:234][791]LogMaterial: Display: Missing cached shadermap for Preview:study_desk_mat in PCD3D_SM5, Default, SM5 (DDC key hash: B79A3BA2B93980F80852FB0A2227B9D77023DA22), compiling. 
+[2023.09.14-01.34.13:237][791]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.14-01.34.13:237][791]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.14-01.34.13:237][791]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.14-01.34.13:237][791]MaterialEditorStats: Shader Count: 0
+[2023.09.14-01.34.13:266][793]MaterialEditorStats: Texture samplers: 5/16
+[2023.09.14-01.34.13:266][793]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.14-01.34.13:266][793]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.14-01.34.13:266][793]MaterialEditorStats: Shader Count: 4
+[2023.09.14-01.34.34:978][382]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.09.14-01.34.57:299][977]LogSlate: Window 'Material Baking Options' being destroyed
+[2023.09.14-01.34.57:318][977]LogMaterialBaking: Verbose: Performing material baking for 1 materials
+[2023.09.14-01.34.57:318][977]LogMaterialBaking: Verbose:     [    0] Material: study_desk_mat                                     Vertices:     7301    Triangles:     3734
+[2023.09.14-01.34.57:348][977]LogMaterial: Display: Missing cached shadermap for FExportMaterialRenderer study_desk_mat in PCD3D_SM5, Default, SM5 (DDC key hash: 828E0441815BB28AE25F6A524FF142CB06D67448), compiling. 
+[2023.09.14-01.34.59:386][977]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2023.09.14-01.35.01:249][977]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.004083s (1.866200s overbudget)
+[2023.09.14-01.35.01:720][977]LogTexture: Display: Building textures: /Game/OurProject/Maps/bedroom_scene/assets/study_desk/M_study_desk2_study_desk_mat_932C8A2249F983D66F4F3ABA785FA4BB.T_M_study_desk2_study_desk_mat_932C8A2249F983D66F4F3ABA785FA4BB_BaseColor (TFO_DXT1, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.09.14-01.35.01:720][977]LogMaterial: Display: Missing cached shadermap for M_M_study_desk2_study_desk_mat_932C8A2249F983D66F4F3ABA785FA4BB in PCD3D_SM5, Default, SM5 (DDC key hash: 97BC1D6510D9F25CA332566CC615684934E5D0B3), compiling. 
+[2023.09.14-01.35.02:679][ 12]LogD3D12RHI: OnlineHeap RollOver Detected. Increase the heap size to prevent creation of additional heaps
+[2023.09.14-01.35.13:826][829]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.09.14-01.35.15:389][936]Cmd: TRANSACTION UNDO
+[2023.09.14-01.35.15:390][936]LogEditorTransaction: Undo Clicking on Elements
+[2023.09.14-01.35.15:406][936]LogMaterial: Display: Missing cached shadermap for Preview:NewMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 5E83F0C37936426DF435A8DDA264889FFFA2E084), compiling. 
+[2023.09.14-01.35.15:414][936]LogMaterial: Display: Missing cached shadermap for Preview:study_desk_mat in PCD3D_SM5, Default, SM5 (DDC key hash: CFE1E8C1093DFB20A478364F06747C01BEAF5AB5), compiling. 
+[2023.09.14-01.35.15:429][936]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.14-01.35.15:429][936]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.14-01.35.15:429][936]MaterialEditorStats: Virtual Texture Lookups (Est.): 3
+[2023.09.14-01.35.15:429][936]MaterialEditorStats: Virtual Texture Stacks: 1
+[2023.09.14-01.35.15:429][936]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.14-01.35.15:429][936]MaterialEditorStats: Shader Count: 0
+[2023.09.14-01.35.15:429][936]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.14-01.35.15:429][936]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.14-01.35.15:429][936]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.14-01.35.15:429][936]MaterialEditorStats: Shader Count: 0
+[2023.09.14-01.35.15:512][938]MaterialEditorStats: Texture samplers: 5/16
+[2023.09.14-01.35.15:512][938]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.14-01.35.15:512][938]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.14-01.35.15:512][938]MaterialEditorStats: Shader Count: 4
+[2023.09.14-01.35.15:538][939]MaterialEditorStats: Texture samplers: 4/16
+[2023.09.14-01.35.15:538][939]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.14-01.35.15:538][939]MaterialEditorStats: Virtual Texture Lookups (Est.): 3
+[2023.09.14-01.35.15:538][939]MaterialEditorStats: Virtual Texture Stacks: 1
+[2023.09.14-01.35.15:538][939]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.14-01.35.15:538][939]MaterialEditorStats: Shader Count: 4
+[2023.09.14-01.35.15:607][940]Cmd: TRANSACTION UNDO
+[2023.09.14-01.35.15:607][940]LogEditorTransaction: Undo Clicking on Elements
+[2023.09.14-01.35.15:620][940]LogMaterial: Display: Missing cached shadermap for Preview:NewMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 60C42E2A04AA6FBFD5717064FA356D59335F5855), compiling. 
+[2023.09.14-01.35.15:624][940]LogMaterial: Display: Missing cached shadermap for Preview:study_desk_mat in PCD3D_SM5, Default, SM5 (DDC key hash: DDC5AECD9822BCBB220374A7EEB693193E1F6C90), compiling. 
+[2023.09.14-01.35.15:629][940]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.14-01.35.15:629][940]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.14-01.35.15:629][940]MaterialEditorStats: Virtual Texture Lookups (Est.): 3
+[2023.09.14-01.35.15:629][940]MaterialEditorStats: Virtual Texture Stacks: 1
+[2023.09.14-01.35.15:629][940]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.14-01.35.15:629][940]MaterialEditorStats: Shader Count: 0
+[2023.09.14-01.35.15:629][940]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.14-01.35.15:629][940]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.14-01.35.15:629][940]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.14-01.35.15:629][940]MaterialEditorStats: Shader Count: 0
+[2023.09.14-01.35.15:719][942]MaterialEditorStats: Texture samplers: 4/16
+[2023.09.14-01.35.15:719][942]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.14-01.35.15:719][942]MaterialEditorStats: Virtual Texture Lookups (Est.): 3
+[2023.09.14-01.35.15:719][942]MaterialEditorStats: Virtual Texture Stacks: 1
+[2023.09.14-01.35.15:719][942]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.14-01.35.15:719][942]MaterialEditorStats: Shader Count: 2
+[2023.09.14-01.35.15:719][942]MaterialEditorStats: Texture samplers: 5/16
+[2023.09.14-01.35.15:719][942]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.14-01.35.15:719][942]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.14-01.35.15:719][942]MaterialEditorStats: Shader Count: 4
+[2023.09.14-01.35.16:253][974]Cmd: TRANSACTION UNDO
+[2023.09.14-01.35.16:253][974]LogEditorTransaction: Undo Clicking on Elements
+[2023.09.14-01.35.16:269][974]LogMaterial: Display: Missing cached shadermap for Preview:NewMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 690068DB91B2764A0282E1D3D046D03200119EF5), compiling. 
+[2023.09.14-01.35.16:272][974]LogMaterial: Display: Missing cached shadermap for Preview:study_desk_mat in PCD3D_SM5, Default, SM5 (DDC key hash: F0B1BDC4AAD95919B8665DCE307AADBF4D13F0CA), compiling. 
+[2023.09.14-01.35.16:277][974]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.14-01.35.16:277][974]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.14-01.35.16:277][974]MaterialEditorStats: Virtual Texture Lookups (Est.): 3
+[2023.09.14-01.35.16:277][974]MaterialEditorStats: Virtual Texture Stacks: 1
+[2023.09.14-01.35.16:277][974]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.14-01.35.16:277][974]MaterialEditorStats: Shader Count: 0
+[2023.09.14-01.35.16:277][974]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.14-01.35.16:277][974]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.14-01.35.16:277][974]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.14-01.35.16:277][974]MaterialEditorStats: Shader Count: 0
+[2023.09.14-01.35.16:321][976]MaterialEditorStats: Texture samplers: 5/16
+[2023.09.14-01.35.16:322][976]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.14-01.35.16:322][976]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.14-01.35.16:322][976]MaterialEditorStats: Shader Count: 4
+[2023.09.14-01.35.16:336][977]MaterialEditorStats: Texture samplers: 4/16
+[2023.09.14-01.35.16:336][977]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.14-01.35.16:336][977]MaterialEditorStats: Virtual Texture Lookups (Est.): 3
+[2023.09.14-01.35.16:336][977]MaterialEditorStats: Virtual Texture Stacks: 1
+[2023.09.14-01.35.16:336][977]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.14-01.35.16:336][977]MaterialEditorStats: Shader Count: 4
+[2023.09.14-01.35.16:938][ 17]Cmd: TRANSACTION UNDO
+[2023.09.14-01.35.16:938][ 17]LogEditorTransaction: Undo Edit Use Mesh Data
+[2023.09.14-01.35.16:941][ 17]LogMaterial: Display: Missing cached shadermap for Preview:NewMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 3F63397636632C8BBC1CFD2A2E2F1C432E080F02), compiling. 
+[2023.09.14-01.35.16:944][ 17]LogMaterial: Display: Missing cached shadermap for Preview:study_desk_mat in PCD3D_SM5, Default, SM5 (DDC key hash: 5F98F34E4C834F10A87F9E47B92507262404EF25), compiling. 
+[2023.09.14-01.35.16:947][ 17]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.14-01.35.16:947][ 17]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.14-01.35.16:947][ 17]MaterialEditorStats: Virtual Texture Lookups (Est.): 3
+[2023.09.14-01.35.16:947][ 17]MaterialEditorStats: Virtual Texture Stacks: 1
+[2023.09.14-01.35.16:947][ 17]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.14-01.35.16:947][ 17]MaterialEditorStats: Shader Count: 0
+[2023.09.14-01.35.16:947][ 17]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.14-01.35.16:947][ 17]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.14-01.35.16:947][ 17]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.14-01.35.16:947][ 17]MaterialEditorStats: Shader Count: 0
+[2023.09.14-01.35.16:981][ 19]MaterialEditorStats: Texture samplers: 5/16
+[2023.09.14-01.35.16:981][ 19]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.14-01.35.16:981][ 19]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.14-01.35.16:981][ 19]MaterialEditorStats: Shader Count: 4
+[2023.09.14-01.35.16:994][ 20]MaterialEditorStats: Texture samplers: 4/16
+[2023.09.14-01.35.16:994][ 20]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.14-01.35.16:994][ 20]MaterialEditorStats: Virtual Texture Lookups (Est.): 3
+[2023.09.14-01.35.16:994][ 20]MaterialEditorStats: Virtual Texture Stacks: 1
+[2023.09.14-01.35.16:994][ 20]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.14-01.35.16:994][ 20]MaterialEditorStats: Shader Count: 4
+[2023.09.14-01.35.17:433][ 48]Cmd: TRANSACTION UNDO
+[2023.09.14-01.35.17:433][ 48]LogEditorTransaction: Undo Edit Y
+[2023.09.14-01.35.17:447][ 48]LogMaterial: Display: Missing cached shadermap for Preview:NewMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 05CBDCB148421219C7DB5B7DD5FCF8DF90284C67), compiling. 
+[2023.09.14-01.35.17:451][ 48]LogMaterial: Display: Missing cached shadermap for Preview:study_desk_mat in PCD3D_SM5, Default, SM5 (DDC key hash: A12122B52D9B08195F73AEDE9114C5E121C4D487), compiling. 
+[2023.09.14-01.35.17:454][ 48]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.14-01.35.17:454][ 48]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.14-01.35.17:454][ 48]MaterialEditorStats: Virtual Texture Lookups (Est.): 3
+[2023.09.14-01.35.17:454][ 48]MaterialEditorStats: Virtual Texture Stacks: 1
+[2023.09.14-01.35.17:454][ 48]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.14-01.35.17:454][ 48]MaterialEditorStats: Shader Count: 0
+[2023.09.14-01.35.17:454][ 48]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.14-01.35.17:454][ 48]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.14-01.35.17:454][ 48]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.14-01.35.17:454][ 48]MaterialEditorStats: Shader Count: 0
+[2023.09.14-01.35.17:486][ 50]MaterialEditorStats: Texture samplers: 5/16
+[2023.09.14-01.35.17:486][ 50]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.14-01.35.17:486][ 50]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.14-01.35.17:486][ 50]MaterialEditorStats: Shader Count: 4
+[2023.09.14-01.35.17:499][ 51]MaterialEditorStats: Texture samplers: 4/16
+[2023.09.14-01.35.17:499][ 51]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.14-01.35.17:499][ 51]MaterialEditorStats: Virtual Texture Lookups (Est.): 3
+[2023.09.14-01.35.17:499][ 51]MaterialEditorStats: Virtual Texture Stacks: 1
+[2023.09.14-01.35.17:499][ 51]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.14-01.35.17:499][ 51]MaterialEditorStats: Shader Count: 4
+[2023.09.14-01.35.18:538][121]Cmd: TRANSACTION UNDO
+[2023.09.14-01.35.18:538][121]LogEditorTransaction: Undo Edit X
+[2023.09.14-01.35.18:553][121]LogMaterial: Display: Missing cached shadermap for Preview:NewMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 597063C7E1D24BF1A7B735DD6E9FE372D52477F9), compiling. 
+[2023.09.14-01.35.18:556][121]LogMaterial: Display: Missing cached shadermap for Preview:study_desk_mat in PCD3D_SM5, Default, SM5 (DDC key hash: B9A1E8C0617B5575A4ADB1730F1198148C43E949), compiling. 
+[2023.09.14-01.35.18:559][121]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.14-01.35.18:559][121]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.14-01.35.18:559][121]MaterialEditorStats: Virtual Texture Lookups (Est.): 3
+[2023.09.14-01.35.18:559][121]MaterialEditorStats: Virtual Texture Stacks: 1
+[2023.09.14-01.35.18:559][121]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.14-01.35.18:559][121]MaterialEditorStats: Shader Count: 0
+[2023.09.14-01.35.18:559][121]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.14-01.35.18:559][121]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.14-01.35.18:559][121]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.14-01.35.18:559][121]MaterialEditorStats: Shader Count: 0
+[2023.09.14-01.35.18:591][123]MaterialEditorStats: Texture samplers: 5/16
+[2023.09.14-01.35.18:591][123]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.14-01.35.18:591][123]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.14-01.35.18:591][123]MaterialEditorStats: Shader Count: 4
+[2023.09.14-01.35.18:603][124]MaterialEditorStats: Texture samplers: 4/16
+[2023.09.14-01.35.18:603][124]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.14-01.35.18:603][124]MaterialEditorStats: Virtual Texture Lookups (Est.): 3
+[2023.09.14-01.35.18:603][124]MaterialEditorStats: Virtual Texture Stacks: 1
+[2023.09.14-01.35.18:603][124]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.14-01.35.18:603][124]MaterialEditorStats: Shader Count: 4
+[2023.09.14-01.35.18:908][143]Cmd: TRANSACTION UNDO
+[2023.09.14-01.35.18:908][143]LogEditorTransaction: Undo Clicking on Elements
+[2023.09.14-01.35.18:924][143]LogMaterial: Display: Missing cached shadermap for Preview:NewMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 434A311AB54D70DEDC9E6CBFA34B946724D68AB3), compiling. 
+[2023.09.14-01.35.18:927][143]LogMaterial: Display: Missing cached shadermap for Preview:study_desk_mat in PCD3D_SM5, Default, SM5 (DDC key hash: 79E6D644F06A3646DE6095C34BFD877420A5FED2), compiling. 
+[2023.09.14-01.35.18:932][143]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.14-01.35.18:932][143]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.14-01.35.18:932][143]MaterialEditorStats: Virtual Texture Lookups (Est.): 3
+[2023.09.14-01.35.18:932][143]MaterialEditorStats: Virtual Texture Stacks: 1
+[2023.09.14-01.35.18:932][143]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.14-01.35.18:932][143]MaterialEditorStats: Shader Count: 0
+[2023.09.14-01.35.18:932][143]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.14-01.35.18:932][143]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.14-01.35.18:932][143]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.14-01.35.18:932][143]MaterialEditorStats: Shader Count: 0
+[2023.09.14-01.35.18:979][145]MaterialEditorStats: Texture samplers: 5/16
+[2023.09.14-01.35.18:979][145]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.14-01.35.18:979][145]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.14-01.35.18:979][145]MaterialEditorStats: Shader Count: 4
+[2023.09.14-01.35.18:994][146]MaterialEditorStats: Texture samplers: 4/16
+[2023.09.14-01.35.18:995][146]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.14-01.35.18:995][146]MaterialEditorStats: Virtual Texture Lookups (Est.): 3
+[2023.09.14-01.35.18:995][146]MaterialEditorStats: Virtual Texture Stacks: 1
+[2023.09.14-01.35.18:995][146]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.14-01.35.18:995][146]MaterialEditorStats: Shader Count: 4
+[2023.09.14-01.35.21:614][322]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.09.14-01.35.24:893][549]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.09.14-01.35.32:139][ 56]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
