@@ -1571,3 +1571,252 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2023.09.14-01.20.37:035][744]LogSavePackage: Moving '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Saved/70SM1KR31H6VCF0RDI42R02E5AAC31456A83894FC965B1342165BF.tmp' to '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/FL/70SM1KR31H6VCF0RDI42R0.uasset'
 [2023.09.14-01.20.37:043][744]AssetCheck: New page: Asset Save: StaticMeshActor_UAID_04421A293C741CA901_1507711554
 [2023.09.14-01.20.37:043][744]LogContentValidation: Display: Validating StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_04421A293C741CA901_1507711554
+[2023.09.14-01.21.03:972][170]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2023.09.14-01.21.03:972][170]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.007
+[2023.09.14-01.21.03:972][170]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/OurProject/Maps/bedroom_scene/assets/study_desk/study_desk_lambert1SG_BaseColor] ([1] browsable assets)...
+[2023.09.14-01.21.03:974][170]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/OurProject/Maps/bedroom_scene/assets/study_desk/study_desk_lambert1SG_BaseColor.study_desk_lambert1SG_BaseColor]
+[2023.09.14-01.21.03:975][170]OBJ SavePackage: Finished generating thumbnails for package [/Game/OurProject/Maps/bedroom_scene/assets/study_desk/study_desk_lambert1SG_BaseColor]
+[2023.09.14-01.21.03:983][170]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/OurProject/Maps/bedroom_scene/assets/study_desk/study_desk_lambert1SG_BaseColor_Auto4
+[2023.09.14-01.21.03:983][170]LogSavePackage: Moving '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Saved/study_desk_lambert1SG_BaseColor_487955A0489CA4BF58E6BDB6B278660A.tmp' to '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Saved/Autosaves/Game/OurProject/Maps/bedroom_scene/assets/study_desk/study_desk_lambert1SG_BaseColor_Auto4.uasset'
+[2023.09.14-01.21.03:983][170]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/OurProject/Maps/bedroom_scene/assets/study_desk/study_desk_lambert1SG_Normal] ([1] browsable assets)...
+[2023.09.14-01.21.03:985][170]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/OurProject/Maps/bedroom_scene/assets/study_desk/study_desk_lambert1SG_Normal.study_desk_lambert1SG_Normal]
+[2023.09.14-01.21.03:985][170]OBJ SavePackage: Finished generating thumbnails for package [/Game/OurProject/Maps/bedroom_scene/assets/study_desk/study_desk_lambert1SG_Normal]
+[2023.09.14-01.21.03:993][170]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/OurProject/Maps/bedroom_scene/assets/study_desk/study_desk_lambert1SG_Normal_Auto4
+[2023.09.14-01.21.03:993][170]LogSavePackage: Moving '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Saved/study_desk_lambert1SG_Normal_Aut7B4F271B4FDCF4B70C0A1EB95122151B.tmp' to '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Saved/Autosaves/Game/OurProject/Maps/bedroom_scene/assets/study_desk/study_desk_lambert1SG_Normal_Auto4.uasset'
+[2023.09.14-01.21.03:994][170]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/OurProject/Maps/bedroom_scene/assets/study_desk/study_desk_lambert1SG_OcclusionRoughnessMetallic] ([1] browsable assets)...
+[2023.09.14-01.21.03:995][170]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/OurProject/Maps/bedroom_scene/assets/study_desk/study_desk_lambert1SG_OcclusionRoughnessMetallic.study_desk_lambert1SG_OcclusionRoughnessMetallic]
+[2023.09.14-01.21.03:995][170]OBJ SavePackage: Finished generating thumbnails for package [/Game/OurProject/Maps/bedroom_scene/assets/study_desk/study_desk_lambert1SG_OcclusionRoughnessMetallic]
+[2023.09.14-01.21.04:003][170]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/OurProject/Maps/bedroom_scene/assets/study_desk/study_desk_lambert1SG_OcclusionRoughnessMetallic_Auto4
+[2023.09.14-01.21.04:004][170]LogSavePackage: Moving '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Saved/study_desk_lambert1SG_OcclusionR724AFCEC4F3D953EFCCBBC9340789E57.tmp' to '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Saved/Autosaves/Game/OurProject/Maps/bedroom_scene/assets/study_desk/study_desk_lambert1SG_OcclusionRoughnessMetallic_Auto4.uasset'
+[2023.09.14-01.21.04:004][170]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/OurProject/Maps/bedroom_scene/assets/study_desk/study_desk2] ([1] browsable assets)...
+[2023.09.14-01.21.04:080][170]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/OurProject/Maps/bedroom_scene/assets/study_desk/study_desk2.study_desk2]
+[2023.09.14-01.21.04:080][170]OBJ SavePackage: Finished generating thumbnails for package [/Game/OurProject/Maps/bedroom_scene/assets/study_desk/study_desk2]
+[2023.09.14-01.21.04:087][170]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/OurProject/Maps/bedroom_scene/assets/study_desk/study_desk2_Auto4
+[2023.09.14-01.21.04:088][170]LogSavePackage: Moving '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Saved/study_desk2_Auto413EB758C490EE2F7BCA37A9685167B5A.tmp' to '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Saved/Autosaves/Game/OurProject/Maps/bedroom_scene/assets/study_desk/study_desk2_Auto4.uasset'
+[2023.09.14-01.21.04:088][170]LogFileHelpers: Auto-saving content packages took 0.116
+[2023.09.14-01.28.10:761][444]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=XG2431 (NVIDIA High Definition Audio), InstanceID=1
+[2023.09.14-01.28.10:761][444]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=11016
+[2023.09.14-01.28.11:088][444]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{8a761fbf-b4f5-4c2e-803f-e752e27eda13}, Name=XG2431 (NVIDIA High Definition Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=48.42
+[2023.09.14-01.28.11:088][444]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.09.14-01.28.11:093][445]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.09.14-01.32.33:984][926]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2023.09.14-01.32.33:986][926]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/FL/70SM1KR31H6VCF0RDI42R0_Auto5
+[2023.09.14-01.32.33:986][926]LogSavePackage: Moving '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Saved/70SM1KR31H6VCF0RDI42R0_Auto50DCF37F34DFAF3A8F52276A34EB55566.tmp' to '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/FL/70SM1KR31H6VCF0RDI42R0_Auto5.uasset'
+[2023.09.14-01.32.33:986][926]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.009
+[2023.09.14-01.32.33:986][926]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.009
+[2023.09.14-01.32.43:499][974]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:\2130GFS Serious Games\props\bedroom\props\study_desk\study_desk2_lambert1SG_Normal.png)
+[2023.09.14-01.32.43:583][974]LogTexture: Display: Building textures: /Game/OurProject/Maps/bedroom_scene/assets/study_desk/study_desk2_lambert1SG_Normal.study_desk2_lambert1SG_Normal (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.09.14-01.32.43:583][974]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:\2130GFS Serious Games\props\bedroom\props\study_desk\study_desk2_lambert1SG_OcclusionRoughnessMetallic.png)
+[2023.09.14-01.32.43:679][974]LogTexture: Display: Building textures: /Game/OurProject/Maps/bedroom_scene/assets/study_desk/study_desk2_lambert1SG_OcclusionRoughnessMetallic.study_desk2_lambert1SG_OcclusionRoughnessMetallic (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.09.14-01.32.43:679][974]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:\2130GFS Serious Games\props\bedroom\props\study_desk\study_desk2_lambert1SG_BaseColor.png)
+[2023.09.14-01.32.43:778][974]LogTexture: Display: Building textures: /Game/OurProject/Maps/bedroom_scene/assets/study_desk/study_desk2_lambert1SG_BaseColor.study_desk2_lambert1SG_BaseColor (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.09.14-01.32.52:441][182]LogMaterial: Display: Missing cached shadermap for Preview:study_desk_mat in PCD3D_SM5, Default, SM5 (DDC key hash: 0492B30E6B0677D6AAF28A20F83E2C1777147BD5), compiling. 
+[2023.09.14-01.32.52:443][182]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_3 in PCD3D_SM5, Default, SM5 (DDC key hash: DF154B5DCB295A9737D0F214F1BCCC51EF7F2EFC), compiling. 
+[2023.09.14-01.32.52:444][182]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 54559A49C1A4207CB7F020F8C6087036FF4DAE0C), compiling. 
+[2023.09.14-01.32.52:445][182]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: CAD444F94B48C30C62098C67784A77DCE3CBF9E2), compiling. 
+[2023.09.14-01.32.52:447][182]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 3BADF0DA2A9A4E1A93723DD7211C83D429CAED86), compiling. 
+[2023.09.14-01.32.52:448][182]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_3 in PCD3D_SM5, Default, SM5 (DDC key hash: 04692A9E6576FC206EAE8BD35719C070A130C200), compiling. 
+[2023.09.14-01.32.52:456][182]LogMaterial: Display: Missing cached shadermap for Preview:study_desk_mat in PCD3D_SM5, Default, SM5 (DDC key hash: 991354EC19D9CB640C55CA6BD50F54FDBF8F5631), compiling. 
+[2023.09.14-01.32.52:459][182]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_4 in PCD3D_SM5, Default, SM5 (DDC key hash: E5C21D2A097F171A758FD4524EF4FFDC536EE516), compiling. 
+[2023.09.14-01.32.52:460][182]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 230EC22992FB28C4494BF2090C7F8B12B3434A99), compiling. 
+[2023.09.14-01.32.52:461][182]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 0D694310E6F17FF19984B4B55BF6E5EE5446D0A0), compiling. 
+[2023.09.14-01.32.52:462][182]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 92F6F676E49C345DBF9669A3F114740F3CE6B3A6), compiling. 
+[2023.09.14-01.32.52:463][182]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_3 in PCD3D_SM5, Default, SM5 (DDC key hash: 6236602D3334CB6FB507249A3BB68D8EE9AF9802), compiling. 
+[2023.09.14-01.32.52:464][182]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_4 in PCD3D_SM5, Default, SM5 (DDC key hash: 277D93C5DC2C64C121E6B6E35A5D3435602BABA2), compiling. 
+[2023.09.14-01.32.52:472][182]LogMaterial: Display: Missing cached shadermap for Preview:study_desk_mat in PCD3D_SM5, Default, SM5 (DDC key hash: 20C9389C178DE95C7768F38AD2971A2D89EF24E8), compiling. 
+[2023.09.14-01.32.52:474][182]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_5 in PCD3D_SM5, Default, SM5 (DDC key hash: D93894C01CBA4CDFE113E706243F00C9EC632974), compiling. 
+[2023.09.14-01.32.52:475][182]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 1552E372DFE731B6F975956F24FE838339554A78), compiling. 
+[2023.09.14-01.32.52:477][182]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: D4339E1F294A682EA469E55E9699D7AE752B88BE), compiling. 
+[2023.09.14-01.32.52:478][182]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: E81995E5918BAA821F0C75C26D85D8CB523849C3), compiling. 
+[2023.09.14-01.32.52:481][182]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_3 in PCD3D_SM5, Default, SM5 (DDC key hash: DBED3CC59AA25F379E90FE24DC4101FF769A6F13), compiling. 
+[2023.09.14-01.32.52:482][182]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_4 in PCD3D_SM5, Default, SM5 (DDC key hash: B332E0FE55B6EB9092C9C7CF4FED748F74FA4B88), compiling. 
+[2023.09.14-01.32.52:484][182]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_5 in PCD3D_SM5, Default, SM5 (DDC key hash: EF3BE93F8FE555913343AEEECF33C78D11BB6AD4), compiling. 
+[2023.09.14-01.32.52:488][182]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.14-01.32.52:488][182]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.14-01.32.52:488][182]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.14-01.32.52:488][182]MaterialEditorStats: Shader Count: 0
+[2023.09.14-01.32.52:526][183]LogShaderCompilers: Display: ================================================
+[2023.09.14-01.32.52:526][183]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.09.14-01.32.52:526][183]LogShaderCompilers: Display: Total job queries 391, among them cache hits 148 (37.85%)
+[2023.09.14-01.32.52:526][183]LogShaderCompilers: Display: Tracking 219 distinct input hashes that result in 146 distinct outputs (66.67%)
+[2023.09.14-01.32.52:526][183]LogShaderCompilers: Display: RAM used: 0.45 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.03%
+[2023.09.14-01.32.52:526][183]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.09.14-01.32.52:526][183]LogShaderCompilers: Display: Shaders Compiled: 173
+[2023.09.14-01.32.52:526][183]LogShaderCompilers: Display: Jobs assigned 219, completed 219 (100.00%)
+[2023.09.14-01.32.52:526][183]LogShaderCompilers: Display: Average time worker was idle: 149.61 s
+[2023.09.14-01.32.52:526][183]LogShaderCompilers: Display: Time job spent in pending queue: average 12.69 s, longest 40.01 s
+[2023.09.14-01.32.52:526][183]LogShaderCompilers: Display: Job execution time: average 6.29 s, max 20.58 s
+[2023.09.14-01.32.52:526][183]LogShaderCompilers: Display: Job life time (pending + execution): average 18.98 s, max 41.73
+[2023.09.14-01.32.52:526][183]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 64.55 s
+[2023.09.14-01.32.52:526][183]LogShaderCompilers: Display: Jobs were issued in 142 batches (only local compilation was used), average 1.54 jobs/batch
+[2023.09.14-01.32.52:526][183]LogShaderCompilers: Display: Average processing rate: 3.39 jobs/sec
+[2023.09.14-01.32.52:526][183]LogShaderCompilers: Display: Effective parallelization: 6.14 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.09.14-01.32.52:526][183]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.09.14-01.32.52:526][183]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    8 times, average 3.67 sec, max 16.85 sec, min 0.58 sec)
+[2023.09.14-01.32.52:526][183]LogShaderCompilers: Display:                                                  FHitProxyVS (compiled    3 times, average 3.15 sec, max 5.11 sec, min 1.63 sec)
+[2023.09.14-01.32.52:526][183]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    8 times, average 2.70 sec, max 9.21 sec, min 1.37 sec)
+[2023.09.14-01.32.52:526][183]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled    8 times, average 2.50 sec, max 8.19 sec, min 1.22 sec)
+[2023.09.14-01.32.52:526][183]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    8 times, average 2.41 sec, max 7.54 sec, min 1.44 sec)
+[2023.09.14-01.32.52:526][183]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.09.14-01.32.52:526][183]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 10.70% of total time (compiled   23 times, average 1.84 sec, max 10.51 sec, min 0.63 sec)
+[2023.09.14-01.32.52:526][183]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 8.24% of total time (compiled   23 times, average 1.42 sec, max 6.76 sec, min 0.51 sec)
+[2023.09.14-01.32.52:526][183]LogShaderCompilers: Display:                                             FDebugViewModePS - 7.41% of total time (compiled    8 times, average 3.67 sec, max 16.85 sec, min 0.58 sec)
+[2023.09.14-01.32.52:526][183]LogShaderCompilers: Display:                                                 FLumenCardVS - 6.96% of total time (compiled   13 times, average 2.12 sec, max 9.29 sec, min 0.77 sec)
+[2023.09.14-01.32.52:526][183]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 5.46% of total time (compiled    8 times, average 2.70 sec, max 9.21 sec, min 1.37 sec)
+[2023.09.14-01.32.52:526][183]LogShaderCompilers: Display: ================================================
+[2023.09.14-01.32.52:547][184]MaterialEditorStats: Texture samplers: 5/16
+[2023.09.14-01.32.52:547][184]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.14-01.32.52:547][184]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.14-01.32.52:547][184]MaterialEditorStats: Shader Count: 4
+[2023.09.14-01.32.53:902][223]LogMaterial: Display: Missing cached shadermap for Preview:study_desk_mat in PCD3D_SM5, Default, SM5 (DDC key hash: 8B98541F160788EF2C8630FEDA17827DC05BCBAF), compiling. 
+[2023.09.14-01.32.53:904][223]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.14-01.32.53:904][223]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2023.09.14-01.32.53:904][223]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.14-01.32.53:904][223]MaterialEditorStats: Shader Count: 0
+[2023.09.14-01.32.53:968][225]MaterialEditorStats: Texture samplers: 4/16
+[2023.09.14-01.32.53:968][225]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2023.09.14-01.32.53:968][225]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.14-01.32.53:968][225]MaterialEditorStats: Shader Count: 4
+[2023.09.14-01.32.54:515][259]LogMaterial: Display: Missing cached shadermap for Preview:study_desk_mat in PCD3D_SM5, Default, SM5 (DDC key hash: 1352B06D802273EBD6D9E90A7960D9820061F9F9), compiling. 
+[2023.09.14-01.32.54:517][259]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.14-01.32.54:517][259]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.09.14-01.32.54:517][259]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.14-01.32.54:517][259]MaterialEditorStats: Shader Count: 0
+[2023.09.14-01.32.54:566][261]MaterialEditorStats: Texture samplers: 3/16
+[2023.09.14-01.32.54:566][261]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.09.14-01.32.54:566][261]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.14-01.32.54:566][261]MaterialEditorStats: Shader Count: 4
+[2023.09.14-01.32.55:031][290]LogMaterial: Display: Missing cached shadermap for Preview:study_desk_mat in PCD3D_SM5, Default, SM5 (DDC key hash: 27974569465103F7A4BDDF9864418932ABA5FEEF), compiling. 
+[2023.09.14-01.32.55:034][290]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.14-01.32.55:034][290]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.09.14-01.32.55:034][290]MaterialEditorStats: Shader Count: 0
+[2023.09.14-01.32.55:080][292]MaterialEditorStats: Texture samplers: 2/16
+[2023.09.14-01.32.55:080][292]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.09.14-01.32.55:080][292]MaterialEditorStats: Shader Count: 4
+[2023.09.14-01.32.59:853][616]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2023.09.14-01.33.01:755][616]LogSlate: Window 'Delete Assets' being destroyed
+[2023.09.14-01.33.02:774][616]LogSlate: Window 'Message' being destroyed
+[2023.09.14-01.33.02:791][616]Message dialog closed, result: Yes, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/OurProject/Maps/bedroom_scene/assets/study_desk/study_desk_mat.study_desk_mat
+(Selecting 'No' will cause all changes to be lost!)
+[2023.09.14-01.33.03:179][616]LogMaterial: Display: Missing cached shadermap for Preview:study_desk_mat in PCD3D_SM5, Default, SM5 (DDC key hash: 7A73ABE4E74F2FF6F39B3A40D0D62C38DF8012F4), compiling. 
+[2023.09.14-01.33.03:188][616]LogMaterial: Display: Missing cached shadermap for study_desk_mat in PCD3D_SM5, Default, SM5 (DDC key hash: A3FBEC88E2D5DDFBD7BE5F3BC9B33C56F2282031), compiling. 
+[2023.09.14-01.33.03:196][616]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2023.09.14-01.33.04:061][616]LogUObjectHash: Compacting FUObjectHashTables data took   0.14ms
+[2023.09.14-01.33.04:120][616]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2023.09.14-01.33.04:120][616]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.14-01.33.04:145][616]LogUObjectGlobals: Force Deleting 3 Package(s):
+	Asset Name: /Game/OurProject/Maps/bedroom_scene/assets/study_desk/study_desk_lambert1SG_BaseColor.study_desk_lambert1SG_BaseColor
+	Asset Type: Texture2D
+	Asset Name: /Game/OurProject/Maps/bedroom_scene/assets/study_desk/study_desk_lambert1SG_Normal.study_desk_lambert1SG_Normal
+	Asset Type: Texture2D
+	Asset Name: /Game/OurProject/Maps/bedroom_scene/assets/study_desk/study_desk_lambert1SG_OcclusionRoughnessMetallic.study_desk_lambert1SG_OcclusionRoughnessMetallic
+	Asset Type: Texture2D
+[2023.09.14-01.33.04:322][616]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2023.09.14-01.33.04:331][616]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2023.09.14-01.33.04:337][616]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2023.09.14-01.33.07:231][798]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/OurProject/Maps/bedroom_scene/assets/study_desk/study_desk_mat.study_desk_mat
+[2023.09.14-01.33.07:233][798]LogMaterial: Display: Missing cached shadermap for Preview:study_desk_mat in PCD3D_SM5, Default, SM5 (DDC key hash: 1337166B0A37A940273FA0C68366DE83FAA4007C), compiling. 
+[2023.09.14-01.33.07:257][798]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.14-01.33.07:302][798]LogSlate: The tab "MaterialEditor_Strata" attempted to spawn in layout 'Standalone_MaterialEditor_Layout_v13' but failed for some reason. An "unrecognized tab" will be returned instead.
+[2023.09.14-01.33.07:308][798]LogMaterial: Display: Missing cached shadermap for Preview:study_desk_mat in PCD3D_SM5, Default, SM5 (DDC key hash: 39CB9B041987F62C826F5D3767B3BC39BFDBE677), compiling. 
+[2023.09.14-01.33.07:311][798]LogMaterial: Display: Missing cached shadermap for Preview:study_desk_mat in PCD3D_SM5, Default, SM5 (DDC key hash: 9F5D5A46A891F2D860F767AC88421146F2CE866F), compiling. 
+[2023.09.14-01.33.07:312][798]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_3 in PCD3D_SM5, Default, SM5 (DDC key hash: EC0B56C23B930983DC2B0BACE9CC5922ABBEB7C9), compiling. 
+[2023.09.14-01.33.07:313][798]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_4 in PCD3D_SM5, Default, SM5 (DDC key hash: B480EEF9A93C47A700620C276355728FD7E38179), compiling. 
+[2023.09.14-01.33.07:315][798]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_5 in PCD3D_SM5, Default, SM5 (DDC key hash: AA599F3B922A4FD8B3BCEB1B3EB603E9A6876F6B), compiling. 
+[2023.09.14-01.33.07:328][798]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.14-01.33.07:328][798]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.09.14-01.33.07:328][798]MaterialEditorStats: Shader Count: 0
+[2023.09.14-01.33.07:336][798]LogViewport: Scene viewport resized to 376x445, mode Windowed.
+[2023.09.14-01.33.07:391][800]MaterialEditorStats: Texture samplers: 2/16
+[2023.09.14-01.33.07:391][800]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.09.14-01.33.07:391][800]MaterialEditorStats: Shader Count: 4
+[2023.09.14-01.33.11:974][ 72]LogMaterial: Display: Missing cached shadermap for Preview:study_desk_mat in PCD3D_SM5, Default, SM5 (DDC key hash: 91005B7C639C359CE9082FE2906462821FADB727), compiling. 
+[2023.09.14-01.33.11:976][ 72]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_3 in PCD3D_SM5, Default, SM5 (DDC key hash: 8AC6E16DDA8932F33E89A71A66E3C795E86D9110), compiling. 
+[2023.09.14-01.33.11:980][ 72]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.14-01.33.11:980][ 72]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.09.14-01.33.11:980][ 72]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.14-01.33.11:980][ 72]MaterialEditorStats: Shader Count: 0
+[2023.09.14-01.33.12:543][ 96]MaterialEditorStats: Texture samplers: 1/16
+[2023.09.14-01.33.12:543][ 96]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.09.14-01.33.12:543][ 96]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.14-01.33.12:543][ 96]MaterialEditorStats: Shader Count: 1
+[2023.09.14-01.33.12:916][111]MaterialEditorStats: Texture samplers: 3/16
+[2023.09.14-01.33.12:916][111]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.09.14-01.33.12:916][111]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.14-01.33.12:916][111]MaterialEditorStats: Shader Count: 2
+[2023.09.14-01.33.15:254][262]LogMaterial: Display: Missing cached shadermap for Preview:study_desk_mat in PCD3D_SM5, Default, SM5 (DDC key hash: 0932769F1D9D9B5A2E069C99A5D8DDD87A3E140E), compiling. 
+[2023.09.14-01.33.15:256][262]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_4 in PCD3D_SM5, Default, SM5 (DDC key hash: CD3AF87864478CC94183989FC8DAAACD3525E8EF), compiling. 
+[2023.09.14-01.33.15:259][262]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.14-01.33.15:259][262]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2023.09.14-01.33.15:259][262]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.14-01.33.15:259][262]MaterialEditorStats: Shader Count: 0
+[2023.09.14-01.33.15:771][283]MaterialEditorStats: Texture samplers: 1/16
+[2023.09.14-01.33.15:771][283]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2023.09.14-01.33.15:771][283]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.14-01.33.15:771][283]MaterialEditorStats: Shader Count: 1
+[2023.09.14-01.33.16:162][298]MaterialEditorStats: Texture samplers: 3/16
+[2023.09.14-01.33.16:162][298]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2023.09.14-01.33.16:162][298]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.14-01.33.16:162][298]MaterialEditorStats: Shader Count: 2
+[2023.09.14-01.33.16:576][322]LogMaterial: Display: Missing cached shadermap for Preview:study_desk_mat in PCD3D_SM5, Default, SM5 (DDC key hash: CD7AC21FBF18D4CC386DD97BAC2F8CFA7194D399), compiling. 
+[2023.09.14-01.33.16:578][322]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_4 in PCD3D_SM5, Default, SM5 (DDC key hash: 641B0FA5439137D1F0BF0175B2DD84DF7278035B), compiling. 
+[2023.09.14-01.33.16:583][322]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.14-01.33.16:583][322]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2023.09.14-01.33.16:583][322]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.14-01.33.16:583][322]MaterialEditorStats: Shader Count: 0
+[2023.09.14-01.33.17:132][346]MaterialEditorStats: Texture samplers: 1/16
+[2023.09.14-01.33.17:132][346]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2023.09.14-01.33.17:132][346]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.14-01.33.17:132][346]MaterialEditorStats: Shader Count: 1
+[2023.09.14-01.33.17:532][365]MaterialEditorStats: Texture samplers: 4/16
+[2023.09.14-01.33.17:532][365]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2023.09.14-01.33.17:532][365]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.14-01.33.17:532][365]MaterialEditorStats: Shader Count: 3
+[2023.09.14-01.33.18:273][412]LogMaterial: Display: Missing cached shadermap for Preview:study_desk_mat in PCD3D_SM5, Default, SM5 (DDC key hash: 097DA352C05C5EB12BBA26971AB5B475586F01B9), compiling. 
+[2023.09.14-01.33.18:275][412]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_4 in PCD3D_SM5, Default, SM5 (DDC key hash: F25522A889AA0A5C79A59208414E9B89D1EEE03C), compiling. 
+[2023.09.14-01.33.18:279][412]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.14-01.33.18:279][412]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2023.09.14-01.33.18:279][412]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.14-01.33.18:279][412]MaterialEditorStats: Shader Count: 0
+[2023.09.14-01.33.18:818][436]MaterialEditorStats: Texture samplers: 2/16
+[2023.09.14-01.33.18:818][436]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2023.09.14-01.33.18:818][436]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.14-01.33.18:818][436]MaterialEditorStats: Shader Count: 1
+[2023.09.14-01.33.19:221][452]MaterialEditorStats: Texture samplers: 4/16
+[2023.09.14-01.33.19:221][452]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2023.09.14-01.33.19:221][452]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.14-01.33.19:221][452]MaterialEditorStats: Shader Count: 3
+[2023.09.14-01.33.22:869][693]LogMaterial: Display: Missing cached shadermap for Preview:study_desk_mat in PCD3D_SM5, Default, SM5 (DDC key hash: 273747A33BD56918DDE9617D96B37DAE68DD96F1), compiling. 
+[2023.09.14-01.33.22:870][693]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_5 in PCD3D_SM5, Default, SM5 (DDC key hash: 01FD93CBB4D359DA2FFFBD9BB78028A484F93FE4), compiling. 
+[2023.09.14-01.33.22:875][693]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.14-01.33.22:875][693]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.14-01.33.22:875][693]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.14-01.33.22:875][693]MaterialEditorStats: Shader Count: 0
+[2023.09.14-01.33.23:408][716]MaterialEditorStats: Texture samplers: 3/16
+[2023.09.14-01.33.23:408][716]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.14-01.33.23:408][716]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.14-01.33.23:408][716]MaterialEditorStats: Shader Count: 1
+[2023.09.14-01.33.23:802][734]MaterialEditorStats: Texture samplers: 5/16
+[2023.09.14-01.33.23:802][734]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.14-01.33.23:802][734]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.14-01.33.23:802][734]MaterialEditorStats: Shader Count: 2
+[2023.09.14-01.33.24:412][771]LogMaterialEditor: Saving and Compiling material study_desk_mat
+[2023.09.14-01.33.24:776][771]LogMaterial: Display: Missing cached shadermap for Preview:study_desk_mat in PCD3D_SM5, Default, SM5 (DDC key hash: D3DECB8362BB2828D2788A91C4E40FE446E2FB7B), compiling. 
+[2023.09.14-01.33.24:785][771]LogMaterial: Display: Missing cached shadermap for study_desk_mat in PCD3D_SM5, Default, SM5 (DDC key hash: 8E14210286F077C2FA901DD7A6236C0523CE69DD), compiling. 
+[2023.09.14-01.33.24:824][771]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2023.09.14-01.33.25:609][771]LogUObjectHash: Compacting FUObjectHashTables data took   0.14ms
+[2023.09.14-01.33.27:662][771]LogSavePackage: Moving output files for package: /Game/OurProject/Maps/bedroom_scene/assets/study_desk/study_desk_mat
+[2023.09.14-01.33.27:663][771]LogSavePackage: Moving '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Saved/study_desk_mat1BBD7CA8499314D1266B65BF6175FACC.tmp' to '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Content/OurProject/Maps/bedroom_scene/assets/study_desk/study_desk_mat.uasset'
+[2023.09.14-01.33.27:672][771]AssetCheck: New page: Asset Save: study_desk_mat
+[2023.09.14-01.33.27:672][771]LogContentValidation: Display: Validating Material /Game/OurProject/Maps/bedroom_scene/assets/study_desk/study_desk_mat.study_desk_mat
+[2023.09.14-01.33.27:673][771]MaterialEditorStats: Base pass shader: 134 instructions
+[2023.09.14-01.33.27:673][771]MaterialEditorStats: Base pass vertex shader: 112 instructions
+[2023.09.14-01.33.27:673][771]MaterialEditorStats: Texture samplers: 6/16
+[2023.09.14-01.33.27:673][771]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.14-01.33.27:673][771]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.14-01.33.27:673][771]MaterialEditorStats: Shader Count: 16
+[2023.09.14-01.33.30:277][947]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/FL/70SM1KR31H6VCF0RDI42R0
+[2023.09.14-01.33.30:278][947]LogSavePackage: Moving '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Saved/70SM1KR31H6VCF0RDI42R067D2D3974FA7A7AB0B7D75A35DC69B3B.tmp' to '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/FL/70SM1KR31H6VCF0RDI42R0.uasset'
+[2023.09.14-01.33.30:286][947]AssetCheck: New page: Asset Save: StaticMeshActor_UAID_04421A293C741CA901_1507711554
+[2023.09.14-01.33.30:286][947]LogContentValidation: Display: Validating StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_04421A293C741CA901_1507711554
