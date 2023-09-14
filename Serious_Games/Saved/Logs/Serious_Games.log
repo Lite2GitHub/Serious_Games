@@ -1331,3 +1331,193 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2023.09.14-09.37.58:478][  9]LogSavePackage: Moving 'D:/Unreal Projects/Serious_Games/Serious_Games/Saved/ForestScene33B44F814E5E15EB0D4E61B3BF7FA102.tmp' to 'D:/Unreal Projects/Serious_Games/Serious_Games/Content/OurProject/Maps/Forest_Scene/ForestScene.umap'
 [2023.09.14-09.37.58:505][  9]AssetCheck: New page: Asset Save: ForestScene
 [2023.09.14-09.37.58:505][  9]LogContentValidation: Display: Validating World /Game/OurProject/Maps/Forest_Scene/ForestScene.ForestScene
+[2023.09.14-09.47.57:306][701]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2023.09.14-09.47.57:307][701]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/OurProject/Maps/Forest_Scene/ForestScene' took 0.008
+[2023.09.14-09.47.57:308][701]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/OurProject/Maps/Forest_Scene/Assets/proceduralFoliage/WhiteFlowerStaticMeshFoliage] ([1] browsable assets)...
+[2023.09.14-09.47.57:326][701]OBJ SavePackage:     Rendered thumbnail for [FoliageType_InstancedStaticMesh /Game/OurProject/Maps/Forest_Scene/Assets/proceduralFoliage/WhiteFlowerStaticMeshFoliage.WhiteFlowerStaticMeshFoliage]
+[2023.09.14-09.47.57:326][701]OBJ SavePackage: Finished generating thumbnails for package [/Game/OurProject/Maps/Forest_Scene/Assets/proceduralFoliage/WhiteFlowerStaticMeshFoliage]
+[2023.09.14-09.47.57:327][701]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/OurProject/Maps/Forest_Scene/Assets/proceduralFoliage/WhiteFlowerStaticMeshFoliage_Auto1
+[2023.09.14-09.47.57:327][701]LogSavePackage: Moving 'D:/Unreal Projects/Serious_Games/Serious_Games/Saved/WhiteFlowerStaticMeshFoliage_Aut6268648343FEF91525CA1EBD24A0850A.tmp' to 'D:/Unreal Projects/Serious_Games/Serious_Games/Saved/Autosaves/Game/OurProject/Maps/Forest_Scene/Assets/proceduralFoliage/WhiteFlowerStaticMeshFoliage_Auto1.uasset'
+[2023.09.14-09.47.57:328][701]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/OurProject/Maps/Forest_Scene/Assets/proceduralFoliage/Forest_ProceduralFoliageSpawner] ([1] browsable assets)...
+[2023.09.14-09.47.57:328][701]OBJ SavePackage: Finished generating thumbnails for package [/Game/OurProject/Maps/Forest_Scene/Assets/proceduralFoliage/Forest_ProceduralFoliageSpawner]
+[2023.09.14-09.47.57:328][701]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/OurProject/Maps/Forest_Scene/Assets/proceduralFoliage/Forest_ProceduralFoliageSpawner_Auto1
+[2023.09.14-09.47.57:328][701]LogSavePackage: Moving 'D:/Unreal Projects/Serious_Games/Serious_Games/Saved/Forest_ProceduralFoliageSpawner_B434204640BD6011DB35D0B33C758540.tmp' to 'D:/Unreal Projects/Serious_Games/Serious_Games/Saved/Autosaves/Game/OurProject/Maps/Forest_Scene/Assets/proceduralFoliage/Forest_ProceduralFoliageSpawner_Auto1.uasset'
+[2023.09.14-09.47.57:328][701]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/OurProject/Maps/Forest_Scene/Assets/proceduralFoliage/OrangeFlowerStaticMeshFoliage] ([1] browsable assets)...
+[2023.09.14-09.47.57:336][701]OBJ SavePackage:     Rendered thumbnail for [FoliageType_InstancedStaticMesh /Game/OurProject/Maps/Forest_Scene/Assets/proceduralFoliage/OrangeFlowerStaticMeshFoliage.OrangeFlowerStaticMeshFoliage]
+[2023.09.14-09.47.57:336][701]OBJ SavePackage: Finished generating thumbnails for package [/Game/OurProject/Maps/Forest_Scene/Assets/proceduralFoliage/OrangeFlowerStaticMeshFoliage]
+[2023.09.14-09.47.57:337][701]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/OurProject/Maps/Forest_Scene/Assets/proceduralFoliage/OrangeFlowerStaticMeshFoliage_Auto1
+[2023.09.14-09.47.57:337][701]LogSavePackage: Moving 'D:/Unreal Projects/Serious_Games/Serious_Games/Saved/OrangeFlowerStaticMeshFoliage_Au0DAEAC7848F73E67E63C65B05BFF75D0.tmp' to 'D:/Unreal Projects/Serious_Games/Serious_Games/Saved/Autosaves/Game/OurProject/Maps/Forest_Scene/Assets/proceduralFoliage/OrangeFlowerStaticMeshFoliage_Auto1.uasset'
+[2023.09.14-09.47.57:338][701]LogFileHelpers: Auto-saving content packages took 0.030
+[2023.09.14-09.52.57:918][657]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.09.14-09.52.57:918][657]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.09.14-09.52.58:515][694]LogContentBrowser: Deferred new asset file creation: WhiteFlowerStaticMeshFoliage1
+[2023.09.14-09.52.58:528][694]LogContentBrowser: Creating deferred item: WhiteFlowerStaticMeshFoliage1
+[2023.09.14-09.52.58:539][695]LogContentBrowser: Renaming the item being created (Deferred Item: WhiteFlowerStaticMeshFoliage1).
+[2023.09.14-09.53.09:845][393]LogContentBrowser: Attempting asset rename: WhiteFlowerStaticMeshFoliage1 -> PinkFlowerStaticMeshFoliage
+[2023.09.14-09.53.09:846][393]LogContentBrowser: End creating deferred item WhiteFlowerStaticMeshFoliage1
+[2023.09.14-09.53.12:676][556]LogAssetEditorSubsystem: Opening Asset editor for FoliageType_InstancedStaticMesh /Game/OurProject/Maps/Forest_Scene/Assets/proceduralFoliage/PinkFlowerStaticMeshFoliage.PinkFlowerStaticMeshFoliage
+[2023.09.14-09.53.20:587][ 12]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/OurProject/Maps/Forest_Scene/Assets/flowers/pinkflower_G.pinkflower_G
+[2023.09.14-09.53.20:587][ 12]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/OurProject/Maps/Forest_Scene/Assets/flowers/pinkflower_G.pinkflower_G
+[2023.09.14-09.53.20:587][ 12]LogActorFactory: Actor Factory spawned StaticMesh /Game/OurProject/Maps/Forest_Scene/Assets/flowers/pinkflower_G.pinkflower_G as actor: StaticMeshActor /Game/OurProject/Maps/Forest_Scene/ForestScene.ForestScene:PersistentLevel.StaticMeshActor_3
+[2023.09.14-09.58.06:875][975]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.09.14-09.58.06:881][975]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.09.14-09.58.06:881][975]PIE: New page: PIE session: ForestScene (15 Sep 2023, 5:58:06 am)
+[2023.09.14-09.58.06:907][975]LogPlayLevel: Creating play world package: /Game/OurProject/Maps/Forest_Scene/UEDPIE_0_ForestScene
+[2023.09.14-09.58.07:052][975]LogPlayLevel: PIE: StaticDuplicateObject took: (0.144141s)
+[2023.09.14-09.58.07:052][975]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/OurProject/Maps/Forest_Scene/ForestScene.ForestScene to /Game/OurProject/Maps/Forest_Scene/UEDPIE_0_ForestScene.ForestScene (0.144240s)
+[2023.09.14-09.58.07:052][975]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.09.14-09.58.07:052][975]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.14-09.58.07:052][975]LogAIModule: Creating AISystem for world ForestScene
+[2023.09.14-09.58.07:053][975]LogPlayLevel: PIE: World Init took: (0.000770s)
+[2023.09.14-09.58.08:560][975]LogUObjectHash: Compacting FUObjectHashTables data took  10.70ms
+[2023.09.14-09.58.08:561][975]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2023.09.14-09.58.08:561][975]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.09.14-09.58.08:561][975]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.09.14-09.58.08:561][975]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.09.14-09.58.08:561][975]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.09.14-09.58.08:561][975]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.09.14-09.58.08:562][975]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.09.14-09.58.08:562][975]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.09.14-09.58.08:562][975]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.09.14-09.58.08:562][975]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.09.14-09.58.08:562][975]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.09.14-09.58.08:562][975]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.09.14-09.58.08:564][975]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.09.14-09.58.08:580][975]LogAudioMixer: Display: Using Audio Hardware Device Realtek HD Audio 2nd output (Realtek High Definition Audio)
+[2023.09.14-09.58.08:580][975]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.09.14-09.58.08:580][975]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.09.14-09.58.08:580][975]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.09.14-09.58.08:580][975]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2023.09.14-09.58.08:580][975]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2023.09.14-09.58.08:582][975]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2023.09.14-09.58.08:582][975]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2023.09.14-09.58.08:582][975]LogInit: FAudioDevice initialized.
+[2023.09.14-09.58.08:582][975]LogAudio: Display: Audio Device (ID: 10) registered with world 'ForestScene'.
+[2023.09.14-09.58.08:594][975]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.09.14-09.58.08:626][975]LogWorld: Bringing World /Game/OurProject/Maps/Forest_Scene/UEDPIE_0_ForestScene.ForestScene up for play (max tick rate 0) at 2023.09.14-19.58.08
+[2023.09.14-09.58.08:626][975]LogWorld: Bringing up level for play took: 0.032438
+[2023.09.14-09.58.08:628][975]LogOnline: OSS: Created online subsystem instance for: :Context_13
+[2023.09.14-09.58.08:630][975]PIE: Server logged in
+[2023.09.14-09.58.08:631][975]PIE: Play in editor total start time 1.75 seconds.
+[2023.09.14-09.58.20:868][944]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.14-09.58.20:868][944]LogWorld: BeginTearingDown for /Game/OurProject/Maps/Forest_Scene/UEDPIE_0_ForestScene
+[2023.09.14-09.58.20:868][944]LogWorld: UWorld::CleanupWorld for ForestScene, bSessionEnded=true, bCleanupResources=true
+[2023.09.14-09.58.20:869][944]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.14-09.58.20:880][944]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.09.14-09.58.20:882][944]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.14-09.58.20:890][944]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.09.14-09.58.20:890][944]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2023.09.14-09.58.20:892][944]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2023.09.14-09.58.20:895][944]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.14-09.58.20:898][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2023.09.14-09.58.20:947][945]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2023.09.14-09.58.24:642][298]LogAssetEditorSubsystem: Opening Asset editor for FoliageType_InstancedStaticMesh /Game/OurProject/Maps/Forest_Scene/Assets/proceduralFoliage/GrassStaticMeshFoliage.GrassStaticMeshFoliage
+[2023.09.14-09.59.04:342][574]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.09.14-09.59.04:347][574]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.09.14-09.59.04:348][574]PIE: New page: PIE session: ForestScene (15 Sep 2023, 5:59:04 am)
+[2023.09.14-09.59.04:348][574]LogPlayLevel: Creating play world package: /Game/OurProject/Maps/Forest_Scene/UEDPIE_0_ForestScene
+[2023.09.14-09.59.04:494][574]LogPlayLevel: PIE: StaticDuplicateObject took: (0.145504s)
+[2023.09.14-09.59.04:494][574]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/OurProject/Maps/Forest_Scene/ForestScene.ForestScene to /Game/OurProject/Maps/Forest_Scene/UEDPIE_0_ForestScene.ForestScene (0.145576s)
+[2023.09.14-09.59.04:494][574]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.09.14-09.59.04:494][574]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.14-09.59.04:494][574]LogAIModule: Creating AISystem for world ForestScene
+[2023.09.14-09.59.04:495][574]LogPlayLevel: PIE: World Init took: (0.000700s)
+[2023.09.14-09.59.05:234][574]LogUObjectHash: Compacting FUObjectHashTables data took   7.97ms
+[2023.09.14-09.59.05:235][574]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2023.09.14-09.59.05:235][574]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.09.14-09.59.05:235][574]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.09.14-09.59.05:235][574]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.09.14-09.59.05:235][574]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.09.14-09.59.05:235][574]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.09.14-09.59.05:235][574]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.09.14-09.59.05:235][574]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.09.14-09.59.05:235][574]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.09.14-09.59.05:236][574]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.09.14-09.59.05:236][574]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.09.14-09.59.05:236][574]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.09.14-09.59.05:237][574]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.09.14-09.59.05:253][574]LogAudioMixer: Display: Using Audio Hardware Device Realtek HD Audio 2nd output (Realtek High Definition Audio)
+[2023.09.14-09.59.05:253][574]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.09.14-09.59.05:253][574]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.09.14-09.59.05:253][574]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.09.14-09.59.05:253][574]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2023.09.14-09.59.05:253][574]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2023.09.14-09.59.05:255][574]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2023.09.14-09.59.05:255][574]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2023.09.14-09.59.05:255][574]LogInit: FAudioDevice initialized.
+[2023.09.14-09.59.05:255][574]LogAudio: Display: Audio Device (ID: 11) registered with world 'ForestScene'.
+[2023.09.14-09.59.05:264][574]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.09.14-09.59.05:306][574]LogWorld: Bringing World /Game/OurProject/Maps/Forest_Scene/UEDPIE_0_ForestScene.ForestScene up for play (max tick rate 0) at 2023.09.14-19.59.05
+[2023.09.14-09.59.05:306][574]LogWorld: Bringing up level for play took: 0.042344
+[2023.09.14-09.59.05:308][574]LogOnline: OSS: Created online subsystem instance for: :Context_14
+[2023.09.14-09.59.05:310][574]PIE: Server logged in
+[2023.09.14-09.59.05:310][574]PIE: Play in editor total start time 0.963 seconds.
+[2023.09.14-09.59.52:267][390]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.14-09.59.52:267][390]LogWorld: BeginTearingDown for /Game/OurProject/Maps/Forest_Scene/UEDPIE_0_ForestScene
+[2023.09.14-09.59.52:267][390]LogWorld: UWorld::CleanupWorld for ForestScene, bSessionEnded=true, bCleanupResources=true
+[2023.09.14-09.59.52:267][390]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.14-09.59.52:277][390]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.09.14-09.59.52:279][390]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.14-09.59.52:287][390]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.09.14-09.59.52:287][390]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2023.09.14-09.59.52:289][390]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2023.09.14-09.59.52:292][390]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.14-09.59.52:295][390]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2023.09.14-09.59.52:347][391]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2023.09.14-10.07.53:196][585]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.09.14-10.07.53:201][585]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.09.14-10.07.53:202][585]PIE: New page: PIE session: ForestScene (15 Sep 2023, 6:07:53 am)
+[2023.09.14-10.07.53:202][585]LogPlayLevel: Creating play world package: /Game/OurProject/Maps/Forest_Scene/UEDPIE_0_ForestScene
+[2023.09.14-10.07.53:346][585]LogPlayLevel: PIE: StaticDuplicateObject took: (0.144554s)
+[2023.09.14-10.07.53:346][585]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/OurProject/Maps/Forest_Scene/ForestScene.ForestScene to /Game/OurProject/Maps/Forest_Scene/UEDPIE_0_ForestScene.ForestScene (0.144653s)
+[2023.09.14-10.07.53:346][585]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.09.14-10.07.53:347][585]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.14-10.07.53:347][585]LogAIModule: Creating AISystem for world ForestScene
+[2023.09.14-10.07.53:347][585]LogPlayLevel: PIE: World Init took: (0.000844s)
+[2023.09.14-10.07.57:740][585]LogUObjectHash: Compacting FUObjectHashTables data took  25.44ms
+[2023.09.14-10.07.57:741][585]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2023.09.14-10.07.57:741][585]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.09.14-10.07.57:741][585]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.09.14-10.07.57:741][585]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.09.14-10.07.57:741][585]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.09.14-10.07.57:741][585]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.09.14-10.07.57:741][585]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.09.14-10.07.57:741][585]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.09.14-10.07.57:741][585]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.09.14-10.07.57:742][585]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.09.14-10.07.57:742][585]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.09.14-10.07.57:742][585]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.09.14-10.07.57:743][585]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.09.14-10.07.57:759][585]LogAudioMixer: Display: Using Audio Hardware Device Realtek HD Audio 2nd output (Realtek High Definition Audio)
+[2023.09.14-10.07.57:760][585]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.09.14-10.07.57:760][585]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.09.14-10.07.57:760][585]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.09.14-10.07.57:760][585]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2023.09.14-10.07.57:760][585]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2023.09.14-10.07.57:761][585]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2023.09.14-10.07.57:761][585]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2023.09.14-10.07.57:761][585]LogInit: FAudioDevice initialized.
+[2023.09.14-10.07.57:761][585]LogAudio: Display: Audio Device (ID: 12) registered with world 'ForestScene'.
+[2023.09.14-10.07.57:774][585]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.09.14-10.07.57:807][585]LogWorld: Bringing World /Game/OurProject/Maps/Forest_Scene/UEDPIE_0_ForestScene.ForestScene up for play (max tick rate 0) at 2023.09.14-20.07.57
+[2023.09.14-10.07.57:807][585]LogWorld: Bringing up level for play took: 0.032733
+[2023.09.14-10.07.57:808][585]LogOnline: OSS: Created online subsystem instance for: :Context_15
+[2023.09.14-10.07.57:810][585]PIE: Server logged in
+[2023.09.14-10.07.57:811][585]PIE: Play in editor total start time 4.609 seconds.
+[2023.09.14-10.10.10:287][678]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.14-10.10.10:287][678]LogWorld: BeginTearingDown for /Game/OurProject/Maps/Forest_Scene/UEDPIE_0_ForestScene
+[2023.09.14-10.10.10:287][678]LogWorld: UWorld::CleanupWorld for ForestScene, bSessionEnded=true, bCleanupResources=true
+[2023.09.14-10.10.10:287][678]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.14-10.10.10:297][678]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.09.14-10.10.10:299][678]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.14-10.10.10:307][678]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.09.14-10.10.10:308][678]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2023.09.14-10.10.10:309][678]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2023.09.14-10.10.10:312][678]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.14-10.10.10:315][678]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2023.09.14-10.10.10:365][679]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2023.09.14-10.11.12:452][151]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2023.09.14-10.11.12:829][151]LogSavePackage: Moving output files for package: /Game/OurProject/Maps/Forest_Scene/ForestScene
+[2023.09.14-10.11.12:829][151]LogSavePackage: Moving 'D:/Unreal Projects/Serious_Games/Serious_Games/Saved/ForestScene8C9A97924DD85825B10488914C953E5E.tmp' to 'D:/Unreal Projects/Serious_Games/Serious_Games/Content/OurProject/Maps/Forest_Scene/ForestScene.umap'
+[2023.09.14-10.11.12:856][151]AssetCheck: New page: Asset Save: ForestScene
+[2023.09.14-10.11.12:856][151]LogContentValidation: Display: Validating World /Game/OurProject/Maps/Forest_Scene/ForestScene.ForestScene
