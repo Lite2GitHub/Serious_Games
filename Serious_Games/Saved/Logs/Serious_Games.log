@@ -1649,3 +1649,47 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2023.09.14-11.57.24:613][108]LogSavePackage: Moving 'D:/Unreal Projects/Serious_Games/Serious_Games/Saved/ForestScene42A239AB4DB850E1B723E8B2D8A35785.tmp' to 'D:/Unreal Projects/Serious_Games/Serious_Games/Content/OurProject/Maps/Forest_Scene/ForestScene.umap'
 [2023.09.14-11.57.24:642][108]AssetCheck: New page: Asset Save: ForestScene
 [2023.09.14-11.57.24:642][108]LogContentValidation: Display: Validating World /Game/OurProject/Maps/Forest_Scene/ForestScene.ForestScene
+[2023.09.14-12.00.13:179][976]LogActorFactory: Actor Factory attempting to spawn Class /Script/Foliage.ProceduralFoliageBlockingVolume
+[2023.09.14-12.00.13:179][976]LogActorFactory: Actor Factory attempting to spawn Class /Script/Foliage.ProceduralFoliageBlockingVolume
+[2023.09.14-12.00.13:179][976]LogActorFactory: Actor Factory spawned Class /Script/Foliage.ProceduralFoliageBlockingVolume as actor: ProceduralFoliageBlockingVolume /Game/OurProject/Maps/Forest_Scene/ForestScene.ForestScene:PersistentLevel.ProceduralFoliageBlockingVolume_2
+[2023.09.14-12.00.13:180][976]LogActorFactory: Actor Factory spawned Class /Script/Foliage.ProceduralFoliageBlockingVolume as actor: ProceduralFoliageBlockingVolume /Game/OurProject/Maps/Forest_Scene/ForestScene.ForestScene:PersistentLevel.ProceduralFoliageBlockingVolume_2
+[2023.09.14-12.00.16:106][163]LogActorFactory: Actor Factory attempting to spawn Class /Script/Foliage.ProceduralFoliageBlockingVolume
+[2023.09.14-12.00.16:106][163]LogActorFactory: Actor Factory attempting to spawn Class /Script/Foliage.ProceduralFoliageBlockingVolume
+[2023.09.14-12.00.16:106][163]LogActorFactory: Actor Factory spawned Class /Script/Foliage.ProceduralFoliageBlockingVolume as actor: ProceduralFoliageBlockingVolume /Game/OurProject/Maps/Forest_Scene/ForestScene.ForestScene:PersistentLevel.ProceduralFoliageBlockingVolume_3
+[2023.09.14-12.00.16:107][163]LogActorFactory: Actor Factory spawned Class /Script/Foliage.ProceduralFoliageBlockingVolume as actor: ProceduralFoliageBlockingVolume /Game/OurProject/Maps/Forest_Scene/ForestScene.ForestScene:PersistentLevel.ProceduralFoliageBlockingVolume_3
+[2023.09.14-12.01.51:706][730]LogActorFactory: Actor Factory attempting to spawn Class /Script/Foliage.ProceduralFoliageVolume
+[2023.09.14-12.01.51:706][730]LogActorFactory: Actor Factory attempting to spawn Class /Script/Foliage.ProceduralFoliageVolume
+[2023.09.14-12.01.51:706][730]LogActorFactory: Actor Factory spawned Class /Script/Foliage.ProceduralFoliageVolume as actor: ProceduralFoliageVolume /Game/OurProject/Maps/Forest_Scene/ForestScene.ForestScene:PersistentLevel.ProceduralFoliageVolume_2
+[2023.09.14-12.01.51:707][730]LogActorFactory: Actor Factory spawned Class /Script/Foliage.ProceduralFoliageVolume as actor: ProceduralFoliageVolume /Game/OurProject/Maps/Forest_Scene/ForestScene.ForestScene:PersistentLevel.ProceduralFoliageVolume_2
+[2023.09.14-12.01.53:208][854]LogActorFactory: Actor Factory attempting to spawn Class /Script/Foliage.ProceduralFoliageVolume
+[2023.09.14-12.01.53:208][854]LogActorFactory: Actor Factory attempting to spawn Class /Script/Foliage.ProceduralFoliageVolume
+[2023.09.14-12.01.53:209][854]LogActorFactory: Actor Factory spawned Class /Script/Foliage.ProceduralFoliageVolume as actor: ProceduralFoliageVolume /Game/OurProject/Maps/Forest_Scene/ForestScene.ForestScene:PersistentLevel.ProceduralFoliageVolume_3
+[2023.09.14-12.01.53:210][854]LogActorFactory: Actor Factory spawned Class /Script/Foliage.ProceduralFoliageVolume as actor: ProceduralFoliageVolume /Game/OurProject/Maps/Forest_Scene/ForestScene.ForestScene:PersistentLevel.ProceduralFoliageVolume_3
+[2023.09.14-12.04.22:515][204]Cmd: TRANSACTION UNDO
+[2023.09.14-12.04.22:515][204]LogEditorTransaction: Undo Rotate Elements
+[2023.09.14-12.05.14:176][713]LogActorFactory: Actor Factory attempting to spawn Class /Script/Foliage.ProceduralFoliageBlockingVolume
+[2023.09.14-12.05.14:176][713]LogActorFactory: Actor Factory attempting to spawn Class /Script/Foliage.ProceduralFoliageBlockingVolume
+[2023.09.14-12.05.14:177][713]LogActorFactory: Actor Factory spawned Class /Script/Foliage.ProceduralFoliageBlockingVolume as actor: ProceduralFoliageBlockingVolume /Game/OurProject/Maps/Forest_Scene/ForestScene.ForestScene:PersistentLevel.ProceduralFoliageBlockingVolume_4
+[2023.09.14-12.05.14:177][713]LogActorFactory: Actor Factory spawned Class /Script/Foliage.ProceduralFoliageBlockingVolume as actor: ProceduralFoliageBlockingVolume /Game/OurProject/Maps/Forest_Scene/ForestScene.ForestScene:PersistentLevel.ProceduralFoliageBlockingVolume_4
+[2023.09.14-12.05.15:462][831]LogActorFactory: Actor Factory attempting to spawn Class /Script/Foliage.ProceduralFoliageBlockingVolume
+[2023.09.14-12.05.15:462][831]LogActorFactory: Actor Factory attempting to spawn Class /Script/Foliage.ProceduralFoliageBlockingVolume
+[2023.09.14-12.05.15:462][831]LogActorFactory: Actor Factory spawned Class /Script/Foliage.ProceduralFoliageBlockingVolume as actor: ProceduralFoliageBlockingVolume /Game/OurProject/Maps/Forest_Scene/ForestScene.ForestScene:PersistentLevel.ProceduralFoliageBlockingVolume_5
+[2023.09.14-12.05.15:463][831]LogActorFactory: Actor Factory spawned Class /Script/Foliage.ProceduralFoliageBlockingVolume as actor: ProceduralFoliageBlockingVolume /Game/OurProject/Maps/Forest_Scene/ForestScene.ForestScene:PersistentLevel.ProceduralFoliageBlockingVolume_5
+[2023.09.14-12.09.04:334][171]Cmd: TRANSACTION UNDO
+[2023.09.14-12.09.04:334][171]LogEditorTransaction: Undo Set Location
+[2023.09.14-12.09.07:366][452]Cmd: TRANSACTION UNDO
+[2023.09.14-12.09.07:366][452]LogEditorTransaction: Undo Set Location
+[2023.09.14-12.09.10:456][740]Cmd: TRANSACTION UNDO
+[2023.09.14-12.09.10:456][740]LogEditorTransaction: Undo Set Location
+[2023.09.14-12.09.17:127][448]Cmd: TRANSACTION UNDO
+[2023.09.14-12.09.17:127][448]LogEditorTransaction: Undo Set Rotation
+[2023.09.14-12.13.21:600][ 52]LogUObjectHash: Compacting FUObjectHashTables data took  16.86ms
+[2023.09.14-12.13.21:939][ 52]LogSavePackage: Moving output files for package: /Game/OurProject/Maps/Forest_Scene/ForestScene
+[2023.09.14-12.13.21:939][ 52]LogSavePackage: Moving 'D:/Unreal Projects/Serious_Games/Serious_Games/Saved/ForestScene572A68FF460A08995B45A3AA1EB2D29A.tmp' to 'D:/Unreal Projects/Serious_Games/Serious_Games/Content/OurProject/Maps/Forest_Scene/ForestScene.umap'
+[2023.09.14-12.13.21:966][ 52]AssetCheck: New page: Asset Save: ForestScene
+[2023.09.14-12.13.21:966][ 52]LogContentValidation: Display: Validating World /Game/OurProject/Maps/Forest_Scene/ForestScene.ForestScene
+[2023.09.14-12.13.24:930][327]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2023.09.14-12.13.25:268][327]LogSavePackage: Moving output files for package: /Game/OurProject/Maps/Forest_Scene/ForestScene
+[2023.09.14-12.13.25:268][327]LogSavePackage: Moving 'D:/Unreal Projects/Serious_Games/Serious_Games/Saved/ForestSceneF6A6AD4A4FD4B1A45AF83099E314E2CC.tmp' to 'D:/Unreal Projects/Serious_Games/Serious_Games/Content/OurProject/Maps/Forest_Scene/ForestScene.umap'
+[2023.09.14-12.13.25:291][327]AssetCheck: New page: Asset Save: ForestScene
+[2023.09.14-12.13.25:291][327]LogContentValidation: Display: Validating World /Game/OurProject/Maps/Forest_Scene/ForestScene.ForestScene
