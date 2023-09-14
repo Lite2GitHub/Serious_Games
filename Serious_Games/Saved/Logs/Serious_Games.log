@@ -1521,3 +1521,73 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2023.09.14-10.11.12:829][151]LogSavePackage: Moving 'D:/Unreal Projects/Serious_Games/Serious_Games/Saved/ForestScene8C9A97924DD85825B10488914C953E5E.tmp' to 'D:/Unreal Projects/Serious_Games/Serious_Games/Content/OurProject/Maps/Forest_Scene/ForestScene.umap'
 [2023.09.14-10.11.12:856][151]AssetCheck: New page: Asset Save: ForestScene
 [2023.09.14-10.11.12:856][151]LogContentValidation: Display: Validating World /Game/OurProject/Maps/Forest_Scene/ForestScene.ForestScene
+[2023.09.14-10.12.31:176][ 16]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.09.14-10.12.31:176][ 16]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.09.14-10.12.32:023][ 71]LogContentBrowser: Deferred new asset file creation: WhiteFlowerStaticMeshFoliage1
+[2023.09.14-10.12.32:037][ 71]LogContentBrowser: Creating deferred item: WhiteFlowerStaticMeshFoliage1
+[2023.09.14-10.12.32:048][ 72]LogContentBrowser: Renaming the item being created (Deferred Item: WhiteFlowerStaticMeshFoliage1).
+[2023.09.14-10.12.47:038][ 48]LogContentBrowser: Attempting asset rename: WhiteFlowerStaticMeshFoliage1 -> yellowFlowerStaticMeshFoliage
+[2023.09.14-10.12.47:039][ 48]LogContentBrowser: End creating deferred item WhiteFlowerStaticMeshFoliage1
+[2023.09.14-10.12.49:477][199]LogAssetEditorSubsystem: Opening Asset editor for FoliageType_InstancedStaticMesh /Game/OurProject/Maps/Forest_Scene/Assets/proceduralFoliage/yellowFlowerStaticMeshFoliage.yellowFlowerStaticMeshFoliage
+[2023.09.14-10.21.47:436][803]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.09.14-10.21.47:442][803]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.09.14-10.21.47:442][803]PIE: New page: PIE session: ForestScene (15 Sep 2023, 6:21:47 am)
+[2023.09.14-10.21.47:465][803]LogPlayLevel: Creating play world package: /Game/OurProject/Maps/Forest_Scene/UEDPIE_0_ForestScene
+[2023.09.14-10.21.47:609][803]LogPlayLevel: PIE: StaticDuplicateObject took: (0.143004s)
+[2023.09.14-10.21.47:609][803]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/OurProject/Maps/Forest_Scene/ForestScene.ForestScene to /Game/OurProject/Maps/Forest_Scene/UEDPIE_0_ForestScene.ForestScene (0.143103s)
+[2023.09.14-10.21.47:609][803]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.09.14-10.21.47:609][803]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.14-10.21.47:609][803]LogAIModule: Creating AISystem for world ForestScene
+[2023.09.14-10.21.47:610][803]LogPlayLevel: PIE: World Init took: (0.000767s)
+[2023.09.14-10.21.55:433][803]LogUObjectHash: Compacting FUObjectHashTables data took  73.74ms
+[2023.09.14-10.21.55:434][803]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2023.09.14-10.21.55:434][803]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.09.14-10.21.55:434][803]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.09.14-10.21.55:434][803]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.09.14-10.21.55:434][803]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.09.14-10.21.55:434][803]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.09.14-10.21.55:434][803]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.09.14-10.21.55:434][803]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.09.14-10.21.55:434][803]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.09.14-10.21.55:435][803]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.09.14-10.21.55:435][803]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.09.14-10.21.55:435][803]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.09.14-10.21.55:436][803]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.09.14-10.21.55:452][803]LogAudioMixer: Display: Using Audio Hardware Device Realtek HD Audio 2nd output (Realtek High Definition Audio)
+[2023.09.14-10.21.55:452][803]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.09.14-10.21.55:452][803]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.09.14-10.21.55:452][803]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.09.14-10.21.55:453][803]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2023.09.14-10.21.55:453][803]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2023.09.14-10.21.55:454][803]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2023.09.14-10.21.55:454][803]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2023.09.14-10.21.55:454][803]LogInit: FAudioDevice initialized.
+[2023.09.14-10.21.55:454][803]LogAudio: Display: Audio Device (ID: 13) registered with world 'ForestScene'.
+[2023.09.14-10.21.55:467][803]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.09.14-10.21.55:498][803]LogWorld: Bringing World /Game/OurProject/Maps/Forest_Scene/UEDPIE_0_ForestScene.ForestScene up for play (max tick rate 0) at 2023.09.14-20.21.55
+[2023.09.14-10.21.55:498][803]LogWorld: Bringing up level for play took: 0.031066
+[2023.09.14-10.21.55:500][803]LogOnline: OSS: Created online subsystem instance for: :Context_16
+[2023.09.14-10.21.55:502][803]PIE: Server logged in
+[2023.09.14-10.21.55:502][803]PIE: Play in editor total start time 8.06 seconds.
+[2023.09.14-10.22.07:055][554]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.14-10.22.07:055][554]LogWorld: BeginTearingDown for /Game/OurProject/Maps/Forest_Scene/UEDPIE_0_ForestScene
+[2023.09.14-10.22.07:056][554]LogWorld: UWorld::CleanupWorld for ForestScene, bSessionEnded=true, bCleanupResources=true
+[2023.09.14-10.22.07:056][554]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.14-10.22.07:066][554]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.09.14-10.22.07:068][554]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.14-10.22.07:073][554]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.09.14-10.22.07:074][554]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2023.09.14-10.22.07:075][554]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2023.09.14-10.22.07:078][554]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.14-10.22.07:082][554]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2023.09.14-10.22.07:134][555]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2023.09.14-10.22.09:420][709]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2023.09.14-10.22.09:793][709]LogSavePackage: Moving output files for package: /Game/OurProject/Maps/Forest_Scene/ForestScene
+[2023.09.14-10.22.09:793][709]LogSavePackage: Moving 'D:/Unreal Projects/Serious_Games/Serious_Games/Saved/ForestScene5EF96AF344BCAD110F97EE945C0950E2.tmp' to 'D:/Unreal Projects/Serious_Games/Serious_Games/Content/OurProject/Maps/Forest_Scene/ForestScene.umap'
+[2023.09.14-10.22.09:820][709]AssetCheck: New page: Asset Save: ForestScene
+[2023.09.14-10.22.09:820][709]LogContentValidation: Display: Validating World /Game/OurProject/Maps/Forest_Scene/ForestScene.ForestScene
+[2023.09.14-10.22.21:753][544]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2023.09.14-10.22.22:131][544]LogSavePackage: Moving output files for package: /Game/OurProject/Maps/Forest_Scene/ForestScene
+[2023.09.14-10.22.22:131][544]LogSavePackage: Moving 'D:/Unreal Projects/Serious_Games/Serious_Games/Saved/ForestScene7296FF9C497DAAD6924FBD982C5A2B88.tmp' to 'D:/Unreal Projects/Serious_Games/Serious_Games/Content/OurProject/Maps/Forest_Scene/ForestScene.umap'
+[2023.09.14-10.22.22:154][544]AssetCheck: New page: Asset Save: ForestScene
+[2023.09.14-10.22.22:154][544]LogContentValidation: Display: Validating World /Game/OurProject/Maps/Forest_Scene/ForestScene.ForestScene
