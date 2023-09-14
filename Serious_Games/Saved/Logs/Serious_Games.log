@@ -1614,3 +1614,38 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2023.09.14-10.32.22:270][423]LogSavePackage: Moving 'D:/Unreal Projects/Serious_Games/Serious_Games/Saved/yellowFlowerStaticMeshFoliage_Au533DF16948B0AB1E7CA100A16AA5E6C7.tmp' to 'D:/Unreal Projects/Serious_Games/Serious_Games/Saved/Autosaves/Game/OurProject/Maps/Forest_Scene/Assets/proceduralFoliage/yellowFlowerStaticMeshFoliage_Auto2.uasset'
 [2023.09.14-10.32.22:270][423]LogFileHelpers: Auto-saving content packages took 0.140
 [2023.09.14-10.37.05:384][271]LogDerivedDataCache: C:/Users/Janara/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.354 and deleted 0 file(s) with total size 0 MiB.
+[2023.09.14-11.18.24:760][670]LogSlate: Window 'yellowFlowerStaticMeshFoliage' being destroyed
+[2023.09.14-11.18.24:767][670]LogSlate: Window 'yellowFlowerStaticMeshFoliage' being destroyed
+[2023.09.14-11.37.05:582][138]LogDerivedDataCache: C:/Users/Janara/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.385 and deleted 0 file(s) with total size 0 MiB.
+[2023.09.14-11.38.46:586][438]LogViewport: Scene viewport resized to 1097x942, mode Windowed.
+[2023.09.14-11.38.47:167][438]LogViewport: Scene viewport resized to 1091x873, mode Windowed.
+[2023.09.14-11.38.49:284][439]LogViewport: Scene viewport resized to 1097x942, mode Windowed.
+[2023.09.14-11.38.49:920][442]LogViewport: Scene viewport resized to 1097x910, mode Windowed.
+[2023.09.14-11.38.50:038][442]LogViewport: Scene viewport resized to 1097x902, mode Windowed.
+[2023.09.14-11.44.08:582][176]LogActorFactory: Actor Factory attempting to spawn Class /Script/Foliage.ProceduralFoliageBlockingVolume
+[2023.09.14-11.44.08:582][176]LogActorFactory: Actor Factory attempting to spawn Class /Script/Foliage.ProceduralFoliageBlockingVolume
+[2023.09.14-11.44.08:582][176]LogActorFactory: Actor Factory spawned Class /Script/Foliage.ProceduralFoliageBlockingVolume as actor: ProceduralFoliageBlockingVolume /Game/OurProject/Maps/Forest_Scene/ForestScene.ForestScene:PersistentLevel.ProceduralFoliageBlockingVolume_0
+[2023.09.14-11.44.08:583][176]LogActorFactory: Actor Factory spawned Class /Script/Foliage.ProceduralFoliageBlockingVolume as actor: ProceduralFoliageBlockingVolume /Game/OurProject/Maps/Forest_Scene/ForestScene.ForestScene:PersistentLevel.ProceduralFoliageBlockingVolume_0
+[2023.09.14-11.44.09:332][254]LogActorFactory: Actor Factory attempting to spawn Class /Script/Foliage.ProceduralFoliageBlockingVolume
+[2023.09.14-11.44.09:332][254]LogActorFactory: Actor Factory attempting to spawn Class /Script/Foliage.ProceduralFoliageBlockingVolume
+[2023.09.14-11.44.09:333][254]LogActorFactory: Actor Factory spawned Class /Script/Foliage.ProceduralFoliageBlockingVolume as actor: ProceduralFoliageBlockingVolume /Game/OurProject/Maps/Forest_Scene/ForestScene.ForestScene:PersistentLevel.ProceduralFoliageBlockingVolume_1
+[2023.09.14-11.44.09:334][254]LogActorFactory: Actor Factory spawned Class /Script/Foliage.ProceduralFoliageBlockingVolume as actor: ProceduralFoliageBlockingVolume /Game/OurProject/Maps/Forest_Scene/ForestScene.ForestScene:PersistentLevel.ProceduralFoliageBlockingVolume_1
+[2023.09.14-11.45.14:173][296]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2023.09.14-11.45.14:554][296]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/OurProject/Maps/Forest_Scene/ForestScene_Auto3
+[2023.09.14-11.45.14:554][296]LogSavePackage: Moving 'D:/Unreal Projects/Serious_Games/Serious_Games/Saved/ForestScene_Auto31D982BB340041EFC4EE909A69150E777.tmp' to 'D:/Unreal Projects/Serious_Games/Serious_Games/Saved/Autosaves/Game/OurProject/Maps/Forest_Scene/ForestScene_Auto3.umap'
+[2023.09.14-11.45.14:560][296]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/OurProject/Maps/Forest_Scene/ForestScene' took 0.395
+[2023.09.14-11.45.14:560][296]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.395
+[2023.09.14-11.54.56:668][933]Cmd: TRANSACTION UNDO
+[2023.09.14-11.54.56:668][933]LogEditorTransaction: Undo Clicking on Elements
+[2023.09.14-11.56.29:517][208]Cmd: TRANSACTION UNDO
+[2023.09.14-11.56.29:517][208]LogEditorTransaction: Undo Move Elements
+[2023.09.14-11.57.17:705][612]LogUObjectHash: Compacting FUObjectHashTables data took  27.50ms
+[2023.09.14-11.57.18:051][612]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/OurProject/Maps/Forest_Scene/ForestScene_Auto4
+[2023.09.14-11.57.18:052][612]LogSavePackage: Moving 'D:/Unreal Projects/Serious_Games/Serious_Games/Saved/ForestScene_Auto45C48C5ED4FE68C14F97D9292A2E9EB68.tmp' to 'D:/Unreal Projects/Serious_Games/Serious_Games/Saved/Autosaves/Game/OurProject/Maps/Forest_Scene/ForestScene_Auto4.umap'
+[2023.09.14-11.57.18:057][612]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/OurProject/Maps/Forest_Scene/ForestScene' took 3.119
+[2023.09.14-11.57.18:057][612]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 3.119
+[2023.09.14-11.57.24:272][108]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2023.09.14-11.57.24:613][108]LogSavePackage: Moving output files for package: /Game/OurProject/Maps/Forest_Scene/ForestScene
+[2023.09.14-11.57.24:613][108]LogSavePackage: Moving 'D:/Unreal Projects/Serious_Games/Serious_Games/Saved/ForestScene42A239AB4DB850E1B723E8B2D8A35785.tmp' to 'D:/Unreal Projects/Serious_Games/Serious_Games/Content/OurProject/Maps/Forest_Scene/ForestScene.umap'
+[2023.09.14-11.57.24:642][108]AssetCheck: New page: Asset Save: ForestScene
+[2023.09.14-11.57.24:642][108]LogContentValidation: Display: Validating World /Game/OurProject/Maps/Forest_Scene/ForestScene.ForestScene
