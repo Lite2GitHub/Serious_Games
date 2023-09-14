@@ -2056,3 +2056,577 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2023.09.14-01.35.21:614][322]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
 [2023.09.14-01.35.24:893][549]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
 [2023.09.14-01.35.32:139][ 56]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.09.14-01.40.41:690][ 49]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Speakers (Logitech G733 Gaming Headset), InstanceID=1
+[2023.09.14-01.40.41:690][ 49]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=11016
+[2023.09.14-01.40.42:015][ 49]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=8, SampleRate=44100, DeviceID={0.0.0.00000000}.{3bd4bbba-a725-4f57-8ef0-ce2fe745a245}, Name=Speakers (Logitech G733 Gaming Headset)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=10.61
+[2023.09.14-01.40.42:015][ 49]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=1
+[2023.09.14-01.40.42:025][ 50]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.09.14-01.42.34:602][385]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2023.09.14-01.42.34:606][385]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/FL/70SM1KR31H6VCF0RDI42R0_Auto6
+[2023.09.14-01.42.34:606][385]LogSavePackage: Moving '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Saved/70SM1KR31H6VCF0RDI42R0_Auto638BB634B44E3C3958D1E72BD04A57268.tmp' to '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/FL/70SM1KR31H6VCF0RDI42R0_Auto6.uasset'
+[2023.09.14-01.42.34:606][385]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.012
+[2023.09.14-01.42.34:606][385]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.012
+[2023.09.14-01.42.34:607][385]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/OurProject/Maps/bedroom_scene/assets/study_desk/study_desk2_lambert1SG_BaseColor] ([1] browsable assets)...
+[2023.09.14-01.42.34:610][385]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/OurProject/Maps/bedroom_scene/assets/study_desk/study_desk2_lambert1SG_BaseColor.study_desk2_lambert1SG_BaseColor]
+[2023.09.14-01.42.34:610][385]OBJ SavePackage: Finished generating thumbnails for package [/Game/OurProject/Maps/bedroom_scene/assets/study_desk/study_desk2_lambert1SG_BaseColor]
+[2023.09.14-01.42.34:619][385]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/OurProject/Maps/bedroom_scene/assets/study_desk/study_desk2_lambert1SG_BaseColor_Auto6
+[2023.09.14-01.42.34:619][385]LogSavePackage: Moving '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Saved/study_desk2_lambert1SG_BaseColor7F49F4134F005E01AFB56D99431A0CA5.tmp' to '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Saved/Autosaves/Game/OurProject/Maps/bedroom_scene/assets/study_desk/study_desk2_lambert1SG_BaseColor_Auto6.uasset'
+[2023.09.14-01.42.34:619][385]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/OurProject/Maps/bedroom_scene/assets/study_desk/study_desk2_lambert1SG_OcclusionRoughnessMetallic] ([1] browsable assets)...
+[2023.09.14-01.42.34:621][385]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/OurProject/Maps/bedroom_scene/assets/study_desk/study_desk2_lambert1SG_OcclusionRoughnessMetallic.study_desk2_lambert1SG_OcclusionRoughnessMetallic]
+[2023.09.14-01.42.34:621][385]OBJ SavePackage: Finished generating thumbnails for package [/Game/OurProject/Maps/bedroom_scene/assets/study_desk/study_desk2_lambert1SG_OcclusionRoughnessMetallic]
+[2023.09.14-01.42.34:629][385]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/OurProject/Maps/bedroom_scene/assets/study_desk/study_desk2_lambert1SG_OcclusionRoughnessMetallic_Auto6
+[2023.09.14-01.42.34:629][385]LogSavePackage: Moving '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Saved/study_desk2_lambert1SG_OcclusionE519D2DA4BF34CE3702651A66E98F58F.tmp' to '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Saved/Autosaves/Game/OurProject/Maps/bedroom_scene/assets/study_desk/study_desk2_lambert1SG_OcclusionRoughnessMetallic_Auto6.uasset'
+[2023.09.14-01.42.34:630][385]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/OurProject/Maps/bedroom_scene/assets/study_desk/study_desk2_lambert1SG_Normal] ([1] browsable assets)...
+[2023.09.14-01.42.34:632][385]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/OurProject/Maps/bedroom_scene/assets/study_desk/study_desk2_lambert1SG_Normal.study_desk2_lambert1SG_Normal]
+[2023.09.14-01.42.34:632][385]OBJ SavePackage: Finished generating thumbnails for package [/Game/OurProject/Maps/bedroom_scene/assets/study_desk/study_desk2_lambert1SG_Normal]
+[2023.09.14-01.42.34:640][385]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/OurProject/Maps/bedroom_scene/assets/study_desk/study_desk2_lambert1SG_Normal_Auto6
+[2023.09.14-01.42.34:640][385]LogSavePackage: Moving '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Saved/study_desk2_lambert1SG_Normal_AuA0F359E84498A36926007E96665FE9F6.tmp' to '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Saved/Autosaves/Game/OurProject/Maps/bedroom_scene/assets/study_desk/study_desk2_lambert1SG_Normal_Auto6.uasset'
+[2023.09.14-01.42.34:641][385]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/OurProject/Maps/bedroom_scene/assets/study_desk/M_study_desk2_study_desk_mat_932C8A2249F983D66F4F3ABA785FA4BB] ([2] browsable assets)...
+[2023.09.14-01.42.34:689][385]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/OurProject/Maps/bedroom_scene/assets/study_desk/M_study_desk2_study_desk_mat_932C8A2249F983D66F4F3ABA785FA4BB.M_M_study_desk2_study_desk_mat_932C8A2249F983D66F4F3ABA785FA4BB]
+[2023.09.14-01.42.34:695][385]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/OurProject/Maps/bedroom_scene/assets/study_desk/M_study_desk2_study_desk_mat_932C8A2249F983D66F4F3ABA785FA4BB.T_M_study_desk2_study_desk_mat_932C8A2249F983D66F4F3ABA785FA4BB_BaseColor]
+[2023.09.14-01.42.34:695][385]OBJ SavePackage: Finished generating thumbnails for package [/Game/OurProject/Maps/bedroom_scene/assets/study_desk/M_study_desk2_study_desk_mat_932C8A2249F983D66F4F3ABA785FA4BB]
+[2023.09.14-01.42.34:702][385]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/OurProject/Maps/bedroom_scene/assets/study_desk/M_study_desk2_study_desk_mat_932C8A2249F983D66F4F3ABA785FA4BB_Auto6
+[2023.09.14-01.42.34:702][385]LogSavePackage: Moving '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Saved/M_study_desk2_study_desk_mat_93298ABAAAD471DB93D5B2B9C8A85B46B82.tmp' to '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Saved/Autosaves/Game/OurProject/Maps/bedroom_scene/assets/study_desk/M_study_desk2_study_desk_mat_932C8A2249F983D66F4F3ABA785FA4BB_Auto6.uasset'
+[2023.09.14-01.42.34:703][385]LogFileHelpers: Auto-saving content packages took 0.097
+[2023.09.14-01.55.24:345][686]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=XG2431 (NVIDIA High Definition Audio), InstanceID=1
+[2023.09.14-01.55.24:345][686]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=11016
+[2023.09.14-01.55.24:675][686]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{8a761fbf-b4f5-4c2e-803f-e752e27eda13}, Name=XG2431 (NVIDIA High Definition Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=237.81
+[2023.09.14-01.55.24:675][686]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.09.14-01.55.24:683][687]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.09.14-01.56.08:528][646]LogSlate: Window 'Material Baking Options' being destroyed
+[2023.09.14-01.56.30:069][150]LogDerivedDataCache: C:/Users/linch/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.378 and deleted 0 file(s) with total size 0 MiB.
+[2023.09.14-02.19.36:483][501]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.09.14-02.19.36:492][501]LogContentBrowser: Creating deferred item: NewFolder
+[2023.09.14-02.19.36:504][502]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.09.14-02.19.37:603][586]LogContentBrowser: Attempting asset rename: NewFolder -> books
+[2023.09.14-02.19.37:604][586]LogContentBrowser: End creating deferred item NewFolder
+[2023.09.14-02.19.44:018][888]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 E:\2130GFS Serious Games\props\bedroom\props\books\closed_book.fbx)
+[2023.09.14-02.19.44:023][888]LogFbx: Loading FBX Scene from E:\2130GFS Serious Games\props\bedroom\props\books\closed_book.fbx
+[2023.09.14-02.19.44:027][888]LogFbx: FBX Scene Loaded Succesfully
+[2023.09.14-02.19.45:870][888]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.09.14-02.19.45:889][888]LogStaticMesh: Display: Building static mesh closed_book...
+[2023.09.14-02.19.45:894][888]LogStaticMesh: Built static mesh [0.01s] /Game/OurProject/Maps/bedroom_scene/assets/books/closed_book.closed_book
+[2023.09.14-02.19.45:895][888]LogStaticMesh: Warning: closed_book has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2023.09.14-02.19.45:895][888]LogStaticMesh: Warning: closed_book has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2023.09.14-02.19.45:900][888]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.09.14-02.19.45:900][888]FBXImport: Warning: closed_book has some nearly zero tangents which can create some issues. (Tolerance of 1E-4) 
+[2023.09.14-02.19.45:900][888]FBXImport: Warning: closed_book has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2023.09.14-02.19.47:451][993]LogSlate: Window 'Message Log' being destroyed
+[2023.09.14-02.19.47:468][993]LogSlate: Window 'Message Log' being destroyed
+[2023.09.14-02.19.49:265][109]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/OurProject/Maps/bedroom_scene/assets/books/closed_book.closed_book
+[2023.09.14-02.19.49:265][109]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/OurProject/Maps/bedroom_scene/assets/books/closed_book.closed_book
+[2023.09.14-02.19.49:265][109]LogActorFactory: Actor Factory spawned StaticMesh /Game/OurProject/Maps/bedroom_scene/assets/books/closed_book.closed_book as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_5
+[2023.09.14-02.19.50:994][207]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/OurProject/Maps/bedroom_scene/assets/books/closed_book.closed_book
+[2023.09.14-02.19.50:994][207]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/OurProject/Maps/bedroom_scene/assets/books/closed_book.closed_book
+[2023.09.14-02.19.50:995][207]LogActorFactory: Actor Factory spawned StaticMesh /Game/OurProject/Maps/bedroom_scene/assets/books/closed_book.closed_book as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_6
+[2023.09.14-02.19.51:342][225]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/OurProject/Maps/bedroom_scene/assets/books/closed_book.closed_book
+[2023.09.14-02.19.51:342][225]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/OurProject/Maps/bedroom_scene/assets/books/closed_book.closed_book
+[2023.09.14-02.19.51:343][225]LogActorFactory: Actor Factory spawned StaticMesh /Game/OurProject/Maps/bedroom_scene/assets/books/closed_book.closed_book as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_04421A293C741FA901_1868636083
+[2023.09.14-02.19.51:559][238]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.09.14-02.19.52:951][334]Cmd: TRANSACTION UNDO
+[2023.09.14-02.19.52:951][334]LogEditorTransaction: Undo Create Actors
+[2023.09.14-02.19.52:981][334]LogMaterial: Display: Missing cached shadermap for Preview:NewMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 4994767D5F5CE1B7CA1322409030881E2105EE51), compiling. 
+[2023.09.14-02.19.52:985][334]LogMaterial: Display: Missing cached shadermap for Preview:study_desk_mat in PCD3D_SM5, Default, SM5 (DDC key hash: 2A751E023BEE79EC4ADBF0825CEECFC989173D43), compiling. 
+[2023.09.14-02.19.52:998][334]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.14-02.19.52:998][334]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.14-02.19.52:998][334]MaterialEditorStats: Virtual Texture Lookups (Est.): 3
+[2023.09.14-02.19.52:998][334]MaterialEditorStats: Virtual Texture Stacks: 1
+[2023.09.14-02.19.52:998][334]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.14-02.19.52:998][334]MaterialEditorStats: Shader Count: 0
+[2023.09.14-02.19.52:998][334]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.14-02.19.52:998][334]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.14-02.19.52:998][334]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.14-02.19.52:998][334]MaterialEditorStats: Shader Count: 0
+[2023.09.14-02.19.53:061][335]LogShaderCompilers: Display: ================================================
+[2023.09.14-02.19.53:062][335]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.09.14-02.19.53:062][335]LogShaderCompilers: Display: Total job queries 699, among them cache hits 374 (53.51%)
+[2023.09.14-02.19.53:062][335]LogShaderCompilers: Display: Tracking 294 distinct input hashes that result in 175 distinct outputs (59.52%)
+[2023.09.14-02.19.53:062][335]LogShaderCompilers: Display: RAM used: 0.52 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.03%
+[2023.09.14-02.19.53:062][335]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.09.14-02.19.53:062][335]LogShaderCompilers: Display: Shaders Compiled: 200
+[2023.09.14-02.19.53:062][335]LogShaderCompilers: Display: Jobs assigned 294, completed 294 (100.00%)
+[2023.09.14-02.19.53:062][335]LogShaderCompilers: Display: Average time worker was idle: 250.24 s
+[2023.09.14-02.19.53:062][335]LogShaderCompilers: Display: Time job spent in pending queue: average 9.48 s, longest 40.01 s
+[2023.09.14-02.19.53:062][335]LogShaderCompilers: Display: Job execution time: average 5.14 s, max 20.58 s
+[2023.09.14-02.19.53:062][335]LogShaderCompilers: Display: Job life time (pending + execution): average 14.62 s, max 41.73
+[2023.09.14-02.19.53:062][335]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 80.33 s
+[2023.09.14-02.19.53:062][335]LogShaderCompilers: Display: Jobs were issued in 199 batches (only local compilation was used), average 1.48 jobs/batch
+[2023.09.14-02.19.53:062][335]LogShaderCompilers: Display: Average processing rate: 3.66 jobs/sec
+[2023.09.14-02.19.53:062][335]LogShaderCompilers: Display: Effective parallelization: 5.72 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.09.14-02.19.53:062][335]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.09.14-02.19.53:062][335]LogShaderCompilers: Display:                                                  FHitProxyVS (compiled    3 times, average 3.15 sec, max 5.11 sec, min 1.63 sec)
+[2023.09.14-02.19.53:062][335]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled   11 times, average 2.83 sec, max 16.85 sec, min 0.42 sec)
+[2023.09.14-02.19.53:062][335]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled   10 times, average 2.40 sec, max 9.21 sec, min 1.06 sec)
+[2023.09.14-02.19.53:062][335]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled   10 times, average 2.22 sec, max 8.19 sec, min 0.87 sec)
+[2023.09.14-02.19.53:062][335]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap (compiled    3 times, average 2.19 sec, max 2.75 sec, min 1.90 sec)
+[2023.09.14-02.19.53:062][335]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.09.14-02.19.53:062][335]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 12.01% of total time (compiled   36 times, average 1.53 sec, max 10.51 sec, min 0.63 sec)
+[2023.09.14-02.19.53:062][335]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 9.57% of total time (compiled   36 times, average 1.22 sec, max 6.76 sec, min 0.51 sec)
+[2023.09.14-02.19.53:062][335]LogShaderCompilers: Display:                                                 FLumenCardVS - 7.22% of total time (compiled   20 times, average 1.66 sec, max 9.29 sec, min 0.74 sec)
+[2023.09.14-02.19.53:062][335]LogShaderCompilers: Display:                                             FDebugViewModePS - 6.78% of total time (compiled   11 times, average 2.83 sec, max 16.85 sec, min 0.42 sec)
+[2023.09.14-02.19.53:062][335]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 5.23% of total time (compiled   10 times, average 2.40 sec, max 9.21 sec, min 1.06 sec)
+[2023.09.14-02.19.53:062][335]LogShaderCompilers: Display: ================================================
+[2023.09.14-02.19.53:103][336]MaterialEditorStats: Texture samplers: 4/16
+[2023.09.14-02.19.53:103][336]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.14-02.19.53:103][336]MaterialEditorStats: Virtual Texture Lookups (Est.): 3
+[2023.09.14-02.19.53:103][336]MaterialEditorStats: Virtual Texture Stacks: 1
+[2023.09.14-02.19.53:103][336]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.14-02.19.53:103][336]MaterialEditorStats: Shader Count: 4
+[2023.09.14-02.19.53:103][336]MaterialEditorStats: Texture samplers: 5/16
+[2023.09.14-02.19.53:103][336]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.14-02.19.53:103][336]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.14-02.19.53:103][336]MaterialEditorStats: Shader Count: 4
+[2023.09.14-02.19.54:947][448]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/OurProject/Maps/bedroom_scene/assets/books/closed_book.closed_book
+[2023.09.14-02.19.54:947][448]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/OurProject/Maps/bedroom_scene/assets/books/closed_book.closed_book
+[2023.09.14-02.19.54:947][448]LogActorFactory: Actor Factory spawned StaticMesh /Game/OurProject/Maps/bedroom_scene/assets/books/closed_book.closed_book as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_7
+[2023.09.14-02.19.55:300][469]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/OurProject/Maps/bedroom_scene/assets/books/closed_book.closed_book
+[2023.09.14-02.19.55:300][469]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/OurProject/Maps/bedroom_scene/assets/books/closed_book.closed_book
+[2023.09.14-02.19.55:300][469]LogActorFactory: Actor Factory spawned StaticMesh /Game/OurProject/Maps/bedroom_scene/assets/books/closed_book.closed_book as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_04421A293C741FA901_1872594084
+[2023.09.14-02.19.55:421][475]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.09.14-02.20.08:039][373]LogStaticMesh: Display: Building static mesh closed_book...
+[2023.09.14-02.20.08:039][373]LogStaticMesh: Built static mesh [0.01s] /Game/OurProject/Maps/bedroom_scene/assets/books/closed_book.closed_book
+[2023.09.14-02.20.08:039][373]LogStaticMesh: Warning: closed_book has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2023.09.14-02.20.08:039][373]LogStaticMesh: Warning: closed_book has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2023.09.14-02.20.08:530][408]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.09.14-02.20.17:614][ 73]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.09.14-02.20.21:219][313]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2023.09.14-02.20.21:227][313]LogContentBrowser: Creating deferred item: NewMaterial
+[2023.09.14-02.20.21:241][314]LogContentBrowser: Renaming the item being created (Deferred Item: NewMaterial).
+[2023.09.14-02.20.25:661][655]LogContentBrowser: Attempting asset rename: NewMaterial -> closed_book_mat
+[2023.09.14-02.20.25:661][655]LogContentBrowser: End creating deferred item NewMaterial
+[2023.09.14-02.20.28:806][880]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/OurProject/Maps/bedroom_scene/assets/books/closed_book_mat.closed_book_mat
+[2023.09.14-02.20.28:807][880]LogMaterial: Display: Missing cached shadermap for Preview:closed_book_mat in PCD3D_SM5, Default, SM5 (DDC key hash: 2A759D3A22BE575A7AD62FD2D7C6CDC80481000D), compiling. 
+[2023.09.14-02.20.28:821][880]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.14-02.20.28:864][880]LogSlate: The tab "MaterialEditor_Strata" attempted to spawn in layout 'Standalone_MaterialEditor_Layout_v13' but failed for some reason. An "unrecognized tab" will be returned instead.
+[2023.09.14-02.20.28:869][880]LogMaterial: Display: Missing cached shadermap for Preview:closed_book_mat in PCD3D_SM5, Default, SM5 (DDC key hash: 949FA76D785F287A0951C948DF0BC0FCDC810E93), compiling. 
+[2023.09.14-02.20.28:871][880]LogMaterial: Display: Missing cached shadermap for Preview:closed_book_mat in PCD3D_SM5, Default, SM5 (DDC key hash: 9DC1EDEA83AC7C4DDED02750EDED3B232CA38409), compiling. 
+[2023.09.14-02.20.28:888][880]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.14-02.20.28:888][880]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.09.14-02.20.28:888][880]MaterialEditorStats: Shader Count: 0
+[2023.09.14-02.20.28:896][880]LogViewport: Scene viewport resized to 376x445, mode Windowed.
+[2023.09.14-02.20.30:111][928]MaterialEditorStats: Texture samplers: 2/16
+[2023.09.14-02.20.30:112][928]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.09.14-02.20.30:112][928]MaterialEditorStats: Shader Count: 2
+[2023.09.14-02.20.33:635][965]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:\2130GFS Serious Games\props\bedroom\props\books\closed_book_initialShadingGroup_OcclusionRoughnessMetallic.png)
+[2023.09.14-02.20.33:653][965]LogTexture: Display: Building textures: /Game/OurProject/Maps/bedroom_scene/assets/books/closed_book_initialShadingGroup_OcclusionRoughnessMetallic.closed_book_initialShadingGroup_OcclusionRoughnessMetallic (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2023.09.14-02.20.33:653][965]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:\2130GFS Serious Games\props\bedroom\props\books\closed_book_initialShadingGroup_BaseColor.png)
+[2023.09.14-02.20.33:672][965]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:\2130GFS Serious Games\props\bedroom\props\books\closed_book_initialShadingGroup_Normal.png)
+[2023.09.14-02.20.33:695][965]LogTexture: Display: Building textures: /Game/OurProject/Maps/bedroom_scene/assets/books/closed_book_initialShadingGroup_BaseColor.closed_book_initialShadingGroup_BaseColor (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2023.09.14-02.20.33:713][965]LogTexture: Display: Building textures: /Game/OurProject/Maps/bedroom_scene/assets/books/closed_book_initialShadingGroup_Normal.closed_book_initialShadingGroup_Normal (TFO_BC5, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2023.09.14-02.20.37:505][ 94]LogMaterial: Display: Missing cached shadermap for Preview:closed_book_mat in PCD3D_SM5, Default, SM5 (DDC key hash: 91AC8121A6722411DE9907F29358BE76E00E9883), compiling. 
+[2023.09.14-02.20.37:507][ 94]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 0D6B75C5AF487080274AAD6DA2E4FBEEA4B42652), compiling. 
+[2023.09.14-02.20.37:508][ 94]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 4D3121B8192031EAE2A94E15B77437C7856826D8), compiling. 
+[2023.09.14-02.20.37:516][ 94]LogMaterial: Display: Missing cached shadermap for Preview:closed_book_mat in PCD3D_SM5, Default, SM5 (DDC key hash: D15C950A7ADF4BF56194CAD7FFC0030F371AC319), compiling. 
+[2023.09.14-02.20.37:518][ 94]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 434FAB994EAB6F8118E36983646B975664671C92), compiling. 
+[2023.09.14-02.20.37:519][ 94]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 5EAEBDB11D7F8A7F79314218CE9251C93F110F97), compiling. 
+[2023.09.14-02.20.37:520][ 94]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: DB4DB726AD4B4CB24455960976EF0251FA287E7E), compiling. 
+[2023.09.14-02.20.37:527][ 94]LogMaterial: Display: Missing cached shadermap for Preview:closed_book_mat in PCD3D_SM5, Default, SM5 (DDC key hash: 54FC8F1F3142E0E173397AF5CC78E1A63B9D5997), compiling. 
+[2023.09.14-02.20.37:529][ 94]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 34335F62AC3D16F1FD325A50AA707278739943D5), compiling. 
+[2023.09.14-02.20.37:530][ 94]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 119E77712140C8DA1EEF4F463C04D26240673C2E), compiling. 
+[2023.09.14-02.20.37:530][ 94]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 40B04DAA8AF38BF85ECF142702907B9DDA032825), compiling. 
+[2023.09.14-02.20.37:533][ 94]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 6CE3C371CE8904277C63DC2D2754FB81091DFB1F), compiling. 
+[2023.09.14-02.20.37:537][ 94]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.14-02.20.37:537][ 94]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.09.14-02.20.37:537][ 94]MaterialEditorStats: Shader Count: 0
+[2023.09.14-02.20.37:583][ 96]MaterialEditorStats: Texture samplers: 2/16
+[2023.09.14-02.20.37:583][ 96]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.09.14-02.20.37:583][ 96]MaterialEditorStats: Shader Count: 4
+[2023.09.14-02.20.41:389][326]LogMaterial: Display: Missing cached shadermap for Preview:closed_book_mat in PCD3D_SM5, Default, SM5 (DDC key hash: FA0B15F285B839267B5FEA7F6CC6B34B2C3DD3E2), compiling. 
+[2023.09.14-02.20.41:391][326]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: D3F05F494670B88ADF9FFCC7F9347E56C0AB52EA), compiling. 
+[2023.09.14-02.20.41:395][326]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.14-02.20.41:395][326]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.09.14-02.20.41:395][326]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.14-02.20.41:395][326]MaterialEditorStats: Shader Count: 0
+[2023.09.14-02.20.41:866][344]MaterialEditorStats: Texture samplers: 1/16
+[2023.09.14-02.20.41:867][344]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.09.14-02.20.41:867][344]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.14-02.20.41:867][344]MaterialEditorStats: Shader Count: 1
+[2023.09.14-02.20.42:244][362]MaterialEditorStats: Texture samplers: 3/16
+[2023.09.14-02.20.42:244][362]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.09.14-02.20.42:244][362]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.14-02.20.42:244][362]MaterialEditorStats: Shader Count: 4
+[2023.09.14-02.20.43:016][410]LogMaterial: Display: Missing cached shadermap for Preview:closed_book_mat in PCD3D_SM5, Default, SM5 (DDC key hash: 3D773AEA49A2B507B561FDE743E94919B2B38C8B), compiling. 
+[2023.09.14-02.20.43:018][410]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: BF15B60C405DDDA266F9E39D302D918B18087D28), compiling. 
+[2023.09.14-02.20.43:022][410]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.14-02.20.43:022][410]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2023.09.14-02.20.43:022][410]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.14-02.20.43:022][410]MaterialEditorStats: Shader Count: 0
+[2023.09.14-02.20.43:567][433]MaterialEditorStats: Texture samplers: 1/16
+[2023.09.14-02.20.43:567][433]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2023.09.14-02.20.43:567][433]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.14-02.20.43:567][433]MaterialEditorStats: Shader Count: 1
+[2023.09.14-02.20.43:946][449]MaterialEditorStats: Texture samplers: 3/16
+[2023.09.14-02.20.43:946][449]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2023.09.14-02.20.43:946][449]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.14-02.20.43:946][449]MaterialEditorStats: Shader Count: 3
+[2023.09.14-02.20.45:076][522]LogMaterial: Display: Missing cached shadermap for Preview:closed_book_mat in PCD3D_SM5, Default, SM5 (DDC key hash: B3649BE306C12A9270D7B986DDFCE79CCDB61273), compiling. 
+[2023.09.14-02.20.45:078][522]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 0474CF652A84CB4C33E0D1EC119285D4FA377DD8), compiling. 
+[2023.09.14-02.20.45:081][522]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.14-02.20.45:081][522]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2023.09.14-02.20.45:081][522]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.14-02.20.45:081][522]MaterialEditorStats: Shader Count: 0
+[2023.09.14-02.20.45:584][543]MaterialEditorStats: Texture samplers: 1/16
+[2023.09.14-02.20.45:584][543]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2023.09.14-02.20.45:584][543]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.14-02.20.45:584][543]MaterialEditorStats: Shader Count: 1
+[2023.09.14-02.20.45:981][560]MaterialEditorStats: Texture samplers: 4/16
+[2023.09.14-02.20.45:981][560]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2023.09.14-02.20.45:981][560]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.14-02.20.45:981][560]MaterialEditorStats: Shader Count: 3
+[2023.09.14-02.20.46:383][582]LogMaterial: Display: Missing cached shadermap for Preview:closed_book_mat in PCD3D_SM5, Default, SM5 (DDC key hash: 884E60ECD9BDC66ACA21B53707ECDACDDB9B1DBC), compiling. 
+[2023.09.14-02.20.46:385][582]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: AAAD6A99AD3C255742FC63ECDF804AB637E8777B), compiling. 
+[2023.09.14-02.20.46:388][582]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.14-02.20.46:388][582]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2023.09.14-02.20.46:388][582]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.14-02.20.46:388][582]MaterialEditorStats: Shader Count: 0
+[2023.09.14-02.20.46:946][608]MaterialEditorStats: Texture samplers: 2/16
+[2023.09.14-02.20.46:946][608]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2023.09.14-02.20.46:946][608]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.14-02.20.46:946][608]MaterialEditorStats: Shader Count: 1
+[2023.09.14-02.20.47:336][624]MaterialEditorStats: Texture samplers: 4/16
+[2023.09.14-02.20.47:336][624]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2023.09.14-02.20.47:336][624]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.14-02.20.47:336][624]MaterialEditorStats: Shader Count: 3
+[2023.09.14-02.20.47:738][649]LogMaterial: Display: Missing cached shadermap for Preview:closed_book_mat in PCD3D_SM5, Default, SM5 (DDC key hash: C682365E1B82B05F8435FAEBD53FF99A285E245B), compiling. 
+[2023.09.14-02.20.47:740][649]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 0A1A63143F5EB7AB68AA3978E87BC4884B862AE4), compiling. 
+[2023.09.14-02.20.47:744][649]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.14-02.20.47:744][649]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.14-02.20.47:744][649]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.14-02.20.47:744][649]MaterialEditorStats: Shader Count: 0
+[2023.09.14-02.20.48:300][674]MaterialEditorStats: Texture samplers: 3/16
+[2023.09.14-02.20.48:300][674]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.14-02.20.48:300][674]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.14-02.20.48:300][674]MaterialEditorStats: Shader Count: 1
+[2023.09.14-02.20.48:693][692]MaterialEditorStats: Texture samplers: 5/16
+[2023.09.14-02.20.48:693][692]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.14-02.20.48:693][692]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.14-02.20.48:693][692]MaterialEditorStats: Shader Count: 3
+[2023.09.14-02.20.49:503][741]LogMaterialEditor: Saving and Compiling material closed_book_mat
+[2023.09.14-02.20.49:847][741]LogMaterial: Display: Missing cached shadermap for Preview:closed_book_mat in PCD3D_SM5, Default, SM5 (DDC key hash: 24408F7EBCF2636528D77A42CD4A10C51B735EE8), compiling. 
+[2023.09.14-02.20.49:855][741]LogMaterial: Display: Missing cached shadermap for closed_book_mat in PCD3D_SM5, Default, SM5 (DDC key hash: C099C28D851332DE609073E8F8D5F33741E77C4C), compiling. 
+[2023.09.14-02.20.49:863][741]LogWorldPartition: Warning: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_04421A293C741FA901_1868636083 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/J8/H8ZMF65BGEHMIQL14YMEW8.PackageMetaData in its package
+[2023.09.14-02.20.49:887][741]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2023.09.14-02.20.50:633][741]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2023.09.14-02.20.52:577][741]LogSavePackage: Moving output files for package: /Game/OurProject/Maps/bedroom_scene/assets/books/closed_book_mat
+[2023.09.14-02.20.52:577][741]LogSavePackage: Moving '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Saved/closed_book_mat4A55EB1F47DB5C9DCD3924948E84DF5B.tmp' to '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Content/OurProject/Maps/bedroom_scene/assets/books/closed_book_mat.uasset'
+[2023.09.14-02.20.52:586][741]AssetCheck: New page: Asset Save: closed_book_mat
+[2023.09.14-02.20.52:586][741]LogContentValidation: Display: Validating Material /Game/OurProject/Maps/bedroom_scene/assets/books/closed_book_mat.closed_book_mat
+[2023.09.14-02.20.52:592][741]LogUObjectHash: Compacting FUObjectHashTables data took   0.16ms
+[2023.09.14-02.20.52:592][741]MaterialEditorStats: Base pass shader: 134 instructions
+[2023.09.14-02.20.52:592][741]MaterialEditorStats: Base pass vertex shader: 112 instructions
+[2023.09.14-02.20.52:592][741]MaterialEditorStats: Texture samplers: 6/16
+[2023.09.14-02.20.52:592][741]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.14-02.20.52:592][741]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.14-02.20.52:592][741]MaterialEditorStats: Shader Count: 16
+[2023.09.14-02.20.55:565][930]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.09.14-02.21.02:043][383]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.09.14-02.21.07:157][731]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.09.14-02.21.12:871][122]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.09.14-02.21.17:341][440]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.09.14-02.21.24:073][897]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.09.14-02.21.24:808][945]Cmd: DUPLICATE
+[2023.09.14-02.21.24:808][945]Cmd: ACTOR DUPLICATE
+[2023.09.14-02.21.31:069][380]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.09.14-02.22.14:436][982]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2023.09.14-02.22.14:439][982]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/W1/J1HDXQ5IEB9KP3UNPKI9JB_Auto7
+[2023.09.14-02.22.14:440][982]LogSavePackage: Moving '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Saved/J1HDXQ5IEB9KP3UNPKI9JB_Auto7BBC1B02C4AA8D0AEA15B979AD8B0A8BC.tmp' to '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/W1/J1HDXQ5IEB9KP3UNPKI9JB_Auto7.uasset'
+[2023.09.14-02.22.14:441][982]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/ZZ/EHM2TQBTEGRT8WHQ77COXL_Auto7
+[2023.09.14-02.22.14:441][982]LogSavePackage: Moving '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Saved/EHM2TQBTEGRT8WHQ77COXL_Auto7C6ECAD0440AAD39D83F83EA46C1287DD.tmp' to '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/ZZ/EHM2TQBTEGRT8WHQ77COXL_Auto7.uasset'
+[2023.09.14-02.22.14:442][982]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.012
+[2023.09.14-02.22.14:442][982]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.012
+[2023.09.14-02.22.14:442][982]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/OurProject/Maps/bedroom_scene/assets/books/closed_book] ([1] browsable assets)...
+[2023.09.14-02.22.14:511][982]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/OurProject/Maps/bedroom_scene/assets/books/closed_book.closed_book]
+[2023.09.14-02.22.14:511][982]OBJ SavePackage: Finished generating thumbnails for package [/Game/OurProject/Maps/bedroom_scene/assets/books/closed_book]
+[2023.09.14-02.22.14:513][982]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/OurProject/Maps/bedroom_scene/assets/books/closed_book_Auto7
+[2023.09.14-02.22.14:513][982]LogSavePackage: Moving '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Saved/closed_book_Auto77990C1FC46B191A8FC3DF9A3C4CD644D.tmp' to '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Saved/Autosaves/Game/OurProject/Maps/bedroom_scene/assets/books/closed_book_Auto7.uasset'
+[2023.09.14-02.22.14:514][982]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/OurProject/Maps/bedroom_scene/assets/books/closed_book_initialShadingGroup_Normal] ([1] browsable assets)...
+[2023.09.14-02.22.14:520][982]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/OurProject/Maps/bedroom_scene/assets/books/closed_book_initialShadingGroup_Normal.closed_book_initialShadingGroup_Normal]
+[2023.09.14-02.22.14:520][982]OBJ SavePackage: Finished generating thumbnails for package [/Game/OurProject/Maps/bedroom_scene/assets/books/closed_book_initialShadingGroup_Normal]
+[2023.09.14-02.22.14:523][982]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/OurProject/Maps/bedroom_scene/assets/books/closed_book_initialShadingGroup_Normal_Auto7
+[2023.09.14-02.22.14:523][982]LogSavePackage: Moving '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Saved/closed_book_initialShadingGroup_616A6E9C46E1E025A73D1BAD139CBB25.tmp' to '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Saved/Autosaves/Game/OurProject/Maps/bedroom_scene/assets/books/closed_book_initialShadingGroup_Normal_Auto7.uasset'
+[2023.09.14-02.22.14:524][982]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/OurProject/Maps/bedroom_scene/assets/books/closed_book_initialShadingGroup_OcclusionRoughnessMetallic] ([1] browsable assets)...
+[2023.09.14-02.22.14:526][982]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/OurProject/Maps/bedroom_scene/assets/books/closed_book_initialShadingGroup_OcclusionRoughnessMetallic.closed_book_initialShadingGroup_OcclusionRoughnessMetallic]
+[2023.09.14-02.22.14:526][982]OBJ SavePackage: Finished generating thumbnails for package [/Game/OurProject/Maps/bedroom_scene/assets/books/closed_book_initialShadingGroup_OcclusionRoughnessMetallic]
+[2023.09.14-02.22.14:529][982]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/OurProject/Maps/bedroom_scene/assets/books/closed_book_initialShadingGroup_OcclusionRoughnessMetallic_Auto7
+[2023.09.14-02.22.14:529][982]LogSavePackage: Moving '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Saved/closed_book_initialShadingGroup_DBD700BE45014EF0A2BD0499815CF81A.tmp' to '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Saved/Autosaves/Game/OurProject/Maps/bedroom_scene/assets/books/closed_book_initialShadingGroup_OcclusionRoughnessMetallic_Auto7.uasset'
+[2023.09.14-02.22.14:530][982]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/OurProject/Maps/bedroom_scene/assets/books/closed_book_initialShadingGroup_BaseColor] ([1] browsable assets)...
+[2023.09.14-02.22.14:538][982]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/OurProject/Maps/bedroom_scene/assets/books/closed_book_initialShadingGroup_BaseColor.closed_book_initialShadingGroup_BaseColor]
+[2023.09.14-02.22.14:538][982]OBJ SavePackage: Finished generating thumbnails for package [/Game/OurProject/Maps/bedroom_scene/assets/books/closed_book_initialShadingGroup_BaseColor]
+[2023.09.14-02.22.14:541][982]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/OurProject/Maps/bedroom_scene/assets/books/closed_book_initialShadingGroup_BaseColor_Auto7
+[2023.09.14-02.22.14:541][982]LogSavePackage: Moving '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Saved/closed_book_initialShadingGroup_A33A10024382C4FF01FFA6A96D2ECD11.tmp' to '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Saved/Autosaves/Game/OurProject/Maps/bedroom_scene/assets/books/closed_book_initialShadingGroup_BaseColor_Auto7.uasset'
+[2023.09.14-02.22.14:541][982]LogFileHelpers: Auto-saving content packages took 0.100
+[2023.09.14-02.22.19:304][ 20]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/FL/70SM1KR31H6VCF0RDI42R0
+[2023.09.14-02.22.19:304][ 20]LogSavePackage: Moving '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Saved/70SM1KR31H6VCF0RDI42R0F838F56A4847B208A0F42EA876E0F63B.tmp' to '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/FL/70SM1KR31H6VCF0RDI42R0.uasset'
+[2023.09.14-02.22.19:306][ 20]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/W1/J1HDXQ5IEB9KP3UNPKI9JB
+[2023.09.14-02.22.19:306][ 20]LogSavePackage: Moving '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Saved/J1HDXQ5IEB9KP3UNPKI9JBE7814C0F446DAD5A7E9E179D45C8BC58.tmp' to '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/W1/J1HDXQ5IEB9KP3UNPKI9JB.uasset'
+[2023.09.14-02.22.19:308][ 20]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/ZZ/EHM2TQBTEGRT8WHQ77COXL
+[2023.09.14-02.22.19:308][ 20]LogSavePackage: Moving '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Saved/EHM2TQBTEGRT8WHQ77COXLDEF6D12F4A4225B8B13028856ADB7EBF.tmp' to '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/ZZ/EHM2TQBTEGRT8WHQ77COXL.uasset'
+[2023.09.14-02.22.19:317][ 20]AssetCheck: New page: Asset Save: multiple assets
+[2023.09.14-02.22.19:317][ 20]LogContentValidation: Display: Validating StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_04421A293C741FA901_1872594084
+[2023.09.14-02.22.19:317][ 20]LogContentValidation: Display: Validating StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_04421A293C741CA901_1507711554
+[2023.09.14-02.22.19:317][ 20]LogContentValidation: Display: Validating StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_04421A293C741FA901_1962111085
+[2023.09.14-02.22.26:838][515]LogContentBrowser: Attempting asset rename: closed_book_mat -> closed_book_mat_green
+[2023.09.14-02.22.26:884][515]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/W1/J1HDXQ5IEB9KP3UNPKI9JB
+[2023.09.14-02.22.26:885][515]LogSavePackage: Moving '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Saved/J1HDXQ5IEB9KP3UNPKI9JBB37F05224CEB7737E73398A86B925A2C.tmp' to '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/W1/J1HDXQ5IEB9KP3UNPKI9JB.uasset'
+[2023.09.14-02.22.26:886][515]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/ZZ/EHM2TQBTEGRT8WHQ77COXL
+[2023.09.14-02.22.26:887][515]LogSavePackage: Moving '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Saved/EHM2TQBTEGRT8WHQ77COXLF16EDB7541F53EC3CF1EEBB9FD40BDC6.tmp' to '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/ZZ/EHM2TQBTEGRT8WHQ77COXL.uasset'
+[2023.09.14-02.22.26:889][515]LogSavePackage: Moving output files for package: /Game/OurProject/Maps/bedroom_scene/assets/books/closed_book_mat_green
+[2023.09.14-02.22.26:889][515]LogSavePackage: Moving '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Saved/closed_book_mat_greenC7CFEE78472A4D22D4826E9956E4FFEC.tmp' to '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Content/OurProject/Maps/bedroom_scene/assets/books/closed_book_mat_green.uasset'
+[2023.09.14-02.22.26:905][515]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2023.09.14-02.22.26:911][515]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2023.09.14-02.22.26:918][515]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2023.09.14-02.22.26:921][515]AssetCheck: New page: Asset Save: multiple assets
+[2023.09.14-02.22.26:921][515]LogContentValidation: Display: Validating StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_04421A293C741FA901_1872594084
+[2023.09.14-02.22.26:921][515]LogContentValidation: Display: Validating Material /Game/OurProject/Maps/bedroom_scene/assets/books/closed_book_mat_green.closed_book_mat_green
+[2023.09.14-02.22.26:921][515]LogContentValidation: Display: Validating StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_04421A293C741FA901_1962111085
+[2023.09.14-02.22.29:796][698]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2023.09.14-02.22.29:822][698]LogContentBrowser: Creating deferred item: NewMaterial
+[2023.09.14-02.22.29:836][699]LogContentBrowser: Renaming the item being created (Deferred Item: NewMaterial).
+[2023.09.14-02.22.33:648][967]LogContentBrowser: Attempting asset rename: NewMaterial -> closed_book_mat_red
+[2023.09.14-02.22.33:648][967]LogContentBrowser: End creating deferred item NewMaterial
+[2023.09.14-02.22.37:840][250]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.09.14-02.22.37:850][250]LogContentBrowser: Creating deferred item: NewFolder
+[2023.09.14-02.22.37:863][251]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.09.14-02.22.39:425][369]LogContentBrowser: Attempting asset rename: NewFolder -> resources
+[2023.09.14-02.22.39:425][369]LogContentBrowser: End creating deferred item NewFolder
+[2023.09.14-02.22.42:596][581]LogSavePackage: Moving output files for package: /Game/OurProject/Maps/bedroom_scene/assets/books/closed_book_mat_green
+[2023.09.14-02.22.42:596][581]LogSavePackage: Moving '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Saved/closed_book_mat_greenC09D70F74CEFA8D88ACEB7AB485E6410.tmp' to '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Content/OurProject/Maps/bedroom_scene/assets/books/closed_book_mat_green.uasset'
+[2023.09.14-02.22.42:623][581]LogSavePackage: Moving output files for package: /Game/OurProject/Maps/bedroom_scene/assets/books/resources/closed_book_initialShadingGroup_BaseColor
+[2023.09.14-02.22.42:623][581]LogSavePackage: Moving '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Saved/closed_book_initialShadingGroup_25F20465471239F2145DDEB349783404.tmp' to '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Content/OurProject/Maps/bedroom_scene/assets/books/resources/closed_book_initialShadingGroup_BaseColor.uasset'
+[2023.09.14-02.22.42:658][581]LogSavePackage: Moving output files for package: /Game/OurProject/Maps/bedroom_scene/assets/books/resources/closed_book_initialShadingGroup_Normal
+[2023.09.14-02.22.42:658][581]LogSavePackage: Moving '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Saved/closed_book_initialShadingGroup_09209CA542EEAAF069479BBA574FBA76.tmp' to '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Content/OurProject/Maps/bedroom_scene/assets/books/resources/closed_book_initialShadingGroup_Normal.uasset'
+[2023.09.14-02.22.42:700][581]LogSavePackage: Moving output files for package: /Game/OurProject/Maps/bedroom_scene/assets/books/resources/closed_book_initialShadingGroup_OcclusionRoughnessMetallic
+[2023.09.14-02.22.42:700][581]LogSavePackage: Moving '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Saved/closed_book_initialShadingGroup_A055FDA84DA31A6B3E953FA11B89B0A2.tmp' to '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Content/OurProject/Maps/bedroom_scene/assets/books/resources/closed_book_initialShadingGroup_OcclusionRoughnessMetallic.uasset'
+[2023.09.14-02.22.42:722][581]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2023.09.14-02.22.42:728][581]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2023.09.14-02.22.42:734][581]LogUObjectHash: Compacting FUObjectHashTables data took   0.15ms
+[2023.09.14-02.22.42:746][581]AssetCheck: New page: Asset Save: multiple assets
+[2023.09.14-02.22.42:746][581]LogContentValidation: Display: Validating Material /Game/OurProject/Maps/bedroom_scene/assets/books/closed_book_mat_green.closed_book_mat_green
+[2023.09.14-02.22.42:746][581]LogContentValidation: Display: Validating Texture2D /Game/OurProject/Maps/bedroom_scene/assets/books/resources/closed_book_initialShadingGroup_OcclusionRoughnessMetallic.closed_book_initialShadingGroup_OcclusionRoughnessMetallic
+[2023.09.14-02.22.42:746][581]LogContentValidation: Display: Validating Texture2D /Game/OurProject/Maps/bedroom_scene/assets/books/resources/closed_book_initialShadingGroup_BaseColor.closed_book_initialShadingGroup_BaseColor
+[2023.09.14-02.22.42:746][581]LogContentValidation: Display: Validating Texture2D /Game/OurProject/Maps/bedroom_scene/assets/books/resources/closed_book_initialShadingGroup_Normal.closed_book_initialShadingGroup_Normal
+[2023.09.14-02.22.54:040][937]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:\2130GFS Serious Games\props\bedroom\props\books\colours\closed_book_initialShadingGroup_OcclusionRoughnessMetallic.png)
+[2023.09.14-02.22.54:057][937]LogTexture: Display: Building textures: /Game/OurProject/Maps/bedroom_scene/assets/books/closed_book_initialShadingGroup_OcclusionRoughnessMetallic.closed_book_initialShadingGroup_OcclusionRoughnessMetallic (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2023.09.14-02.22.54:057][937]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:\2130GFS Serious Games\props\bedroom\props\books\colours\closed_book_initialShadingGroup_BaseColor.png)
+[2023.09.14-02.22.54:073][937]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:\2130GFS Serious Games\props\bedroom\props\books\colours\closed_book_initialShadingGroup_Normal.png)
+[2023.09.14-02.22.54:096][937]LogTexture: Display: Building textures: /Game/OurProject/Maps/bedroom_scene/assets/books/closed_book_initialShadingGroup_BaseColor.closed_book_initialShadingGroup_BaseColor (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2023.09.14-02.22.54:115][937]LogTexture: Display: Building textures: /Game/OurProject/Maps/bedroom_scene/assets/books/closed_book_initialShadingGroup_Normal.closed_book_initialShadingGroup_Normal (TFO_BC5, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2023.09.14-02.22.56:988][953]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/OurProject/Maps/bedroom_scene/assets/books/closed_book_mat_red.closed_book_mat_red
+[2023.09.14-02.22.56:991][953]LogMaterial: Display: Missing cached shadermap for Preview:closed_book_mat_red in PCD3D_SM5, Default, SM5 (DDC key hash: DF6E20A4E8B9C4315963DF49C086C85C0119F70E), compiling. 
+[2023.09.14-02.22.57:004][953]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.14-02.22.57:049][953]LogSlate: The tab "MaterialEditor_Strata" attempted to spawn in layout 'Standalone_MaterialEditor_Layout_v13' but failed for some reason. An "unrecognized tab" will be returned instead.
+[2023.09.14-02.22.57:053][953]LogMaterial: Display: Missing cached shadermap for Preview:closed_book_mat_red in PCD3D_SM5, Default, SM5 (DDC key hash: 38C744D4DDDFF8872A6D27232B6AC7F760652D08), compiling. 
+[2023.09.14-02.22.57:056][953]LogMaterial: Display: Missing cached shadermap for Preview:closed_book_mat_red in PCD3D_SM5, Default, SM5 (DDC key hash: 7943B02C3CDCE0F50799D124CA6E4D90F1D1B874), compiling. 
+[2023.09.14-02.22.57:072][953]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.14-02.22.57:072][953]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.09.14-02.22.57:072][953]MaterialEditorStats: Shader Count: 0
+[2023.09.14-02.22.57:080][953]LogViewport: Scene viewport resized to 376x445, mode Windowed.
+[2023.09.14-02.22.57:730][980]LogShaderCompilers: Display: ================================================
+[2023.09.14-02.22.57:730][980]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.09.14-02.22.57:730][980]LogShaderCompilers: Display: Total job queries 824, among them cache hits 431 (52.31%)
+[2023.09.14-02.22.57:730][980]LogShaderCompilers: Display: Tracking 335 distinct input hashes that result in 181 distinct outputs (54.03%)
+[2023.09.14-02.22.57:730][980]LogShaderCompilers: Display: RAM used: 0.53 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.03%
+[2023.09.14-02.22.57:730][980]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.09.14-02.22.57:730][980]LogShaderCompilers: Display: Shaders Compiled: 226
+[2023.09.14-02.22.57:730][980]LogShaderCompilers: Display: Jobs assigned 338, completed 335 (99.11%)
+[2023.09.14-02.22.57:730][980]LogShaderCompilers: Display: Average time worker was idle: 299.61 s
+[2023.09.14-02.22.57:730][980]LogShaderCompilers: Display: Time job spent in pending queue: average 8.26 s, longest 40.01 s
+[2023.09.14-02.22.57:730][980]LogShaderCompilers: Display: Job execution time: average 4.62 s, max 20.58 s
+[2023.09.14-02.22.57:730][980]LogShaderCompilers: Display: Job life time (pending + execution): average 12.95 s, max 41.73
+[2023.09.14-02.22.57:730][980]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 90.60 s
+[2023.09.14-02.22.57:730][980]LogShaderCompilers: Display: Jobs were issued in 243 batches (only local compilation was used), average 1.39 jobs/batch
+[2023.09.14-02.22.57:730][980]LogShaderCompilers: Display: Average processing rate: 3.70 jobs/sec
+[2023.09.14-02.22.57:730][980]LogShaderCompilers: Display: Effective parallelization: 5.42 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.09.14-02.22.57:731][980]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.09.14-02.22.57:731][980]LogShaderCompilers: Display:                                                  FHitProxyVS (compiled    3 times, average 3.15 sec, max 5.11 sec, min 1.63 sec)
+[2023.09.14-02.22.57:731][980]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled   12 times, average 2.64 sec, max 16.85 sec, min 0.42 sec)
+[2023.09.14-02.22.57:731][980]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled   11 times, average 2.30 sec, max 9.21 sec, min 1.06 sec)
+[2023.09.14-02.22.57:731][980]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap (compiled    3 times, average 2.19 sec, max 2.75 sec, min 1.90 sec)
+[2023.09.14-02.22.57:731][980]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled   11 times, average 2.13 sec, max 8.19 sec, min 0.87 sec)
+[2023.09.14-02.22.57:731][980]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.09.14-02.22.57:731][980]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 12.60% of total time (compiled   44 times, average 1.41 sec, max 10.51 sec, min 0.63 sec)
+[2023.09.14-02.22.57:731][980]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 10.17% of total time (compiled   44 times, average 1.13 sec, max 6.76 sec, min 0.51 sec)
+[2023.09.14-02.22.57:731][980]LogShaderCompilers: Display:                                                 FLumenCardVS - 7.73% of total time (compiled   26 times, average 1.46 sec, max 9.29 sec, min 0.74 sec)
+[2023.09.14-02.22.57:731][980]LogShaderCompilers: Display:                                             FDebugViewModePS - 6.45% of total time (compiled   12 times, average 2.64 sec, max 16.85 sec, min 0.42 sec)
+[2023.09.14-02.22.57:731][980]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 5.14% of total time (compiled   11 times, average 2.30 sec, max 9.21 sec, min 1.06 sec)
+[2023.09.14-02.22.57:731][980]LogShaderCompilers: Display: ================================================
+[2023.09.14-02.22.58:342][  8]MaterialEditorStats: Texture samplers: 2/16
+[2023.09.14-02.22.58:342][  8]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.09.14-02.22.58:342][  8]MaterialEditorStats: Shader Count: 4
+[2023.09.14-02.22.59:565][ 90]LogMaterial: Display: Missing cached shadermap for Preview:closed_book_mat_red in PCD3D_SM5, Default, SM5 (DDC key hash: 079291E5817D25130B39D0B999DC5546935F3400), compiling. 
+[2023.09.14-02.22.59:567][ 90]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: B4930F114449B4B719B019EC8F01E23181A7F557), compiling. 
+[2023.09.14-02.22.59:568][ 90]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: D986B4D1AACD9E717FBB531B36734752D2BFF096), compiling. 
+[2023.09.14-02.22.59:576][ 90]LogMaterial: Display: Missing cached shadermap for Preview:closed_book_mat_red in PCD3D_SM5, Default, SM5 (DDC key hash: EAC0DCC48F953223927C5CB0F1CDDD9B7BC8D699), compiling. 
+[2023.09.14-02.22.59:578][ 90]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: C804C8AC6BD2495336ECA619BEB05B0970A16322), compiling. 
+[2023.09.14-02.22.59:579][ 90]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 194566B6F6A49AEDC0F2FBC09B129F22BB9D9759), compiling. 
+[2023.09.14-02.22.59:580][ 90]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 1A4C9BB363F4B8FA3518F04578B8AADBCF456AA0), compiling. 
+[2023.09.14-02.22.59:588][ 90]LogMaterial: Display: Missing cached shadermap for Preview:closed_book_mat_red in PCD3D_SM5, Default, SM5 (DDC key hash: 5E2D0578F637B6F01BF67DCBD2586FD72FFF5AC3), compiling. 
+[2023.09.14-02.22.59:589][ 90]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 7C1E75F3096F4D2EF2681A7A938C262EF3F3B32C), compiling. 
+[2023.09.14-02.22.59:590][ 90]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 403490B7E77E2C61D7B6DB780549BA8D2652B238), compiling. 
+[2023.09.14-02.22.59:592][ 90]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 40FDA3B312AEFB6C2C6BAF050E05FEAF6E0DBB48), compiling. 
+[2023.09.14-02.22.59:593][ 90]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 18D9F96DDEB10643C7005917030ADF8BF5963491), compiling. 
+[2023.09.14-02.22.59:598][ 90]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.14-02.22.59:598][ 90]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.09.14-02.22.59:598][ 90]MaterialEditorStats: Shader Count: 0
+[2023.09.14-02.22.59:644][ 92]MaterialEditorStats: Texture samplers: 2/16
+[2023.09.14-02.22.59:644][ 92]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.09.14-02.22.59:644][ 92]MaterialEditorStats: Shader Count: 4
+[2023.09.14-02.23.01:574][224]LogMaterial: Display: Missing cached shadermap for Preview:closed_book_mat_red in PCD3D_SM5, Default, SM5 (DDC key hash: 837A7B8672E62A28376A4FFC271A02D124B5E310), compiling. 
+[2023.09.14-02.23.01:576][224]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 5E9580CCD2F3959416FE785B5C89DF38171A445D), compiling. 
+[2023.09.14-02.23.01:580][224]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.14-02.23.01:580][224]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.09.14-02.23.01:580][224]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.14-02.23.01:580][224]MaterialEditorStats: Shader Count: 0
+[2023.09.14-02.23.02:095][245]MaterialEditorStats: Texture samplers: 1/16
+[2023.09.14-02.23.02:095][245]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.09.14-02.23.02:095][245]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.14-02.23.02:095][245]MaterialEditorStats: Shader Count: 1
+[2023.09.14-02.23.02:499][262]MaterialEditorStats: Texture samplers: 3/16
+[2023.09.14-02.23.02:499][262]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.09.14-02.23.02:499][262]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.14-02.23.02:499][262]MaterialEditorStats: Shader Count: 2
+[2023.09.14-02.23.05:054][432]LogMaterial: Display: Missing cached shadermap for Preview:closed_book_mat_red in PCD3D_SM5, Default, SM5 (DDC key hash: 63D8E9A48C8C4B1666192AB03FABA079C46E4BB6), compiling. 
+[2023.09.14-02.23.05:056][432]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 006DF4BDE418BE29D7EE97F08A5B6835E18F6273), compiling. 
+[2023.09.14-02.23.05:060][432]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.14-02.23.05:060][432]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2023.09.14-02.23.05:060][432]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.14-02.23.05:060][432]MaterialEditorStats: Shader Count: 0
+[2023.09.14-02.23.05:562][453]MaterialEditorStats: Texture samplers: 1/16
+[2023.09.14-02.23.05:562][453]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2023.09.14-02.23.05:562][453]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.14-02.23.05:562][453]MaterialEditorStats: Shader Count: 1
+[2023.09.14-02.23.05:964][469]MaterialEditorStats: Texture samplers: 3/16
+[2023.09.14-02.23.05:964][469]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2023.09.14-02.23.05:964][469]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.14-02.23.05:964][469]MaterialEditorStats: Shader Count: 2
+[2023.09.14-02.23.07:065][544]LogMaterial: Display: Missing cached shadermap for Preview:closed_book_mat_red in PCD3D_SM5, Default, SM5 (DDC key hash: C10965508EFD6BAA9EFB4DC7F79507DC46BB2B89), compiling. 
+[2023.09.14-02.23.07:067][544]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: CA4FCE2BA4DADDFD43AA3B7186823D2F7C78D9D2), compiling. 
+[2023.09.14-02.23.07:070][544]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.14-02.23.07:070][544]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2023.09.14-02.23.07:070][544]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.14-02.23.07:070][544]MaterialEditorStats: Shader Count: 0
+[2023.09.14-02.23.07:582][566]MaterialEditorStats: Texture samplers: 1/16
+[2023.09.14-02.23.07:583][566]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2023.09.14-02.23.07:583][566]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.14-02.23.07:583][566]MaterialEditorStats: Shader Count: 1
+[2023.09.14-02.23.07:983][582]MaterialEditorStats: Texture samplers: 4/16
+[2023.09.14-02.23.07:983][582]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2023.09.14-02.23.07:983][582]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.14-02.23.07:983][582]MaterialEditorStats: Shader Count: 3
+[2023.09.14-02.23.08:377][607]LogMaterial: Display: Missing cached shadermap for Preview:closed_book_mat_red in PCD3D_SM5, Default, SM5 (DDC key hash: 2B300C589128B09FFA49D255B8DFBA9152BB7D0A), compiling. 
+[2023.09.14-02.23.08:379][607]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 69EE4EB25EAE024E46CB4607F309266129736DE4), compiling. 
+[2023.09.14-02.23.08:382][607]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.14-02.23.08:382][607]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2023.09.14-02.23.08:382][607]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.14-02.23.08:382][607]MaterialEditorStats: Shader Count: 0
+[2023.09.14-02.23.08:926][629]MaterialEditorStats: Texture samplers: 2/16
+[2023.09.14-02.23.08:926][629]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2023.09.14-02.23.08:926][629]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.14-02.23.08:926][629]MaterialEditorStats: Shader Count: 1
+[2023.09.14-02.23.09:234][643]MaterialEditorStats: Texture samplers: 4/16
+[2023.09.14-02.23.09:234][643]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2023.09.14-02.23.09:234][643]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.14-02.23.09:234][643]MaterialEditorStats: Shader Count: 2
+[2023.09.14-02.23.10:063][696]LogMaterial: Display: Missing cached shadermap for Preview:closed_book_mat_red in PCD3D_SM5, Default, SM5 (DDC key hash: 144F0A3BDAFD775956DEEB80750ACC0F83DCF2C9), compiling. 
+[2023.09.14-02.23.10:065][696]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 7F19378B2D6B572566BB05498E82138F6ADEA9F2), compiling. 
+[2023.09.14-02.23.10:070][696]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.14-02.23.10:070][696]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.14-02.23.10:070][696]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.14-02.23.10:070][696]MaterialEditorStats: Shader Count: 0
+[2023.09.14-02.23.10:527][715]MaterialEditorStats: Texture samplers: 3/16
+[2023.09.14-02.23.10:527][715]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.14-02.23.10:527][715]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.14-02.23.10:527][715]MaterialEditorStats: Shader Count: 1
+[2023.09.14-02.23.10:918][733]MaterialEditorStats: Texture samplers: 5/16
+[2023.09.14-02.23.10:918][733]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.14-02.23.10:918][733]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.14-02.23.10:918][733]MaterialEditorStats: Shader Count: 3
+[2023.09.14-02.23.11:418][766]LogMaterialEditor: Saving and Compiling material closed_book_mat_red
+[2023.09.14-02.23.11:753][766]LogMaterial: Display: Missing cached shadermap for Preview:closed_book_mat_red in PCD3D_SM5, Default, SM5 (DDC key hash: A5491AE76CD585F0D7493BE584CA0C8F5C048FEB), compiling. 
+[2023.09.14-02.23.11:760][766]LogMaterial: Display: Missing cached shadermap for closed_book_mat_red in PCD3D_SM5, Default, SM5 (DDC key hash: F8974375FA04CA174C99F15EAD8166125BD7749A), compiling. 
+[2023.09.14-02.23.11:790][766]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2023.09.14-02.23.12:578][766]LogUObjectHash: Compacting FUObjectHashTables data took   0.14ms
+[2023.09.14-02.23.14:656][766]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2023.09.14-02.23.14:667][766]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.003038s (0.036506s overbudget)
+[2023.09.14-02.23.14:682][766]LogSavePackage: Moving output files for package: /Game/OurProject/Maps/bedroom_scene/assets/books/closed_book_mat_red
+[2023.09.14-02.23.14:682][766]LogSavePackage: Moving '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Saved/closed_book_mat_redE783F61A4E29E050DF144D8DFD0ED7B4.tmp' to '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Content/OurProject/Maps/bedroom_scene/assets/books/closed_book_mat_red.uasset'
+[2023.09.14-02.23.14:692][766]AssetCheck: New page: Asset Save: closed_book_mat_red
+[2023.09.14-02.23.14:692][766]LogContentValidation: Display: Validating Material /Game/OurProject/Maps/bedroom_scene/assets/books/closed_book_mat_red.closed_book_mat_red
+[2023.09.14-02.23.14:693][766]MaterialEditorStats: Base pass shader: 134 instructions
+[2023.09.14-02.23.14:693][766]MaterialEditorStats: Base pass vertex shader: 112 instructions
+[2023.09.14-02.23.14:693][766]MaterialEditorStats: Texture samplers: 6/16
+[2023.09.14-02.23.14:693][766]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.14-02.23.14:693][766]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.14-02.23.14:693][766]MaterialEditorStats: Shader Count: 16
+[2023.09.14-02.23.23:223][309]LogMaterial: Display: Missing cached shadermap for Preview:closed_book_mat_red in PCD3D_SM5, Default, SM5 (DDC key hash: 12E7D616BD014FA0F49872F9F482335D4609A82B), compiling. 
+[2023.09.14-02.23.23:225][309]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: F997B23A55AE6CDA875C8E0A2E83165BCB5E045E), compiling. 
+[2023.09.14-02.23.23:229][309]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.14-02.23.23:229][309]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.14-02.23.23:229][309]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.14-02.23.23:229][309]MaterialEditorStats: Shader Count: 0
+[2023.09.14-02.23.23:783][335]MaterialEditorStats: Texture samplers: 3/16
+[2023.09.14-02.23.23:783][335]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.14-02.23.23:783][335]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.14-02.23.23:783][335]MaterialEditorStats: Shader Count: 1
+[2023.09.14-02.23.24:198][352]MaterialEditorStats: Texture samplers: 5/16
+[2023.09.14-02.23.24:198][352]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.14-02.23.24:198][352]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.14-02.23.24:198][352]MaterialEditorStats: Shader Count: 2
+[2023.09.14-02.23.25:681][452]LogMaterial: Display: Missing cached shadermap for Preview:closed_book_mat_red in PCD3D_SM5, Default, SM5 (DDC key hash: 5DA791DAE8D1C4269BC7D0F0C0A798C7CD90EFB1), compiling. 
+[2023.09.14-02.23.25:685][452]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.14-02.23.25:685][452]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.14-02.23.25:685][452]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.14-02.23.25:685][452]MaterialEditorStats: Shader Count: 0
+[2023.09.14-02.23.25:721][454]MaterialEditorStats: Texture samplers: 5/16
+[2023.09.14-02.23.25:721][454]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.14-02.23.25:721][454]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.14-02.23.25:721][454]MaterialEditorStats: Shader Count: 4
+[2023.09.14-02.23.26:912][536]LogMaterial: Display: Missing cached shadermap for Preview:closed_book_mat_red in PCD3D_SM5, Default, SM5 (DDC key hash: 4155719A2AFFACC55432FEF65F53D7872E331E47), compiling. 
+[2023.09.14-02.23.26:916][536]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.14-02.23.26:916][536]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.14-02.23.26:916][536]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.14-02.23.26:916][536]MaterialEditorStats: Shader Count: 0
+[2023.09.14-02.23.26:951][538]MaterialEditorStats: Texture samplers: 5/16
+[2023.09.14-02.23.26:951][538]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.14-02.23.26:951][538]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.14-02.23.26:951][538]MaterialEditorStats: Shader Count: 4
+[2023.09.14-02.23.27:618][583]LogMaterialEditor: Saving and Compiling material closed_book_mat_red
+[2023.09.14-02.23.27:950][583]LogMaterial: Display: Missing cached shadermap for Preview:closed_book_mat_red in PCD3D_SM5, Default, SM5 (DDC key hash: E52E790D2E483F7BE0CCFA217E4FFB6F45172983), compiling. 
+[2023.09.14-02.23.27:959][583]LogMaterial: Display: Missing cached shadermap for closed_book_mat_red in PCD3D_SM5, Default, SM5 (DDC key hash: 219768965C41EB8A1F3194DB9D6D4BB4F3E96EE4), compiling. 
+[2023.09.14-02.23.27:966][583]LogUObjectHash: Compacting FUObjectHashTables data took   0.14ms
+[2023.09.14-02.23.28:731][583]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2023.09.14-02.23.30:707][583]LogSavePackage: Moving output files for package: /Game/OurProject/Maps/bedroom_scene/assets/books/closed_book_mat_red
+[2023.09.14-02.23.30:707][583]LogSavePackage: Moving '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Saved/closed_book_mat_red53C03FC5476ABDD53B5223A717C19AE1.tmp' to '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Content/OurProject/Maps/bedroom_scene/assets/books/closed_book_mat_red.uasset'
+[2023.09.14-02.23.30:715][583]AssetCheck: New page: Asset Save: closed_book_mat_red
+[2023.09.14-02.23.30:715][583]LogContentValidation: Display: Validating Material /Game/OurProject/Maps/bedroom_scene/assets/books/closed_book_mat_red.closed_book_mat_red
+[2023.09.14-02.23.30:716][583]MaterialEditorStats: Base pass shader: 134 instructions
+[2023.09.14-02.23.30:716][583]MaterialEditorStats: Base pass vertex shader: 112 instructions
+[2023.09.14-02.23.30:716][583]MaterialEditorStats: Texture samplers: 6/16
+[2023.09.14-02.23.30:716][583]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.09.14-02.23.30:716][583]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.09.14-02.23.30:716][583]MaterialEditorStats: Shader Count: 16
+[2023.09.14-02.23.33:631][778]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.09.14-02.23.45:021][592]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.09.14-02.23.50:209][927]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.09.14-02.23.53:051][115]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.09.14-02.24.30:366][709]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.09.14-02.24.32:248][831]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.09.14-02.24.40:317][400]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.09.14-02.24.40:987][441]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/ZZ/EHM2TQBTEGRT8WHQ77COXL
+[2023.09.14-02.24.40:987][441]LogSavePackage: Moving '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Saved/EHM2TQBTEGRT8WHQ77COXL6CB1FBA14E73400DBA8936B2D533D713.tmp' to '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/ZZ/EHM2TQBTEGRT8WHQ77COXL.uasset'
+[2023.09.14-02.24.40:989][441]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/W1/J1HDXQ5IEB9KP3UNPKI9JB
+[2023.09.14-02.24.40:989][441]LogSavePackage: Moving '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Saved/J1HDXQ5IEB9KP3UNPKI9JB507CB13545DD4A720172E79D1F89A616.tmp' to '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/W1/J1HDXQ5IEB9KP3UNPKI9JB.uasset'
+[2023.09.14-02.24.40:998][441]AssetCheck: New page: Asset Save: multiple assets
+[2023.09.14-02.24.40:998][441]LogContentValidation: Display: Validating StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_04421A293C741FA901_1872594084
+[2023.09.14-02.24.40:998][441]LogContentValidation: Display: Validating StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_04421A293C741FA901_1962111085
+[2023.09.14-02.24.51:244][172]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.09.14-02.25.04:347][112]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/FL/70SM1KR31H6VCF0RDI42R0
+[2023.09.14-02.25.04:349][112]LogSavePackage: Moving '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Saved/70SM1KR31H6VCF0RDI42R0B7E456CC4E063C13098248842A269E2E.tmp' to '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/FL/70SM1KR31H6VCF0RDI42R0.uasset'
+[2023.09.14-02.25.04:350][112]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/ZZ/EHM2TQBTEGRT8WHQ77COXL
+[2023.09.14-02.25.04:351][112]LogSavePackage: Moving '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Saved/EHM2TQBTEGRT8WHQ77COXL8AEB536D4A1CF2299F8BBFB193ADE3A3.tmp' to '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/ZZ/EHM2TQBTEGRT8WHQ77COXL.uasset'
+[2023.09.14-02.25.04:352][112]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/W1/J1HDXQ5IEB9KP3UNPKI9JB
+[2023.09.14-02.25.04:353][112]LogSavePackage: Moving '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Saved/J1HDXQ5IEB9KP3UNPKI9JB54E2E089403B760B0B799EBAD3A89A20.tmp' to '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/W1/J1HDXQ5IEB9KP3UNPKI9JB.uasset'
+[2023.09.14-02.25.04:362][112]AssetCheck: New page: Asset Save: multiple assets
+[2023.09.14-02.25.04:362][112]LogContentValidation: Display: Validating StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_04421A293C741FA901_1872594084
+[2023.09.14-02.25.04:362][112]LogContentValidation: Display: Validating StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_04421A293C741CA901_1507711554
+[2023.09.14-02.25.04:362][112]LogContentValidation: Display: Validating StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_04421A293C741FA901_1962111085
