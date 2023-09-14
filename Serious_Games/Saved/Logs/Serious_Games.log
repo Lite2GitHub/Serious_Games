@@ -1421,3 +1421,71 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2023.09.14-01.00.32:783][ 88]LogContentValidation: Display: Validating StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_00BE43BC623B17A501_1384159485
 [2023.09.14-01.00.32:783][ 88]LogContentValidation: Display: Validating StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_E4B97AF5A6070AA501_1643755177
 [2023.09.14-01.00.32:783][ 88]LogContentValidation: Display: Validating StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_00BE43BC623B10A501_1896112226
+[2023.09.14-01.00.59:207][671]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2023.09.14-01.00.59:208][671]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.008
+[2023.09.14-01.00.59:209][671]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/OurProject/Maps/bedroom_scene/assets/study_desk/study_desk_lambert1SG_BaseColor] ([1] browsable assets)...
+[2023.09.14-01.00.59:212][671]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/OurProject/Maps/bedroom_scene/assets/study_desk/study_desk_lambert1SG_BaseColor.study_desk_lambert1SG_BaseColor]
+[2023.09.14-01.00.59:212][671]OBJ SavePackage: Finished generating thumbnails for package [/Game/OurProject/Maps/bedroom_scene/assets/study_desk/study_desk_lambert1SG_BaseColor]
+[2023.09.14-01.00.59:220][671]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/OurProject/Maps/bedroom_scene/assets/study_desk/study_desk_lambert1SG_BaseColor_Auto2
+[2023.09.14-01.00.59:220][671]LogSavePackage: Moving '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Saved/study_desk_lambert1SG_BaseColor_7C7EC8764F4B04DD94B041BA0C81BEA3.tmp' to '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Saved/Autosaves/Game/OurProject/Maps/bedroom_scene/assets/study_desk/study_desk_lambert1SG_BaseColor_Auto2.uasset'
+[2023.09.14-01.00.59:221][671]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/OurProject/Maps/bedroom_scene/assets/study_desk/study_desk_lambert1SG_Normal] ([1] browsable assets)...
+[2023.09.14-01.00.59:223][671]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/OurProject/Maps/bedroom_scene/assets/study_desk/study_desk_lambert1SG_Normal.study_desk_lambert1SG_Normal]
+[2023.09.14-01.00.59:223][671]OBJ SavePackage: Finished generating thumbnails for package [/Game/OurProject/Maps/bedroom_scene/assets/study_desk/study_desk_lambert1SG_Normal]
+[2023.09.14-01.00.59:231][671]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/OurProject/Maps/bedroom_scene/assets/study_desk/study_desk_lambert1SG_Normal_Auto2
+[2023.09.14-01.00.59:231][671]LogSavePackage: Moving '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Saved/study_desk_lambert1SG_Normal_Aut6139F136490490A5F8B26CBB26E20002.tmp' to '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Saved/Autosaves/Game/OurProject/Maps/bedroom_scene/assets/study_desk/study_desk_lambert1SG_Normal_Auto2.uasset'
+[2023.09.14-01.00.59:232][671]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/OurProject/Maps/bedroom_scene/assets/study_desk/study_desk_lambert1SG_OcclusionRoughnessMetallic] ([1] browsable assets)...
+[2023.09.14-01.00.59:234][671]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/OurProject/Maps/bedroom_scene/assets/study_desk/study_desk_lambert1SG_OcclusionRoughnessMetallic.study_desk_lambert1SG_OcclusionRoughnessMetallic]
+[2023.09.14-01.00.59:234][671]OBJ SavePackage: Finished generating thumbnails for package [/Game/OurProject/Maps/bedroom_scene/assets/study_desk/study_desk_lambert1SG_OcclusionRoughnessMetallic]
+[2023.09.14-01.00.59:242][671]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/OurProject/Maps/bedroom_scene/assets/study_desk/study_desk_lambert1SG_OcclusionRoughnessMetallic_Auto2
+[2023.09.14-01.00.59:244][671]LogSavePackage: Moving '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Saved/study_desk_lambert1SG_OcclusionRFA672EF443576D6A07813B94D9AB85EC.tmp' to '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Saved/Autosaves/Game/OurProject/Maps/bedroom_scene/assets/study_desk/study_desk_lambert1SG_OcclusionRoughnessMetallic_Auto2.uasset'
+[2023.09.14-01.00.59:244][671]LogFileHelpers: Auto-saving content packages took 0.035
+[2023.09.14-01.01.28:163][864]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.09.14-01.04.08:323][770]LogEditorFactories: Performing atomic reimport of [E:/2130GFS Serious Games/props/bedroom/props/study_desk/study_desk_lambert1SG_BaseColor.png]
+[2023.09.14-01.04.08:326][770]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 E:/2130GFS Serious Games/props/bedroom/props/study_desk/study_desk_lambert1SG_BaseColor.png)
+[2023.09.14-01.04.08:385][770]LogEditorFactories: -- imported successfully
+[2023.09.14-01.04.08:395][770]LogTexture: Display: Building textures: /Game/OurProject/Maps/bedroom_scene/assets/study_desk/study_desk_lambert1SG_BaseColor.study_desk_lambert1SG_BaseColor (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.09.14-01.04.08:403][770]LogEditorFactories: Performing atomic reimport of [E:/2130GFS Serious Games/props/bedroom/props/study_desk/study_desk_lambert1SG_Normal.png]
+[2023.09.14-01.04.08:410][770]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 E:/2130GFS Serious Games/props/bedroom/props/study_desk/study_desk_lambert1SG_Normal.png)
+[2023.09.14-01.04.08:498][770]LogEditorFactories: -- imported successfully
+[2023.09.14-01.04.08:509][770]LogTexture: Display: Building textures: /Game/OurProject/Maps/bedroom_scene/assets/study_desk/study_desk_lambert1SG_Normal.study_desk_lambert1SG_Normal (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.09.14-01.04.08:517][770]LogEditorFactories: Performing atomic reimport of [E:/2130GFS Serious Games/props/bedroom/props/study_desk/study_desk_lambert1SG_OcclusionRoughnessMetallic.png]
+[2023.09.14-01.04.08:521][770]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 E:/2130GFS Serious Games/props/bedroom/props/study_desk/study_desk_lambert1SG_OcclusionRoughnessMetallic.png)
+[2023.09.14-01.04.08:596][770]LogEditorFactories: -- imported successfully
+[2023.09.14-01.04.08:610][770]LogTexture: Display: Building textures: /Game/OurProject/Maps/bedroom_scene/assets/study_desk/study_desk_lambert1SG_OcclusionRoughnessMetallic.study_desk_lambert1SG_OcclusionRoughnessMetallic (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.09.14-01.06.37:412][588]LogEditorFactories: Performing atomic reimport of [E:/2130GFS Serious Games/props/bedroom/props/study_desk/study_desk_lambert1SG_Normal.png]
+[2023.09.14-01.06.37:418][588]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 E:/2130GFS Serious Games/props/bedroom/props/study_desk/study_desk_lambert1SG_Normal.png)
+[2023.09.14-01.06.37:496][588]LogEditorFactories: -- imported successfully
+[2023.09.14-01.06.37:507][588]LogTexture: Display: Building textures: /Game/OurProject/Maps/bedroom_scene/assets/study_desk/study_desk_lambert1SG_Normal.study_desk_lambert1SG_Normal (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.09.14-01.06.37:516][588]LogEditorFactories: Performing atomic reimport of [E:/2130GFS Serious Games/props/bedroom/props/study_desk/study_desk_lambert1SG_OcclusionRoughnessMetallic.png]
+[2023.09.14-01.06.37:520][588]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 E:/2130GFS Serious Games/props/bedroom/props/study_desk/study_desk_lambert1SG_OcclusionRoughnessMetallic.png)
+[2023.09.14-01.06.37:597][588]LogEditorFactories: -- imported successfully
+[2023.09.14-01.06.37:611][588]LogTexture: Display: Building textures: /Game/OurProject/Maps/bedroom_scene/assets/study_desk/study_desk_lambert1SG_OcclusionRoughnessMetallic.study_desk_lambert1SG_OcclusionRoughnessMetallic (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.09.14-01.06.37:617][588]LogEditorFactories: Performing atomic reimport of [E:/2130GFS Serious Games/props/bedroom/props/study_desk/study_desk_lambert1SG_BaseColor.png]
+[2023.09.14-01.06.37:622][588]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 E:/2130GFS Serious Games/props/bedroom/props/study_desk/study_desk_lambert1SG_BaseColor.png)
+[2023.09.14-01.06.37:695][588]LogEditorFactories: -- imported successfully
+[2023.09.14-01.06.37:706][588]LogTexture: Display: Building textures: /Game/OurProject/Maps/bedroom_scene/assets/study_desk/study_desk_lambert1SG_BaseColor.study_desk_lambert1SG_BaseColor (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.09.14-01.06.48:725][322]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.09.14-01.08.44:267][218]LogEditorFactories: Performing atomic reimport of [E:/2130GFS Serious Games/props/bedroom/props/study_desk/study_desk_lambert1SG_Normal.png]
+[2023.09.14-01.08.44:273][218]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 E:/2130GFS Serious Games/props/bedroom/props/study_desk/study_desk_lambert1SG_Normal.png)
+[2023.09.14-01.08.44:360][218]LogEditorFactories: -- imported successfully
+[2023.09.14-01.08.44:372][218]LogTexture: Display: Building textures: /Game/OurProject/Maps/bedroom_scene/assets/study_desk/study_desk_lambert1SG_Normal.study_desk_lambert1SG_Normal (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.09.14-01.08.44:379][218]LogEditorFactories: Performing atomic reimport of [E:/2130GFS Serious Games/props/bedroom/props/study_desk/study_desk_lambert1SG_OcclusionRoughnessMetallic.png]
+[2023.09.14-01.08.44:384][218]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 E:/2130GFS Serious Games/props/bedroom/props/study_desk/study_desk_lambert1SG_OcclusionRoughnessMetallic.png)
+[2023.09.14-01.08.44:475][218]LogEditorFactories: -- imported successfully
+[2023.09.14-01.08.44:485][218]LogTexture: Display: Building textures: /Game/OurProject/Maps/bedroom_scene/assets/study_desk/study_desk_lambert1SG_OcclusionRoughnessMetallic.study_desk_lambert1SG_OcclusionRoughnessMetallic (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.09.14-01.08.44:495][218]LogEditorFactories: Performing atomic reimport of [E:/2130GFS Serious Games/props/bedroom/props/study_desk/study_desk_lambert1SG_BaseColor.png]
+[2023.09.14-01.08.44:499][218]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 E:/2130GFS Serious Games/props/bedroom/props/study_desk/study_desk_lambert1SG_BaseColor.png)
+[2023.09.14-01.08.44:576][218]LogEditorFactories: -- imported successfully
+[2023.09.14-01.08.44:589][218]LogTexture: Display: Building textures: /Game/OurProject/Maps/bedroom_scene/assets/study_desk/study_desk_lambert1SG_BaseColor.study_desk_lambert1SG_BaseColor (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.09.14-01.09.33:665][ 70]LogEditorFactories: Performing atomic reimport of [E:/2130GFS Serious Games/props/bedroom/props/study_desk/study_desk_lambert1SG_BaseColor.png]
+[2023.09.14-01.09.33:669][ 70]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 E:/2130GFS Serious Games/props/bedroom/props/study_desk/study_desk_lambert1SG_BaseColor.png)
+[2023.09.14-01.09.33:734][ 70]LogEditorFactories: -- imported successfully
+[2023.09.14-01.09.33:747][ 70]LogTexture: Display: Building textures: /Game/OurProject/Maps/bedroom_scene/assets/study_desk/study_desk_lambert1SG_BaseColor.study_desk_lambert1SG_BaseColor (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.09.14-01.09.33:757][ 70]LogEditorFactories: Performing atomic reimport of [E:/2130GFS Serious Games/props/bedroom/props/study_desk/study_desk_lambert1SG_Normal.png]
+[2023.09.14-01.09.33:765][ 70]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 E:/2130GFS Serious Games/props/bedroom/props/study_desk/study_desk_lambert1SG_Normal.png)
+[2023.09.14-01.09.33:868][ 70]LogEditorFactories: -- imported successfully
+[2023.09.14-01.09.33:882][ 70]LogTexture: Display: Building textures: /Game/OurProject/Maps/bedroom_scene/assets/study_desk/study_desk_lambert1SG_Normal.study_desk_lambert1SG_Normal (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.09.14-01.09.33:891][ 70]LogEditorFactories: Performing atomic reimport of [E:/2130GFS Serious Games/props/bedroom/props/study_desk/study_desk_lambert1SG_OcclusionRoughnessMetallic.png]
+[2023.09.14-01.09.33:896][ 70]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 E:/2130GFS Serious Games/props/bedroom/props/study_desk/study_desk_lambert1SG_OcclusionRoughnessMetallic.png)
+[2023.09.14-01.09.33:984][ 70]LogEditorFactories: -- imported successfully
+[2023.09.14-01.09.33:994][ 70]LogTexture: Display: Building textures: /Game/OurProject/Maps/bedroom_scene/assets/study_desk/study_desk_lambert1SG_OcclusionRoughnessMetallic.study_desk_lambert1SG_OcclusionRoughnessMetallic (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
