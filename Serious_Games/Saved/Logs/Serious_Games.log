@@ -868,3 +868,230 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2023.09.14-07.14.17:869][678]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
 [2023.09.14-07.14.17:888][678]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
 [2023.09.14-07.14.17:889][678]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.14-07.24.33:709][795]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/OurProject/Maps/Forest_Scene/Assets/grass/Grass.Grass
+[2023.09.14-07.24.33:803][795]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.14-07.24.34:066][795]LogViewport: Scene viewport resized to 1405x902, mode Windowed.
+[2023.09.14-07.24.40:566][273]LogSlate: Window 'Grass' being destroyed
+[2023.09.14-07.24.40:584][273]LogSlate: Window 'Grass' being destroyed
+[2023.09.14-07.24.40:624][273]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2023.09.14-07.24.40:624][273]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.14-07.24.43:102][525]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2023.09.14-07.24.50:690][525]LogSlate: Window 'Delete Assets' being destroyed
+[2023.09.14-07.25.04:884][745]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/OurProject/Maps/Forest_Scene/Assets/grass/Grass.Grass
+[2023.09.14-07.25.04:968][745]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.14-07.25.05:197][745]LogViewport: Scene viewport resized to 1405x902, mode Windowed.
+[2023.09.14-07.25.15:634][516]LogSlate: Window 'Grass' being destroyed
+[2023.09.14-07.25.15:652][516]LogSlate: Window 'Grass' being destroyed
+[2023.09.14-07.25.15:673][516]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2023.09.14-07.25.15:673][516]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.14-07.25.28:367][587]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\Maya\Grass.fbx)
+[2023.09.14-07.25.28:381][587]LogFbx: Loading FBX Scene from D:\Maya\Grass.fbx
+[2023.09.14-07.25.28:391][587]LogFbx: FBX Scene Loaded Succesfully
+[2023.09.14-07.25.40:331][587]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.09.14-07.25.40:357][587]LogFbx: Display: Triangulating static mesh pPlane13
+[2023.09.14-07.25.40:362][587]LogStaticMesh: Display: Building static mesh Grass...
+[2023.09.14-07.25.40:371][587]LogStaticMesh: Built static mesh [0.01s] /Game/OurProject/Maps/Forest_Scene/Assets/flowers/Grass.Grass
+[2023.09.14-07.25.40:379][587]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.09.14-07.25.43:676][879]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2023.09.14-07.25.43:680][879]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/OurProject/Maps/Forest_Scene/ForestScene' took 0.008
+[2023.09.14-07.25.43:680][879]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/OurProject/Maps/Forest_Scene/Assets/grass/Grass] ([1] browsable assets)...
+[2023.09.14-07.25.43:699][879]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/OurProject/Maps/Forest_Scene/Assets/grass/Grass.Grass]
+[2023.09.14-07.25.43:699][879]OBJ SavePackage: Finished generating thumbnails for package [/Game/OurProject/Maps/Forest_Scene/Assets/grass/Grass]
+[2023.09.14-07.25.43:704][879]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/OurProject/Maps/Forest_Scene/Assets/grass/Grass_Auto1
+[2023.09.14-07.25.43:705][879]LogSavePackage: Moving 'D:/Unreal Projects/Serious_Games/Serious_Games/Saved/Grass_Auto13ED6F1C44A1705DE2DCC8F9D9AB0DC6F.tmp' to 'D:/Unreal Projects/Serious_Games/Serious_Games/Saved/Autosaves/Game/OurProject/Maps/Forest_Scene/Assets/grass/Grass_Auto1.uasset'
+[2023.09.14-07.25.43:705][879]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/OurProject/Maps/Forest_Scene/Assets/flowers/Grass] ([1] browsable assets)...
+[2023.09.14-07.25.43:712][879]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/OurProject/Maps/Forest_Scene/Assets/flowers/Grass.Grass]
+[2023.09.14-07.25.43:712][879]OBJ SavePackage: Finished generating thumbnails for package [/Game/OurProject/Maps/Forest_Scene/Assets/flowers/Grass]
+[2023.09.14-07.25.43:714][879]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/OurProject/Maps/Forest_Scene/Assets/flowers/Grass_Auto1
+[2023.09.14-07.25.43:714][879]LogSavePackage: Moving 'D:/Unreal Projects/Serious_Games/Serious_Games/Saved/Grass_Auto1C4A8B478491A790A1544F38AD14103AA.tmp' to 'D:/Unreal Projects/Serious_Games/Serious_Games/Saved/Autosaves/Game/OurProject/Maps/Forest_Scene/Assets/flowers/Grass_Auto1.uasset'
+[2023.09.14-07.25.43:714][879]LogFileHelpers: Auto-saving content packages took 0.035
+[2023.09.14-07.25.46:216][160]LogSlate: Window 'Message Log' being destroyed
+[2023.09.14-07.25.46:230][160]LogSlate: Window 'Message Log' being destroyed
+[2023.09.14-07.25.48:393][368]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/OurProject/Maps/Forest_Scene/Assets/flowers/Grass.Grass
+[2023.09.14-07.25.48:393][368]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/OurProject/Maps/Forest_Scene/Assets/flowers/Grass.Grass
+[2023.09.14-07.25.48:393][368]LogActorFactory: Actor Factory spawned StaticMesh /Game/OurProject/Maps/Forest_Scene/Assets/flowers/Grass.Grass as actor: StaticMeshActor /Game/OurProject/Maps/Forest_Scene/ForestScene.ForestScene:PersistentLevel.StaticMeshActor_0
+[2023.09.14-07.25.49:127][434]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/OurProject/Maps/Forest_Scene/Assets/flowers/Grass.Grass
+[2023.09.14-07.25.49:127][434]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/OurProject/Maps/Forest_Scene/Assets/flowers/Grass.Grass
+[2023.09.14-07.25.49:127][434]LogActorFactory: Actor Factory spawned StaticMesh /Game/OurProject/Maps/Forest_Scene/Assets/flowers/Grass.Grass as actor: StaticMeshActor /Game/OurProject/Maps/Forest_Scene/ForestScene.ForestScene:PersistentLevel.StaticMeshActor_2
+[2023.09.14-07.26.03:885][ 63]Cmd: TRANSACTION UNDO
+[2023.09.14-07.26.03:885][ 63]LogEditorTransaction: Undo Create Actors
+[2023.09.14-07.26.06:027][221]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2023.09.14-07.26.07:266][221]LogSlate: Window 'Delete Assets' being destroyed
+[2023.09.14-07.26.07:280][221]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2023.09.14-07.26.07:285][221]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2023.09.14-07.26.07:291][221]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2023.09.14-07.26.40:301][ 38]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\Maya\Grass.fbx)
+[2023.09.14-07.26.40:306][ 38]LogFbx: Loading FBX Scene from D:\Maya\Grass.fbx
+[2023.09.14-07.26.40:314][ 38]LogFbx: FBX Scene Loaded Succesfully
+[2023.09.14-07.26.42:732][ 38]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.09.14-07.26.42:752][ 38]LogFbx: Display: Triangulating static mesh pPlane13
+[2023.09.14-07.26.42:753][ 38]LogStaticMesh: Display: Building static mesh Grass...
+[2023.09.14-07.26.42:761][ 38]LogStaticMesh: Built static mesh [0.01s] /Game/OurProject/Maps/Forest_Scene/Assets/flowers/Grass.Grass
+[2023.09.14-07.26.42:768][ 38]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.09.14-07.26.44:439][204]LogSlate: Window 'Message Log' being destroyed
+[2023.09.14-07.26.44:445][204]LogSlate: Window 'Message Log' being destroyed
+[2023.09.14-07.26.46:908][442]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/OurProject/Maps/Forest_Scene/Assets/flowers/Grass.Grass
+[2023.09.14-07.26.46:908][442]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/OurProject/Maps/Forest_Scene/Assets/flowers/Grass.Grass
+[2023.09.14-07.26.46:909][442]LogActorFactory: Actor Factory spawned StaticMesh /Game/OurProject/Maps/Forest_Scene/Assets/flowers/Grass.Grass as actor: StaticMeshActor /Game/OurProject/Maps/Forest_Scene/ForestScene.ForestScene:PersistentLevel.StaticMeshActor_3
+[2023.09.14-07.26.48:306][593]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/OurProject/Maps/Forest_Scene/Assets/flowers/Grass.Grass
+[2023.09.14-07.26.48:306][593]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/OurProject/Maps/Forest_Scene/Assets/flowers/Grass.Grass
+[2023.09.14-07.26.48:306][593]LogActorFactory: Actor Factory spawned StaticMesh /Game/OurProject/Maps/Forest_Scene/Assets/flowers/Grass.Grass as actor: StaticMeshActor /Game/OurProject/Maps/Forest_Scene/ForestScene.ForestScene:PersistentLevel.StaticMeshActor_5
+[2023.09.14-07.26.51:006][896]Cmd: TRANSACTION UNDO
+[2023.09.14-07.26.51:006][896]LogEditorTransaction: Undo Create Actors
+[2023.09.14-07.26.52:678][  2]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2023.09.14-07.26.54:198][  2]LogSlate: Window 'Delete Assets' being destroyed
+[2023.09.14-07.26.54:210][  2]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2023.09.14-07.26.54:216][  2]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2023.09.14-07.26.54:222][  2]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2023.09.14-07.27.22:518][893]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\Maya\Grass.fbx)
+[2023.09.14-07.27.22:524][893]LogFbx: Loading FBX Scene from D:\Maya\Grass.fbx
+[2023.09.14-07.27.22:531][893]LogFbx: FBX Scene Loaded Succesfully
+[2023.09.14-07.27.24:486][893]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.09.14-07.27.24:507][893]LogFbx: Display: Triangulating static mesh pPlane13
+[2023.09.14-07.27.24:508][893]LogStaticMesh: Display: Building static mesh Grass...
+[2023.09.14-07.27.24:516][893]LogStaticMesh: Built static mesh [0.01s] /Game/OurProject/Maps/Forest_Scene/Assets/flowers/Grass.Grass
+[2023.09.14-07.27.24:523][893]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.09.14-07.27.26:493][ 83]LogSlate: Window 'Message Log' being destroyed
+[2023.09.14-07.27.26:498][ 83]LogSlate: Window 'Message Log' being destroyed
+[2023.09.14-07.27.28:157][232]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/OurProject/Maps/Forest_Scene/Assets/flowers/Grass.Grass
+[2023.09.14-07.27.28:157][232]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/OurProject/Maps/Forest_Scene/Assets/flowers/Grass.Grass
+[2023.09.14-07.27.28:157][232]LogActorFactory: Actor Factory spawned StaticMesh /Game/OurProject/Maps/Forest_Scene/Assets/flowers/Grass.Grass as actor: StaticMeshActor /Game/OurProject/Maps/Forest_Scene/ForestScene.ForestScene:PersistentLevel.StaticMeshActor_6
+[2023.09.14-07.27.29:746][402]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/OurProject/Maps/Forest_Scene/Assets/flowers/Grass.Grass
+[2023.09.14-07.27.29:746][402]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/OurProject/Maps/Forest_Scene/Assets/flowers/Grass.Grass
+[2023.09.14-07.27.29:747][402]LogActorFactory: Actor Factory spawned StaticMesh /Game/OurProject/Maps/Forest_Scene/Assets/flowers/Grass.Grass as actor: StaticMeshActor /Game/OurProject/Maps/Forest_Scene/ForestScene.ForestScene:PersistentLevel.StaticMeshActor_7
+[2023.09.14-07.27.34:481][902]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.09.14-07.27.34:487][902]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.09.14-07.27.34:487][902]PIE: New page: PIE session: ForestScene (15 Sep 2023, 3:27:34 am)
+[2023.09.14-07.27.34:514][902]LogPlayLevel: Creating play world package: /Game/OurProject/Maps/Forest_Scene/UEDPIE_0_ForestScene
+[2023.09.14-07.27.34:543][902]LogPlayLevel: PIE: StaticDuplicateObject took: (0.029158s)
+[2023.09.14-07.27.34:543][902]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/OurProject/Maps/Forest_Scene/ForestScene.ForestScene to /Game/OurProject/Maps/Forest_Scene/UEDPIE_0_ForestScene.ForestScene (0.029247s)
+[2023.09.14-07.27.34:543][902]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.09.14-07.27.34:543][902]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.14-07.27.34:543][902]LogAIModule: Creating AISystem for world ForestScene
+[2023.09.14-07.27.34:544][902]LogPlayLevel: PIE: World Init took: (0.000650s)
+[2023.09.14-07.27.34:550][902]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2023.09.14-07.27.34:551][902]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2023.09.14-07.27.34:551][902]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.09.14-07.27.34:551][902]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.09.14-07.27.34:551][902]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.09.14-07.27.34:551][902]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.09.14-07.27.34:551][902]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.09.14-07.27.34:551][902]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.09.14-07.27.34:551][902]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.09.14-07.27.34:551][902]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.09.14-07.27.34:551][902]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.09.14-07.27.34:551][902]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.09.14-07.27.34:551][902]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.09.14-07.27.34:553][902]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.09.14-07.27.34:568][902]LogAudioMixer: Display: Using Audio Hardware Device Realtek HD Audio 2nd output (Realtek High Definition Audio)
+[2023.09.14-07.27.34:569][902]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.09.14-07.27.34:569][902]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.09.14-07.27.34:569][902]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.09.14-07.27.34:569][902]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2023.09.14-07.27.34:569][902]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2023.09.14-07.27.34:570][902]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2023.09.14-07.27.34:570][902]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2023.09.14-07.27.34:570][902]LogInit: FAudioDevice initialized.
+[2023.09.14-07.27.34:570][902]LogAudio: Display: Audio Device (ID: 3) registered with world 'ForestScene'.
+[2023.09.14-07.27.34:577][902]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.09.14-07.27.34:584][902]LogWorld: Bringing World /Game/OurProject/Maps/Forest_Scene/UEDPIE_0_ForestScene.ForestScene up for play (max tick rate 0) at 2023.09.14-17.27.34
+[2023.09.14-07.27.34:584][902]LogWorld: Bringing up level for play took: 0.006569
+[2023.09.14-07.27.34:586][902]LogOnline: OSS: Created online subsystem instance for: :Context_8
+[2023.09.14-07.27.34:587][902]PIE: Server logged in
+[2023.09.14-07.27.34:588][902]PIE: Play in editor total start time 0.102 seconds.
+[2023.09.14-07.27.46:554][268]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.14-07.27.46:554][268]LogWorld: BeginTearingDown for /Game/OurProject/Maps/Forest_Scene/UEDPIE_0_ForestScene
+[2023.09.14-07.27.46:554][268]LogWorld: UWorld::CleanupWorld for ForestScene, bSessionEnded=true, bCleanupResources=true
+[2023.09.14-07.27.46:554][268]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.14-07.27.46:565][268]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.09.14-07.27.46:567][268]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.14-07.27.46:572][268]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.09.14-07.27.46:573][268]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2023.09.14-07.27.46:574][268]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2023.09.14-07.27.46:577][268]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.14-07.27.46:579][268]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2023.09.14-07.27.46:643][270]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2023.09.14-07.27.51:707][788]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.09.14-07.28.22:555][ 19]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2023.09.14-07.28.24:208][ 19]LogSlate: Window 'Delete Assets' being destroyed
+[2023.09.14-07.28.24:243][ 19]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/OurProject/Maps/Forest_Scene/Assets/flowers/Grass.Grass
+	Asset Type: StaticMesh
+[2023.09.14-07.28.24:374][ 19]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2023.09.14-07.28.24:380][ 19]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2023.09.14-07.28.24:386][ 19]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2023.09.14-07.29.11:055][598]LogSlate: Window 'Content Browser' being destroyed
+[2023.09.14-07.29.11:067][598]LogSlate: Window 'Content Browser' being destroyed
+[2023.09.14-07.29.15:202][ 26]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\Maya\Grass.fbx)
+[2023.09.14-07.29.15:208][ 26]LogFbx: Loading FBX Scene from D:\Maya\Grass.fbx
+[2023.09.14-07.29.15:216][ 26]LogFbx: FBX Scene Loaded Succesfully
+[2023.09.14-07.29.17:491][ 26]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.09.14-07.29.17:512][ 26]LogFbx: Display: Triangulating static mesh pPlane13
+[2023.09.14-07.29.17:514][ 26]LogStaticMesh: Display: Building static mesh Grass...
+[2023.09.14-07.29.17:521][ 26]LogStaticMesh: Built static mesh [0.01s] /Game/OurProject/Maps/Forest_Scene/Assets/flowers/Grass.Grass
+[2023.09.14-07.29.17:528][ 26]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.09.14-07.29.20:420][328]LogSlate: Window 'Message Log' being destroyed
+[2023.09.14-07.29.20:433][328]LogSlate: Window 'Message Log' being destroyed
+[2023.09.14-07.29.24:362][727]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/OurProject/Maps/Forest_Scene/Assets/flowers/Grass.Grass
+[2023.09.14-07.29.24:362][727]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/OurProject/Maps/Forest_Scene/Assets/flowers/Grass.Grass
+[2023.09.14-07.29.24:362][727]LogActorFactory: Actor Factory spawned StaticMesh /Game/OurProject/Maps/Forest_Scene/Assets/flowers/Grass.Grass as actor: StaticMeshActor /Game/OurProject/Maps/Forest_Scene/ForestScene.ForestScene:PersistentLevel.StaticMeshActor_9
+[2023.09.14-07.29.25:956][913]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/OurProject/Maps/Forest_Scene/Assets/flowers/Grass.Grass
+[2023.09.14-07.29.25:956][913]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/OurProject/Maps/Forest_Scene/Assets/flowers/Grass.Grass
+[2023.09.14-07.29.25:957][913]LogActorFactory: Actor Factory spawned StaticMesh /Game/OurProject/Maps/Forest_Scene/Assets/flowers/Grass.Grass as actor: StaticMeshActor /Game/OurProject/Maps/Forest_Scene/ForestScene.ForestScene:PersistentLevel.StaticMeshActor_10
+[2023.09.14-07.29.36:324][100]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.09.14-07.29.36:329][100]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.09.14-07.29.36:330][100]PIE: New page: PIE session: ForestScene (15 Sep 2023, 3:29:36 am)
+[2023.09.14-07.29.36:354][100]LogPlayLevel: Creating play world package: /Game/OurProject/Maps/Forest_Scene/UEDPIE_0_ForestScene
+[2023.09.14-07.29.36:385][100]LogPlayLevel: PIE: StaticDuplicateObject took: (0.031182s)
+[2023.09.14-07.29.36:385][100]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/OurProject/Maps/Forest_Scene/ForestScene.ForestScene to /Game/OurProject/Maps/Forest_Scene/UEDPIE_0_ForestScene.ForestScene (0.031265s)
+[2023.09.14-07.29.36:385][100]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.09.14-07.29.36:385][100]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.14-07.29.36:386][100]LogAIModule: Creating AISystem for world ForestScene
+[2023.09.14-07.29.36:386][100]LogPlayLevel: PIE: World Init took: (0.000837s)
+[2023.09.14-07.29.36:392][100]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2023.09.14-07.29.36:394][100]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2023.09.14-07.29.36:394][100]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.09.14-07.29.36:394][100]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.09.14-07.29.36:394][100]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.09.14-07.29.36:394][100]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.09.14-07.29.36:394][100]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.09.14-07.29.36:394][100]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.09.14-07.29.36:394][100]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.09.14-07.29.36:394][100]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.09.14-07.29.36:395][100]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.09.14-07.29.36:395][100]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.09.14-07.29.36:395][100]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.09.14-07.29.36:396][100]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.09.14-07.29.36:411][100]LogAudioMixer: Display: Using Audio Hardware Device Realtek HD Audio 2nd output (Realtek High Definition Audio)
+[2023.09.14-07.29.36:411][100]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.09.14-07.29.36:411][100]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.09.14-07.29.36:412][100]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.09.14-07.29.36:412][100]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2023.09.14-07.29.36:412][100]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2023.09.14-07.29.36:413][100]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2023.09.14-07.29.36:413][100]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2023.09.14-07.29.36:413][100]LogInit: FAudioDevice initialized.
+[2023.09.14-07.29.36:413][100]LogAudio: Display: Audio Device (ID: 4) registered with world 'ForestScene'.
+[2023.09.14-07.29.36:421][100]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.09.14-07.29.36:428][100]LogWorld: Bringing World /Game/OurProject/Maps/Forest_Scene/UEDPIE_0_ForestScene.ForestScene up for play (max tick rate 0) at 2023.09.14-17.29.36
+[2023.09.14-07.29.36:428][100]LogWorld: Bringing up level for play took: 0.006409
+[2023.09.14-07.29.36:429][100]LogOnline: OSS: Created online subsystem instance for: :Context_10
+[2023.09.14-07.29.36:430][100]PIE: Server logged in
+[2023.09.14-07.29.36:431][100]PIE: Play in editor total start time 0.102 seconds.
+[2023.09.14-07.31.01:724][ 88]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.14-07.31.01:724][ 88]LogWorld: BeginTearingDown for /Game/OurProject/Maps/Forest_Scene/UEDPIE_0_ForestScene
+[2023.09.14-07.31.01:724][ 88]LogWorld: UWorld::CleanupWorld for ForestScene, bSessionEnded=true, bCleanupResources=true
+[2023.09.14-07.31.01:724][ 88]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.14-07.31.01:735][ 88]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.09.14-07.31.01:737][ 88]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.14-07.31.01:743][ 88]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.09.14-07.31.01:743][ 88]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2023.09.14-07.31.01:745][ 88]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2023.09.14-07.31.01:748][ 88]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.14-07.31.01:750][ 88]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2023.09.14-07.31.01:784][ 89]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2023.09.14-07.31.33:076][826]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2023.09.14-07.31.33:192][826]LogSavePackage: Moving output files for package: /Game/OurProject/Maps/Forest_Scene/ForestScene
+[2023.09.14-07.31.33:193][826]LogSavePackage: Moving 'D:/Unreal Projects/Serious_Games/Serious_Games/Saved/ForestScene7180C43F444A9528A9D6E7B44749BBF8.tmp' to 'D:/Unreal Projects/Serious_Games/Serious_Games/Content/OurProject/Maps/Forest_Scene/ForestScene.umap'
+[2023.09.14-07.31.33:213][826]AssetCheck: New page: Asset Save: ForestScene
+[2023.09.14-07.31.33:213][826]LogContentValidation: Display: Validating World /Game/OurProject/Maps/Forest_Scene/ForestScene.ForestScene
