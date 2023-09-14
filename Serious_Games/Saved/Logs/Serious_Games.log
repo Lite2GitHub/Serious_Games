@@ -979,3 +979,21 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2023.09.14-08.50.57:015][769]LogSavePackage: Moving 'D:/Unreal Projects/Serious_Games/Serious_Games/Saved/ForestSceneE9D110F448F2E25E4F130AACD61BE275.tmp' to 'D:/Unreal Projects/Serious_Games/Serious_Games/Content/OurProject/Maps/Forest_Scene/ForestScene.umap'
 [2023.09.14-08.50.57:033][769]AssetCheck: New page: Asset Save: ForestScene
 [2023.09.14-08.50.57:033][769]LogContentValidation: Display: Validating World /Game/OurProject/Maps/Forest_Scene/ForestScene.ForestScene
+[2023.09.14-08.58.56:211][284]LogActorFactory: Actor Factory spawned ProceduralFoliageSpawner /Game/OurProject/Maps/Forest_Scene/Assets/Forest_ProceduralFoliageSpawner.Forest_ProceduralFoliageSpawner as actor: ProceduralFoliageVolume /Game/OurProject/Maps/Forest_Scene/ForestScene.ForestScene:PersistentLevel.ProceduralFoliageVolume_0
+[2023.09.14-08.58.56:212][284]LogActorFactory: Actor Factory created Forest_ProceduralFoliageSpawner
+[2023.09.14-08.58.56:212][284]LogActorFactory: Actor Factory spawned ProceduralFoliageSpawner /Game/OurProject/Maps/Forest_Scene/Assets/Forest_ProceduralFoliageSpawner.Forest_ProceduralFoliageSpawner as actor: ProceduralFoliageVolume /Game/OurProject/Maps/Forest_Scene/ForestScene.ForestScene:PersistentLevel.ProceduralFoliageVolume_0
+[2023.09.14-08.58.56:213][284]LogActorFactory: Actor Factory created Forest_ProceduralFoliageSpawner
+[2023.09.14-08.58.56:950][370]LogActorFactory: Actor Factory spawned ProceduralFoliageSpawner /Game/OurProject/Maps/Forest_Scene/Assets/Forest_ProceduralFoliageSpawner.Forest_ProceduralFoliageSpawner as actor: ProceduralFoliageVolume /Game/OurProject/Maps/Forest_Scene/ForestScene.ForestScene:PersistentLevel.ProceduralFoliageVolume_1
+[2023.09.14-08.58.56:951][370]LogActorFactory: Actor Factory created Forest_ProceduralFoliageSpawner
+[2023.09.14-08.58.56:951][370]LogActorFactory: Actor Factory spawned ProceduralFoliageSpawner /Game/OurProject/Maps/Forest_Scene/Assets/Forest_ProceduralFoliageSpawner.Forest_ProceduralFoliageSpawner as actor: ProceduralFoliageVolume /Game/OurProject/Maps/Forest_Scene/ForestScene.ForestScene:PersistentLevel.ProceduralFoliageVolume_1
+[2023.09.14-08.58.56:951][370]LogActorFactory: Actor Factory created Forest_ProceduralFoliageSpawner
+[2023.09.14-09.02.31:482][565]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2023.09.14-09.02.31:572][565]LogSavePackage: Moving output files for package: /Game/OurProject/Maps/Forest_Scene/ForestScene
+[2023.09.14-09.02.31:572][565]LogSavePackage: Moving 'D:/Unreal Projects/Serious_Games/Serious_Games/Saved/ForestScene16FA75F54CAF5FC47014529858A42302.tmp' to 'D:/Unreal Projects/Serious_Games/Serious_Games/Content/OurProject/Maps/Forest_Scene/ForestScene.umap'
+[2023.09.14-09.02.31:594][565]AssetCheck: New page: Asset Save: ForestScene
+[2023.09.14-09.02.31:594][565]LogContentValidation: Display: Validating World /Game/OurProject/Maps/Forest_Scene/ForestScene.ForestScene
+[2023.09.14-09.03.08:015][538]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2023.09.14-09.03.08:103][538]LogSavePackage: Moving output files for package: /Game/OurProject/Maps/Forest_Scene/ForestScene
+[2023.09.14-09.03.08:103][538]LogSavePackage: Moving 'D:/Unreal Projects/Serious_Games/Serious_Games/Saved/ForestSceneFD2B9BE44882855BA761F88348753ABA.tmp' to 'D:/Unreal Projects/Serious_Games/Serious_Games/Content/OurProject/Maps/Forest_Scene/ForestScene.umap'
+[2023.09.14-09.03.08:121][538]AssetCheck: New page: Asset Save: ForestScene
+[2023.09.14-09.03.08:121][538]LogContentValidation: Display: Validating World /Game/OurProject/Maps/Forest_Scene/ForestScene.ForestScene
