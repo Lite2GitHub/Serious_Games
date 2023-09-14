@@ -1534,3 +1534,40 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2023.09.14-01.17.00:305][339]LogEditorFactories: -- imported successfully
 [2023.09.14-01.17.00:317][339]LogTexture: Display: Building textures: /Game/OurProject/Maps/bedroom_scene/assets/study_desk/study_desk_lambert1SG_BaseColor.study_desk_lambert1SG_BaseColor (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
 [2023.09.14-01.17.06:952][848]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.09.14-01.20.01:394][ 94]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 E:\2130GFS Serious Games\props\bedroom\props\study_desk\study_desk2.fbx)
+[2023.09.14-01.20.01:399][ 94]LogFbx: Loading FBX Scene from E:\2130GFS Serious Games\props\bedroom\props\study_desk\study_desk2.fbx
+[2023.09.14-01.20.01:407][ 94]LogFbx: FBX Scene Loaded Succesfully
+[2023.09.14-01.20.02:994][ 94]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.09.14-01.20.03:022][ 94]LogStaticMesh: Display: Building static mesh study_desk2...
+[2023.09.14-01.20.03:068][ 94]LogStaticMesh: Built static mesh [0.05s] /Game/OurProject/Maps/bedroom_scene/assets/study_desk/study_desk2.study_desk2
+[2023.09.14-01.20.03:087][ 94]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.09.14-01.20.06:921][429]LogSlate: Window 'Message Log' being destroyed
+[2023.09.14-01.20.06:937][429]LogSlate: Window 'Message Log' being destroyed
+[2023.09.14-01.20.08:872][624]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/OurProject/Maps/bedroom_scene/assets/study_desk/study_desk2.study_desk2
+[2023.09.14-01.20.08:872][624]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/OurProject/Maps/bedroom_scene/assets/study_desk/study_desk2.study_desk2
+[2023.09.14-01.20.08:872][624]LogActorFactory: Actor Factory spawned StaticMesh /Game/OurProject/Maps/bedroom_scene/assets/study_desk/study_desk2.study_desk2 as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_2
+[2023.09.14-01.20.09:192][653]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/OurProject/Maps/bedroom_scene/assets/study_desk/study_desk2.study_desk2
+[2023.09.14-01.20.09:192][653]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/OurProject/Maps/bedroom_scene/assets/study_desk/study_desk2.study_desk2
+[2023.09.14-01.20.09:193][653]LogActorFactory: Actor Factory spawned StaticMesh /Game/OurProject/Maps/bedroom_scene/assets/study_desk/study_desk2.study_desk2 as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_04421A293C741CA901_1507711554
+[2023.09.14-01.20.10:307][779]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.09.14-01.20.12:081][978]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_04421A293C741CA901_1507711554.StaticMeshComponent0)
+[2023.09.14-01.20.12:090][979]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_04421A293C741CA901_1507711554.StaticMeshComponent0)
+[2023.09.14-01.20.14:797][296]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.09.14-01.20.19:811][826]LogStaticMesh: Display: Building static mesh study_desk2...
+[2023.09.14-01.20.19:811][826]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/OurProject/Maps/bedroom_scene/assets/study_desk/study_desk2) ...
+[2023.09.14-01.20.19:848][826]LogStaticMesh: Built static mesh [0.05s] /Game/OurProject/Maps/bedroom_scene/assets/study_desk/study_desk2.study_desk2
+[2023.09.14-01.20.23:193][207]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.09.14-01.20.27:665][704]Cmd: DELETE
+[2023.09.14-01.20.27:665][704]Cmd: ACTOR DELETE
+[2023.09.14-01.20.27:667][704]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.09.14-01.20.27:674][704]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2023.09.14-01.20.27:675][704]LogEditorActor: Deleted 1 Actors (0.009 secs)
+[2023.09.14-01.20.29:425][899]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.09.14-01.20.33:257][336]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.09.14-01.20.37:022][744]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2023.09.14-01.20.37:028][744]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2023.09.14-01.20.37:034][744]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2023.09.14-01.20.37:035][744]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/FL/70SM1KR31H6VCF0RDI42R0
+[2023.09.14-01.20.37:035][744]LogSavePackage: Moving '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Saved/70SM1KR31H6VCF0RDI42R02E5AAC31456A83894FC965B1342165BF.tmp' to '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/FL/70SM1KR31H6VCF0RDI42R0.uasset'
+[2023.09.14-01.20.37:043][744]AssetCheck: New page: Asset Save: StaticMeshActor_UAID_04421A293C741CA901_1507711554
+[2023.09.14-01.20.37:043][744]LogContentValidation: Display: Validating StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_04421A293C741CA901_1507711554
