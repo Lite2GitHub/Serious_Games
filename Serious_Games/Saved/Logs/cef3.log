@@ -2,3 +2,12 @@
 [0913/221318.206:ERROR:batching_media_log.cc(35)] MediaEvent: {"pipeline_error":14}
 [0913/221318.569:ERROR:batching_media_log.cc(38)] MediaEvent: {"error":"FFmpegDemuxer: no supported streams"}
 [0913/221318.569:ERROR:batching_media_log.cc(35)] MediaEvent: {"pipeline_error":14}
+[0916/112735.324:ERROR:os_crypt_win.cc(92)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+[0916/112738.805:WARNING:value_store_frontend.cc(44)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[0916/112854.560:ERROR:batching_media_log.cc(38)] MediaEvent: {"error":"FFmpegDemuxer: no supported streams"}
+[0916/112854.560:ERROR:batching_media_log.cc(35)] MediaEvent: {"pipeline_error":14}
+[0916/112854.580:ERROR:batching_media_log.cc(38)] MediaEvent: {"error":"FFmpegDemuxer: no supported streams"}
+[0916/112854.580:ERROR:batching_media_log.cc(35)] MediaEvent: {"pipeline_error":14}
+[0916/112854.706:WARNING:spdy_session.cc(3365)] Received HEADERS for invalid stream 23
+[0916/112855.283:ERROR:leveldb_factory.cc(90)] Failed to open LevelDB database from C:/Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Saved/webcache_4147\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb,IO error: C:/Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Saved/webcache_4147\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[0916/112855.288:ERROR:leveldb_factory.cc(90)] Failed to open LevelDB database from C:/Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Saved/webcache_4147\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb,IO error: C:/Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Saved/webcache_4147\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)

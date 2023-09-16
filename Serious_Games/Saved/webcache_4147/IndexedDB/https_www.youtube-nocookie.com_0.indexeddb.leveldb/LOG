@@ -1,5 +1,0 @@
-2023/09/13-22:13:19.533 3164 Reusing MANIFEST C:/Users/ngdiy/Documents/GitHub/Serious_Games/Serious_Games/Saved/webcache_4147\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
-2023/09/13-22:38:17.276 3f3c Level-0 table #5: started
-2023/09/13-22:38:17.284 3f3c Level-0 table #5: 1211 bytes OK
-2023/09/13-22:38:17.285 3f3c Delete type=0 #3
-2023/09/13-22:38:17.286 3f3c Manual compaction at level-0 from (begin) .. (end); will stop at (end)
