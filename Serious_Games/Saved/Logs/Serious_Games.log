@@ -3544,3 +3544,157 @@ Script Stack (0 frames):
 [2023.09.16-01.37.12:700][482]LogSavePackage: Moving '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Saved/S_Worn_Plaster_Pot_ubylbdhiw_lod64DF28EC4F742521467835AFDB9CA73D.tmp' to '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Saved/Autosaves/Game/Megascans/3D_Assets/Worn_Plaster_Pot_ubylbdhiw/S_Worn_Plaster_Pot_ubylbdhiw_lod3_Auto2.uasset'
 [2023.09.16-01.37.12:701][482]LogFileHelpers: Auto-saving content packages took 3.930
 [2023.09.16-02.13.16:303][829]LogDerivedDataCache: C:/Users/linch/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.410 and deleted 0 file(s) with total size 0 MiB.
+[2023.09.16-02.53.19:780][389]LogUObjectGlobals: BeginLoad(/Game/Megascans/Surfaces/Wooden_Planks_wckqdbvs/MI_Wooden_Planks_wckqdbvs_4K) is flushing async loading
+[2023.09.16-02.53.19:780][389]LogStreaming: Display: FlushAsyncLoading: 3 QueuedPackages, 0 AsyncPackages
+[2023.09.16-02.53.19:785][389]LogMaterial: Display: Missing cached shadermap for M_MS_Surface_Material in PCD3D_SM5, Default, SM5 (DDC key hash: 215C15AD342F9E6808C83DAB15A19B0BCA241800), compiling. 
+[2023.09.16-02.53.19:806][389]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Megascans/Surfaces/Wooden_Planks_wckqdbvs/MI_Wooden_Planks_wckqdbvs_4K.MI_Wooden_Planks_wckqdbvs_4K
+	Asset Type: MaterialInstanceConstant
+[2023.09.16-02.53.20:713][389]LogTexture: Display: Building textures: /Game/Megascans/Surfaces/Wooden_Planks_wckqdbvs/T_WoodenPlanks_wckqdbvs_4K_ORDp.T_WoodenPlanks_wckqdbvs_4K_ORDp (TFO_DXT1, 4096X4096 X1X1) (Required Memory Estimate: 640.000 MB), EncodeSpeed: Fast
+[2023.09.16-02.53.20:741][389]LogTexture: Display: Building textures: /Game/Megascans/Surfaces/Wooden_Planks_wckqdbvs/T_Wooden_Planks_wckqdbvs_4K_N.T_Wooden_Planks_wckqdbvs_4K_N (TFO_BC5, 4096X4096 X1X1) (Required Memory Estimate: 640.000 MB), EncodeSpeed: Fast
+[2023.09.16-02.53.20:743][389]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2023.09.16-02.53.20:782][389]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2023.09.16-02.53.20:801][389]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.09.16-02.53.20:832][389]LogTexture: Display: Building textures: /Game/Megascans/Surfaces/Wooden_Planks_wckqdbvs/T_Wooden_Planks_wckqdbvs_4K_D.T_Wooden_Planks_wckqdbvs_4K_D (TFO_DXT1, 4096X4096 X1X1) (Required Memory Estimate: 640.000 MB), EncodeSpeed: Fast
+[2023.09.16-02.53.22:462][389]LogTexture: Display: Building textures: /Game/Megascans/Surfaces/Wooden_Planks_wckqdbvs/T_WoodenPlanks_wckqdbvs_4K_ORDp.T_WoodenPlanks_wckqdbvs_4K_ORDp (TFO_DXT1 VT, 4096X4096 X1X1) (Required Memory Estimate: 640.000 MB), EncodeSpeed: Fast
+[2023.09.16-02.53.22:686][389]LogShaderCompilers: Display: ================================================
+[2023.09.16-02.53.22:686][389]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.09.16-02.53.22:686][389]LogShaderCompilers: Display: Total job queries 1551, among them cache hits 1079 (69.57%)
+[2023.09.16-02.53.22:686][389]LogShaderCompilers: Display: Tracking 373 distinct input hashes that result in 80 distinct outputs (21.45%)
+[2023.09.16-02.53.22:686][389]LogShaderCompilers: Display: RAM used: 0.21 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.01%
+[2023.09.16-02.53.22:686][389]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.09.16-02.53.22:686][389]LogShaderCompilers: Display: Shaders Compiled: 218
+[2023.09.16-02.53.22:686][389]LogShaderCompilers: Display: Jobs assigned 388, completed 373 (96.13%)
+[2023.09.16-02.53.22:686][389]LogShaderCompilers: Display: Average time worker was idle: 138.62 s
+[2023.09.16-02.53.22:686][389]LogShaderCompilers: Display: Time job spent in pending queue: average 0.10 s, longest 1.58 s
+[2023.09.16-02.53.22:686][389]LogShaderCompilers: Display: Job execution time: average 2.98 s, max 10.36 s
+[2023.09.16-02.53.22:686][389]LogShaderCompilers: Display: Job life time (pending + execution): average 3.08 s, max 10.42
+[2023.09.16-02.53.22:686][389]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 80.34 s
+[2023.09.16-02.53.22:686][389]LogShaderCompilers: Display: Jobs were issued in 283 batches (only local compilation was used), average 1.37 jobs/batch
+[2023.09.16-02.53.22:686][389]LogShaderCompilers: Display: Average processing rate: 4.64 jobs/sec
+[2023.09.16-02.53.22:686][389]LogShaderCompilers: Display: Effective parallelization: 3.89 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.09.16-02.53.22:686][389]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.09.16-02.53.22:686][389]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap (compiled    2 times, average 1.38 sec, max 1.38 sec, min 1.38 sec)
+[2023.09.16-02.53.22:686][389]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled   10 times, average 1.26 sec, max 1.67 sec, min 1.06 sec)
+[2023.09.16-02.53.22:686][389]LogShaderCompilers: Display:      TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy (compiled   10 times, average 1.24 sec, max 1.68 sec, min 1.07 sec)
+[2023.09.16-02.53.22:686][389]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled   10 times, average 1.22 sec, max 1.44 sec, min 0.92 sec)
+[2023.09.16-02.53.22:686][389]LogShaderCompilers: Display:                TBasePassVSFCachedPointIndirectLightingPolicy (compiled   10 times, average 1.17 sec, max 1.50 sec, min 0.95 sec)
+[2023.09.16-02.53.22:686][389]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.09.16-02.53.22:686][389]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 14.58% of total time (compiled   53 times, average 0.86 sec, max 1.36 sec, min 0.70 sec)
+[2023.09.16-02.53.22:686][389]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 13.67% of total time (compiled   53 times, average 0.81 sec, max 1.48 sec, min 0.70 sec)
+[2023.09.16-02.53.22:687][389]LogShaderCompilers: Display:                                                 FLumenCardVS - 13.04% of total time (compiled   48 times, average 0.85 sec, max 1.41 sec, min 0.75 sec)
+[2023.09.16-02.53.22:687][389]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 5.10% of total time (compiled   48 times, average 0.33 sec, max 0.51 sec, min 0.28 sec)
+[2023.09.16-02.53.22:687][389]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 4.04% of total time (compiled   10 times, average 1.26 sec, max 1.67 sec, min 1.06 sec)
+[2023.09.16-02.53.22:687][389]LogShaderCompilers: Display: ================================================
+[2023.09.16-02.53.23:432][413]LogTexture: Display: Building textures: /Game/Megascans/Surfaces/Wooden_Planks_wckqdbvs/T_Wooden_Planks_wckqdbvs_4K_D.T_Wooden_Planks_wckqdbvs_4K_D (TFO_DXT1 VT, 4096X4096 X1X1) (Required Memory Estimate: 640.000 MB), EncodeSpeed: Fast
+[2023.09.16-02.53.23:432][413]LogTexture: Display: Building textures: /Game/Megascans/Surfaces/Wooden_Planks_wckqdbvs/T_Wooden_Planks_wckqdbvs_4K_N.T_Wooden_Planks_wckqdbvs_4K_N (TFO_BC5 VT, 4096X4096 X1X1) (Required Memory Estimate: 640.000 MB), EncodeSpeed: Fast
+[2023.09.16-02.53.43:797][762]LogUObjectGlobals: BeginLoad(/Game/Megascans/Surfaces/Strip_Bond_Mult_Parquet_uejndbjv/MI_Strip_Bond_Mult_Parquet_uejndbjv_4K) is flushing async loading
+[2023.09.16-02.53.43:797][762]LogStreaming: Display: FlushAsyncLoading: 3 QueuedPackages, 0 AsyncPackages
+[2023.09.16-02.53.43:802][762]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Megascans/Surfaces/Strip_Bond_Mult_Parquet_uejndbjv/MI_Strip_Bond_Mult_Parquet_uejndbjv_4K.MI_Strip_Bond_Mult_Parquet_uejndbjv_4K
+	Asset Type: MaterialInstanceConstant
+[2023.09.16-02.53.44:440][762]LogTexture: Display: Building textures: /Game/Megascans/Surfaces/Strip_Bond_Mult_Parquet_uejndbjv/T_StripBondMultParquet_uejndbjv_4K_ORDp.T_StripBondMultParquet_uejndbjv_4K_ORDp (TFO_DXT1, 4096X4096 X1X1) (Required Memory Estimate: 640.000 MB), EncodeSpeed: Fast
+[2023.09.16-02.53.44:440][762]LogTexture: Display: Building textures: /Game/Megascans/Surfaces/Strip_Bond_Mult_Parquet_uejndbjv/T_Strip_Bond_Mult_Parquet_uejndbjv_4K_N.T_Strip_Bond_Mult_Parquet_uejndbjv_4K_N (TFO_BC5, 4096X4096 X1X1) (Required Memory Estimate: 640.000 MB), EncodeSpeed: Fast
+[2023.09.16-02.53.44:459][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2023.09.16-02.53.44:473][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2023.09.16-02.53.44:482][762]LogTexture: Display: Building textures: /Game/Megascans/Surfaces/Strip_Bond_Mult_Parquet_uejndbjv/T_Strip_Bond_Mult_Parquet_uejndbjv_4K_D.T_Strip_Bond_Mult_Parquet_uejndbjv_4K_D (TFO_DXT1, 4096X4096 X1X1) (Required Memory Estimate: 640.000 MB), EncodeSpeed: Fast
+[2023.09.16-02.53.44:482][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2023.09.16-02.53.45:814][762]LogTexture: Display: Building textures: /Game/Megascans/Surfaces/Strip_Bond_Mult_Parquet_uejndbjv/T_StripBondMultParquet_uejndbjv_4K_ORDp.T_StripBondMultParquet_uejndbjv_4K_ORDp (TFO_DXT1 VT, 4096X4096 X1X1) (Required Memory Estimate: 640.000 MB), EncodeSpeed: Fast
+[2023.09.16-02.53.46:603][799]LogTexture: Display: Building textures: /Game/Megascans/Surfaces/Strip_Bond_Mult_Parquet_uejndbjv/T_Strip_Bond_Mult_Parquet_uejndbjv_4K_N.T_Strip_Bond_Mult_Parquet_uejndbjv_4K_N (TFO_BC5 VT, 4096X4096 X1X1) (Required Memory Estimate: 640.000 MB), EncodeSpeed: Fast
+[2023.09.16-02.53.46:683][803]LogTexture: Display: Building textures: /Game/Megascans/Surfaces/Strip_Bond_Mult_Parquet_uejndbjv/T_Strip_Bond_Mult_Parquet_uejndbjv_4K_D.T_Strip_Bond_Mult_Parquet_uejndbjv_4K_D (TFO_DXT1 VT, 4096X4096 X1X1) (Required Memory Estimate: 640.000 MB), EncodeSpeed: Fast
+[2023.09.16-02.54.28:798][214]LogUObjectGlobals: BeginLoad(/Game/Megascans/Surfaces/English_Walnut_Parquet_udlxbgtl/MI_English_Walnut_Parquet_udlxbgtl_4K) is flushing async loading
+[2023.09.16-02.54.28:798][214]LogStreaming: Display: FlushAsyncLoading: 3 QueuedPackages, 0 AsyncPackages
+[2023.09.16-02.54.28:803][214]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Megascans/Surfaces/English_Walnut_Parquet_udlxbgtl/MI_English_Walnut_Parquet_udlxbgtl_4K.MI_English_Walnut_Parquet_udlxbgtl_4K
+	Asset Type: MaterialInstanceConstant
+[2023.09.16-02.54.29:366][214]LogTexture: Display: Building textures: /Game/Megascans/Surfaces/English_Walnut_Parquet_udlxbgtl/T_EnglishWalnutParquet_udlxbgtl_4K_ORDp.T_EnglishWalnutParquet_udlxbgtl_4K_ORDp (TFO_DXT1, 4096X4096 X1X1) (Required Memory Estimate: 640.000 MB), EncodeSpeed: Fast
+[2023.09.16-02.54.29:366][214]LogTexture: Display: Building textures: /Game/Megascans/Surfaces/English_Walnut_Parquet_udlxbgtl/T_English_Walnut_Parquet_udlxbgtl_4K_N.T_English_Walnut_Parquet_udlxbgtl_4K_N (TFO_BC5, 4096X4096 X1X1) (Required Memory Estimate: 640.000 MB), EncodeSpeed: Fast
+[2023.09.16-02.54.29:383][214]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2023.09.16-02.54.29:398][214]LogTexture: Display: Building textures: /Game/Megascans/Surfaces/English_Walnut_Parquet_udlxbgtl/T_English_Walnut_Parquet_udlxbgtl_4K_D.T_English_Walnut_Parquet_udlxbgtl_4K_D (TFO_DXT1, 4096X4096 X1X1) (Required Memory Estimate: 640.000 MB), EncodeSpeed: Fast
+[2023.09.16-02.54.29:398][214]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.09.16-02.54.29:407][214]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2023.09.16-02.54.30:623][214]LogTexture: Display: Building textures: /Game/Megascans/Surfaces/English_Walnut_Parquet_udlxbgtl/T_EnglishWalnutParquet_udlxbgtl_4K_ORDp.T_EnglishWalnutParquet_udlxbgtl_4K_ORDp (TFO_DXT1 VT, 4096X4096 X1X1) (Required Memory Estimate: 640.000 MB), EncodeSpeed: Fast
+[2023.09.16-02.54.31:225][242]LogTexture: Display: Building textures: /Game/Megascans/Surfaces/English_Walnut_Parquet_udlxbgtl/T_English_Walnut_Parquet_udlxbgtl_4K_N.T_English_Walnut_Parquet_udlxbgtl_4K_N (TFO_BC5 VT, 4096X4096 X1X1) (Required Memory Estimate: 640.000 MB), EncodeSpeed: Fast
+[2023.09.16-02.54.31:454][253]LogTexture: Display: Building textures: /Game/Megascans/Surfaces/English_Walnut_Parquet_udlxbgtl/T_English_Walnut_Parquet_udlxbgtl_4K_D.T_English_Walnut_Parquet_udlxbgtl_4K_D (TFO_DXT1 VT, 4096X4096 X1X1) (Required Memory Estimate: 640.000 MB), EncodeSpeed: Fast
+[2023.09.16-02.54.34:461][451]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2023.09.16-02.54.34:462][451]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.007
+[2023.09.16-02.54.34:463][451]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Megascans/Surfaces/Wooden_Planks_wckqdbvs/T_WoodenPlanks_wckqdbvs_4K_ORDp] ([1] browsable assets)...
+[2023.09.16-02.54.34:465][451]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Megascans/Surfaces/Wooden_Planks_wckqdbvs/T_WoodenPlanks_wckqdbvs_4K_ORDp.T_WoodenPlanks_wckqdbvs_4K_ORDp]
+[2023.09.16-02.54.34:465][451]OBJ SavePackage: Finished generating thumbnails for package [/Game/Megascans/Surfaces/Wooden_Planks_wckqdbvs/T_WoodenPlanks_wckqdbvs_4K_ORDp]
+[2023.09.16-02.54.36:334][451]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Megascans/Surfaces/Wooden_Planks_wckqdbvs/T_WoodenPlanks_wckqdbvs_4K_ORDp_Auto3
+[2023.09.16-02.54.36:334][451]LogSavePackage: Moving '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Saved/T_WoodenPlanks_wckqdbvs_4K_ORDp_51C4EDE149C0DF08CEFACFAC2649A2F8.tmp' to '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Saved/Autosaves/Game/Megascans/Surfaces/Wooden_Planks_wckqdbvs/T_WoodenPlanks_wckqdbvs_4K_ORDp_Auto3.uasset'
+[2023.09.16-02.54.36:334][451]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Megascans/Surfaces/Wooden_Planks_wckqdbvs/T_Wooden_Planks_wckqdbvs_4K_D] ([1] browsable assets)...
+[2023.09.16-02.54.36:336][451]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Megascans/Surfaces/Wooden_Planks_wckqdbvs/T_Wooden_Planks_wckqdbvs_4K_D.T_Wooden_Planks_wckqdbvs_4K_D]
+[2023.09.16-02.54.36:336][451]OBJ SavePackage: Finished generating thumbnails for package [/Game/Megascans/Surfaces/Wooden_Planks_wckqdbvs/T_Wooden_Planks_wckqdbvs_4K_D]
+[2023.09.16-02.54.38:628][451]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Megascans/Surfaces/Wooden_Planks_wckqdbvs/T_Wooden_Planks_wckqdbvs_4K_D_Auto3
+[2023.09.16-02.54.38:628][451]LogSavePackage: Moving '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Saved/T_Wooden_Planks_wckqdbvs_4K_D_Au07E4950F40E6D0125DD081BB150F129D.tmp' to '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Saved/Autosaves/Game/Megascans/Surfaces/Wooden_Planks_wckqdbvs/T_Wooden_Planks_wckqdbvs_4K_D_Auto3.uasset'
+[2023.09.16-02.54.38:631][451]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Megascans/Surfaces/Wooden_Planks_wckqdbvs/T_Wooden_Planks_wckqdbvs_4K_N] ([1] browsable assets)...
+[2023.09.16-02.54.38:633][451]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Megascans/Surfaces/Wooden_Planks_wckqdbvs/T_Wooden_Planks_wckqdbvs_4K_N.T_Wooden_Planks_wckqdbvs_4K_N]
+[2023.09.16-02.54.38:633][451]OBJ SavePackage: Finished generating thumbnails for package [/Game/Megascans/Surfaces/Wooden_Planks_wckqdbvs/T_Wooden_Planks_wckqdbvs_4K_N]
+[2023.09.16-02.54.40:631][451]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Megascans/Surfaces/Wooden_Planks_wckqdbvs/T_Wooden_Planks_wckqdbvs_4K_N_Auto3
+[2023.09.16-02.54.40:631][451]LogSavePackage: Moving '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Saved/T_Wooden_Planks_wckqdbvs_4K_N_Au098A17AD481FA81D501DBBA5B1122D32.tmp' to '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Saved/Autosaves/Game/Megascans/Surfaces/Wooden_Planks_wckqdbvs/T_Wooden_Planks_wckqdbvs_4K_N_Auto3.uasset'
+[2023.09.16-02.54.40:632][451]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Megascans/Surfaces/Strip_Bond_Mult_Parquet_uejndbjv/T_StripBondMultParquet_uejndbjv_4K_ORDp] ([1] browsable assets)...
+[2023.09.16-02.54.40:636][451]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Megascans/Surfaces/Strip_Bond_Mult_Parquet_uejndbjv/T_StripBondMultParquet_uejndbjv_4K_ORDp.T_StripBondMultParquet_uejndbjv_4K_ORDp]
+[2023.09.16-02.54.40:636][451]OBJ SavePackage: Finished generating thumbnails for package [/Game/Megascans/Surfaces/Strip_Bond_Mult_Parquet_uejndbjv/T_StripBondMultParquet_uejndbjv_4K_ORDp]
+[2023.09.16-02.54.42:176][451]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Megascans/Surfaces/Strip_Bond_Mult_Parquet_uejndbjv/T_StripBondMultParquet_uejndbjv_4K_ORDp_Auto3
+[2023.09.16-02.54.42:176][451]LogSavePackage: Moving '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Saved/T_StripBondMultParquet_uejndbjv_FE954D8A4376C343B5E2F2BDD5FFC3DC.tmp' to '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Saved/Autosaves/Game/Megascans/Surfaces/Strip_Bond_Mult_Parquet_uejndbjv/T_StripBondMultParquet_uejndbjv_4K_ORDp_Auto3.uasset'
+[2023.09.16-02.54.42:176][451]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Megascans/Surfaces/Strip_Bond_Mult_Parquet_uejndbjv/T_Strip_Bond_Mult_Parquet_uejndbjv_4K_D] ([1] browsable assets)...
+[2023.09.16-02.54.42:181][451]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Megascans/Surfaces/Strip_Bond_Mult_Parquet_uejndbjv/T_Strip_Bond_Mult_Parquet_uejndbjv_4K_D.T_Strip_Bond_Mult_Parquet_uejndbjv_4K_D]
+[2023.09.16-02.54.42:181][451]OBJ SavePackage: Finished generating thumbnails for package [/Game/Megascans/Surfaces/Strip_Bond_Mult_Parquet_uejndbjv/T_Strip_Bond_Mult_Parquet_uejndbjv_4K_D]
+[2023.09.16-02.54.44:669][451]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Megascans/Surfaces/Strip_Bond_Mult_Parquet_uejndbjv/T_Strip_Bond_Mult_Parquet_uejndbjv_4K_D_Auto3
+[2023.09.16-02.54.44:669][451]LogSavePackage: Moving '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Saved/T_Strip_Bond_Mult_Parquet_uejndb7990AB394E2E947A1662CFB532794C52.tmp' to '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Saved/Autosaves/Game/Megascans/Surfaces/Strip_Bond_Mult_Parquet_uejndbjv/T_Strip_Bond_Mult_Parquet_uejndbjv_4K_D_Auto3.uasset'
+[2023.09.16-02.54.44:671][451]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Megascans/Surfaces/Strip_Bond_Mult_Parquet_uejndbjv/T_Strip_Bond_Mult_Parquet_uejndbjv_4K_N] ([1] browsable assets)...
+[2023.09.16-02.54.44:674][451]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Megascans/Surfaces/Strip_Bond_Mult_Parquet_uejndbjv/T_Strip_Bond_Mult_Parquet_uejndbjv_4K_N.T_Strip_Bond_Mult_Parquet_uejndbjv_4K_N]
+[2023.09.16-02.54.44:674][451]OBJ SavePackage: Finished generating thumbnails for package [/Game/Megascans/Surfaces/Strip_Bond_Mult_Parquet_uejndbjv/T_Strip_Bond_Mult_Parquet_uejndbjv_4K_N]
+[2023.09.16-02.54.46:721][451]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Megascans/Surfaces/Strip_Bond_Mult_Parquet_uejndbjv/T_Strip_Bond_Mult_Parquet_uejndbjv_4K_N_Auto3
+[2023.09.16-02.54.46:721][451]LogSavePackage: Moving '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Saved/T_Strip_Bond_Mult_Parquet_uejndb8F25708549F07307F46CFFBEA6304DD7.tmp' to '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Saved/Autosaves/Game/Megascans/Surfaces/Strip_Bond_Mult_Parquet_uejndbjv/T_Strip_Bond_Mult_Parquet_uejndbjv_4K_N_Auto3.uasset'
+[2023.09.16-02.54.46:722][451]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Megascans/Surfaces/English_Walnut_Parquet_udlxbgtl/T_EnglishWalnutParquet_udlxbgtl_4K_ORDp] ([1] browsable assets)...
+[2023.09.16-02.54.46:724][451]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Megascans/Surfaces/English_Walnut_Parquet_udlxbgtl/T_EnglishWalnutParquet_udlxbgtl_4K_ORDp.T_EnglishWalnutParquet_udlxbgtl_4K_ORDp]
+[2023.09.16-02.54.46:724][451]OBJ SavePackage: Finished generating thumbnails for package [/Game/Megascans/Surfaces/English_Walnut_Parquet_udlxbgtl/T_EnglishWalnutParquet_udlxbgtl_4K_ORDp]
+[2023.09.16-02.54.48:004][451]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Megascans/Surfaces/English_Walnut_Parquet_udlxbgtl/T_EnglishWalnutParquet_udlxbgtl_4K_ORDp_Auto3
+[2023.09.16-02.54.48:004][451]LogSavePackage: Moving '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Saved/T_EnglishWalnutParquet_udlxbgtl_623A005A4E5E630F58535DB0154732CF.tmp' to '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Saved/Autosaves/Game/Megascans/Surfaces/English_Walnut_Parquet_udlxbgtl/T_EnglishWalnutParquet_udlxbgtl_4K_ORDp_Auto3.uasset'
+[2023.09.16-02.54.48:004][451]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Megascans/Surfaces/English_Walnut_Parquet_udlxbgtl/T_English_Walnut_Parquet_udlxbgtl_4K_D] ([1] browsable assets)...
+[2023.09.16-02.54.48:007][451]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Megascans/Surfaces/English_Walnut_Parquet_udlxbgtl/T_English_Walnut_Parquet_udlxbgtl_4K_D.T_English_Walnut_Parquet_udlxbgtl_4K_D]
+[2023.09.16-02.54.48:007][451]OBJ SavePackage: Finished generating thumbnails for package [/Game/Megascans/Surfaces/English_Walnut_Parquet_udlxbgtl/T_English_Walnut_Parquet_udlxbgtl_4K_D]
+[2023.09.16-02.54.50:136][451]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Megascans/Surfaces/English_Walnut_Parquet_udlxbgtl/T_English_Walnut_Parquet_udlxbgtl_4K_D_Auto3
+[2023.09.16-02.54.50:136][451]LogSavePackage: Moving '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Saved/T_English_Walnut_Parquet_udlxbgtA3B79EFF4B1201DF5D8161854AD62007.tmp' to '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Saved/Autosaves/Game/Megascans/Surfaces/English_Walnut_Parquet_udlxbgtl/T_English_Walnut_Parquet_udlxbgtl_4K_D_Auto3.uasset'
+[2023.09.16-02.54.50:138][451]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Megascans/Surfaces/English_Walnut_Parquet_udlxbgtl/T_English_Walnut_Parquet_udlxbgtl_4K_N] ([1] browsable assets)...
+[2023.09.16-02.54.50:142][451]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Megascans/Surfaces/English_Walnut_Parquet_udlxbgtl/T_English_Walnut_Parquet_udlxbgtl_4K_N.T_English_Walnut_Parquet_udlxbgtl_4K_N]
+[2023.09.16-02.54.50:143][451]OBJ SavePackage: Finished generating thumbnails for package [/Game/Megascans/Surfaces/English_Walnut_Parquet_udlxbgtl/T_English_Walnut_Parquet_udlxbgtl_4K_N]
+[2023.09.16-02.54.51:823][451]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Megascans/Surfaces/English_Walnut_Parquet_udlxbgtl/T_English_Walnut_Parquet_udlxbgtl_4K_N_Auto3
+[2023.09.16-02.54.51:823][451]LogSavePackage: Moving '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Saved/T_English_Walnut_Parquet_udlxbgt8D6E204D4B25BFDFAD1A459FB2DDA692.tmp' to '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Saved/Autosaves/Game/Megascans/Surfaces/English_Walnut_Parquet_udlxbgtl/T_English_Walnut_Parquet_udlxbgtl_4K_N_Auto3.uasset'
+[2023.09.16-02.54.51:824][451]LogFileHelpers: Auto-saving content packages took 17.362
+[2023.09.16-02.54.55:090][670]LogSlate: Window 'Bridge' being destroyed
+[2023.09.16-02.54.55:096][670]LogSlate: Window 'Bridge' being destroyed
+[2023.09.16-02.54.56:973][859]Cmd: DELETE
+[2023.09.16-02.54.56:973][859]Cmd: ACTOR DELETE
+[2023.09.16-02.54.56:975][859]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.09.16-02.54.56:981][859]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2023.09.16-02.54.56:982][859]LogEditorActor: Deleted 1 Actors (0.009 secs)
+[2023.09.16-02.55.03:017][489]LogStaticMesh: Display: Building static mesh Rectangle_5FA8799F...
+[2023.09.16-02.55.03:017][489]LogStaticMesh: Built static mesh [0.00s] /Game/FirstPerson/Maps/_GENERATED/linch/Rectangle_5FA8799F.Rectangle_5FA8799F
+[2023.09.16-02.55.04:454][626]Cmd: TRANSACTION UNDO
+[2023.09.16-02.55.04:454][626]LogEditorTransaction: Undo Add Shape Mesh
+[2023.09.16-02.55.05:625][705]LogStaticMesh: Display: Building static mesh Rectangle_C1164903...
+[2023.09.16-02.55.05:625][705]LogStaticMesh: Built static mesh [0.00s] /Game/FirstPerson/Maps/_GENERATED/linch/Rectangle_C1164903.Rectangle_C1164903
+[2023.09.16-02.55.23:610][493]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/FirstPerson/Maps/_GENERATED/linch/Rectangle_C1164903.Rectangle_C1164903
+[2023.09.16-02.55.23:631][493]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.16-02.55.23:848][493]LogViewport: Scene viewport resized to 1158x692, mode Windowed.
+[2023.09.16-02.56.09:979][778]LogSlate: Window 'Rectangle_C1164903' being destroyed
+[2023.09.16-02.56.09:984][778]LogSlate: Window 'Rectangle_C1164903' being destroyed
+[2023.09.16-02.56.10:013][778]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2023.09.16-02.56.10:013][778]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.16-02.56.26:895][462]Cmd: TRANSACTION UNDO
+[2023.09.16-02.56.26:895][462]LogEditorTransaction: Undo Move Elements
+[2023.09.16-02.56.29:744][686]LogWorldPartition: Warning: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_04421A293C74C2A901_1760386794 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/4O/RM2OMKAQM0SUG4BIIXY68V.PackageMetaData in its package
+[2023.09.16-02.56.29:745][686]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2023.09.16-02.56.29:756][686]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2023.09.16-02.56.29:761][686]LogUObjectHash: Compacting FUObjectHashTables data took   0.14ms
+[2023.09.16-02.56.29:763][686]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/K7/VJCVQTANTIRUA1HFNMM9XM
+[2023.09.16-02.56.29:763][686]LogSavePackage: Moving '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Saved/VJCVQTANTIRUA1HFNMM9XM01129BE54E1C81D915B26889156DD2F8.tmp' to '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/K7/VJCVQTANTIRUA1HFNMM9XM.uasset'
+[2023.09.16-02.56.29:774][686]AssetCheck: New page: Asset Save: StaticMeshActor_UAID_04421A293C74C2A901_1762994795
+[2023.09.16-02.56.29:774][686]LogContentValidation: Display: Validating StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_04421A293C74C2A901_1762994795
+[2023.09.16-02.56.29:778][686]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2023.09.16-02.56.55:501][150]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.09.16-02.57.00:971][662]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.09.16-02.57.10:060][518]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
