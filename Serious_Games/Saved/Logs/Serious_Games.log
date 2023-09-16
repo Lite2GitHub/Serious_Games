@@ -3543,3 +3543,4 @@ Script Stack (0 frames):
 [2023.09.16-01.37.12:700][482]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Megascans/3D_Assets/Worn_Plaster_Pot_ubylbdhiw/S_Worn_Plaster_Pot_ubylbdhiw_lod3_Auto2
 [2023.09.16-01.37.12:700][482]LogSavePackage: Moving '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Saved/S_Worn_Plaster_Pot_ubylbdhiw_lod64DF28EC4F742521467835AFDB9CA73D.tmp' to '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Saved/Autosaves/Game/Megascans/3D_Assets/Worn_Plaster_Pot_ubylbdhiw/S_Worn_Plaster_Pot_ubylbdhiw_lod3_Auto2.uasset'
 [2023.09.16-01.37.12:701][482]LogFileHelpers: Auto-saving content packages took 3.930
+[2023.09.16-02.13.16:303][829]LogDerivedDataCache: C:/Users/linch/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.410 and deleted 0 file(s) with total size 0 MiB.
