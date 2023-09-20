@@ -982,3 +982,64 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2023.09.20-11.44.17:914][825]LogSavePackage: Moving '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Saved/ForestSceneC091BF40408A5919129B7EB8E4E6802B.tmp' to '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Content/OurProject/Maps/Forest_Scene/ForestScene.umap'
 [2023.09.20-11.44.17:936][825]AssetCheck: New page: Asset Save: ForestScene
 [2023.09.20-11.44.17:936][825]LogContentValidation: Display: Validating World /Game/OurProject/Maps/Forest_Scene/ForestScene.ForestScene
+[2023.09.20-11.49.00:612][169]LogSlate: Took 0.000145 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.09.20-11.50.09:684][892]Cmd: DELETE
+[2023.09.20-11.50.09:684][892]Cmd: ACTOR DELETE
+[2023.09.20-11.50.09:738][892]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.09.20-11.50.09:745][892]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2023.09.20-11.50.09:746][892]LogEditorActor: Deleted 1 Actors (0.062 secs)
+[2023.09.20-11.50.18:850][636]LogSlate: Window 'Save Asset As' being destroyed
+[2023.09.20-11.50.20:343][769]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2023.09.20-11.50.20:348][769]LogContentBrowser: Creating deferred item: NewMaterial
+[2023.09.20-11.50.20:357][770]LogContentBrowser: Renaming the item being created (Deferred Item: NewMaterial).
+[2023.09.20-11.50.22:063][958]LogContentBrowser: Attempting asset rename: NewMaterial -> treemat
+[2023.09.20-11.50.22:063][958]LogContentBrowser: End creating deferred item NewMaterial
+[2023.09.20-11.50.36:364][780]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/OurProject/Maps/Forest_Scene/Assets/trees/treemat.treemat
+[2023.09.20-11.50.36:368][780]LogMaterial: Display: Missing cached shadermap for Preview:treemat in PCD3D_SM5, Default, SM5 (DDC key hash: D31B44C536662E029602FA3CAC47BA4B7B10F385), compiling. 
+[2023.09.20-11.50.36:423][780]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.20-11.50.36:547][780]LogSlate: The tab "MaterialEditor_Strata" attempted to spawn in layout 'Standalone_MaterialEditor_Layout_v13' but failed for some reason. An "unrecognized tab" will be returned instead.
+[2023.09.20-11.50.36:553][780]LogMaterial: Display: Missing cached shadermap for Preview:treemat in PCD3D_SM5, Default, SM5 (DDC key hash: 68475AC7A4DC1EE47CA5BAE2F91D6C88BB661294), compiling. 
+[2023.09.20-11.50.36:556][780]LogMaterial: Display: Missing cached shadermap for Preview:treemat in PCD3D_SM5, Default, SM5 (DDC key hash: 14E797E9F3081F74757DB5CE81E074D7D2C6D710), compiling. 
+[2023.09.20-11.50.36:572][780]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.20-11.50.36:572][780]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.09.20-11.50.36:572][780]MaterialEditorStats: Shader Count: 0
+[2023.09.20-11.50.36:582][780]LogSlate: Took 0.004150 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.09.20-11.50.36:586][780]LogViewport: Scene viewport resized to 309x344, mode Windowed.
+[2023.09.20-11.50.37:308][811]LogShaderCompilers: Display: ================================================
+[2023.09.20-11.50.37:308][811]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.09.20-11.50.37:308][811]LogShaderCompilers: Display: Total job queries 16, among them cache hits 0 (0.00%)
+[2023.09.20-11.50.37:308][811]LogShaderCompilers: Display: Tracking 1 distinct input hashes that result in 1 distinct outputs (100.00%)
+[2023.09.20-11.50.37:309][811]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.00%
+[2023.09.20-11.50.37:309][811]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.09.20-11.50.37:309][811]LogShaderCompilers: Display: Shaders Compiled: 12
+[2023.09.20-11.50.37:309][811]LogShaderCompilers: Display: Jobs assigned 4, completed 1 (25.00%)
+[2023.09.20-11.50.37:309][811]LogShaderCompilers: Display: Time job spent in pending queue: average 0.06 s, longest 0.06 s
+[2023.09.20-11.50.37:309][811]LogShaderCompilers: Display: Job execution time: average 0.64 s, max 0.64 s
+[2023.09.20-11.50.37:309][811]LogShaderCompilers: Display: Job life time (pending + execution): average 0.69 s, max 0.69
+[2023.09.20-11.50.37:309][811]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.69 s
+[2023.09.20-11.50.37:309][811]LogShaderCompilers: Display: Jobs were issued in 4 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.09.20-11.50.37:309][811]LogShaderCompilers: Display: Average processing rate: 1.44 jobs/sec
+[2023.09.20-11.50.37:309][811]LogShaderCompilers: Display: Effective parallelization: 0.43 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.09.20-11.50.37:309][811]LogShaderCompilers: Display: Top 1 most expensive shader types by average time:
+[2023.09.20-11.50.37:309][811]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    1 times, average 0.30 sec, max 0.30 sec, min 0.30 sec)
+[2023.09.20-11.50.37:309][811]LogShaderCompilers: Display: Top 1 shader types by total compile time:
+[2023.09.20-11.50.37:309][811]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 100.00% of total time (compiled    1 times, average 0.30 sec, max 0.30 sec, min 0.30 sec)
+[2023.09.20-11.50.37:309][811]LogShaderCompilers: Display: ================================================
+[2023.09.20-11.50.37:734][833]MaterialEditorStats: Texture samplers: 2/16
+[2023.09.20-11.50.37:734][833]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.09.20-11.50.37:734][833]MaterialEditorStats: Shader Count: 4
+[2023.09.20-11.50.39:218][945]LogSlate: Window 'treemat' being destroyed
+[2023.09.20-11.50.39:227][945]LogSlate: Window 'treemat' being destroyed
+[2023.09.20-11.50.39:261][945]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2023.09.20-11.50.39:261][945]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.20-11.54.17:944][873]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2023.09.20-11.54.18:315][873]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/OurProject/Maps/Forest_Scene/ForestScene_Auto1
+[2023.09.20-11.54.18:315][873]LogSavePackage: Moving '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Saved/ForestScene_Auto12FB15D51439DE49D914C95A815A4969F.tmp' to '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Saved/Autosaves/Game/OurProject/Maps/Forest_Scene/ForestScene_Auto1.umap'
+[2023.09.20-11.54.18:321][873]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/OurProject/Maps/Forest_Scene/ForestScene' took 0.385
+[2023.09.20-11.54.18:321][873]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.385
+[2023.09.20-11.54.18:322][873]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/OurProject/Maps/Forest_Scene/Assets/trees/maple_tree01] ([1] browsable assets)...
+[2023.09.20-11.54.18:361][873]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/OurProject/Maps/Forest_Scene/Assets/trees/maple_tree01.maple_tree01]
+[2023.09.20-11.54.18:361][873]OBJ SavePackage: Finished generating thumbnails for package [/Game/OurProject/Maps/Forest_Scene/Assets/trees/maple_tree01]
+[2023.09.20-11.54.18:983][873]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/OurProject/Maps/Forest_Scene/Assets/trees/maple_tree01_Auto1
+[2023.09.20-11.54.18:983][873]LogSavePackage: Moving '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Saved/maple_tree01_Auto177B281EF43EB4881AAFF86A0CAD08EB4.tmp' to '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Saved/Autosaves/Game/OurProject/Maps/Forest_Scene/Assets/trees/maple_tree01_Auto1.uasset'
+[2023.09.20-11.54.18:983][873]LogFileHelpers: Auto-saving content packages took 0.662
