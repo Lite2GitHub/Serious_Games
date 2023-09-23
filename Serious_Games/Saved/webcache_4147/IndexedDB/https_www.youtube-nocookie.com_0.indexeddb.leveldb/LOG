@@ -1,0 +1,15 @@
+2023/09/22-08:40:04.966 3608 Reusing MANIFEST C:/Users/ngdiy/Documents/GitHub/Serious_Games/Serious_Games/Saved/webcache_4147\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/09/22-08:40:04.967 3608 Recovering log #4
+2023/09/22-08:40:04.967 3608 Reusing old log C:/Users/ngdiy/Documents/GitHub/Serious_Games/Serious_Games/Saved/webcache_4147\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/000004.log 
+2023/09/22-08:46:33.738 1d90 Level-0 table #8: started
+2023/09/22-08:46:33.743 1d90 Level-0 table #8: 551 bytes OK
+2023/09/22-08:46:33.745 1d90 Delete type=0 #4
+2023/09/22-08:46:33.745 1d90 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2023/09/22-08:46:33.746 1d90 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01\x16\x00y\x00t\x00-\x00i\x00d\x00b\x00-\x00t\x00e\x00s\x00t\x00-\x00d\x00o\x00-\x00n\x00o\x00t\x00-\x00u\x00s\x00e' @ 64 : 1
+2023/09/22-08:46:33.746 1d90 Compacting 1@1 + 1@2 files
+2023/09/22-08:46:33.751 1d90 Generated table #9@1: 18 keys, 531 bytes
+2023/09/22-08:46:33.751 1d90 Compacted 1@1 + 1@2 files => 531 bytes
+2023/09/22-08:46:33.752 1d90 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/09/22-08:46:33.752 1d90 Delete type=2 #5
+2023/09/22-08:46:33.752 1d90 Delete type=2 #8
+2023/09/22-08:46:33.752 1d90 Manual compaction at level-1 from '\x00\x01\x01\x02\x01\x16\x00y\x00t\x00-\x00i\x00d\x00b\x00-\x00t\x00e\x00s\x00t\x00-\x00d\x00o\x00-\x00n\x00o\x00t\x00-\x00u\x00s\x00e' @ 64 : 1 .. (end); will stop at (end)
