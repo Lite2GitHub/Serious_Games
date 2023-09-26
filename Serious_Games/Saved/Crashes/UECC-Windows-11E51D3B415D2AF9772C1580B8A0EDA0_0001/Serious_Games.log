@@ -1,0 +1,1415 @@
+﻿Log file open, 09/23/23 18:14:07
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=10320)
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Serious_Games
+LogCore: UnrealTraceServer: Trace store launch successful
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-20979098"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.3-20979098+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" C:/Users/ngdiy/Documents/GitHub/Serious_Games/Serious_Games/Serious_Games.uproject""
+LogCsvProfiler: Display: Metadata set : os="Windows 11 (22H2) [10.0.22621.2283] "
+LogCsvProfiler: Display: Metadata set : cpu="GenuineIntel|11th Gen Intel(R) Core(TM) i5-11400 @ 2.60GHz"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="e4e8c67545c2a06e7c1f5792a32cc11e"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 0.250847
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +10:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-11E51D3B415D2AF9772C1580B8A0EDA0
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading Android ini files took 0.04 seconds
+LogConfig: Display: Loading IOS ini files took 0.04 seconds
+LogConfig: Display: Loading Mac ini files took 0.04 seconds
+LogConfig: Display: Loading HoloLens ini files took 0.04 seconds
+LogConfig: Display: Loading TVOS ini files took 0.05 seconds
+LogConfig: Display: Loading Unix ini files took 0.05 seconds
+LogConfig: Display: Loading Linux ini files took 0.06 seconds
+LogConfig: Display: Loading VulkanPC ini files took 0.02 seconds
+LogConfig: Display: Loading LinuxArm64 ini files took 0.06 seconds
+LogConfig: Display: Loading Windows ini files took 0.02 seconds
+LogPluginManager: Mounting Engine plugin Bridge
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin XGEController
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin StylusInput
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin ModelingToolsEditorMode
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin GeometryFlow
+LogPluginManager: Mounting Engine plugin MeshLODToolset
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ModelingToolsEditorMode/Content/' mounted to '/ModelingToolsEditorMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryFlow/Content/' mounted to '/GeometryFlow/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshLODToolset/Content/' mounted to '/MeshLODToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE5+Release-5.0-CL-20979098
+LogInit: Engine Version: 5.0.3-20979098+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Net CL: 19505902
+LogInit: OS: Windows 11 (22H2) [10.0.22621.2283] (), CPU: 11th Gen Intel(R) Core(TM) i5-11400 @ 2.60GHz, GPU: NVIDIA GeForce RTX 3060
+LogInit: Compiled (64-bit): Jul  7 2022 02:16:06
+LogInit: Compiled with Visual C++: 19.29.30138.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_5.0/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 34
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2023.09.23-08.14.07:767][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2023.09.23-08.14.07:767][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+[2023.09.23-08.14.07:767][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+[2023.09.23-08.14.07:767][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2023.09.23-08.14.07:767][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2023.09.23-08.14.07:767][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2023.09.23-08.14.07:767][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2023.09.23-08.14.07:767][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2023.09.23-08.14.07:767][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2023.09.23-08.14.07:767][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2023.09.23-08.14.07:767][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2023.09.23-08.14.07:767][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2023.09.23-08.14.07:767][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2023.09.23-08.14.07:767][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2023.09.23-08.14.07:767][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2023.09.23-08.14.07:767][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2023.09.23-08.14.07:767][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2023.09.23-08.14.07:767][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2023.09.23-08.14.07:767][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2023.09.23-08.14.07:767][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2023.09.23-08.14.07:767][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2023.09.23-08.14.07:767][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2023.09.23-08.14.07:767][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2023.09.23-08.14.07:767][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2023.09.23-08.14.07:767][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2023.09.23-08.14.07:767][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2023.09.23-08.14.07:767][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2023.09.23-08.14.07:767][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2023.09.23-08.14.07:767][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+[2023.09.23-08.14.07:767][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2023.09.23-08.14.07:767][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2023.09.23-08.14.07:767][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2023.09.23-08.14.07:767][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2023.09.23-08.14.07:767][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2023.09.23-08.14.07:767][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2023.09.23-08.14.07:767][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2023.09.23-08.14.07:767][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2023.09.23-08.14.07:767][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2023.09.23-08.14.07:767][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2023.09.23-08.14.07:767][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2023.09.23-08.14.07:767][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2023.09.23-08.14.07:767][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2023.09.23-08.14.07:767][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+[2023.09.23-08.14.07:767][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2023.09.23-08.14.07:767][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2023.09.23-08.14.07:767][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2023.09.23-08.14.07:767][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2023.09.23-08.14.07:767][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2023.09.23-08.14.07:767][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2023.09.23-08.14.07:767][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2023.09.23-08.14.07:767][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2023.09.23-08.14.07:767][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2023.09.23-08.14.07:767][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2023.09.23-08.14.07:767][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2023.09.23-08.14.07:767][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2023.09.23-08.14.07:767][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2023.09.23-08.14.07:767][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2023.09.23-08.14.07:769][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2023.09.23-08.14.07:769][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2023.09.23-08.14.07:769][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2023.09.23-08.14.07:769][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2023.09.23-08.14.07:769][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2023.09.23-08.14.07:769][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2023.09.23-08.14.07:769][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2023.09.23-08.14.07:769][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2023.09.23-08.14.07:769][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2023.09.23-08.14.07:769][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2023.09.23-08.14.07:769][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2023.09.23-08.14.07:790][  0]LogD3D12RHI: Aftermath initialized
+[2023.09.23-08.14.07:790][  0]LogD3D12RHI: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+[2023.09.23-08.14.07:970][  0]LogD3D12RHI: Found D3D12 adapter 0: NVIDIA GeForce RTX 3060 (Max supported Feature Level 12_1, shader model 6.6)
+[2023.09.23-08.14.07:970][  0]LogD3D12RHI: Adapter has 12129MB of dedicated video memory, 0MB of dedicated system memory, and 8132MB of shared system memory, 1 output[s]
+[2023.09.23-08.14.07:984][  0]LogD3D12RHI: Found D3D12 adapter 1: Microsoft Basic Render Driver (Max supported Feature Level 12_1, shader model 6.2)
+[2023.09.23-08.14.07:984][  0]LogD3D12RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 8132MB of shared system memory, 0 output[s]
+[2023.09.23-08.14.07:985][  0]LogD3D12RHI: Chosen D3D12 Adapter Id = 0
+[2023.09.23-08.14.07:985][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2023.09.23-08.14.07:985][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+[2023.09.23-08.14.07:985][  0]LogHAL: Display: Platform has ~ 16 GB [17055735808 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2023.09.23-08.14.07:985][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2023.09.23-08.14.07:985][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2023.09.23-08.14.07:985][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2023.09.23-08.14.07:985][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2023.09.23-08.14.07:985][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/ngdiy/Documents/GitHub/Serious_Games/Serious_Games/Saved/Config/WindowsEditor/Editor.ini]
+[2023.09.23-08.14.07:985][  0]LogInit: Computer: DESKTOP-LITE
+[2023.09.23-08.14.07:985][  0]LogInit: User: ngdiy
+[2023.09.23-08.14.07:985][  0]LogInit: CPU Page size=4096, Cores=6
+[2023.09.23-08.14.07:985][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2023.09.23-08.14.07:985][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2023.09.23-08.14.07:985][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2023.09.23-08.14.07:985][  0]LogMemory: Process Physical Memory: 273.40 MB used, 284.53 MB peak
+[2023.09.23-08.14.07:985][  0]LogMemory: Process Virtual Memory: 230.12 MB used, 230.12 MB peak
+[2023.09.23-08.14.07:985][  0]LogMemory: Physical Memory: 10118.94 MB used,  6146.68 MB free, 16265.62 MB total
+[2023.09.23-08.14.07:985][  0]LogMemory: Virtual Memory: 13802.29 MB used,  9173.23 MB free, 22975.52 MB total
+[2023.09.23-08.14.07:985][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2023.09.23-08.14.07:991][  0]LogWindows: WindowsPlatformFeatures enabled
+[2023.09.23-08.14.08:005][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2023.09.23-08.14.08:005][  0]LogInit: Using OS detected language (en-GB).
+[2023.09.23-08.14.08:005][  0]LogInit: Using OS detected locale (en-AU).
+[2023.09.23-08.14.08:010][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so 'en' will be used for the language.
+[2023.09.23-08.14.08:158][  0]LogInit: Setting process to per monitor DPI aware
+[2023.09.23-08.14.08:168][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2023.09.23-08.14.08:168][  0]LogWindowsTextInputMethodSystem:   - English (Australia) - (Keyboard).
+[2023.09.23-08.14.08:168][  0]LogWindowsTextInputMethodSystem:   - English (United States) - (Keyboard).
+[2023.09.23-08.14.08:168][  0]LogWindowsTextInputMethodSystem:   - English (United States) - (Keyboard).
+[2023.09.23-08.14.08:168][  0]LogWindowsTextInputMethodSystem:   - English (Australia) - Touch Input Correction (TSF IME).
+[2023.09.23-08.14.08:168][  0]LogWindowsTextInputMethodSystem: Activated input method: English (Australia) - (Keyboard).
+[2023.09.23-08.14.08:180][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2023.09.23-08.14.08:180][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2023.09.23-08.14.08:276][  0]LogD3D12RHI: InitD3DDevice: -D3DDebug = off -D3D12GPUValidation = off
+[2023.09.23-08.14.08:280][  0]LogD3D12RHI: [Aftermath] Aftermath crash dumping enabled
+[2023.09.23-08.14.08:280][  0]LogD3D12RHI: Emitting draw events for PIX profiling.
+[2023.09.23-08.14.08:365][  0]LogD3D12RHI: [Aftermath] Aftermath enabled and primed
+[2023.09.23-08.14.08:365][  0]LogD3D12RHI: [Aftermath] Aftermath resource tracking enabled
+[2023.09.23-08.14.08:365][  0]LogD3D12RHI: ID3D12Device1 is supported.
+[2023.09.23-08.14.08:365][  0]LogD3D12RHI: ID3D12Device2 is supported.
+[2023.09.23-08.14.08:365][  0]LogD3D12RHI: ID3D12Device3 is supported.
+[2023.09.23-08.14.08:365][  0]LogD3D12RHI: ID3D12Device4 is supported.
+[2023.09.23-08.14.08:365][  0]LogD3D12RHI: ID3D12Device5 is supported.
+[2023.09.23-08.14.08:365][  0]LogD3D12RHI: ID3D12Device6 is supported.
+[2023.09.23-08.14.08:365][  0]LogD3D12RHI: ID3D12Device7 is supported.
+[2023.09.23-08.14.08:365][  0]LogD3D12RHI: D3D12 ray tracing tier 1.0 is supported.
+[2023.09.23-08.14.08:365][  0]LogD3D12RHI: D3D12 ray tracing tier 1.1 is supported.
+[2023.09.23-08.14.08:365][  0]LogD3D12RHI: Mesh shader tier 1.0 is supported
+[2023.09.23-08.14.08:365][  0]LogD3D12RHI: AtomicInt64OnTypedResource is supported
+[2023.09.23-08.14.08:365][  0]LogD3D12RHI: AtomicInt64OnGroupShared is supported
+[2023.09.23-08.14.08:365][  0]LogD3D12RHI: AtomicInt64OnDescriptorHeapResource is supported
+[2023.09.23-08.14.08:365][  0]LogD3D12RHI: Shader Model 6.6 atomic64 is supported
+[2023.09.23-08.14.08:405][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for 3D Queue 0
+[2023.09.23-08.14.08:412][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Copy Queue 0
+[2023.09.23-08.14.08:429][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Compute Queue 0
+[2023.09.23-08.14.08:448][  0]LogD3D12RHI: Display: Not using pipeline state disk cache per r.D3D12.PSO.DiskCache=0
+[2023.09.23-08.14.08:448][  0]LogD3D12RHI: Display: Not using driver-optimized pipeline state disk cache per r.D3D12.PSO.DriverOptimizedDiskCache=0
+[2023.09.23-08.14.08:470][  0]LogD3D12RHI:     GPU DeviceId: 0x2504 (for the marketing name, search the web for "GPU Device Id")
+[2023.09.23-08.14.08:470][  0]LogWindows: Attached monitors:
+[2023.09.23-08.14.08:470][  0]LogWindows:     resolution: 3440x1440, work area: (0, 0) -> (3440, 1392), device: '\\.\DISPLAY1' [PRIMARY]
+[2023.09.23-08.14.08:470][  0]LogWindows: Found 1 attached monitors.
+[2023.09.23-08.14.08:470][  0]LogWindows: EnumDisplayDevices:
+[2023.09.23-08.14.08:470][  0]LogWindows:    0. 'NVIDIA GeForce RTX 3060' (P:1 D:1), name: '\\.\DISPLAY1'
+[2023.09.23-08.14.08:470][  0]LogWindows:    1. 'NVIDIA GeForce RTX 3060' (P:0 D:0), name: '\\.\DISPLAY2'
+[2023.09.23-08.14.08:470][  0]LogWindows:    2. 'NVIDIA GeForce RTX 3060' (P:0 D:0), name: '\\.\DISPLAY3'
+[2023.09.23-08.14.08:470][  0]LogWindows:    3. 'NVIDIA GeForce RTX 3060' (P:0 D:0), name: '\\.\DISPLAY4'
+[2023.09.23-08.14.08:470][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2023.09.23-08.14.08:470][  0]LogD3D12RHI:     Adapter Name: NVIDIA GeForce RTX 3060
+[2023.09.23-08.14.08:470][  0]LogD3D12RHI:   Driver Version: 531.18 (internal:31.0.15.3118, unified:531.18)
+[2023.09.23-08.14.08:470][  0]LogD3D12RHI:      Driver Date: 2-24-2023
+[2023.09.23-08.14.08:470][  0]LogRHI: Texture pool is 7157 MB (70% of 10224 MB)
+[2023.09.23-08.14.08:470][  0]LogD3D12RHI: Async texture creation enabled
+[2023.09.23-08.14.08:470][  0]LogD3D12RHI: RHI has support for 64 bit atomics
+[2023.09.23-08.14.08:497][  0]LogRHI: GeForceNow SDK initialized: 0
+[2023.09.23-08.14.08:502][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="C:/Users/ngdiy/Documents/GitHub/Serious_Games/Serious_Games/Serious_Games.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/ngdiy/Documents/GitHub/Serious_Games/Serious_Games/Intermediate/TurnkeyReport_0.log" -log="C:/Users/ngdiy/Documents/GitHub/Serious_Games/Serious_Games/Intermediate/TurnkeyLog_0.log" -project="C:/Users/ngdiy/Documents/GitHub/Serious_Games/Serious_Games/Serious_Games.uproject"  -platform=all'
+[2023.09.23-08.14.08:502][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""C:/Program Files/Epic Games/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="C:/Users/ngdiy/Documents/GitHub/Serious_Games/Serious_Games/Serious_Games.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/ngdiy/Documents/GitHub/Serious_Games/Serious_Games/Intermediate/TurnkeyReport_0.log" -log="C:/Users/ngdiy/Documents/GitHub/Serious_Games/Serious_Games/Intermediate/TurnkeyLog_0.log" -project="C:/Users/ngdiy/Documents/GitHub/Serious_Games/Serious_Games/Serious_Games.uproject"  -platform=all" ]
+[2023.09.23-08.14.08:525][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2023.09.23-08.14.08:532][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+[2023.09.23-08.14.08:532][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2023.09.23-08.14.08:539][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2023.09.23-08.14.08:539][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2023.09.23-08.14.08:539][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2023.09.23-08.14.08:539][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2023.09.23-08.14.08:539][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2023.09.23-08.14.08:539][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2023.09.23-08.14.08:539][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2023.09.23-08.14.08:539][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2023.09.23-08.14.08:539][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2023.09.23-08.14.08:539][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2023.09.23-08.14.08:556][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLens'
+[2023.09.23-08.14.08:557][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLensClient'
+[2023.09.23-08.14.08:560][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2023.09.23-08.14.08:560][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2023.09.23-08.14.08:563][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2023.09.23-08.14.08:563][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2023.09.23-08.14.08:563][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2023.09.23-08.14.08:563][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2023.09.23-08.14.08:566][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2023.09.23-08.14.08:566][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2023.09.23-08.14.08:566][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2023.09.23-08.14.08:569][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2023.09.23-08.14.08:569][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2023.09.23-08.14.08:574][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2023.09.23-08.14.08:574][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2023.09.23-08.14.08:574][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2023.09.23-08.14.08:574][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2023.09.23-08.14.08:574][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2023.09.23-08.14.08:580][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2023.09.23-08.14.08:583][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2023.09.23-08.14.08:583][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2023.09.23-08.14.08:583][  0]LogTargetPlatformManager:   ADPCM
+[2023.09.23-08.14.08:583][  0]LogTargetPlatformManager:   PCM
+[2023.09.23-08.14.08:585][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2023.09.23-08.14.08:585][  0]LogTargetPlatformManager:   BINKA
+[2023.09.23-08.14.08:585][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2023.09.23-08.14.08:585][  0]LogTargetPlatformManager:   OGG
+[2023.09.23-08.14.08:585][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2023.09.23-08.14.08:585][  0]LogTargetPlatformManager:   OPUS
+[2023.09.23-08.14.08:626][  0]LogTargetPlatformManager: Unable to find shader format SF_METAL from hinted modules, loading all potential format modules to find it
+[2023.09.23-08.14.08:632][  0]LogTargetPlatformManager: Loaded format module MetalShaderFormat
+[2023.09.23-08.14.08:632][  0]LogTargetPlatformManager:   SF_METAL
+[2023.09.23-08.14.08:632][  0]LogTargetPlatformManager:   SF_METAL_MRT
+[2023.09.23-08.14.08:632][  0]LogTargetPlatformManager:   SF_METAL_TVOS
+[2023.09.23-08.14.08:632][  0]LogTargetPlatformManager:   SF_METAL_MRT_TVOS
+[2023.09.23-08.14.08:632][  0]LogTargetPlatformManager:   SF_METAL_SM5
+[2023.09.23-08.14.08:632][  0]LogTargetPlatformManager:   SF_METAL_MACES3_1
+[2023.09.23-08.14.08:632][  0]LogTargetPlatformManager:   SF_METAL_MRT_MAC
+[2023.09.23-08.14.08:632][  0]LogTargetPlatformManager: Loaded format module ShaderFormatD3D
+[2023.09.23-08.14.08:632][  0]LogTargetPlatformManager:   PCD3D_SM6
+[2023.09.23-08.14.08:632][  0]LogTargetPlatformManager:   PCD3D_SM5
+[2023.09.23-08.14.08:632][  0]LogTargetPlatformManager:   PCD3D_ES31
+[2023.09.23-08.14.08:632][  0]LogTargetPlatformManager:   D3D_ES3_1_HOLOLENS
+[2023.09.23-08.14.08:632][  0]LogTargetPlatformManager: Loaded format module ShaderFormatOpenGL
+[2023.09.23-08.14.08:632][  0]LogTargetPlatformManager:   GLSL_150_ES31
+[2023.09.23-08.14.08:632][  0]LogTargetPlatformManager:   GLSL_ES3_1_ANDROID
+[2023.09.23-08.14.08:635][  0]LogTargetPlatformManager: Loaded format module ShaderFormatVectorVM
+[2023.09.23-08.14.08:635][  0]LogTargetPlatformManager:   VVM_1_0
+[2023.09.23-08.14.08:635][  0]LogTargetPlatformManager: Loaded format module VulkanShaderFormat
+[2023.09.23-08.14.08:635][  0]LogTargetPlatformManager:   SF_VULKAN_SM5
+[2023.09.23-08.14.08:635][  0]LogTargetPlatformManager:   SF_VULKAN_ES31_ANDROID
+[2023.09.23-08.14.08:635][  0]LogTargetPlatformManager:   SF_VULKAN_ES31
+[2023.09.23-08.14.08:635][  0]LogTargetPlatformManager:   SF_VULKAN_SM5_ANDROID
+[2023.09.23-08.14.08:635][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2023.09.23-08.14.08:635][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Users/ngdiy/Documents/GitHub/Serious_Games/Serious_Games/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2023.09.23-08.14.08:640][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2023.09.23-08.14.08:640][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Users/ngdiy/Documents/GitHub/Serious_Games/Serious_Games/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2023.09.23-08.14.08:644][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2023.09.23-08.14.08:647][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/ngdiy/Documents/GitHub/Serious_Games/Serious_Games/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2023.09.23-08.14.08:647][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2023.09.23-08.14.08:647][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/ngdiy/Documents/GitHub/Serious_Games/Serious_Games/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.09.23-08.14.08:647][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2023.09.23-08.14.08:664][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1230 MiB)
+[2023.09.23-08.14.08:664][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.09.23-08.14.08:664][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2023.09.23-08.14.08:670][  0]LogDerivedDataCache: Speed tests for C:/Users/ngdiy/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2023.09.23-08.14.08:670][  0]LogDerivedDataCache: Display: Performance to C:/Users/ngdiy/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.02ms. RandomReadSpeed=1289.80MBs, RandomWriteSpeed=196.98MBs. Assigned SpeedClass 'Local'
+[2023.09.23-08.14.08:674][  0]LogDerivedDataCache: Using Local data cache path C:/Users/ngdiy/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2023.09.23-08.14.08:674][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2023.09.23-08.14.08:674][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2023.09.23-08.14.08:681][  0]LogVirtualization: VirtualizationSystem name found in ini file: None
+[2023.09.23-08.14.08:681][  0]LogVirtualization: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2023.09.23-08.14.08:681][  0]LogShaderCompilers: Guid format shader working directory is -29 characters bigger than the processId version (../../../../../../Users/ngdiy/Documents/GitHub/Serious_Games/Serious_Games/Intermediate/Shaders/WorkingDirectory/15976/).
+[2023.09.23-08.14.08:681][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/ngdiy/AppData/Local/Temp/UnrealShaderWorkingDir/53F91EE9490229C1AE46E7BEA6AA1E4F/'.
+[2023.09.23-08.14.08:681][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2023.09.23-08.14.08:681][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 9 workers.
+[2023.09.23-08.14.10:347][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = 0
+[2023.09.23-08.14.10:347][  0]LogSlate: Using FreeType 2.10.0
+[2023.09.23-08.14.10:347][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2023.09.23-08.14.10:378][  0]LogAssetRegistry: FAssetRegistry took 0.0096 seconds to start up
+[2023.09.23-08.14.10:384][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2023.09.23-08.14.10:552][  0]LogAssetRegistry: Error: Package C:/Users/ngdiy/Documents/GitHub/Serious_Games/Serious_Games/Content/ArchVizInteriorVol3/Maps/Interior.umap is too new. Engine Version: 1004  Package Version: 1009
+[2023.09.23-08.14.10:552][  0]LogAssetRegistry: Error: Package C:/Users/ngdiy/Documents/GitHub/Serious_Games/Serious_Games/Content/ArchVizInteriorVol3/Maps/Interior_BuiltData.uasset is too new. Engine Version: 1004  Package Version: 1009
+[2023.09.23-08.14.10:552][  0]LogAssetRegistry: Error: Package C:/Users/ngdiy/Documents/GitHub/Serious_Games/Serious_Games/Content/ArchVizInteriorVol3/Materials/M_Mirror.uasset is too new. Engine Version: 1004  Package Version: 1009
+[2023.09.23-08.14.10:552][  0]LogAssetRegistry: Error: Package C:/Users/ngdiy/Documents/GitHub/Serious_Games/Serious_Games/Content/ArchVizInteriorVol3/Materials/M_Fabric.uasset is too new. Engine Version: 1004  Package Version: 1009
+[2023.09.23-08.14.10:552][  0]LogAssetRegistry: Error: Package C:/Users/ngdiy/Documents/GitHub/Serious_Games/Serious_Games/Content/ArchVizInteriorVol3/Materials/M_Glass.uasset is too new. Engine Version: 1004  Package Version: 1009
+[2023.09.23-08.14.10:552][  0]LogAssetRegistry: Error: Package C:/Users/ngdiy/Documents/GitHub/Serious_Games/Serious_Games/Content/ArchVizInteriorVol3/Materials/MI_Ottoman.uasset is too new. Engine Version: 1004  Package Version: 1009
+[2023.09.23-08.14.10:552][  0]LogAssetRegistry: Error: Package C:/Users/ngdiy/Documents/GitHub/Serious_Games/Serious_Games/Content/ArchVizInteriorVol3/Materials/MI_Sofa_Pillow_2.uasset is too new. Engine Version: 1004  Package Version: 1009
+[2023.09.23-08.14.10:552][  0]LogAssetRegistry: Error: Package C:/Users/ngdiy/Documents/GitHub/Serious_Games/Serious_Games/Content/ArchVizInteriorVol3/Materials/MI_Sofa.uasset is too new. Engine Version: 1004  Package Version: 1009
+[2023.09.23-08.14.10:552][  0]LogAssetRegistry: Error: Package C:/Users/ngdiy/Documents/GitHub/Serious_Games/Serious_Games/Content/ArchVizInteriorVol3/Materials/MI_Sofa_Pillow_1.uasset is too new. Engine Version: 1004  Package Version: 1009
+[2023.09.23-08.14.10:552][  0]LogAssetRegistry: Error: Package C:/Users/ngdiy/Documents/GitHub/Serious_Games/Serious_Games/Content/ArchVizInteriorVol3/Materials/MI_Decor_Glass.uasset is too new. Engine Version: 1004  Package Version: 1009
+[2023.09.23-08.14.10:552][  0]LogAssetRegistry: Error: Package C:/Users/ngdiy/Documents/GitHub/Serious_Games/Serious_Games/Content/ArchVizInteriorVol3/Materials/MI_Ceilng_Lamp_Glass.uasset is too new. Engine Version: 1004  Package Version: 1009
+[2023.09.23-08.14.10:552][  0]LogAssetRegistry: Error: Package C:/Users/ngdiy/Documents/GitHub/Serious_Games/Serious_Games/Content/ArchVizInteriorVol3/Materials/MI_Glass_1.uasset is too new. Engine Version: 1004  Package Version: 1009
+[2023.09.23-08.14.10:552][  0]LogAssetRegistry: Error: Package C:/Users/ngdiy/Documents/GitHub/Serious_Games/Serious_Games/Content/ArchVizInteriorVol3/Materials/MI_Bed_Pillow_Fabric_2.uasset is too new. Engine Version: 1004  Package Version: 1009
+[2023.09.23-08.14.10:552][  0]LogAssetRegistry: Error: Package C:/Users/ngdiy/Documents/GitHub/Serious_Games/Serious_Games/Content/ArchVizInteriorVol3/Materials/MI_Bed_Fabric_2.uasset is too new. Engine Version: 1004  Package Version: 1009
+[2023.09.23-08.14.10:552][  0]LogAssetRegistry: Error: Package C:/Users/ngdiy/Documents/GitHub/Serious_Games/Serious_Games/Content/ArchVizInteriorVol3/Materials/MI_Bed_Fabric_1.uasset is too new. Engine Version: 1004  Package Version: 1009
+[2023.09.23-08.14.10:552][  0]LogAssetRegistry: Error: Package C:/Users/ngdiy/Documents/GitHub/Serious_Games/Serious_Games/Content/ArchVizInteriorVol3/Materials/MI_Bed_Fabric_3.uasset is too new. Engine Version: 1004  Package Version: 1009
+[2023.09.23-08.14.10:552][  0]LogAssetRegistry: Error: Package C:/Users/ngdiy/Documents/GitHub/Serious_Games/Serious_Games/Content/ArchVizInteriorVol3/Materials/MI_Bed_Pillow_Fabric_1.uasset is too new. Engine Version: 1004  Package Version: 1009
+[2023.09.23-08.14.10:552][  0]LogAssetRegistry: Error: Package C:/Users/ngdiy/Documents/GitHub/Serious_Games/Serious_Games/Content/OurProject/Maps/bedroom_scene/PPI_ToonShader.uasset is too new. Engine Version: 1004  Package Version: 1009
+[2023.09.23-08.14.10:552][  0]LogAssetRegistry: Error: Package C:/Users/ngdiy/Documents/GitHub/Serious_Games/Serious_Games/Content/OurProject/Maps/bedroom_scene/PP_ToonShader.uasset is too new. Engine Version: 1004  Package Version: 1009
+[2023.09.23-08.14.10:552][  0]LogSerialization: UsePackageTrailer: 'false'
+[2023.09.23-08.14.10:553][  0]LogTexture: Display: Texture Encode Speed: FinalIfAvailable (editor).
+[2023.09.23-08.14.10:789][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2023.09.23-08.14.10:789][  0]LogDeviceProfileManager: Active device profile: [000007028C246740][0000070280FB7800 50] WindowsEditor
+[2023.09.23-08.14.10:789][  0]LogDeviceProfileManager: Profiles: [000007028C246900][0000070280FB5000 50] Windows, [000007028C246740][0000070280FB7800 50] WindowsEditor, [000007028C244440][0000070280FB0000 50] WindowsServer, [000007028C2440C0][0000070280F27800 50] WindowsClient, [000007028C243F00][000007028575C800 50] IOS, [000007028C246200][0000070280FB2800 50] iPadAir2, [000007028C247700][000007028C4E0000 50] IPadPro, [000007028C247A80][000007028C4E2800 50] iPadAir3, [000007028C2424C0][000007028C4E7800 50] iPadAir4, [000007028C245780][000007028C4EA000 50] iPadMini4, [000007028C247540][000007028C4EC800 50] iPadMini5, [000007028C246C80][0000070280ECC800 50] iPadMini6, [000007028C24A800][000007028C502800 50] iPhone6S, [000007028C24AB80][000007028C500000 50] iPhone7, [000007028C24A480][000007028C505000 50] iPodTouch7, [000007028C24A100][000007028C50A000 50] iPhone6SPlus, [000007028C246580][000007028C50C800 50] iPhone7Plus, [000007028C243800][000007028C4E5000 50] iPhoneSE, [000007028C249F40][000007028C507800 50] iPhone8, [000007028C246040][000007028C510000 50] iPhone8Plus, [000007028C245080][000007028C515000 50] iPhoneX, [000007028C249D80][000007028C517800 50] iPhoneXS, [000007028C243640][000007028C51A000 50] iPhoneXSMax, [000007028C249BC0][000007028C51C800 50] iPhoneXR, [000007028C244B40][0000070275A2A000 50] iPhone11, [000007028C242300][000007028C520000 50] iPhone11Pro, [000007028C2432C0][000007028C525000 50] iPhone11ProMax, [000007028C248500][000007028C527800 50] iPhoneSE2, [000007028C246E40][000007028C52A000 50] iPhone12Mini, [000007028C244EC0][000007028C52C800 50] iPhone12, [000007028C2478C0][000007028C512800 50] iPhone12Pro, [000007028C248F80][000007028C530000 50] iPhone12ProMax, [000007028C242BC0][000007028C535000 50] iPhone13Mini, [000007028C24A9C0][000007028C537800 50] iPhone13, [000007028C245E80][000007028C53A000 50] iPhone13Pro, [000007028C248340][000007028C53C800 50] iPhone13ProMax, [000007028C243480][000007028C522800 50] iPadPro105, [000007028C244280][000007028C540000 50] iPadPro129, [000007028C247000][000007028C545000 50] iPadPro97, [000007028C248180][000007028C547800 50] iPadPro2_129, [000007028C249680][000007028C54A000 50] iPad5, [000007028C247C40][000007028C54C800 50] iPad6, [000007028C245940][000007028C532800 50] iPad7, [000007028C2455C0][000007028C550000 50] iPad8, [000007028C249140][000007028C555000 50] iPad9, [000007028C24A2C0][000007028C557800 50] iPadPro11, [000007028C245400][000007028C55A000 50] iPadPro2_11, [000007028C242F40][000007028C55C800 50] iPadPro3_11, [000007028C242140][000007028C542800 50] iPadPro3_129, [000007028C24A640][000007028C560000 50] iPadPro4_129, [000007028C2447C0][000007028C565000 50] iPadPro5_129, [000007028C243D40][000007028C567800 50] AppleTV, [000007028C247E00][000007028C56A000 50] AppleTV4K, [000007028C249A00][000007028C56C800 50] TVOS, [000007028C24C400][000007028C570000 50] Mac, [000007028C24C780][000007028C572800 50] MacEditor, [000007028C248C00][000007028C577800 50] MacClient, [000007028C249300][000007028C57A000 50] MacServer, [000007028C24C5C0][000007028C552800 50] Linux, [000007028C24CE80][000007028C562800 50] LinuxEditor, [000007028C242680][000007028C57C800 50] LinuxArm64Editor, [000007028C24C240][000007028C580000 50] LinuxArm64, [000007028C242D80][000007028C585000 50] LinuxClient, [000007028C24D040][000007028C587800 50] LinuxArm64Client, [000007028C24C940][000007028C58A000 50] LinuxServer, [000007028C242A00][000007028C58C800 50] LinuxArm64Server, [000007028C24BEC0][000007028C575000 50] Android, [000007028C24BD00][000007028C590000 50] Android_Preview_OpenGL, [000007028C247380][000007028C595000 50] Android_Preview_Vulkan, [000007028C24B280][000007028C597800 50] Android_Low, [000007028C245CC0][000007028C59A000 50] Android_Mid, [000007028C24B600][000007028C59C800 50] Android_High, [000007028C2463C0][000007028C582800 50] Android_Default, [000007028C248A40][000007028C5A0000 50] Android_Adreno4xx, [000007028C24B0C0][000007028C5A5000 50] Android_Adreno5xx_Low, [000007028C248880][000007028C5A7800 50] Android_Adreno5xx, [000007028C245B00][000007028C5AA000 50] Android_Adreno6xx, [000007028C24CCC0][000007028C5AC800 50] Android_Adreno6xx_Vulkan, [000007028C24D200][000007028C592800 50] Android_Adreno7xx, [000007028C2486C0][000007028C5B0000 50] Android_Adreno7xx_Vulkan, [000007028C243B80][000007028C5B5000 50] Android_Mali_T6xx, [000007028C244980][000007028C5B7800 50] Android_Mali_T7xx, [000007028C248DC0][000007028C5BA000 50] Android_Mali_T8xx, [000007028C24D900][000007028C5BC800 50] Android_Mali_G71, [000007028C24D740][000007028C5A2800 50] Android_Mali_G72, [000007028C243100][000007028C5C0000 50] Android_Mali_G72_Vulkan, [000007028C24AD40][000007028C5C5000 50] Android_Mali_G76, [000007028C24DE40][000007028C5C7800 50] Android_Mali_G76_Vulkan, [000007028C24DC80][000007028C5CA000 50] Android_Mali_G77, [000007028C2471C0][000007028C5CC800 50] Android_Mali_G77_Vulkan, [000007028C24C080][000007028C5B2800 50] Android_Mali_G78, [000007028C247FC0][000007028C5D0000 50] Android_Mali_G78_Vulkan, [000007028C24E8C0][000007028C5D5000 50] Android_Mali_G710, [000007028C244D00][000007028C5D7800 50] Android_Mali_G710_Vulkan, [000007028C24BB40][000007028C5DA000 50] Android_Xclipse_920, [000007028C2439C0][000007028C5DC800 50] Android_Xclipse_920_Vulkan, [000007028C244600][000007028C5C2800 50] Android_Vulkan_SM5, [000007028C24EC40][000007028C5E0000 50] Android_PowerVR_G6xxx, [000007028C24B980][000007028C5E5000 50] Android_PowerVR_GT7xxx, [000007028C24D3C0][000007028C5E7800 50] Android_PowerVR_GE8xxx, [000007028C24E000][000007028C5EA000 50] Android_PowerVR_GM9xxx, [000007028C24E540][000007028C5EC800 50] Android_PowerVR_GM9xxx_Vulkan, [000007028C24FC00][000007028C5D2800 50] Android_TegraK1, [000007028C24E1C0][000007028C5F0000 50] Android_Unknown_Vulkan, [000007028C245240][000007028C5F5000 50] Oculus_Quest, [000007028C24F180][000007028C5F7800 50] Oculus_Quest2, [000007028C600000][000007028C5FA000 50] HoloLens, 
+[2023.09.23-08.14.10:789][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2023.09.23-08.14.10:792][  0]LogTurnkeySupport: Turnkey Platform: Android: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=r21a, MaxAllowed=r23a, Flags="Platform_InvalidHostPrerequisites", Error="Android Studio is not installed correctly.|Android SDK directory is not set correctly.")
+[2023.09.23-08.14.10:792][  0]LogTurnkeySupport: Turnkey Platform: IOS: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=1100.0.0.0, MaxAllowed=1399.0, Flags="Platform_ValidHostPrerequisites")
+[2023.09.23-08.14.10:792][  0]LogTurnkeySupport: Turnkey Platform: Linux: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=v20_clang-13.0.1-centos7, MaxAllowed=v20_clang-13.0.1-centos7, Flags="Platform_ValidHostPrerequisites")
+[2023.09.23-08.14.10:792][  0]LogTurnkeySupport: Turnkey Platform: LinuxArm64: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=v20_clang-13.0.1-centos7, MaxAllowed=v20_clang-13.0.1-centos7, Flags="Platform_ValidHostPrerequisites")
+[2023.09.23-08.14.10:792][  0]LogTurnkeySupport: Turnkey Platform: Win64: (Status=Valid, Installed=10.0.16299.0, AutoSDK=, MinAllowed=10.0.00000.0, MaxAllowed=10.9.99999.0, Flags="InstalledSdk_ValidVersionExists")
+[2023.09.23-08.14.10:837][  0]LogTexture: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2023.09.23-08.14.11:050][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2023.09.23-08.14.11:050][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2023.09.23-08.14.11:050][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2023.09.23-08.14.11:050][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2023.09.23-08.14.11:050][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2023.09.23-08.14.11:063][  0]LogNetVersion: Serious_Games 1.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 1976382625)
+[2023.09.23-08.14.11:202][  0]LogSlate: Border
+[2023.09.23-08.14.11:202][  0]LogSlate: BreadcrumbButton
+[2023.09.23-08.14.11:202][  0]LogSlate: Default
+[2023.09.23-08.14.11:202][  0]LogSlate: Icons.Save
+[2023.09.23-08.14.11:202][  0]LogSlate: Icons.Toolbar.Settings
+[2023.09.23-08.14.11:202][  0]LogSlate: ListView
+[2023.09.23-08.14.11:202][  0]LogSlate: SoftwareCursor_CardinalCross
+[2023.09.23-08.14.11:202][  0]LogSlate: SoftwareCursor_Grab
+[2023.09.23-08.14.11:202][  0]LogSlate: TableView.DarkRow
+[2023.09.23-08.14.11:202][  0]LogSlate: TableView.Row
+[2023.09.23-08.14.11:202][  0]LogSlate: TreeView
+[2023.09.23-08.14.11:467][  0]SourceControl: Source control is disabled
+[2023.09.23-08.14.11:504][  0]SourceControl: Source control is disabled
+[2023.09.23-08.14.11:504][  0]SourceControl: Source control is disabled
+[2023.09.23-08.14.11:642][  0]LogUObjectArray: 20558 objects as part of root set at end of initial load.
+[2023.09.23-08.14.11:642][  0]LogUObjectAllocator: 5584952 out of 0 bytes used by permanent object pool.
+[2023.09.23-08.14.11:642][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2023.09.23-08.14.12:099][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: D004A0084B60BCE03CB4348E9D32C6F8 | Instance: 3F59D5874A1E31F7FC4EDC8D0EB8239B (DESKTOP-LITE-15976).
+[2023.09.23-08.14.12:133][  0]LogPython: Using Python 3.9.7
+[2023.09.23-08.14.12:803][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2023.09.23-08.14.12:812][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2023.09.23-08.14.13:117][  0]SourceControl: Source control is disabled
+[2023.09.23-08.14.13:124][  0]SourceControl: Source control is disabled
+[2023.09.23-08.14.13:132][  0]SourceControl: Source control is disabled
+[2023.09.23-08.14.13:138][  0]LogUProjectInfo: Found projects:
+[2023.09.23-08.14.13:206][  0]LogOpenImageDenoise: OIDN starting up
+[2023.09.23-08.14.13:273][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2023.09.23-08.14.13:295][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.09.23-08.14.13:295][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.09.23-08.14.13:382][  0]LogCollectionManager: Loaded 0 collections in 0.001519 seconds
+[2023.09.23-08.14.13:460][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ngdiy/Documents/GitHub/Serious_Games/Serious_Games/Saved/Collections/' took 0.00s
+[2023.09.23-08.14.13:460][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ngdiy/Documents/GitHub/Serious_Games/Serious_Games/Content/Developers/ngdiy/Collections/' took 0.00s
+[2023.09.23-08.14.13:460][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ngdiy/Documents/GitHub/Serious_Games/Serious_Games/Content/Collections/' took 0.00s
+[2023.09.23-08.14.13:793][  0]LogEngine: Initializing Engine...
+[2023.09.23-08.14.13:809][  0]LogStylusInput: Initializing StylusInput subsystem.
+[2023.09.23-08.14.13:831][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2023.09.23-08.14.14:229][  0]LogInit: Initializing FReadOnlyCVARCache
+[2023.09.23-08.14.14:230][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.09.23-08.14.14:241][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.23-08.14.14:266][  0]LogAIModule: Creating AISystem for world Untitled
+[2023.09.23-08.14.14:279][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2023.09.23-08.14.14:299][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2023.09.23-08.14.14:299][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2023.09.23-08.14.14:299][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2023.09.23-08.14.14:300][  0]LogAudio: Display: Audio Device Manager Initialized
+[2023.09.23-08.14.14:300][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2023.09.23-08.14.14:300][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.09.23-08.14.14:300][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.09.23-08.14.14:300][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.09.23-08.14.14:300][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.09.23-08.14.14:300][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.09.23-08.14.14:300][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.09.23-08.14.14:300][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.09.23-08.14.14:300][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.09.23-08.14.14:300][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.09.23-08.14.14:300][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.09.23-08.14.14:300][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.09.23-08.14.14:306][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.09.23-08.14.14:336][  0]LogAudioMixer: Display: Using Audio Hardware Device G733 Headset (2- Logitech G733 Gaming Headset)
+[2023.09.23-08.14.14:336][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.09.23-08.14.14:337][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.09.23-08.14.14:337][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.09.23-08.14.14:338][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2023.09.23-08.14.14:338][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=1
+[2023.09.23-08.14.14:340][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.09.23-08.14.14:340][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2023.09.23-08.14.14:340][  0]LogInit: FAudioDevice initialized.
+[2023.09.23-08.14.14:340][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2023.09.23-08.14.14:340][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2023.09.23-08.14.14:340][  0]LogInit: Texture streaming: Enabled
+[2023.09.23-08.14.14:370][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.0.3-20979098+++UE5+Release-5.0
+[2023.09.23-08.14.14:379][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2023.09.23-08.14.14:400][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2023.09.23-08.14.14:407][  0]LogLiveCoding: Display: Starting LiveCoding
+[2023.09.23-08.14.14:407][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: UnrealEditor Win64 Development
+[2023.09.23-08.14.15:713][  0]LogLiveCoding: Display: First instance in process group "UE_Serious_Games_0xb46cc3b3", spawning console
+[2023.09.23-08.14.15:713][  0]LogLiveCoding: Display: Waiting for server
+[2023.09.23-08.14.15:713][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2023.09.23-08.14.15:738][  0]LogInit: Transaction tracking system initialized
+[2023.09.23-08.14.15:804][  0]BlueprintLog: New page: Editor Load
+[2023.09.23-08.14.15:977][  0]LocalizationService: Localization service is disabled
+[2023.09.23-08.14.16:020][  0]TimingProfiler: Initialize
+[2023.09.23-08.14.16:020][  0]TimingProfiler: OnSessionChanged
+[2023.09.23-08.14.16:020][  0]LoadingProfiler: Initialize
+[2023.09.23-08.14.16:020][  0]LoadingProfiler: OnSessionChanged
+[2023.09.23-08.14.16:020][  0]NetworkingProfiler: Initialize
+[2023.09.23-08.14.16:020][  0]NetworkingProfiler: OnSessionChanged
+[2023.09.23-08.14.16:020][  0]MemoryProfiler: Initialize
+[2023.09.23-08.14.16:020][  0]MemoryProfiler: OnSessionChanged
+[2023.09.23-08.14.16:691][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ngdiy/Documents/GitHub/Serious_Games/Serious_Games/Content/' took 0.06s
+[2023.09.23-08.14.16:691][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2023.09.23-08.14.16:761][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2023.09.23-08.14.16:762][  0]SourceControl: Source control is disabled
+[2023.09.23-08.14.16:762][  0]LogUnrealEdMisc: Loading editor; pre map load, took 10.122
+[2023.09.23-08.14.16:762][  0]Cmd: MAP LOAD FILE="../../../../../../Users/ngdiy/Documents/GitHub/Serious_Games/Serious_Games/Content/FirstPerson/Maps/FirstPersonMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.09.23-08.14.16:767][  0]LightingResults: New page: Lighting Build
+[2023.09.23-08.14.16:774][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2023.09.23-08.14.16:774][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.23-08.14.16:774][  0]MapCheck: New page: Map Check
+[2023.09.23-08.14.16:774][  0]LightingResults: New page: Lighting Build
+[2023.09.23-08.14.16:779][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.09.23-08.14.16:781][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2023.09.23-08.14.16:928][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'FirstPersonMap'.
+[2023.09.23-08.14.16:934][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.23-08.14.16:934][  0]LogAIModule: Creating AISystem for world FirstPersonMap
+[2023.09.23-08.14.16:935][  0]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.09.23-08.14.16:935][  0]LogWorldPartition: UWorldPartition::Initialize(IsEditor=1, IsGame=0, IsCooking=0)
+[2023.09.23-08.14.17:878][  0]LogLinker: Warning: Asset '/Game/ArchVizInteriorVol3/Materials/MI_Decor_Glass' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2023.09.23-08.14.17:878][  0]LoadErrors: Warning: Package '/Game/ArchVizInteriorVol3/Materials/MI_Decor_Glass' contains a newer version than the current process supports. PackageVersion 1,009, MaxExpected 1,004 : LicenseePackageVersion 0, MaxExpected 0.
+[2023.09.23-08.14.17:878][  0]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/ArchVizInteriorVol3/Materials/MI_Decor_Glass'
+[2023.09.23-08.14.17:878][  0]LogLinker: Warning: Asset '/Game/ArchVizInteriorVol3/Materials/MI_Decor_Glass' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2023.09.23-08.14.17:878][  0]LoadErrors: Warning: Package '/Game/ArchVizInteriorVol3/Materials/MI_Decor_Glass' contains a newer version than the current process supports. PackageVersion 1,009, MaxExpected 1,004 : LicenseePackageVersion 0, MaxExpected 0.
+[2023.09.23-08.14.17:879][  0]LogLinker: Warning: Asset '/Game/ArchVizInteriorVol3/Materials/MI_Decor_Glass' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2023.09.23-08.14.17:880][  0]LoadErrors: Warning: Package '/Game/ArchVizInteriorVol3/Materials/MI_Decor_Glass' contains a newer version than the current process supports. PackageVersion 1,009, MaxExpected 1,004 : LicenseePackageVersion 0, MaxExpected 0.
+[2023.09.23-08.14.17:880][  0]LogLinker: Warning: Asset '/Game/ArchVizInteriorVol3/Materials/MI_Decor_Glass' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2023.09.23-08.14.17:880][  0]LoadErrors: Warning: Package '/Game/ArchVizInteriorVol3/Materials/MI_Decor_Glass' contains a newer version than the current process supports. PackageVersion 1,009, MaxExpected 1,004 : LicenseePackageVersion 0, MaxExpected 0.
+[2023.09.23-08.14.18:098][  0]LogLinker: Warning: [AssetLog] C:\Users\ngdiy\Documents\GitHub\Serious_Games\Serious_Games\Content\__ExternalActors__\FirstPerson\Maps\FirstPersonMap\3\U7\C6DRRUKRU5DQB85RN2G4QP.uasset: Failed to load '/Game/ArchVizInteriorVol3/Meshes/SM_Bed': Can't find file.
+[2023.09.23-08.14.18:098][  0]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/ArchVizInteriorVol3/Meshes/SM_Bed'
+[2023.09.23-08.14.22:581][  0]LogWorldPartition: Display: WorldPartition initialize took 5.64 sec
+[2023.09.23-08.14.22:605][  0]LogNiagara: Compiling System NiagaraSystem /Game/OurProject/Rain_NS.Rain_NS took 1.223035 sec, no shader worker used.
+[2023.09.23-08.14.22:635][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.09.23-08.14.22:646][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2023.09.23-08.14.22:647][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.09.23-08.14.22:647][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.292ms to complete.
+[2023.09.23-08.14.22:648][  0]LogFileHelpers: Loading map 'FirstPersonMap' took 5.885
+[2023.09.23-08.14.22:662][  0]LogUnrealEdMisc: Total Editor Startup Time, took 16.022
+[2023.09.23-08.14.22:662][  0]LogShaderCompilers: Display: ================================================
+[2023.09.23-08.14.22:662][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.09.23-08.14.22:662][  0]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2023.09.23-08.14.22:662][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2023.09.23-08.14.22:662][  0]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2023.09.23-08.14.22:662][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.09.23-08.14.22:662][  0]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.09.23-08.14.22:662][  0]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2023.09.23-08.14.22:662][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.09.23-08.14.22:662][  0]LogShaderCompilers: Display: ================================================
+[2023.09.23-08.14.22:773][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.09.23-08.14.22:773][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.09.23-08.14.22:773][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.09.23-08.14.22:848][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2023.09.23-08.14.22:849][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.09.23-08.14.22:857][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2023.09.23-08.14.22:857][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.09.23-08.14.22:864][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2023.09.23-08.14.22:865][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.09.23-08.14.22:872][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2023.09.23-08.14.22:872][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.09.23-08.14.22:887][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2023.09.23-08.14.22:887][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.09.23-08.14.22:897][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2023.09.23-08.14.22:897][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.09.23-08.14.22:904][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2023.09.23-08.14.22:904][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.09.23-08.14.22:911][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2023.09.23-08.14.22:913][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.09.23-08.14.22:920][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2023.09.23-08.14.22:920][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.09.23-08.14.22:926][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2023.09.23-08.14.22:927][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.09.23-08.14.22:927][  0]LogFeaturePack: Error: Error in Feature pack C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack. Failed to parse manifest: Invalid Json Token. Line: 43 Ch: 4
+[2023.09.23-08.14.23:193][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.23-08.14.23:202][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.23-08.14.23:207][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.23-08.14.23:213][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.23-08.14.23:388][  0]LogSlate: Took 0.000218 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.09.23-08.14.23:391][  0]LogSlate: Took 0.000213 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2023.09.23-08.14.23:396][  0]LogSlate: Took 0.004659 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2023.09.23-08.14.23:405][  0]LogSlate: Took 0.004113 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2023.09.23-08.14.23:407][  0]LogSlate: Took 0.000536 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2023.09.23-08.14.23:426][  0]LogSlate: Took 0.000639 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.09.23-08.14.23:549][  0]LogViewport: Scene viewport resized to 2138x1254, mode Windowed.
+[2023.09.23-08.14.24:398][  0]LogStall: Startup...
+[2023.09.23-08.14.24:399][  0]LogStall: Startup complete.
+[2023.09.23-08.14.24:408][  0]LogLoad: (Engine Initialization) Total time: 17.77 seconds
+[2023.09.23-08.14.24:408][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2023.09.23-08.14.24:519][  0]LogAssetRegistry: Asset discovery search completed in 14.1418 seconds
+[2023.09.23-08.14.24:530][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
+[2023.09.23-08.14.24:534][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2023.09.23-08.14.44:350][145]LogSlate: Window 'Message Log' being destroyed
+[2023.09.23-08.14.44:358][145]LogSlate: Window 'Message Log' being destroyed
+[2023.09.23-08.14.46:588][245]LogViewport: Scene viewport resized to 788x582, mode Windowed.
+[2023.09.23-08.15.12:941][427]LogViewport: Scene viewport resized to 1059x1248, mode Windowed.
+[2023.09.23-08.15.15:612][504]LogViewport: Scene viewport resized to 1060x1248, mode Windowed.
+[2023.09.23-08.15.15:674][504]LogViewport: Scene viewport resized to 1116x1248, mode Windowed.
+[2023.09.23-08.15.15:744][504]LogViewport: Scene viewport resized to 1263x1248, mode Windowed.
+[2023.09.23-08.15.15:814][504]LogViewport: Scene viewport resized to 1428x1248, mode Windowed.
+[2023.09.23-08.15.15:883][504]LogViewport: Scene viewport resized to 1494x1248, mode Windowed.
+[2023.09.23-08.15.15:951][504]LogViewport: Scene viewport resized to 1514x1248, mode Windowed.
+[2023.09.23-08.15.16:022][504]LogViewport: Scene viewport resized to 1518x1248, mode Windowed.
+[2023.09.23-08.15.16:091][504]LogViewport: Scene viewport resized to 1523x1248, mode Windowed.
+[2023.09.23-08.15.16:188][504]LogViewport: Scene viewport resized to 1516x1248, mode Windowed.
+[2023.09.23-08.15.16:251][504]LogViewport: Scene viewport resized to 1499x1248, mode Windowed.
+[2023.09.23-08.15.16:313][504]LogViewport: Scene viewport resized to 1494x1248, mode Windowed.
+[2023.09.23-08.15.16:653][504]LogViewport: Scene viewport resized to 1492x1248, mode Windowed.
+[2023.09.23-08.15.16:743][504]LogViewport: Scene viewport resized to 1489x1248, mode Windowed.
+[2023.09.23-08.15.17:278][504]LogViewport: Scene viewport resized to 1491x1248, mode Windowed.
+[2023.09.23-08.15.17:348][504]LogViewport: Scene viewport resized to 1492x1248, mode Windowed.
+[2023.09.23-08.15.18:397][504]LogViewport: Scene viewport resized to 1493x1248, mode Windowed.
+[2023.09.23-08.15.18:487][504]LogViewport: Scene viewport resized to 1606x1248, mode Windowed.
+[2023.09.23-08.15.18:585][504]LogViewport: Scene viewport resized to 1796x1248, mode Windowed.
+[2023.09.23-08.15.18:702][504]LogViewport: Scene viewport resized to 1858x1248, mode Windowed.
+[2023.09.23-08.16.19:631][914]LogDerivedDataCache: C:/Users/ngdiy/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:10.952 and deleted 0 file(s) with total size 0 MiB.
+[2023.09.23-08.16.20:838][977]Cmd: MODE GRID=0
+[2023.09.23-08.16.52:353][626]Cmd: SELECT NONE
+[2023.09.23-08.17.41:711][345]Cmd: TRANSACTION UNDO
+[2023.09.23-08.17.41:711][345]LogEditorTransaction: Undo Clicking on Elements
+[2023.09.23-08.17.42:890][395]Cmd: TRANSACTION UNDO
+[2023.09.23-08.17.42:890][395]LogEditorTransaction: Undo Move Elements
+[2023.09.23-08.20.44:314][864]Cmd: SELECT NONE
+[2023.09.23-08.21.00:481][731]Cmd: SELECT NONE
+[2023.09.23-08.21.30:668][334]Cmd: SELECT NONE
+[2023.09.23-08.21.50:596][379]Cmd: SELECT NONE
+[2023.09.23-08.24.22:262][652]Cmd: TRANSACTION UNDO
+[2023.09.23-08.24.22:262][652]LogEditorTransaction: Undo Rotate Elements
+[2023.09.23-08.24.22:761][666]Cmd: TRANSACTION UNDO
+[2023.09.23-08.24.22:761][666]LogEditorTransaction: Undo Move Elements
+[2023.09.23-08.25.07:815][128]Cmd: MODE ROTGRID=0
+[2023.09.23-08.31.25:752][818]LogPackageLocalizationCache: Processed 30 localized package path(s) for 1 prioritized culture(s) in 0.006538 seconds
+[2023.09.23-08.31.25:757][818]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/ZJ/NPPX3MJRN8OSMMYE1RP8AR
+[2023.09.23-08.31.25:757][818]LogSavePackage: Moving '../../../../../../Users/ngdiy/Documents/GitHub/Serious_Games/Serious_Games/Saved/NPPX3MJRN8OSMMYE1RP8AR54CD9ABC423E206E9FBE77BEC2E5CAEB.tmp' to '../../../../../../Users/ngdiy/Documents/GitHub/Serious_Games/Serious_Games/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/ZJ/NPPX3MJRN8OSMMYE1RP8AR.uasset'
+[2023.09.23-08.31.25:761][818]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/ED/NO90DHO6VVU9CYEKTO1HNV
+[2023.09.23-08.31.25:762][818]LogSavePackage: Moving '../../../../../../Users/ngdiy/Documents/GitHub/Serious_Games/Serious_Games/Saved/NO90DHO6VVU9CYEKTO1HNVB50549C14120A70F24D933B2EC74087A.tmp' to '../../../../../../Users/ngdiy/Documents/GitHub/Serious_Games/Serious_Games/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/ED/NO90DHO6VVU9CYEKTO1HNV.uasset'
+[2023.09.23-08.31.25:764][818]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/1K/KJ8FNWJQG5DGQ5LQTRNNX0
+[2023.09.23-08.31.25:765][818]LogSavePackage: Moving '../../../../../../Users/ngdiy/Documents/GitHub/Serious_Games/Serious_Games/Saved/KJ8FNWJQG5DGQ5LQTRNNX0205DED214745A26210E006A5870731DE.tmp' to '../../../../../../Users/ngdiy/Documents/GitHub/Serious_Games/Serious_Games/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/1K/KJ8FNWJQG5DGQ5LQTRNNX0.uasset'
+[2023.09.23-08.31.25:767][818]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/LK/DYETUQLYHFKZNKSAXRA93T
+[2023.09.23-08.31.25:768][818]LogSavePackage: Moving '../../../../../../Users/ngdiy/Documents/GitHub/Serious_Games/Serious_Games/Saved/DYETUQLYHFKZNKSAXRA93T60AEBF1F44F6BE20E84CBC91A3713C21.tmp' to '../../../../../../Users/ngdiy/Documents/GitHub/Serious_Games/Serious_Games/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/LK/DYETUQLYHFKZNKSAXRA93T.uasset'
+[2023.09.23-08.31.25:771][818]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/P9/L4264XCS4LDFEUNMXCB0C7
+[2023.09.23-08.31.25:771][818]LogSavePackage: Moving '../../../../../../Users/ngdiy/Documents/GitHub/Serious_Games/Serious_Games/Saved/L4264XCS4LDFEUNMXCB0C7512D25E44CA717C1BD276C87BBC27A04.tmp' to '../../../../../../Users/ngdiy/Documents/GitHub/Serious_Games/Serious_Games/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/P9/L4264XCS4LDFEUNMXCB0C7.uasset'
+[2023.09.23-08.31.25:774][818]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/6W/MPJ3P6X8DQ4SI8BE0Z3IEZ
+[2023.09.23-08.31.25:775][818]LogSavePackage: Moving '../../../../../../Users/ngdiy/Documents/GitHub/Serious_Games/Serious_Games/Saved/MPJ3P6X8DQ4SI8BE0Z3IEZ7C3AFB7B42E2BDE027C807B09390CBE5.tmp' to '../../../../../../Users/ngdiy/Documents/GitHub/Serious_Games/Serious_Games/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/6W/MPJ3P6X8DQ4SI8BE0Z3IEZ.uasset'
+[2023.09.23-08.31.25:792][818]AssetCheck: New page: Asset Save: multiple assets
+[2023.09.23-08.31.25:792][818]LogContentValidation: Display: Validating SpotLight /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.SpotLight_UAID_D8BBC141573AFCA901_1115064997
+[2023.09.23-08.31.25:792][818]LogContentValidation: Display: Validating PointLight /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.PointLight_UAID_04421A293C7499A801_1789514500
+[2023.09.23-08.31.25:793][818]LogContentValidation: Display: Validating StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_D8BBC141573A9AAB01_1664266839
+[2023.09.23-08.31.25:793][818]LogContentValidation: Display: Validating PointLight /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.PointLight_UAID_D8BBC141573A0BA901_1455413573
+[2023.09.23-08.31.25:793][818]LogContentValidation: Display: Validating SpotLight /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.SpotLight_UAID_D8BBC141573A0AA901_1769389384
+[2023.09.23-08.31.25:793][818]LogContentValidation: Display: Validating StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_D8BBC141573A98AB01_1565435489
+[2023.09.23-08.31.27:417][906]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2023.09.23-08.31.28:275][945]Cmd: SELECT NONE
+[2023.09.23-08.31.48:586][724]Cmd: DELETE
+[2023.09.23-08.31.48:586][724]Cmd: ACTOR DELETE
+[2023.09.23-08.31.48:594][724]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.09.23-08.31.48:605][724]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2023.09.23-08.31.48:607][724]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2023.09.23-08.31.50:985][851]Cmd: DELETE
+[2023.09.23-08.31.50:985][851]Cmd: ACTOR DELETE
+[2023.09.23-08.31.50:987][851]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.09.23-08.31.50:994][851]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2023.09.23-08.31.50:995][851]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2023.09.23-08.32.31:177][545]Cmd: DELETE
+[2023.09.23-08.32.31:177][545]Cmd: ACTOR DELETE
+[2023.09.23-08.32.40:329][321]Cmd: DELETE
+[2023.09.23-08.32.40:329][321]Cmd: ACTOR DELETE
+[2023.09.23-08.32.44:225][708]Cmd: DELETE
+[2023.09.23-08.32.44:225][708]Cmd: ACTOR DELETE
+[2023.09.23-08.32.47:752][ 51]Cmd: DELETE
+[2023.09.23-08.32.47:752][ 51]Cmd: ACTOR DELETE
+[2023.09.23-08.34.12:720][914]Cmd: SELECT NONE
+[2023.09.23-08.34.51:736][168]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2023.09.23-08.34.51:738][168]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.012
+[2023.09.23-08.37.27:635][931]LogViewport: Scene viewport resized to 1854x1248, mode Windowed.
+[2023.09.23-08.37.27:704][931]LogViewport: Scene viewport resized to 1806x1248, mode Windowed.
+[2023.09.23-08.37.27:781][931]LogViewport: Scene viewport resized to 1746x1248, mode Windowed.
+[2023.09.23-08.37.27:849][931]LogViewport: Scene viewport resized to 1706x1248, mode Windowed.
+[2023.09.23-08.37.27:919][931]LogViewport: Scene viewport resized to 1699x1248, mode Windowed.
+[2023.09.23-08.37.28:057][931]LogViewport: Scene viewport resized to 1698x1248, mode Windowed.
+[2023.09.23-08.37.28:121][931]LogViewport: Scene viewport resized to 1696x1248, mode Windowed.
+[2023.09.23-08.37.28:190][931]LogViewport: Scene viewport resized to 1689x1248, mode Windowed.
+[2023.09.23-08.37.28:260][931]LogViewport: Scene viewport resized to 1674x1248, mode Windowed.
+[2023.09.23-08.37.28:329][931]LogViewport: Scene viewport resized to 1660x1248, mode Windowed.
+[2023.09.23-08.37.28:406][931]LogViewport: Scene viewport resized to 1647x1248, mode Windowed.
+[2023.09.23-08.37.28:476][931]LogViewport: Scene viewport resized to 1637x1248, mode Windowed.
+[2023.09.23-08.37.28:551][931]LogViewport: Scene viewport resized to 1632x1248, mode Windowed.
+[2023.09.23-08.37.28:621][931]LogViewport: Scene viewport resized to 1628x1248, mode Windowed.
+[2023.09.23-08.37.28:691][931]LogViewport: Scene viewport resized to 1626x1248, mode Windowed.
+[2023.09.23-08.37.29:108][931]LogViewport: Scene viewport resized to 1625x1248, mode Windowed.
+[2023.09.23-08.37.29:176][931]LogViewport: Scene viewport resized to 1623x1248, mode Windowed.
+[2023.09.23-08.37.29:259][931]LogViewport: Scene viewport resized to 1622x1248, mode Windowed.
+[2023.09.23-08.37.29:696][931]LogViewport: Scene viewport resized to 1623x1248, mode Windowed.
+[2023.09.23-08.37.29:801][931]LogViewport: Scene viewport resized to 1626x1248, mode Windowed.
+[2023.09.23-08.38.32:985][161]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2023.09.23-08.38.33:753][161]LogStaticMesh: Display: Building static mesh SM_KnifeBlock02Knife08...
+[2023.09.23-08.38.33:753][161]LogStaticMesh: Display: Building static mesh SM_KnifeBlock02Knife07...
+[2023.09.23-08.38.33:753][161]LogStaticMesh: Display: Building static mesh SM_KnifeBlock02Knife06...
+[2023.09.23-08.38.33:753][161]LogStaticMesh: Display: Building static mesh SM_KnifeBlock02Knife05...
+[2023.09.23-08.38.33:753][161]LogStaticMesh: Display: Building static mesh SM_KnifeBlock02Knife04...
+[2023.09.23-08.38.33:753][161]LogStaticMesh: Built static mesh [0.74s] /Game/TMStoragesPack1/Storages/meshes/KitchenWare/KnifeBlock02/SM_KnifeBlock02Knife08.SM_KnifeBlock02Knife08
+[2023.09.23-08.38.33:753][161]LogMaterial: Display: Missing cached shadermap for M_StdTranslucentFrostedGlass in PCD3D_SM5, Default, SM5 (DDC key hash: 304F8A06CB5AD671B610072DF29B2F599C851636), compiling. 
+[2023.09.23-08.38.33:984][161]LogStaticMesh: Display: Building static mesh SM_KnifeBlock02Knife03...
+[2023.09.23-08.38.33:984][161]LogStaticMesh: Built static mesh [0.78s] /Game/TMStoragesPack1/Storages/meshes/KitchenWare/KnifeBlock02/SM_KnifeBlock02Knife04.SM_KnifeBlock02Knife04
+[2023.09.23-08.38.33:984][161]LogStaticMesh: Built static mesh [0.81s] /Game/TMStoragesPack1/Storages/meshes/KitchenWare/KnifeBlock02/SM_KnifeBlock02Knife07.SM_KnifeBlock02Knife07
+[2023.09.23-08.38.33:984][161]LogStaticMesh: Display: Building static mesh SM_KnifeBlock02Knife02...
+[2023.09.23-08.38.33:984][161]LogStaticMesh: Display: Building static mesh SM_KnifeBlock02Knife01...
+[2023.09.23-08.38.33:984][161]LogStaticMesh: Built static mesh [0.81s] /Game/TMStoragesPack1/Storages/meshes/KitchenWare/KnifeBlock02/SM_KnifeBlock02Knife05.SM_KnifeBlock02Knife05
+[2023.09.23-08.38.33:984][161]LogStaticMesh: Display: Building static mesh SM_KnifeBlock02Base...
+[2023.09.23-08.38.33:984][161]LogStaticMesh: Built static mesh [0.08s] /Game/TMStoragesPack1/Storages/meshes/KitchenWare/KnifeBlock02/SM_KnifeBlock02Knife02.SM_KnifeBlock02Knife02
+[2023.09.23-08.38.33:984][161]LogStaticMesh: Display: Building static mesh SM_CuttingBoard04...
+[2023.09.23-08.38.33:986][161]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2023.09.23-08.38.33:989][161]LogStaticMesh: Built static mesh [0.08s] /Game/TMStoragesPack1/Storages/meshes/KitchenWare/CuttingBoard04/SM_CuttingBoard04.SM_CuttingBoard04
+[2023.09.23-08.38.34:006][161]LogStaticMesh: Display: Building static mesh SM_CuttingBoard04Plate01...
+[2023.09.23-08.38.34:147][161]LogStaticMesh: Built static mesh [0.09s] /Game/TMStoragesPack1/Storages/meshes/KitchenWare/CuttingBoard04/SM_CuttingBoard04Plate01.SM_CuttingBoard04Plate01
+[2023.09.23-08.38.34:147][161]LogStaticMesh: Display: Building static mesh SM_CuttingBoard04Plate02...
+[2023.09.23-08.38.34:253][161]LogStaticMesh: Built static mesh [0.10s] /Game/TMStoragesPack1/Storages/meshes/KitchenWare/CuttingBoard04/SM_CuttingBoard04Plate02.SM_CuttingBoard04Plate02
+[2023.09.23-08.38.34:253][161]LogStaticMesh: Display: Building static mesh SM_CuttingBoard03...
+[2023.09.23-08.38.34:253][161]LogStaticMesh: Built static mesh [1.23s] /Game/TMStoragesPack1/Storages/meshes/KitchenWare/KnifeBlock02/SM_KnifeBlock02Knife06.SM_KnifeBlock02Knife06
+[2023.09.23-08.38.34:253][161]LogStaticMesh: Display: Building static mesh SM_BathroomFaucet24...
+[2023.09.23-08.38.34:357][161]LogStaticMesh: Built static mesh [0.07s] /Game/TMStoragesPack1/Storages/meshes/KitchenWare/CuttingBoard03/SM_CuttingBoard03.SM_CuttingBoard03
+[2023.09.23-08.38.34:357][161]LogStaticMesh: Display: Building static mesh SM_BathroomFaucet23...
+[2023.09.23-08.38.34:357][161]LogStaticMesh: Built static mesh [0.05s] /Game/TMStoragesPack1/Storages/meshes/Bathroom/BathroomFaucet24/SM_BathroomFaucet24.SM_BathroomFaucet24
+[2023.09.23-08.38.34:357][161]LogStaticMesh: Display: Building static mesh SM_BathroomFaucet22...
+[2023.09.23-08.38.34:357][161]LogStaticMesh: Built static mesh [0.03s] /Game/TMStoragesPack1/Storages/meshes/Bathroom/BathroomFaucet23/SM_BathroomFaucet23.SM_BathroomFaucet23
+[2023.09.23-08.38.34:357][161]LogStaticMesh: Display: Building static mesh SM_BathroomFaucet21...
+[2023.09.23-08.38.34:357][161]LogStaticMesh: Built static mesh [0.05s] /Game/TMStoragesPack1/Storages/meshes/Bathroom/BathroomFaucet22/SM_BathroomFaucet22.SM_BathroomFaucet22
+[2023.09.23-08.38.34:460][161]LogStaticMesh: Display: Building static mesh SM_BathroomFaucet20...
+[2023.09.23-08.38.34:460][161]LogStaticMesh: Built static mesh [0.06s] /Game/TMStoragesPack1/Storages/meshes/Bathroom/BathroomFaucet21/SM_BathroomFaucet21.SM_BathroomFaucet21
+[2023.09.23-08.38.34:460][161]LogStaticMesh: Display: Building static mesh SM_BathroomFaucet19...
+[2023.09.23-08.38.34:460][161]LogStaticMesh: Built static mesh [0.04s] /Game/TMStoragesPack1/Storages/meshes/Bathroom/BathroomFaucet20/SM_BathroomFaucet20.SM_BathroomFaucet20
+[2023.09.23-08.38.34:460][161]LogStaticMesh: Display: Building static mesh SM_BathroomFaucet18...
+[2023.09.23-08.38.34:460][161]LogStaticMesh: Built static mesh [0.02s] /Game/TMStoragesPack1/Storages/meshes/Bathroom/BathroomFaucet18/SM_BathroomFaucet18.SM_BathroomFaucet18
+[2023.09.23-08.38.34:460][161]LogStaticMesh: Display: Building static mesh SM_BathroomFaucet17...
+[2023.09.23-08.38.34:460][161]LogStaticMesh: Built static mesh [0.05s] /Game/TMStoragesPack1/Storages/meshes/Bathroom/BathroomFaucet19/SM_BathroomFaucet19.SM_BathroomFaucet19
+[2023.09.23-08.38.34:460][161]LogStaticMesh: Display: Building static mesh SM_BathroomFaucet16...
+[2023.09.23-08.38.34:564][161]LogStaticMesh: Built static mesh [0.04s] /Game/TMStoragesPack1/Storages/meshes/Bathroom/BathroomFaucet17/SM_BathroomFaucet17.SM_BathroomFaucet17
+[2023.09.23-08.38.34:564][161]LogStaticMesh: Built static mesh [0.02s] /Game/TMStoragesPack1/Storages/meshes/Bathroom/BathroomFaucet16/SM_BathroomFaucet16.SM_BathroomFaucet16
+[2023.09.23-08.38.34:564][161]LogStaticMesh: Display: Building static mesh SM_BathroomFaucet15...
+[2023.09.23-08.38.34:564][161]LogStaticMesh: Display: Building static mesh SM_BathroomFaucet14...
+[2023.09.23-08.38.34:564][161]LogStaticMesh: Built static mesh [0.07s] /Game/TMStoragesPack1/Storages/meshes/Bathroom/BathroomFaucet15/SM_BathroomFaucet15.SM_BathroomFaucet15
+[2023.09.23-08.38.34:564][161]LogStaticMesh: Display: Building static mesh SM_BathroomFaucet13...
+[2023.09.23-08.38.34:671][161]LogStaticMesh: Built static mesh [0.13s] /Game/TMStoragesPack1/Storages/meshes/Bathroom/BathroomFaucet14/SM_BathroomFaucet14.SM_BathroomFaucet14
+[2023.09.23-08.38.34:671][161]LogStaticMesh: Display: Building static mesh SM_BathroomFaucet12...
+[2023.09.23-08.38.34:671][161]LogStaticMesh: Built static mesh [0.06s] /Game/TMStoragesPack1/Storages/meshes/Bathroom/BathroomFaucet12/SM_BathroomFaucet12.SM_BathroomFaucet12
+[2023.09.23-08.38.34:774][161]LogStaticMesh: Display: Building static mesh SM_BathroomFaucet11...
+[2023.09.23-08.38.34:774][161]LogStaticMesh: Built static mesh [0.03s] /Game/TMStoragesPack1/Storages/meshes/Bathroom/BathroomFaucet11/SM_BathroomFaucet11.SM_BathroomFaucet11
+[2023.09.23-08.38.34:774][161]LogStaticMesh: Built static mesh [0.19s] /Game/TMStoragesPack1/Storages/meshes/Bathroom/BathroomFaucet13/SM_BathroomFaucet13.SM_BathroomFaucet13
+[2023.09.23-08.38.34:774][161]LogStaticMesh: Display: Building static mesh SM_BathroomFaucet10...
+[2023.09.23-08.38.34:774][161]LogStaticMesh: Display: Building static mesh SM_BathroomFaucet09...
+[2023.09.23-08.38.34:774][161]LogStaticMesh: Built static mesh [0.02s] /Game/TMStoragesPack1/Storages/meshes/Bathroom/BathroomFaucet10/SM_BathroomFaucet10.SM_BathroomFaucet10
+[2023.09.23-08.38.34:774][161]LogStaticMesh: Display: Building static mesh SM_BathroomFaucet08...
+[2023.09.23-08.38.34:774][161]LogStaticMesh: Built static mesh [0.02s] /Game/TMStoragesPack1/Storages/meshes/Bathroom/BathroomFaucet09/SM_BathroomFaucet09.SM_BathroomFaucet09
+[2023.09.23-08.38.34:774][161]LogStaticMesh: Display: Building static mesh SM_BathroomFaucet07...
+[2023.09.23-08.38.34:861][161]LogStaticMesh: Built static mesh [0.04s] /Game/TMStoragesPack1/Storages/meshes/Bathroom/BathroomFaucet08/SM_BathroomFaucet08.SM_BathroomFaucet08
+[2023.09.23-08.38.34:861][161]LogStaticMesh: Display: Building static mesh SM_BathroomFaucet06...
+[2023.09.23-08.38.34:861][161]LogStaticMesh: Built static mesh [0.06s] /Game/TMStoragesPack1/Storages/meshes/Bathroom/BathroomFaucet07/SM_BathroomFaucet07.SM_BathroomFaucet07
+[2023.09.23-08.38.34:861][161]LogStaticMesh: Display: Building static mesh SM_BathroomFaucet05...
+[2023.09.23-08.38.34:861][161]LogStaticMesh: Built static mesh [0.02s] /Game/TMStoragesPack1/Storages/meshes/Bathroom/BathroomFaucet05/SM_BathroomFaucet05.SM_BathroomFaucet05
+[2023.09.23-08.38.34:861][161]LogStaticMesh: Built static mesh [1.02s] /Game/TMStoragesPack1/Storages/meshes/KitchenWare/KnifeBlock02/SM_KnifeBlock02Base.SM_KnifeBlock02Base
+[2023.09.23-08.38.34:861][161]LogStaticMesh: Display: Building static mesh SM_BathroomFaucet04...
+[2023.09.23-08.38.34:962][161]LogStaticMesh: Built static mesh [0.02s] /Game/TMStoragesPack1/Storages/meshes/Bathroom/BathroomFaucet04/SM_BathroomFaucet04.SM_BathroomFaucet04
+[2023.09.23-08.38.34:962][161]LogStaticMesh: Display: Building static mesh SM_BathroomFaucet03...
+[2023.09.23-08.38.34:962][161]LogStaticMesh: Built static mesh [0.08s] /Game/TMStoragesPack1/Storages/meshes/Bathroom/BathroomFaucet06/SM_BathroomFaucet06.SM_BathroomFaucet06
+[2023.09.23-08.38.34:962][161]LogStaticMesh: Display: Building static mesh SM_BathroomFaucet02...
+[2023.09.23-08.38.34:962][161]LogStaticMesh: Built static mesh [0.02s] /Game/TMStoragesPack1/Storages/meshes/Bathroom/BathroomFaucet02/SM_BathroomFaucet02.SM_BathroomFaucet02
+[2023.09.23-08.38.34:962][161]LogStaticMesh: Display: Building static mesh SM_BathroomFaucet01...
+[2023.09.23-08.38.34:962][161]LogStaticMesh: Built static mesh [1.17s] /Game/TMStoragesPack1/Storages/meshes/KitchenWare/KnifeBlock02/SM_KnifeBlock02Knife03.SM_KnifeBlock02Knife03
+[2023.09.23-08.38.34:962][161]LogStaticMesh: Built static mesh [0.08s] /Game/TMStoragesPack1/Storages/meshes/Bathroom/BathroomFaucet03/SM_BathroomFaucet03.SM_BathroomFaucet03
+[2023.09.23-08.38.34:971][161]LogStaticMesh: Display: Building static mesh SM_KitchenScale03...
+[2023.09.23-08.38.34:980][161]LogStaticMesh: Built static mesh [0.06s] /Game/TMStoragesPack1/Storages/meshes/Bathroom/BathroomFaucet01/SM_BathroomFaucet01.SM_BathroomFaucet01
+[2023.09.23-08.38.34:982][161]LogStaticMesh: Display: Building static mesh SM_KitchenScale03Bowl...
+[2023.09.23-08.38.35:081][161]LogStaticMesh: Built static mesh [0.09s] /Game/TMStoragesPack1/Storages/meshes/KitchenAppliances/KitchenScale03/SM_KitchenScale03Bowl.SM_KitchenScale03Bowl
+[2023.09.23-08.38.35:092][161]LogStaticMesh: Built static mesh [1.26s] /Game/TMStoragesPack1/Storages/meshes/KitchenWare/KnifeBlock02/SM_KnifeBlock02Knife01.SM_KnifeBlock02Knife01
+[2023.09.23-08.38.35:092][161]LogStaticMesh: Built static mesh [0.12s] /Game/TMStoragesPack1/Storages/meshes/KitchenAppliances/KitchenScale03/SM_KitchenScale03.SM_KitchenScale03
+[2023.09.23-08.38.35:300][161]LogTexture: Display: Building textures: /Game/TMStoragesPack1/Storages/_common/textures/T_MetalChromeClean01_R.T_MetalChromeClean01_R (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.09.23-08.38.35:348][161]LogTexture: Display: Building textures: /Game/TMStoragesPack1/Storages/_common/textures/T_WoodPlanks01_R.T_WoodPlanks01_R (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.09.23-08.38.35:723][161]LogTexture: Display: Building textures: /Game/TMStoragesPack1/Storages/meshes/KitchenWare/CuttingBoard04/textures/T_CuttingBoard04_BC.T_CuttingBoard04_BC (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.09.23-08.38.35:797][161]LogTexture: Display: Building textures: /Game/TMStoragesPack1/Storages/meshes/KitchenWare/CuttingBoard04/textures/T_CuttingBoard04_N.T_CuttingBoard04_N (TFO_BC5, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.09.23-08.38.35:873][161]LogTexture: Display: Building textures: /Game/TMStoragesPack1/Storages/_common/textures/T_WoodPlanks01_BC.T_WoodPlanks01_BC (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.09.23-08.38.36:788][161]LogTexture: Display: Building textures: /Game/TMStoragesPack1/Storages/meshes/KitchenWare/CuttingBoard04/textures/T_CuttingBoard04_R.T_CuttingBoard04_R (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.09.23-08.38.37:300][161]LogTexture: Display: Building textures: /Game/TMStoragesPack1/Storages/meshes/KitchenWare/CuttingBoard03/textures/T_CuttingBoard03_BC.T_CuttingBoard03_BC (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.09.23-08.38.37:368][161]LogTexture: Display: Building textures: /Game/TMStoragesPack1/Storages/meshes/KitchenWare/CuttingBoard03/textures/T_CuttingBoard03_R.T_CuttingBoard03_R (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.09.23-08.38.37:387][161]LogTexture: Display: Building textures: /Game/TMStoragesPack1/Storages/_common/textures/T_MetalSteelBlackened01_R.T_MetalSteelBlackened01_R (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.09.23-08.38.37:727][161]LogTexture: Display: Building textures: /Game/TMStoragesPack1/Storages/meshes/KitchenWare/CuttingBoard03/textures/T_CuttingBoard03_N.T_CuttingBoard03_N (TFO_BC5, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.09.23-08.38.38:308][161]LogTexture: Display: Building textures: /Game/TMStoragesPack1/Storages/meshes/KitchenAppliances/KitchenScale03/textures/T_KitchenScale03_BC.T_KitchenScale03_BC (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.09.23-08.38.38:308][161]LogTexture: Display: Building textures: /Game/TMStoragesPack1/Storages/meshes/KitchenAppliances/KitchenScale03/textures/T_KitchenScale03_E.T_KitchenScale03_E (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.09.23-08.38.38:574][161]LogTexture: Display: Building textures: /Game/TMStoragesPack1/Storages/meshes/KitchenAppliances/KitchenScale03/textures/T_KitchenScale03_M.T_KitchenScale03_M (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.09.23-08.38.38:625][161]LogTexture: Display: Building textures: /Game/TMStoragesPack1/Storages/meshes/KitchenAppliances/KitchenScale03/textures/T_KitchenScale03_MT.T_KitchenScale03_MT (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.09.23-08.38.39:150][161]LogTexture: Display: Building textures: /Game/TMStoragesPack1/Storages/meshes/KitchenAppliances/KitchenScale03/textures/T_KitchenScale03_R.T_KitchenScale03_R (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.09.23-08.38.39:179][161]LogTexture: Display: Building textures: /Game/TMStoragesPack1/Storages/meshes/KitchenAppliances/KitchenScale03/textures/T_KitchenScale03_N.T_KitchenScale03_N (TFO_BC5, 4096X4096 X1X1) (Required Memory Estimate: 640.000 MB), EncodeSpeed: Fast
+[2023.09.23-08.38.44:427][161]LogSlate: Window 'Delete Assets' being destroyed
+[2023.09.23-08.38.44:457][161]LogUObjectGlobals: Force Deleting 39 Package(s):
+	Asset Name: /Game/TMStoragesPack1/Storages/blueprints/KitchenWare/BP_KnifeBlock02Knife08.BP_KnifeBlock02Knife08
+	Asset Type: Blueprint
+	Asset Name: /Game/TMStoragesPack1/Storages/blueprints/KitchenWare/BP_KnifeBlock02Knife07.BP_KnifeBlock02Knife07
+	Asset Type: Blueprint
+	Asset Name: /Game/TMStoragesPack1/Storages/blueprints/KitchenWare/BP_KnifeBlock02Knife06.BP_KnifeBlock02Knife06
+	Asset Type: Blueprint
+	Asset Name: /Game/TMStoragesPack1/Storages/blueprints/KitchenWare/BP_KnifeBlock02Knife05.BP_KnifeBlock02Knife05
+	Asset Type: Blueprint
+	Asset Name: /Game/TMStoragesPack1/Storages/blueprints/KitchenWare/BP_KnifeBlock02Knife04.BP_KnifeBlock02Knife04
+	Asset Type: Blueprint
+	Asset Name: /Game/TMStoragesPack1/Storages/blueprints/KitchenWare/BP_KnifeBlock02Knife03.BP_KnifeBlock02Knife03
+	Asset Type: Blueprint
+	Asset Name: /Game/TMStoragesPack1/Storages/blueprints/KitchenWare/BP_KnifeBlock02Knife02.BP_KnifeBlock02Knife02
+	Asset Type: Blueprint
+	Asset Name: /Game/TMStoragesPack1/Storages/blueprints/KitchenWare/BP_KnifeBlock02Knife01.BP_KnifeBlock02Knife01
+	Asset Type: Blueprint
+	Asset Name: /Game/TMStoragesPack1/Storages/blueprints/KitchenWare/BP_KnifeBlock02.BP_KnifeBlock02
+	Asset Type: Blueprint
+	Asset Name: /Game/TMStoragesPack1/Storages/blueprints/KitchenWare/BP_CuttingBoard05.BP_CuttingBoard05
+	Asset Type: Blueprint
+[2023.09.23-08.38.45:800][161]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2023.09.23-08.38.45:813][161]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2023.09.23-08.38.45:828][161]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2023.09.23-08.39.01:451][611]LogLinker: Warning: [AssetLog] C:\Users\ngdiy\Documents\GitHub\Serious_Games\Serious_Games\Content\TMStoragesPack1\Levels\Overview.umap: Failed to load '/Game/TMStoragesPack1/Storages/blueprints/Bathroom/BP_BathroomFaucet01': Can't find file.
+[2023.09.23-08.39.01:451][611]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/TMStoragesPack1/Storages/blueprints/Bathroom/BP_BathroomFaucet01'
+[2023.09.23-08.39.01:451][611]LogLinker: Warning: [AssetLog] C:\Users\ngdiy\Documents\GitHub\Serious_Games\Serious_Games\Content\TMStoragesPack1\Levels\Overview.umap: Failed to load '/Game/TMStoragesPack1/Storages/blueprints/Bathroom/BP_BathroomFaucet02': Can't find file.
+[2023.09.23-08.39.01:451][611]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/TMStoragesPack1/Storages/blueprints/Bathroom/BP_BathroomFaucet02'
+[2023.09.23-08.39.01:453][611]LogLinker: Warning: [AssetLog] C:\Users\ngdiy\Documents\GitHub\Serious_Games\Serious_Games\Content\TMStoragesPack1\Levels\Overview.umap: Failed to load '/Game/TMStoragesPack1/Storages/blueprints/Bathroom/BP_BathroomFaucet03': Can't find file.
+[2023.09.23-08.39.01:453][611]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/TMStoragesPack1/Storages/blueprints/Bathroom/BP_BathroomFaucet03'
+[2023.09.23-08.39.01:453][611]LogLinker: Warning: [AssetLog] C:\Users\ngdiy\Documents\GitHub\Serious_Games\Serious_Games\Content\TMStoragesPack1\Levels\Overview.umap: Failed to load '/Game/TMStoragesPack1/Storages/blueprints/Bathroom/BP_BathroomFaucet04': Can't find file.
+[2023.09.23-08.39.01:453][611]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/TMStoragesPack1/Storages/blueprints/Bathroom/BP_BathroomFaucet04'
+[2023.09.23-08.39.01:453][611]LogLinker: Warning: [AssetLog] C:\Users\ngdiy\Documents\GitHub\Serious_Games\Serious_Games\Content\TMStoragesPack1\Levels\Overview.umap: Failed to load '/Game/TMStoragesPack1/Storages/blueprints/Bathroom/BP_BathroomFaucet05': Can't find file.
+[2023.09.23-08.39.01:453][611]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/TMStoragesPack1/Storages/blueprints/Bathroom/BP_BathroomFaucet05'
+[2023.09.23-08.39.01:454][611]LogLinker: Warning: [AssetLog] C:\Users\ngdiy\Documents\GitHub\Serious_Games\Serious_Games\Content\TMStoragesPack1\Levels\Overview.umap: Failed to load '/Game/TMStoragesPack1/Storages/blueprints/Bathroom/BP_BathroomFaucet06': Can't find file.
+[2023.09.23-08.39.01:454][611]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/TMStoragesPack1/Storages/blueprints/Bathroom/BP_BathroomFaucet06'
+[2023.09.23-08.39.01:454][611]LogLinker: Warning: [AssetLog] C:\Users\ngdiy\Documents\GitHub\Serious_Games\Serious_Games\Content\TMStoragesPack1\Levels\Overview.umap: Failed to load '/Game/TMStoragesPack1/Storages/blueprints/Bathroom/BP_BathroomFaucet07': Can't find file.
+[2023.09.23-08.39.01:454][611]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/TMStoragesPack1/Storages/blueprints/Bathroom/BP_BathroomFaucet07'
+[2023.09.23-08.39.01:454][611]LogLinker: Warning: [AssetLog] C:\Users\ngdiy\Documents\GitHub\Serious_Games\Serious_Games\Content\TMStoragesPack1\Levels\Overview.umap: Failed to load '/Game/TMStoragesPack1/Storages/blueprints/Bathroom/BP_BathroomFaucet08': Can't find file.
+[2023.09.23-08.39.01:454][611]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/TMStoragesPack1/Storages/blueprints/Bathroom/BP_BathroomFaucet08'
+[2023.09.23-08.39.01:455][611]LogLinker: Warning: [AssetLog] C:\Users\ngdiy\Documents\GitHub\Serious_Games\Serious_Games\Content\TMStoragesPack1\Levels\Overview.umap: Failed to load '/Game/TMStoragesPack1/Storages/blueprints/Bathroom/BP_BathroomFaucet09': Can't find file.
+[2023.09.23-08.39.01:455][611]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/TMStoragesPack1/Storages/blueprints/Bathroom/BP_BathroomFaucet09'
+[2023.09.23-08.39.01:455][611]LogLinker: Warning: [AssetLog] C:\Users\ngdiy\Documents\GitHub\Serious_Games\Serious_Games\Content\TMStoragesPack1\Levels\Overview.umap: Failed to load '/Game/TMStoragesPack1/Storages/blueprints/Bathroom/BP_BathroomFaucet10': Can't find file.
+[2023.09.23-08.39.01:455][611]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/TMStoragesPack1/Storages/blueprints/Bathroom/BP_BathroomFaucet10'
+[2023.09.23-08.39.01:456][611]LogLinker: Warning: [AssetLog] C:\Users\ngdiy\Documents\GitHub\Serious_Games\Serious_Games\Content\TMStoragesPack1\Levels\Overview.umap: Failed to load '/Game/TMStoragesPack1/Storages/blueprints/Bathroom/BP_BathroomFaucet11': Can't find file.
+[2023.09.23-08.39.01:456][611]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/TMStoragesPack1/Storages/blueprints/Bathroom/BP_BathroomFaucet11'
+[2023.09.23-08.39.01:456][611]LogLinker: Warning: [AssetLog] C:\Users\ngdiy\Documents\GitHub\Serious_Games\Serious_Games\Content\TMStoragesPack1\Levels\Overview.umap: Failed to load '/Game/TMStoragesPack1/Storages/blueprints/Bathroom/BP_BathroomFaucet12': Can't find file.
+[2023.09.23-08.39.01:456][611]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/TMStoragesPack1/Storages/blueprints/Bathroom/BP_BathroomFaucet12'
+[2023.09.23-08.39.01:456][611]LogLinker: Warning: [AssetLog] C:\Users\ngdiy\Documents\GitHub\Serious_Games\Serious_Games\Content\TMStoragesPack1\Levels\Overview.umap: Failed to load '/Game/TMStoragesPack1/Storages/blueprints/Bathroom/BP_BathroomFaucet13': Can't find file.
+[2023.09.23-08.39.01:456][611]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/TMStoragesPack1/Storages/blueprints/Bathroom/BP_BathroomFaucet13'
+[2023.09.23-08.39.01:457][611]LogLinker: Warning: [AssetLog] C:\Users\ngdiy\Documents\GitHub\Serious_Games\Serious_Games\Content\TMStoragesPack1\Levels\Overview.umap: Failed to load '/Game/TMStoragesPack1/Storages/blueprints/Bathroom/BP_BathroomFaucet14': Can't find file.
+[2023.09.23-08.39.01:457][611]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/TMStoragesPack1/Storages/blueprints/Bathroom/BP_BathroomFaucet14'
+[2023.09.23-08.39.01:457][611]LogLinker: Warning: [AssetLog] C:\Users\ngdiy\Documents\GitHub\Serious_Games\Serious_Games\Content\TMStoragesPack1\Levels\Overview.umap: Failed to load '/Game/TMStoragesPack1/Storages/blueprints/Bathroom/BP_BathroomFaucet15': Can't find file.
+[2023.09.23-08.39.01:457][611]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/TMStoragesPack1/Storages/blueprints/Bathroom/BP_BathroomFaucet15'
+[2023.09.23-08.39.01:457][611]LogLinker: Warning: [AssetLog] C:\Users\ngdiy\Documents\GitHub\Serious_Games\Serious_Games\Content\TMStoragesPack1\Levels\Overview.umap: Failed to load '/Game/TMStoragesPack1/Storages/blueprints/Bathroom/BP_BathroomFaucet16': Can't find file.
+[2023.09.23-08.39.01:458][611]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/TMStoragesPack1/Storages/blueprints/Bathroom/BP_BathroomFaucet16'
+[2023.09.23-08.39.01:458][611]LogLinker: Warning: [AssetLog] C:\Users\ngdiy\Documents\GitHub\Serious_Games\Serious_Games\Content\TMStoragesPack1\Levels\Overview.umap: Failed to load '/Game/TMStoragesPack1/Storages/blueprints/Bathroom/BP_BathroomFaucet17': Can't find file.
+[2023.09.23-08.39.01:458][611]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/TMStoragesPack1/Storages/blueprints/Bathroom/BP_BathroomFaucet17'
+[2023.09.23-08.39.01:458][611]LogLinker: Warning: [AssetLog] C:\Users\ngdiy\Documents\GitHub\Serious_Games\Serious_Games\Content\TMStoragesPack1\Levels\Overview.umap: Failed to load '/Game/TMStoragesPack1/Storages/blueprints/Bathroom/BP_BathroomFaucet18': Can't find file.
+[2023.09.23-08.39.01:458][611]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/TMStoragesPack1/Storages/blueprints/Bathroom/BP_BathroomFaucet18'
+[2023.09.23-08.39.01:459][611]LogLinker: Warning: [AssetLog] C:\Users\ngdiy\Documents\GitHub\Serious_Games\Serious_Games\Content\TMStoragesPack1\Levels\Overview.umap: Failed to load '/Game/TMStoragesPack1/Storages/blueprints/Bathroom/BP_BathroomFaucet19': Can't find file.
+[2023.09.23-08.39.01:459][611]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/TMStoragesPack1/Storages/blueprints/Bathroom/BP_BathroomFaucet19'
+[2023.09.23-08.39.01:459][611]LogLinker: Warning: [AssetLog] C:\Users\ngdiy\Documents\GitHub\Serious_Games\Serious_Games\Content\TMStoragesPack1\Levels\Overview.umap: Failed to load '/Game/TMStoragesPack1/Storages/blueprints/Bathroom/BP_BathroomFaucet20': Can't find file.
+[2023.09.23-08.39.01:459][611]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/TMStoragesPack1/Storages/blueprints/Bathroom/BP_BathroomFaucet20'
+[2023.09.23-08.39.01:459][611]LogLinker: Warning: [AssetLog] C:\Users\ngdiy\Documents\GitHub\Serious_Games\Serious_Games\Content\TMStoragesPack1\Levels\Overview.umap: Failed to load '/Game/TMStoragesPack1/Storages/blueprints/Bathroom/BP_BathroomFaucet21': Can't find file.
+[2023.09.23-08.39.01:459][611]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/TMStoragesPack1/Storages/blueprints/Bathroom/BP_BathroomFaucet21'
+[2023.09.23-08.39.01:459][611]LogLinker: Warning: [AssetLog] C:\Users\ngdiy\Documents\GitHub\Serious_Games\Serious_Games\Content\TMStoragesPack1\Levels\Overview.umap: Failed to load '/Game/TMStoragesPack1/Storages/blueprints/Bathroom/BP_BathroomFaucet22': Can't find file.
+[2023.09.23-08.39.01:459][611]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/TMStoragesPack1/Storages/blueprints/Bathroom/BP_BathroomFaucet22'
+[2023.09.23-08.39.01:460][611]LogLinker: Warning: [AssetLog] C:\Users\ngdiy\Documents\GitHub\Serious_Games\Serious_Games\Content\TMStoragesPack1\Levels\Overview.umap: Failed to load '/Game/TMStoragesPack1/Storages/blueprints/Bathroom/BP_BathroomFaucet23': Can't find file.
+[2023.09.23-08.39.01:460][611]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/TMStoragesPack1/Storages/blueprints/Bathroom/BP_BathroomFaucet23'
+[2023.09.23-08.39.01:460][611]LogLinker: Warning: [AssetLog] C:\Users\ngdiy\Documents\GitHub\Serious_Games\Serious_Games\Content\TMStoragesPack1\Levels\Overview.umap: Failed to load '/Game/TMStoragesPack1/Storages/blueprints/Bathroom/BP_BathroomFaucet24': Can't find file.
+[2023.09.23-08.39.01:460][611]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/TMStoragesPack1/Storages/blueprints/Bathroom/BP_BathroomFaucet24'
+[2023.09.23-08.39.01:460][611]LogLinker: Warning: [AssetLog] C:\Users\ngdiy\Documents\GitHub\Serious_Games\Serious_Games\Content\TMStoragesPack1\Levels\Overview.umap: Failed to load '/Game/TMStoragesPack1/Storages/blueprints/KitchenAppliances/BP_KitchenScale02': Can't find file.
+[2023.09.23-08.39.01:460][611]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/TMStoragesPack1/Storages/blueprints/KitchenAppliances/BP_KitchenScale02'
+[2023.09.23-08.39.01:461][611]LogLinker: Warning: [AssetLog] C:\Users\ngdiy\Documents\GitHub\Serious_Games\Serious_Games\Content\TMStoragesPack1\Levels\Overview.umap: Failed to load '/Game/TMStoragesPack1/Storages/blueprints/KitchenAppliances/BP_KitchenScale03': Can't find file.
+[2023.09.23-08.39.01:461][611]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/TMStoragesPack1/Storages/blueprints/KitchenAppliances/BP_KitchenScale03'
+[2023.09.23-08.39.01:461][611]LogLinker: Warning: [AssetLog] C:\Users\ngdiy\Documents\GitHub\Serious_Games\Serious_Games\Content\TMStoragesPack1\Levels\Overview.umap: Failed to load '/Game/TMStoragesPack1/Storages/blueprints/KitchenAppliances/BP_PastryRobot03': Can't find file.
+[2023.09.23-08.39.01:461][611]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/TMStoragesPack1/Storages/blueprints/KitchenAppliances/BP_PastryRobot03'
+[2023.09.23-08.39.01:461][611]LogLinker: Warning: [AssetLog] C:\Users\ngdiy\Documents\GitHub\Serious_Games\Serious_Games\Content\TMStoragesPack1\Levels\Overview.umap: Failed to load '/Game/TMStoragesPack1/Storages/blueprints/KitchenWare/BP_CuttingBoard03': Can't find file.
+[2023.09.23-08.39.01:461][611]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/TMStoragesPack1/Storages/blueprints/KitchenWare/BP_CuttingBoard03'
+[2023.09.23-08.39.01:461][611]LogLinker: Warning: [AssetLog] C:\Users\ngdiy\Documents\GitHub\Serious_Games\Serious_Games\Content\TMStoragesPack1\Levels\Overview.umap: Failed to load '/Game/TMStoragesPack1/Storages/blueprints/KitchenWare/BP_CuttingBoard04': Can't find file.
+[2023.09.23-08.39.01:461][611]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/TMStoragesPack1/Storages/blueprints/KitchenWare/BP_CuttingBoard04'
+[2023.09.23-08.39.01:463][611]LogLinker: Warning: [AssetLog] C:\Users\ngdiy\Documents\GitHub\Serious_Games\Serious_Games\Content\TMStoragesPack1\Levels\Overview.umap: Failed to load '/Game/TMStoragesPack1/Storages/blueprints/KitchenWare/BP_CuttingBoard05': Can't find file.
+[2023.09.23-08.39.01:463][611]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/TMStoragesPack1/Storages/blueprints/KitchenWare/BP_CuttingBoard05'
+[2023.09.23-08.39.01:463][611]LogLinker: Warning: [AssetLog] C:\Users\ngdiy\Documents\GitHub\Serious_Games\Serious_Games\Content\TMStoragesPack1\Levels\Overview.umap: Failed to load '/Game/TMStoragesPack1/Storages/blueprints/KitchenWare/BP_KnifeBlock02': Can't find file.
+[2023.09.23-08.39.01:463][611]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/TMStoragesPack1/Storages/blueprints/KitchenWare/BP_KnifeBlock02'
+[2023.09.23-08.39.01:463][611]LogLinker: Warning: [AssetLog] C:\Users\ngdiy\Documents\GitHub\Serious_Games\Serious_Games\Content\TMStoragesPack1\Levels\Overview.umap: Failed to load '/Game/TMStoragesPack1/Storages/blueprints/KitchenWare/BP_KnifeBlock02Knife01': Can't find file.
+[2023.09.23-08.39.01:463][611]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/TMStoragesPack1/Storages/blueprints/KitchenWare/BP_KnifeBlock02Knife01'
+[2023.09.23-08.39.01:464][611]LogLinker: Warning: [AssetLog] C:\Users\ngdiy\Documents\GitHub\Serious_Games\Serious_Games\Content\TMStoragesPack1\Levels\Overview.umap: Failed to load '/Game/TMStoragesPack1/Storages/blueprints/KitchenWare/BP_KnifeBlock02Knife02': Can't find file.
+[2023.09.23-08.39.01:464][611]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/TMStoragesPack1/Storages/blueprints/KitchenWare/BP_KnifeBlock02Knife02'
+[2023.09.23-08.39.01:464][611]LogLinker: Warning: [AssetLog] C:\Users\ngdiy\Documents\GitHub\Serious_Games\Serious_Games\Content\TMStoragesPack1\Levels\Overview.umap: Failed to load '/Game/TMStoragesPack1/Storages/blueprints/KitchenWare/BP_KnifeBlock02Knife03': Can't find file.
+[2023.09.23-08.39.01:464][611]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/TMStoragesPack1/Storages/blueprints/KitchenWare/BP_KnifeBlock02Knife03'
+[2023.09.23-08.39.01:465][611]LogLinker: Warning: [AssetLog] C:\Users\ngdiy\Documents\GitHub\Serious_Games\Serious_Games\Content\TMStoragesPack1\Levels\Overview.umap: Failed to load '/Game/TMStoragesPack1/Storages/blueprints/KitchenWare/BP_KnifeBlock02Knife04': Can't find file.
+[2023.09.23-08.39.01:465][611]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/TMStoragesPack1/Storages/blueprints/KitchenWare/BP_KnifeBlock02Knife04'
+[2023.09.23-08.39.01:465][611]LogLinker: Warning: [AssetLog] C:\Users\ngdiy\Documents\GitHub\Serious_Games\Serious_Games\Content\TMStoragesPack1\Levels\Overview.umap: Failed to load '/Game/TMStoragesPack1/Storages/blueprints/KitchenWare/BP_KnifeBlock02Knife05': Can't find file.
+[2023.09.23-08.39.01:465][611]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/TMStoragesPack1/Storages/blueprints/KitchenWare/BP_KnifeBlock02Knife05'
+[2023.09.23-08.39.01:465][611]LogLinker: Warning: [AssetLog] C:\Users\ngdiy\Documents\GitHub\Serious_Games\Serious_Games\Content\TMStoragesPack1\Levels\Overview.umap: Failed to load '/Game/TMStoragesPack1/Storages/blueprints/KitchenWare/BP_KnifeBlock02Knife06': Can't find file.
+[2023.09.23-08.39.01:465][611]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/TMStoragesPack1/Storages/blueprints/KitchenWare/BP_KnifeBlock02Knife06'
+[2023.09.23-08.39.01:466][611]LogLinker: Warning: [AssetLog] C:\Users\ngdiy\Documents\GitHub\Serious_Games\Serious_Games\Content\TMStoragesPack1\Levels\Overview.umap: Failed to load '/Game/TMStoragesPack1/Storages/blueprints/KitchenWare/BP_KnifeBlock02Knife07': Can't find file.
+[2023.09.23-08.39.01:466][611]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/TMStoragesPack1/Storages/blueprints/KitchenWare/BP_KnifeBlock02Knife07'
+[2023.09.23-08.39.01:466][611]LogLinker: Warning: [AssetLog] C:\Users\ngdiy\Documents\GitHub\Serious_Games\Serious_Games\Content\TMStoragesPack1\Levels\Overview.umap: Failed to load '/Game/TMStoragesPack1/Storages/blueprints/KitchenWare/BP_KnifeBlock02Knife08': Can't find file.
+[2023.09.23-08.39.01:466][611]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/TMStoragesPack1/Storages/blueprints/KitchenWare/BP_KnifeBlock02Knife08'
+[2023.09.23-08.39.08:010][611]LogLinker: Warning: [AssetLog] C:\Users\ngdiy\Documents\GitHub\Serious_Games\Serious_Games\Content\TMStoragesPack1\Levels\Overview.umap: Failed to load '/HDRIBackdrop/Blueprints/HDRIBackdrop': Can't find file.
+[2023.09.23-08.39.08:010][611]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /HDRIBackdrop/Blueprints/HDRIBackdrop'
+[2023.09.23-08.39.08:021][611]LogLinker: Warning: [AssetLog] C:\Users\ngdiy\Documents\GitHub\Serious_Games\Serious_Games\Content\TMStoragesPack1\Levels\Overview.umap: Failed to load '/HDRIBackdrop/Materials/MI_HDRI_CenterProjection': Can't find file.
+[2023.09.23-08.39.08:022][611]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /HDRIBackdrop/Materials/MI_HDRI_CenterProjection'
+[2023.09.23-08.39.08:395][611]LogTexture: Display: Building textures: /Game/TMStoragesPack1/Storages/_common/textures/T_WoodPlywoodSide01_R.T_WoodPlywoodSide01_R (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.09.23-08.39.08:395][611]LogMaterial: Display: Missing cached shadermap for MI_FabricVelvetClean01CirclesBlue01 in PCD3D_SM5, Default, SM5 (DDC key hash: 6D6F94A378CFEC1047B14682B426E4F1E110C65C), compiling. 
+[2023.09.23-08.39.08:641][611]LogMaterial: Display: Missing cached shadermap for M_Base in PCD3D_SM5, Default, SM5 (DDC key hash: FE48A922108A9E22A618D47FCCAFF60B4CC73E6A), compiling. 
+[2023.09.23-08.39.08:799][611]LogTexture: Display: Building textures: /Game/TMStoragesPack1/Storages/_common/textures/T_FabricClean01_BC.T_FabricClean01_BC (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.09.23-08.39.08:799][611]LogShaderCompilers: Display: ================================================
+[2023.09.23-08.39.08:799][611]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.09.23-08.39.08:799][611]LogShaderCompilers: Display: Total job queries 145, among them cache hits 0 (0.00%)
+[2023.09.23-08.39.08:799][611]LogShaderCompilers: Display: Tracking 8 distinct input hashes that result in 7 distinct outputs (87.50%)
+[2023.09.23-08.39.08:799][611]LogShaderCompilers: Display: RAM used: 0.03 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2023.09.23-08.39.08:799][611]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.09.23-08.39.08:799][611]LogShaderCompilers: Display: Shaders Compiled: 145
+[2023.09.23-08.39.08:800][611]LogShaderCompilers: Display: Jobs assigned 74, completed 8 (10.81%)
+[2023.09.23-08.39.08:800][611]LogShaderCompilers: Display: Average time worker was idle: 0.91 s
+[2023.09.23-08.39.08:800][611]LogShaderCompilers: Display: Time job spent in pending queue: average 0.04 s, longest 0.05 s
+[2023.09.23-08.39.08:800][611]LogShaderCompilers: Display: Job execution time: average 33.77 s, max 33.77 s
+[2023.09.23-08.39.08:800][611]LogShaderCompilers: Display: Job life time (pending + execution): average 33.80 s, max 33.81
+[2023.09.23-08.39.08:800][611]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 33.81 s
+[2023.09.23-08.39.08:800][611]LogShaderCompilers: Display: Jobs were issued in 9 batches (only local compilation was used), average 8.22 jobs/batch
+[2023.09.23-08.39.08:800][611]LogShaderCompilers: Display: Average processing rate: 0.24 jobs/sec
+[2023.09.23-08.39.08:800][611]LogShaderCompilers: Display: Effective parallelization: 0.94 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.09.23-08.39.08:800][611]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.09.23-08.39.08:800][611]LogShaderCompilers: Display:             TBasePassPSFSelfShadowedVolumetricLightmapPolicy (compiled    1 times, average 10.52 sec, max 10.52 sec, min 10.52 sec)
+[2023.09.23-08.39.08:800][611]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    1 times, average 9.75 sec, max 9.75 sec, min 9.75 sec)
+[2023.09.23-08.39.08:800][611]LogShaderCompilers: Display:                        FLumenTranslucencyRadianceCacheMarkVS (compiled    1 times, average 4.24 sec, max 4.24 sec, min 4.24 sec)
+[2023.09.23-08.39.08:800][611]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    1 times, average 2.19 sec, max 2.19 sec, min 2.19 sec)
+[2023.09.23-08.39.08:800][611]LogShaderCompilers: Display:      TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy (compiled    1 times, average 1.81 sec, max 1.81 sec, min 1.81 sec)
+[2023.09.23-08.39.08:800][611]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.09.23-08.39.08:800][611]LogShaderCompilers: Display:             TBasePassPSFSelfShadowedVolumetricLightmapPolicy - 33.21% of total time (compiled    1 times, average 10.52 sec, max 10.52 sec, min 10.52 sec)
+[2023.09.23-08.39.08:800][611]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 30.80% of total time (compiled    1 times, average 9.75 sec, max 9.75 sec, min 9.75 sec)
+[2023.09.23-08.39.08:800][611]LogShaderCompilers: Display:                        FLumenTranslucencyRadianceCacheMarkVS - 13.40% of total time (compiled    1 times, average 4.24 sec, max 4.24 sec, min 4.24 sec)
+[2023.09.23-08.39.08:800][611]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 6.91% of total time (compiled    1 times, average 2.19 sec, max 2.19 sec, min 2.19 sec)
+[2023.09.23-08.39.08:800][611]LogShaderCompilers: Display:      TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy - 5.73% of total time (compiled    1 times, average 1.81 sec, max 1.81 sec, min 1.81 sec)
+[2023.09.23-08.39.08:800][611]LogShaderCompilers: Display: ================================================
+[2023.09.23-08.39.09:052][611]LogStaticMesh: Display: Building static mesh SM_BainMarieTrolley01...
+[2023.09.23-08.39.09:052][611]LogTexture: Display: Building textures: /Game/TMStoragesPack1/Storages/_common/textures/T_WoodPlywoodSide01_BC.T_WoodPlywoodSide01_BC (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.09.23-08.39.09:052][611]LogStaticMesh: Built static mesh [0.20s] /Game/TMStoragesPack1/Storages/meshes/Storage/BainMarieTrolley01/SM_BainMarieTrolley01.SM_BainMarieTrolley01
+[2023.09.23-08.39.09:052][611]LogObjectTools: Deleting 1 worlds: /Game/TMStoragesPack1/Levels/Overview.Overview
+[2023.09.23-08.39.09:052][611]LogObjectTools: Currently 4 active worlds: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap, /Engine/Transient.World_0, /Engine/Transient.World_1, /Engine/Transient.World_2
+[2023.09.23-08.39.09:133][611]LogTexture: Display: Building textures: /Game/TMStoragesPack1/Storages/_common/textures/T_WoodPlywoodSide01_N.T_WoodPlywoodSide01_N (TFO_BC5, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.09.23-08.39.09:316][611]LogTexture: Display: Building textures: /Game/TMStoragesPack1/Storages/_common/textures/T_FabricClean01_N.T_FabricClean01_N (TFO_BC5, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.09.23-08.39.09:331][611]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2023.09.23-08.39.09:511][611]LogStaticMesh: Display: Building static mesh SM_Cabinet01...
+[2023.09.23-08.39.09:529][611]LogStaticMesh: Display: Building static mesh SM_Cabinet02...
+[2023.09.23-08.39.09:569][611]LogStaticMesh: Display: Building static mesh SM_Cabinet03...
+[2023.09.23-08.39.09:574][611]LogStaticMesh: Display: Building static mesh SM_KitchenFaucet01...
+[2023.09.23-08.39.09:699][611]LogStaticMesh: Built static mesh [0.17s] /Game/TMStoragesPack1/Storages/meshes/Storage/Cabinet02/SM_Cabinet02.SM_Cabinet02
+[2023.09.23-08.39.09:717][611]LogStaticMesh: Display: Building static mesh SM_KitchenFaucet01Spout...
+[2023.09.23-08.39.09:728][611]LogStaticMesh: Built static mesh [0.25s] /Game/TMStoragesPack1/Storages/meshes/Storage/Cabinet01/SM_Cabinet01.SM_Cabinet01
+[2023.09.23-08.39.09:746][611]LogStaticMesh: Display: Building static mesh SM_GlassChampagne01...
+[2023.09.23-08.39.09:764][611]LogStaticMesh: Built static mesh [0.05s] /Game/TMStoragesPack1/Storages/meshes/Storage/KitchenFaucet01/SM_KitchenFaucet01Spout.SM_KitchenFaucet01Spout
+[2023.09.23-08.39.09:771][611]LogStaticMesh: Display: Building static mesh SM_GlassShot01...
+[2023.09.23-08.39.09:800][611]LogStaticMesh: Built static mesh [0.23s] /Game/TMStoragesPack1/Storages/meshes/Storage/Cabinet03/SM_Cabinet03.SM_Cabinet03
+[2023.09.23-08.39.09:818][611]LogStaticMesh: Display: Building static mesh SM_ServingTray02...
+[2023.09.23-08.39.09:818][611]LogStaticMesh: Built static mesh [0.04s] /Game/TMStoragesPack1/Storages/meshes/KitchenWare/GlassShot01/SM_GlassShot01.SM_GlassShot01
+[2023.09.23-08.39.09:818][611]LogStaticMesh: Display: Building static mesh SM_WashBin06Plates02...
+[2023.09.23-08.39.09:819][611]LogStaticMesh: Built static mesh [0.25s] /Game/TMStoragesPack1/Storages/meshes/Storage/KitchenFaucet01/SM_KitchenFaucet01.SM_KitchenFaucet01
+[2023.09.23-08.39.09:843][611]LogStaticMesh: Display: Building static mesh SM_KnifeBlock02Set...
+[2023.09.23-08.39.09:910][611]LogStaticMesh: Display: Building static mesh SM_DishCabinet01...
+[2023.09.23-08.39.09:971][611]LogStaticMesh: Built static mesh [0.16s] /Game/TMStoragesPack1/Storages/meshes/KitchenWare/ServingTray02/SM_ServingTray02.SM_ServingTray02
+[2023.09.23-08.39.09:983][611]LogStaticMesh: Built static mesh [0.24s] /Game/TMStoragesPack1/Storages/meshes/KitchenWare/GlassChampagne01/SM_GlassChampagne01.SM_GlassChampagne01
+[2023.09.23-08.39.09:983][611]LogStaticMesh: Display: Building static mesh SM_DishCabinet01Bin...
+[2023.09.23-08.39.10:001][611]LogStaticMesh: Display: Building static mesh SM_DishCabinet01Rack...
+[2023.09.23-08.39.10:164][611]LogStaticMesh: Built static mesh [0.16s] /Game/TMStoragesPack1/Storages/meshes/Storage/DishCabinet01/SM_DishCabinet01Rack.SM_DishCabinet01Rack
+[2023.09.23-08.39.10:171][611]LogStaticMesh: Display: Building static mesh SM_DishCabinet01Washer...
+[2023.09.23-08.39.10:237][611]LogStaticMesh: Built static mesh [0.32s] /Game/TMStoragesPack1/Storages/meshes/Storage/DishCabinet01/SM_DishCabinet01.SM_DishCabinet01
+[2023.09.23-08.39.10:263][611]LogStaticMesh: Display: Building static mesh SM_KitchenFaucet04...
+[2023.09.23-08.39.10:371][611]LogStaticMesh: Built static mesh [0.39s] /Game/TMStoragesPack1/Storages/meshes/Storage/DishCabinet01/SM_DishCabinet01Bin.SM_DishCabinet01Bin
+[2023.09.23-08.39.10:381][611]LogStaticMesh: Built static mesh [0.11s] /Game/TMStoragesPack1/Storages/meshes/Storage/KitchenFaucet04/SM_KitchenFaucet04.SM_KitchenFaucet04
+[2023.09.23-08.39.10:389][611]LogStaticMesh: Display: Building static mesh SM_KitchenFaucet04Handle...
+[2023.09.23-08.39.10:399][611]LogStaticMesh: Display: Building static mesh SM_KitchenFaucet04Spout...
+[2023.09.23-08.39.10:399][611]LogStaticMesh: Built static mesh [0.23s] /Game/TMStoragesPack1/Storages/meshes/Storage/DishCabinet01/SM_DishCabinet01Washer.SM_DishCabinet01Washer
+[2023.09.23-08.39.10:399][611]LogStaticMesh: Built static mesh [0.02s] /Game/TMStoragesPack1/Storages/meshes/Storage/KitchenFaucet04/SM_KitchenFaucet04Handle.SM_KitchenFaucet04Handle
+[2023.09.23-08.39.10:407][611]LogStaticMesh: Display: Building static mesh SM_DishCabinet02...
+[2023.09.23-08.39.10:417][611]LogStaticMesh: Display: Building static mesh SM_KitchenFaucet03...
+[2023.09.23-08.39.10:435][611]LogStaticMesh: Built static mesh [0.01s] /Game/TMStoragesPack1/Storages/meshes/Storage/KitchenFaucet03/SM_KitchenFaucet03.SM_KitchenFaucet03
+[2023.09.23-08.39.10:435][611]LogStaticMesh: Display: Building static mesh SM_KitchenFaucet03Handle...
+[2023.09.23-08.39.10:472][611]LogStaticMesh: Built static mesh [0.04s] /Game/TMStoragesPack1/Storages/meshes/Storage/KitchenFaucet03/SM_KitchenFaucet03Handle.SM_KitchenFaucet03Handle
+[2023.09.23-08.39.10:478][611]LogStaticMesh: Display: Building static mesh SM_KitchenFaucet03Spout...
+[2023.09.23-08.39.10:587][611]LogStaticMesh: Built static mesh [0.11s] /Game/TMStoragesPack1/Storages/meshes/Storage/KitchenFaucet03/SM_KitchenFaucet03Spout.SM_KitchenFaucet03Spout
+[2023.09.23-08.39.10:653][611]LogStaticMesh: Built static mesh [0.25s] /Game/TMStoragesPack1/Storages/meshes/Storage/KitchenFaucet04/SM_KitchenFaucet04Spout.SM_KitchenFaucet04Spout
+[2023.09.23-08.39.10:673][611]LogStaticMesh: Built static mesh [0.83s] /Game/TMStoragesPack1/Storages/meshes/KitchenWare/KnifeBlock02/SM_KnifeBlock02Set.SM_KnifeBlock02Set
+[2023.09.23-08.39.10:690][611]LogStaticMesh: Display: Building static mesh SM_ServingTray03...
+[2023.09.23-08.39.10:696][611]LogStaticMesh: Built static mesh [0.29s] /Game/TMStoragesPack1/Storages/meshes/Storage/DishCabinet02/SM_DishCabinet02.SM_DishCabinet02
+[2023.09.23-08.39.10:726][611]LogStaticMesh: Display: Building static mesh SM_WashBin03...
+[2023.09.23-08.39.10:752][611]LogStaticMesh: Display: Building static mesh SM_WashBin05Cutlery...
+[2023.09.23-08.39.10:806][611]LogStaticMesh: Display: Building static mesh SM_WashBin06Plates01...
+[2023.09.23-08.39.11:098][611]LogStaticMesh: Built static mesh [0.37s] /Game/TMStoragesPack1/Storages/meshes/KitchenWare/WashBin03/SM_WashBin03.SM_WashBin03
+[2023.09.23-08.39.11:127][611]LogStaticMesh: Display: Building static mesh SM_DishCabinet03RackGlasses01...
+[2023.09.23-08.39.11:587][611]LogStaticMesh: Built static mesh [0.91s] /Game/TMStoragesPack1/Storages/meshes/KitchenWare/ServingTray03/SM_ServingTray03.SM_ServingTray03
+[2023.09.23-08.39.11:668][611]LogStaticMesh: Display: Building static mesh SM_KitchenFaucet02...
+[2023.09.23-08.39.11:768][611]LogStaticMesh: Built static mesh [0.10s] /Game/TMStoragesPack1/Storages/meshes/Storage/KitchenFaucet02/SM_KitchenFaucet02.SM_KitchenFaucet02
+[2023.09.23-08.39.11:777][611]LogStaticMesh: Display: Building static mesh SM_KitchenFaucet02Handle...
+[2023.09.23-08.39.11:805][611]LogStaticMesh: Built static mesh [0.02s] /Game/TMStoragesPack1/Storages/meshes/Storage/KitchenFaucet02/SM_KitchenFaucet02Handle.SM_KitchenFaucet02Handle
+[2023.09.23-08.39.11:805][611]LogStaticMesh: Display: Building static mesh SM_KitchenFaucet02Spout...
+[2023.09.23-08.39.11:860][611]LogStaticMesh: Built static mesh [0.06s] /Game/TMStoragesPack1/Storages/meshes/Storage/KitchenFaucet02/SM_KitchenFaucet02Spout.SM_KitchenFaucet02Spout
+[2023.09.23-08.39.11:924][611]LogStaticMesh: Display: Building static mesh SM_KitchenTrolley02...
+[2023.09.23-08.39.11:980][611]LogStaticMesh: Built static mesh [0.05s] /Game/TMStoragesPack1/Storages/meshes/Storage/KitchenTrolley02/SM_KitchenTrolley02.SM_KitchenTrolley02
+[2023.09.23-08.39.11:980][611]LogStaticMesh: Display: Building static mesh SM_Library02...
+[2023.09.23-08.39.12:024][611]LogStaticMesh: Built static mesh [1.22s] /Game/TMStoragesPack1/Storages/meshes/KitchenWare/WashBin06/SM_WashBin06Plates01.SM_WashBin06Plates01
+[2023.09.23-08.39.12:079][611]LogStaticMesh: Built static mesh [0.10s] /Game/TMStoragesPack1/Storages/meshes/Storage/Library02/SM_Library02.SM_Library02
+[2023.09.23-08.39.12:088][611]LogStaticMesh: Display: Building static mesh SM_Library02Base...
+[2023.09.23-08.39.12:116][611]LogStaticMesh: Built static mesh [0.02s] /Game/TMStoragesPack1/Storages/meshes/Storage/Library02/SM_Library02Base.SM_Library02Base
+[2023.09.23-08.39.12:117][611]LogStaticMesh: Display: Building static mesh SM_Library04...
+[2023.09.23-08.39.12:179][611]LogStaticMesh: Display: Building static mesh SM_Library05...
+[2023.09.23-08.39.12:426][611]LogStaticMesh: Built static mesh [0.25s] /Game/TMStoragesPack1/Storages/meshes/Storage/Library05/SM_Library05.SM_Library05
+[2023.09.23-08.39.12:435][611]LogStaticMesh: Display: Building static mesh SM_Library06...
+[2023.09.23-08.39.12:473][611]LogStaticMesh: Built static mesh [0.03s] /Game/TMStoragesPack1/Storages/meshes/Storage/Library06/SM_Library06.SM_Library06
+[2023.09.23-08.39.12:516][611]LogStaticMesh: Display: Building static mesh SM_Library09...
+[2023.09.23-08.39.12:637][611]LogStaticMesh: Built static mesh [0.12s] /Game/TMStoragesPack1/Storages/meshes/Storage/Library09/SM_Library09.SM_Library09
+[2023.09.23-08.39.12:637][611]LogStaticMesh: Display: Building static mesh SM_StorageBox01...
+[2023.09.23-08.39.12:663][611]LogStaticMesh: Built static mesh [0.03s] /Game/TMStoragesPack1/Storages/meshes/Storage/StorageBox01/SM_StorageBox01.SM_StorageBox01
+[2023.09.23-08.39.12:675][611]LogStaticMesh: Display: Building static mesh SM_Library10...
+[2023.09.23-08.39.12:841][611]LogStaticMesh: Built static mesh [0.17s] /Game/TMStoragesPack1/Storages/meshes/Storage/Library10/SM_Library10.SM_Library10
+[2023.09.23-08.39.12:914][611]LogStaticMesh: Display: Building static mesh SM_Library12...
+[2023.09.23-08.39.12:969][611]LogStaticMesh: Built static mesh [0.05s] /Game/TMStoragesPack1/Storages/meshes/Storage/Library12/SM_Library12.SM_Library12
+[2023.09.23-08.39.12:969][611]LogStaticMesh: Display: Building static mesh SM_Library13...
+[2023.09.23-08.39.13:084][611]LogStaticMesh: Built static mesh [0.12s] /Game/TMStoragesPack1/Storages/meshes/Storage/Library13/SM_Library13.SM_Library13
+[2023.09.23-08.39.13:100][611]LogStaticMesh: Built static mesh [3.28s] /Game/TMStoragesPack1/Storages/meshes/KitchenWare/WashBin06/SM_WashBin06Plates02.SM_WashBin06Plates02
+[2023.09.23-08.39.13:154][611]LogStaticMesh: Display: Building static mesh SM_Library15...
+[2023.09.23-08.39.13:356][611]LogStaticMesh: Built static mesh [0.20s] /Game/TMStoragesPack1/Storages/meshes/Storage/Library15/SM_Library15.SM_Library15
+[2023.09.23-08.39.13:428][611]LogStaticMesh: Display: Building static mesh SM_Library19...
+[2023.09.23-08.39.13:432][611]LogStaticMesh: Built static mesh [2.68s] /Game/TMStoragesPack1/Storages/meshes/KitchenWare/WashBin05/SM_WashBin05Cutlery.SM_WashBin05Cutlery
+[2023.09.23-08.39.13:446][611]LogStaticMesh: Display: Building static mesh SM_Library20...
+[2023.09.23-08.39.13:558][611]LogStaticMesh: Built static mesh [0.14s] /Game/TMStoragesPack1/Storages/meshes/Storage/Library19/SM_Library19.SM_Library19
+[2023.09.23-08.39.13:576][611]LogStaticMesh: Display: Building static mesh SM_Library01Part02...
+[2023.09.23-08.39.13:594][611]LogStaticMesh: Built static mesh [0.02s] /Game/TMStoragesPack1/Storages/meshes/Storage/Library01/SM_Library01Part02.SM_Library01Part02
+[2023.09.23-08.39.13:596][611]LogStaticMesh: Built static mesh [0.15s] /Game/TMStoragesPack1/Storages/meshes/Storage/Library20/SM_Library20.SM_Library20
+[2023.09.23-08.39.13:839][611]LogStaticMesh: Display: Building static mesh SM_AppleSculpture01...
+[2023.09.23-08.39.13:954][611]LogStaticMesh: Display: Building static mesh SM_CandleStick01...
+[2023.09.23-08.39.13:973][611]LogStaticMesh: Display: Building static mesh SM_Book04...
+[2023.09.23-08.39.14:030][611]LogStaticMesh: Built static mesh [0.05s] /Game/TMStoragesPack1/Storages/meshes/Books/Book04/SM_Book04.SM_Book04
+[2023.09.23-08.39.14:030][611]LogStaticMesh: Display: Building static mesh SM_Candle03...
+[2023.09.23-08.39.14:086][611]LogStaticMesh: Built static mesh [0.06s] /Game/TMStoragesPack1/Storages/meshes/Decorations/Candle03/SM_Candle03.SM_Candle03
+[2023.09.23-08.39.14:086][611]LogStaticMesh: Built static mesh [0.13s] /Game/TMStoragesPack1/Storages/meshes/Decorations/CandleStick01/SM_CandleStick01.SM_CandleStick01
+[2023.09.23-08.39.14:086][611]LogStaticMesh: Display: Building static mesh SM_CandleStick03...
+[2023.09.23-08.39.14:094][611]LogStaticMesh: Display: Building static mesh SM_CandleStick04...
+[2023.09.23-08.39.14:219][611]LogStaticMesh: Built static mesh [0.37s] /Game/TMStoragesPack1/Storages/meshes/Decorations/AppleSculpture01/SM_AppleSculpture01.SM_AppleSculpture01
+[2023.09.23-08.39.14:239][611]LogStaticMesh: Display: Building static mesh SM_CandleStick05...
+[2023.09.23-08.39.14:314][611]LogStaticMesh: Built static mesh [0.22s] /Game/TMStoragesPack1/Storages/meshes/Decorations/CandleStick03/SM_CandleStick03.SM_CandleStick03
+[2023.09.23-08.39.14:316][611]LogStaticMesh: Built static mesh [0.23s] /Game/TMStoragesPack1/Storages/meshes/Decorations/CandleStick04/SM_CandleStick04.SM_CandleStick04
+[2023.09.23-08.39.14:509][611]LogStaticMesh: Built static mesh [0.26s] /Game/TMStoragesPack1/Storages/meshes/Decorations/CandleStick05/SM_CandleStick05.SM_CandleStick05
+[2023.09.23-08.39.14:509][611]LogStaticMesh: Display: Building static mesh SM_Toy24...
+[2023.09.23-08.39.14:528][611]LogStaticMesh: Display: Building static mesh SM_MuralShelves01...
+[2023.09.23-08.39.14:528][611]LogStaticMesh: Display: Building static mesh SM_Shelves01...
+[2023.09.23-08.39.14:599][611]LogStaticMesh: Built static mesh [0.08s] /Game/TMStoragesPack1/Storages/meshes/Storage/MuralShelves01/SM_MuralShelves01.SM_MuralShelves01
+[2023.09.23-08.39.14:611][611]LogStaticMesh: Display: Building static mesh SM_Shelves01Shelf...
+[2023.09.23-08.39.14:709][611]LogStaticMesh: Built static mesh [0.17s] /Game/TMStoragesPack1/Storages/meshes/Storage/Shelves01/SM_Shelves01.SM_Shelves01
+[2023.09.23-08.39.14:841][611]LogStaticMesh: Built static mesh [0.23s] /Game/TMStoragesPack1/Storages/meshes/Storage/Shelves01/SM_Shelves01Shelf.SM_Shelves01Shelf
+[2023.09.23-08.39.14:847][611]LogStaticMesh: Display: Building static mesh SM_HardwareHandle01...
+[2023.09.23-08.39.14:869][611]LogStaticMesh: Built static mesh [0.02s] /Game/TMStoragesPack1/Storages/meshes/Decorations/HardwareHandle01/SM_HardwareHandle01.SM_HardwareHandle01
+[2023.09.23-08.39.14:880][611]LogStaticMesh: Display: Building static mesh SM_Storage01...
+[2023.09.23-08.39.15:054][611]LogStaticMesh: Display: Building static mesh SM_DecoMirror01...
+[2023.09.23-08.39.15:069][611]LogStaticMesh: Built static mesh [0.20s] /Game/TMStoragesPack1/Storages/meshes/Storage/Storage01/SM_Storage01.SM_Storage01
+[2023.09.23-08.39.15:070][611]LogStaticMesh: Built static mesh [0.02s] /Game/TMStoragesPack1/Storages/meshes/Decorations/DecoMirror01/SM_DecoMirror01.SM_DecoMirror01
+[2023.09.23-08.39.15:074][611]LogStaticMesh: Display: Building static mesh SM_HardwareHandle02...
+[2023.09.23-08.39.15:074][611]LogSlate: Window 'Delete Assets' being destroyed
+[2023.09.23-08.39.15:082][611]LogStaticMesh: Display: Building static mesh SM_Storage02...
+[2023.09.23-08.39.15:082][611]LogStaticMesh: Built static mesh [0.01s] /Game/TMStoragesPack1/Storages/meshes/Decorations/HardwareHandle02/SM_HardwareHandle02.SM_HardwareHandle02
+[2023.09.23-08.39.15:082][611]LogWorld: UWorld::CleanupWorld for Overview, bSessionEnded=true, bCleanupResources=true
+[2023.09.23-08.39.15:084][611]LogStaticMesh: Display: Building static mesh SM_Storage03...
+[2023.09.23-08.39.15:084][611]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.23-08.39.15:107][611]LogTexture: Display: Waiting for textures to be ready 5/86 (/Game/TMStoragesPack1/Storages/_common/textures/T_FabricClean01_R) ...
+[2023.09.23-08.39.16:094][611]LogStaticMesh: Built static mesh [0.25s] /Game/TMStoragesPack1/Storages/meshes/Storage/Storage03/SM_Storage03.SM_Storage03
+[2023.09.23-08.39.16:095][611]LogStaticMesh: Built static mesh [0.31s] /Game/TMStoragesPack1/Storages/meshes/Storage/Storage02/SM_Storage02.SM_Storage02
+[2023.09.23-08.39.16:095][611]LogStaticMesh: Built static mesh [3.39s] /Game/TMStoragesPack1/Storages/meshes/Storage/Library04/SM_Library04.SM_Library04
+[2023.09.23-08.39.16:095][611]LogTexture: Display: Building textures: /Game/TMStoragesPack1/Storages/_common/textures/T_FabricClean01_R.T_FabricClean01_R (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.09.23-08.39.16:095][611]LogTexture: Display: Building textures: /Game/TMStoragesPack1/Storages/_common/textures/T_FabricClean01Circles_BC.T_FabricClean01Circles_BC (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.09.23-08.39.16:095][611]LogStaticMesh: Built static mesh [4.86s] /Game/TMStoragesPack1/Storages/meshes/Storage/DishCabinet03/SM_DishCabinet03RackGlasses01.SM_DishCabinet03RackGlasses01
+[2023.09.23-08.39.16:210][611]LogTexture: Display: Waiting for textures to be ready 6/86 (/Game/TMStoragesPack1/Storages/_common/textures/T_FabricClean01Circles_BC) ...
+[2023.09.23-08.39.16:266][611]LogTexture: Display: Waiting for textures to be ready 7/86 (/Game/TMStoragesPack1/Storages/_common/textures/T_FabricVelvetClean01_N) ...
+[2023.09.23-08.39.16:353][611]LogTexture: Display: Building textures: /Game/TMStoragesPack1/Storages/_common/textures/T_FabricVelvetClean01_R.T_FabricVelvetClean01_R (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.09.23-08.39.16:771][611]LogStaticMesh: Built static mesh [2.24s] /Game/TMStoragesPack1/Storages/meshes/ToysGames/Toy24/SM_Toy24.SM_Toy24
+[2023.09.23-08.39.16:771][611]LogTexture: Display: Building textures: /Game/TMStoragesPack1/Storages/_common/textures/T_FabricVelvetClean01_N.T_FabricVelvetClean01_N (TFO_BC5, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.09.23-08.39.16:980][611]LogTexture: Display: Building textures: /Game/TMStoragesPack1/Storages/meshes/Storage/Library19/textures/T_Library19_BC.T_Library19_BC (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.09.23-08.39.16:980][611]LogTexture: Display: Building textures: /Game/TMStoragesPack1/Storages/meshes/Storage/Library19/textures/T_Library19_R.T_Library19_R (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.09.23-08.39.17:094][611]LogTexture: Display: Waiting for textures to be ready 9/86 (/Game/TMStoragesPack1/Storages/meshes/Storage/Library19/textures/T_Library19_BC) ...
+[2023.09.23-08.39.17:494][611]LogTexture: Display: Waiting for textures to be ready 10/86 (/Game/TMStoragesPack1/Storages/meshes/Storage/Library19/textures/T_Library19_N) ...
+[2023.09.23-08.39.17:825][611]LogTexture: Display: Building textures: /Game/TMStoragesPack1/Storages/meshes/Decorations/AppleSculpture01/textures/T_AppleSculpture01_M.T_AppleSculpture01_M (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.09.23-08.39.17:825][611]LogTexture: Display: Building textures: /Game/TMStoragesPack1/Storages/meshes/Decorations/AppleSculpture01/textures/T_AppleSculpture01_MT.T_AppleSculpture01_MT (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.09.23-08.39.17:825][611]LogTexture: Display: Building textures: /Game/TMStoragesPack1/Storages/meshes/Storage/Library19/textures/T_Library19_N.T_Library19_N (TFO_BC5, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.09.23-08.39.18:034][611]LogTexture: Display: Building textures: /Game/TMStoragesPack1/Storages/meshes/Decorations/AppleSculpture01/textures/T_AppleSculpture01_N.T_AppleSculpture01_N (TFO_BC5, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.09.23-08.39.18:034][611]LogTexture: Display: Building textures: /Game/TMStoragesPack1/Storages/meshes/Decorations/AppleSculpture01/textures/T_AppleSculpture01_BC.T_AppleSculpture01_BC (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.09.23-08.39.18:406][611]LogTexture: Display: Waiting for textures to be ready 26/86 (/Game/TMStoragesPack1/Storages/meshes/Decorations/AppleSculpture01/textures/T_AppleSculpture01_BC) ...
+[2023.09.23-08.39.18:506][611]LogTexture: Display: Waiting for textures to be ready 30/86 (/Game/TMStoragesPack1/Storages/meshes/Decorations/AppleSculpture01/textures/T_AppleSculpture01_R) ...
+[2023.09.23-08.39.18:661][611]LogTexture: Display: Building textures: /Game/TMStoragesPack1/Storages/meshes/Decorations/AppleSculpture01/textures/T_AppleSculpture01_R.T_AppleSculpture01_R (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.09.23-08.39.19:002][611]LogTexture: Display: Building textures: /Game/TMStoragesPack1/Storages/_common/textures/T_WoodCedarPlank02_R.T_WoodCedarPlank02_R (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.09.23-08.39.19:002][611]LogTexture: Display: Waiting for textures to be ready 35/86 (/Game/TMStoragesPack1/Storages/_common/textures/T_WoodCedarPlank02_BC) ...
+[2023.09.23-08.39.19:087][611]LogTexture: Display: Building textures: /Game/TMStoragesPack1/Storages/_common/textures/T_WoodCedarPlank02_BC.T_WoodCedarPlank02_BC (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.09.23-08.39.19:087][611]LogTexture: Display: Building textures: /Game/TMStoragesPack1/Storages/_common/textures/T_WoodCedarPlank02_N.T_WoodCedarPlank02_N (TFO_BC5, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.09.23-08.39.19:677][611]LogTexture: Display: Building textures: /Game/TMStoragesPack1/Storages/_common/textures/T_FabricClean02_BC.T_FabricClean02_BC (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.09.23-08.39.19:677][611]LogTexture: Display: Waiting for textures to be ready 36/86 (/Game/TMStoragesPack1/Storages/_common/textures/T_WoodCedarPlank02_N) ...
+[2023.09.23-08.39.19:703][611]LogTexture: Display: Building textures: /Game/TMStoragesPack1/Storages/_common/textures/T_FabricClean02_R.T_FabricClean02_R (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.09.23-08.39.19:723][611]LogTexture: Display: Waiting for textures to be ready 38/86 (/Game/TMStoragesPack1/Storages/_common/textures/T_FabricClean02_BC) ...
+[2023.09.23-08.39.19:923][611]LogTexture: Display: Waiting for textures to be ready 39/86 (/Game/TMStoragesPack1/Storages/_common/textures/T_FabricClean02_N) ...
+[2023.09.23-08.39.20:113][611]LogTexture: Display: Building textures: /Game/TMStoragesPack1/Storages/_common/textures/T_FabricClean02_N.T_FabricClean02_N (TFO_BC5, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.09.23-08.39.20:388][611]LogTexture: Display: Waiting for textures to be ready 52/86 (/Game/TMStoragesPack1/Storages/_common/textures/T_WoodPlywood01_BC) ...
+[2023.09.23-08.39.20:527][611]LogTexture: Display: Building textures: /Game/TMStoragesPack1/Storages/_common/textures/T_WoodPlywood01_R.T_WoodPlywood01_R (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.09.23-08.39.20:527][611]LogTexture: Display: Building textures: /Game/TMStoragesPack1/Storages/meshes/ToysGames/Toy24/textures/T_Toy24_E.T_Toy24_E (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.09.23-08.39.20:737][611]LogTexture: Display: Building textures: /Game/TMStoragesPack1/Storages/meshes/ToysGames/Toy24/textures/T_Toy24_BC.T_Toy24_BC (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.09.23-08.39.20:944][611]LogTexture: Display: Building textures: /Game/TMStoragesPack1/Storages/_common/textures/T_WoodPlywood01_BC.T_WoodPlywood01_BC (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.09.23-08.39.20:944][611]LogTexture: Display: Building textures: /Game/TMStoragesPack1/Storages/meshes/ToysGames/Toy24/textures/T_Toy24_M.T_Toy24_M (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.09.23-08.39.21:359][611]LogTexture: Display: Building textures: /Game/TMStoragesPack1/Storages/meshes/ToysGames/Toy24/textures/T_Toy24_R.T_Toy24_R (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.09.23-08.39.21:496][611]LogTexture: Display: Waiting for textures to be ready 53/86 (/Game/TMStoragesPack1/Storages/_common/textures/T_WoodPlywood01_N) ...
+[2023.09.23-08.39.21:774][611]LogTexture: Display: Building textures: /Game/TMStoragesPack1/Storages/_common/textures/T_MirrorDirty01_R.T_MirrorDirty01_R (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.09.23-08.39.21:983][611]LogTexture: Display: Building textures: /Game/TMStoragesPack1/Storages/_common/textures/T_WoodPlywood01_N.T_WoodPlywood01_N (TFO_BC5, 4096X4096 X1X1) (Required Memory Estimate: 640.000 MB), EncodeSpeed: Fast
+[2023.09.23-08.39.22:401][611]LogTexture: Display: Building textures: /Game/TMStoragesPack1/Storages/meshes/Bathroom/Towel04/textures/T_Towel04_BC.T_Towel04_BC (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.09.23-08.39.22:635][611]LogTexture: Display: Waiting for textures to be ready 58/86 (/Game/TMStoragesPack1/Storages/meshes/ToysGames/Toy24/textures/T_Toy24_N) ...
+[2023.09.23-08.39.22:811][611]LogTexture: Display: Building textures: /Game/TMStoragesPack1/Storages/meshes/Bathroom/Towel04/textures/T_Towel04_R.T_Towel04_R (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.09.23-08.39.23:021][611]LogTexture: Display: Building textures: /Game/TMStoragesPack1/Storages/meshes/ToysGames/Toy24/textures/T_Toy24_N.T_Toy24_N (TFO_BC5, 4096X4096 X1X1) (Required Memory Estimate: 640.000 MB), EncodeSpeed: Fast
+[2023.09.23-08.39.23:437][611]LogTexture: Display: Building textures: /Game/TMStoragesPack1/Storages/_common/textures/T_PlasticGrainy_N.T_PlasticGrainy_N (TFO_BC5, 4096X4096 X1X1) (Required Memory Estimate: 640.000 MB), EncodeSpeed: Fast
+[2023.09.23-08.39.23:485][611]LogTexture: Display: Waiting for textures to be ready 60/86 (/Game/TMStoragesPack1/Storages/_common/textures/T_PlasticGrainy_N) ...
+[2023.09.23-08.39.23:640][611]LogTexture: Display: Building textures: /Game/TMStoragesPack1/Storages/meshes/Storage/Storage11/textures/T_Storage11_BC.T_Storage11_BC (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.09.23-08.39.23:815][611]LogTexture: Display: Building textures: /Game/TMStoragesPack1/Storages/meshes/Storage/Storage11/textures/T_Storage11_R.T_Storage11_R (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.09.23-08.39.23:815][611]LogTexture: Display: Waiting for textures to be ready 63/86 (/Game/TMStoragesPack1/Storages/meshes/Bathroom/Towel04/textures/T_Towel04_N) ...
+[2023.09.23-08.39.24:265][611]LogTexture: Display: Building textures: /Game/TMStoragesPack1/Storages/meshes/Decorations/DecoMirror04/textures/T_DecoMirror04_BC.T_DecoMirror04_BC (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.09.23-08.39.24:473][611]LogTexture: Display: Building textures: /Game/TMStoragesPack1/Storages/meshes/Decorations/DecoMirror04/textures/T_DecoMirror04_E.T_DecoMirror04_E (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.09.23-08.39.24:890][611]LogTexture: Display: Building textures: /Game/TMStoragesPack1/Storages/meshes/Bathroom/Towel04/textures/T_Towel04_N.T_Towel04_N (TFO_BC5, 4096X4096 X1X1) (Required Memory Estimate: 640.000 MB), EncodeSpeed: Fast
+[2023.09.23-08.39.24:890][611]LogTexture: Display: Building textures: /Game/TMStoragesPack1/Storages/meshes/Storage/Storage28/textures/T_Storage28_BC.T_Storage28_BC (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.09.23-08.39.27:508][611]LogStall: Stall detector 'AsyncCompilationHelpers::FinishCompilation' exceeded budget of 10.000000s, reporting...
+[2023.09.23-08.39.27:508][611]LogTexture: Display: Building textures: /Game/TMStoragesPack1/Storages/meshes/Storage/Storage39/textures/T_Storage39_M.T_Storage39_M (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.09.23-08.39.27:508][611]LogStall: Stall detector 'AsyncCompilationHelpers::FinishCompilation' report submitted, and took 0.049599s
+[2023.09.23-08.39.27:556][611]LogTexture: Display: Waiting for textures to be ready 66/86 (/Game/TMStoragesPack1/Storages/meshes/Storage/Storage11/textures/T_Storage11_N) ...
+[2023.09.23-08.39.27:711][611]LogTexture: Display: Building textures: /Game/TMStoragesPack1/Storages/meshes/Storage/Storage11/textures/T_Storage11_N.T_Storage11_N (TFO_BC5, 4096X4096 X1X1) (Required Memory Estimate: 640.000 MB), EncodeSpeed: Fast
+[2023.09.23-08.39.27:711][611]LogTexture: Display: Building textures: /Game/TMStoragesPack1/Storages/meshes/Storage/Storage39/textures/T_Storage39_MT.T_Storage39_MT (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.09.23-08.39.27:711][611]LogTexture: Display: Building textures: /Game/TMStoragesPack1/Storages/meshes/Storage/Storage39/textures/T_Storage39_BC.T_Storage39_BC (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.09.23-08.39.28:124][611]LogTexture: Display: Building textures: /Game/TMStoragesPack1/Storages/meshes/Storage/Storage28/textures/T_Storage28_N.T_Storage28_N (TFO_BC5, 4096X4096 X1X1) (Required Memory Estimate: 640.000 MB), EncodeSpeed: Fast
+[2023.09.23-08.39.28:475][611]LogTexture: Display: Building textures: /Game/TMStoragesPack1/Storages/meshes/Storage/Storage39/textures/T_Storage39_R.T_Storage39_R (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.09.23-08.39.28:475][611]LogTexture: Display: Waiting for textures to be ready 71/86 (/Game/TMStoragesPack1/Storages/meshes/Storage/Storage28/textures/T_Storage28_N) ...
+[2023.09.23-08.39.28:503][611]LogTexture: Display: Waiting for textures to be ready 75/86 (/Game/TMStoragesPack1/Storages/meshes/Storage/Storage39/textures/T_Storage39_N) ...
+[2023.09.23-08.39.28:746][611]LogTexture: Display: Building textures: /Game/TMStoragesPack1/Storages/meshes/Bathroom/Toilet07/textures/T_Toilet07Decals_BC.T_Toilet07Decals_BC (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.09.23-08.39.28:746][611]LogTexture: Display: Building textures: /Game/TMStoragesPack1/Storages/meshes/Bathroom/Toilet07/textures/T_Toilet07Decals_N.T_Toilet07Decals_N (TFO_BC5, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.09.23-08.39.29:161][611]LogTexture: Display: Building textures: /Game/TMStoragesPack1/Storages/meshes/Bathroom/Towel05/textures/T_Towel05_BC.T_Towel05_BC (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.09.23-08.39.29:161][611]LogTexture: Display: Building textures: /Game/TMStoragesPack1/Storages/meshes/Bathroom/Towel05/textures/T_Towel05_R.T_Towel05_R (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.09.23-08.39.29:787][611]LogTexture: Display: Building textures: /Game/TMStoragesPack1/Storages/meshes/Storage/TowelHolder06/textures/T_TowelHolder06_BC.T_TowelHolder06_BC (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.09.23-08.39.29:996][611]LogTexture: Display: Building textures: /Game/TMStoragesPack1/Storages/meshes/Storage/TowelHolder06/textures/T_TowelHolder06_R.T_TowelHolder06_R (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.09.23-08.39.30:204][611]LogStaticMesh: Display: Building static mesh SM_DecoMirror02...
+[2023.09.23-08.39.30:204][611]LogStaticMesh: Built static mesh [0.01s] /Game/TMStoragesPack1/Storages/meshes/Decorations/DecoMirror02/SM_DecoMirror02.SM_DecoMirror02
+[2023.09.23-08.39.30:204][611]LogStaticMesh: Display: Building static mesh SM_HardwareHandle03...
+[2023.09.23-08.39.30:204][611]LogStaticMesh: Built static mesh [0.02s] /Game/TMStoragesPack1/Storages/meshes/Decorations/HardwareHandle03/SM_HardwareHandle03.SM_HardwareHandle03
+[2023.09.23-08.39.30:204][611]LogStaticMesh: Display: Building static mesh SM_Storage04...
+[2023.09.23-08.39.30:413][611]LogStaticMesh: Built static mesh [0.11s] /Game/TMStoragesPack1/Storages/meshes/Storage/Storage04/SM_Storage04.SM_Storage04
+[2023.09.23-08.39.30:413][611]LogStaticMesh: Display: Building static mesh SM_Storage40...
+[2023.09.23-08.39.30:413][611]LogStaticMesh: Built static mesh [0.04s] /Game/TMStoragesPack1/Storages/meshes/Storage/Storage40/SM_Storage40.SM_Storage40
+[2023.09.23-08.39.30:413][611]LogStaticMesh: Display: Building static mesh SM_DecoMirror03...
+[2023.09.23-08.39.30:413][611]LogStaticMesh: Display: Building static mesh SM_Storage05...
+[2023.09.23-08.39.30:413][611]LogStaticMesh: Built static mesh [0.05s] /Game/TMStoragesPack1/Storages/meshes/Decorations/DecoMirror03/SM_DecoMirror03.SM_DecoMirror03
+[2023.09.23-08.39.30:413][611]LogStaticMesh: Display: Building static mesh SM_HardwareHandle04...
+[2023.09.23-08.39.30:413][611]LogStaticMesh: Built static mesh [0.02s] /Game/TMStoragesPack1/Storages/meshes/Decorations/HardwareHandle04/SM_HardwareHandle04.SM_HardwareHandle04
+[2023.09.23-08.39.30:413][611]LogStaticMesh: Display: Building static mesh SM_Storage06...
+[2023.09.23-08.39.30:413][611]LogTexture: Display: Building textures: /Game/TMStoragesPack1/Storages/meshes/Storage/TowelHolder06/textures/T_TowelHolder06_N.T_TowelHolder06_N (TFO_BC5, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.09.23-08.39.30:413][611]LogStaticMesh: Built static mesh [0.11s] /Game/TMStoragesPack1/Storages/meshes/Storage/Storage05/SM_Storage05.SM_Storage05
+[2023.09.23-08.39.30:622][611]LogStaticMesh: Display: Building static mesh SM_HardwareHandle05...
+[2023.09.23-08.39.30:622][611]LogStaticMesh: Built static mesh [0.05s] /Game/TMStoragesPack1/Storages/meshes/Decorations/HardwareHandle05/SM_HardwareHandle05.SM_HardwareHandle05
+[2023.09.23-08.39.30:622][611]LogStaticMesh: Display: Building static mesh SM_Storage07...
+[2023.09.23-08.39.30:830][611]LogStaticMesh: Built static mesh [0.27s] /Game/TMStoragesPack1/Storages/meshes/Storage/Storage06/SM_Storage06.SM_Storage06
+[2023.09.23-08.39.30:830][611]LogStaticMesh: Display: Building static mesh SM_DecoMirror09...
+[2023.09.23-08.39.30:830][611]LogStaticMesh: Built static mesh [0.03s] /Game/TMStoragesPack1/Storages/meshes/Decorations/DecoMirror09/SM_DecoMirror09.SM_DecoMirror09
+[2023.09.23-08.39.30:830][611]LogStaticMesh: Display: Building static mesh SM_Storage08...
+[2023.09.23-08.39.30:830][611]LogStaticMesh: Display: Building static mesh SM_Storage41...
+[2023.09.23-08.39.30:830][611]LogStaticMesh: Built static mesh [0.05s] /Game/TMStoragesPack1/Storages/meshes/Storage/Storage41/SM_Storage41.SM_Storage41
+[2023.09.23-08.39.30:830][611]LogStaticMesh: Display: Building static mesh SM_DecoMirror05...
+[2023.09.23-08.39.30:830][611]LogStaticMesh: Built static mesh [0.03s] /Game/TMStoragesPack1/Storages/meshes/Decorations/DecoMirror05/SM_DecoMirror05.SM_DecoMirror05
+[2023.09.23-08.39.31:039][611]LogStaticMesh: Display: Building static mesh SM_Storage09...
+[2023.09.23-08.39.31:039][611]LogStaticMesh: Built static mesh [0.21s] /Game/TMStoragesPack1/Storages/meshes/Storage/Storage08/SM_Storage08.SM_Storage08
+[2023.09.23-08.39.31:039][611]LogTexture: Display: Building textures: /Game/TMStoragesPack1/Storages/meshes/Storage/Storage39/textures/T_Storage39_N.T_Storage39_N (TFO_BC5, 4096X4096 X1X1) (Required Memory Estimate: 640.000 MB), EncodeSpeed: Fast
+[2023.09.23-08.39.31:039][611]LogStaticMesh: Display: Building static mesh SM_Storage42...
+[2023.09.23-08.39.31:039][611]LogStaticMesh: Built static mesh [0.13s] /Game/TMStoragesPack1/Storages/meshes/Storage/Storage09/SM_Storage09.SM_Storage09
+[2023.09.23-08.39.31:039][611]LogStaticMesh: Display: Building static mesh SM_Storage10...
+[2023.09.23-08.39.31:039][611]LogStaticMesh: Built static mesh [0.03s] /Game/TMStoragesPack1/Storages/meshes/Storage/Storage42/SM_Storage42.SM_Storage42
+[2023.09.23-08.39.31:039][611]LogStaticMesh: Display: Building static mesh SM_Towel04Medium...
+[2023.09.23-08.39.31:454][611]LogStaticMesh: Built static mesh [0.30s] /Game/TMStoragesPack1/Storages/meshes/Storage/Storage10/SM_Storage10.SM_Storage10
+[2023.09.23-08.39.31:454][611]LogStaticMesh: Display: Building static mesh SM_Towel04Small...
+[2023.09.23-08.39.31:547][611]LogStaticMesh: Display: Building static mesh SM_Storage11...
+[2023.09.23-08.39.31:547][611]LogStaticMesh: Built static mesh [0.26s] /Game/TMStoragesPack1/Storages/meshes/Bathroom/Towel04/SM_Towel04Small.SM_Towel04Small
+[2023.09.23-08.39.31:547][611]LogTexture: Display: Waiting for textures to be ready 80/86 (/Game/TMStoragesPack1/Storages/meshes/Bathroom/Towel05/textures/T_Towel05_N) ...
+[2023.09.23-08.39.31:668][611]LogStaticMesh: Built static mesh [0.57s] /Game/TMStoragesPack1/Storages/meshes/Bathroom/Towel04/SM_Towel04Medium.SM_Towel04Medium
+[2023.09.23-08.39.31:668][611]LogStaticMesh: Display: Building static mesh SM_Storage12...
+[2023.09.23-08.39.31:668][611]LogTexture: Display: Building textures: /Game/TMStoragesPack1/Storages/meshes/Bathroom/Towel05/textures/T_Towel05_N.T_Towel05_N (TFO_BC5, 4096X4096 X1X1) (Required Memory Estimate: 640.000 MB), EncodeSpeed: Fast
+[2023.09.23-08.39.31:668][611]LogStaticMesh: Display: Building static mesh SM_Storage13...
+[2023.09.23-08.39.31:878][611]LogStaticMesh: Built static mesh [0.21s] /Game/TMStoragesPack1/Storages/meshes/Storage/Storage13/SM_Storage13.SM_Storage13
+[2023.09.23-08.39.31:878][611]LogStaticMesh: Display: Building static mesh SM_DecoMirror04...
+[2023.09.23-08.39.31:878][611]LogStaticMesh: Built static mesh [0.26s] /Game/TMStoragesPack1/Storages/meshes/Storage/Storage12/SM_Storage12.SM_Storage12
+[2023.09.23-08.39.31:878][611]LogStaticMesh: Built static mesh [0.02s] /Game/TMStoragesPack1/Storages/meshes/Decorations/DecoMirror04/SM_DecoMirror04.SM_DecoMirror04
+[2023.09.23-08.39.31:878][611]LogStaticMesh: Display: Building static mesh SM_HardwareHandle06...
+[2023.09.23-08.39.31:878][611]LogStaticMesh: Display: Building static mesh SM_Storage14...
+[2023.09.23-08.39.31:878][611]LogStaticMesh: Built static mesh [0.03s] /Game/TMStoragesPack1/Storages/meshes/Decorations/HardwareHandle06/SM_HardwareHandle06.SM_HardwareHandle06
+[2023.09.23-08.39.31:878][611]LogStaticMesh: Display: Building static mesh SM_DecoMirror06...
+[2023.09.23-08.39.32:087][611]LogStaticMesh: Built static mesh [0.03s] /Game/TMStoragesPack1/Storages/meshes/Decorations/DecoMirror06/SM_DecoMirror06.SM_DecoMirror06
+[2023.09.23-08.39.32:087][611]LogStaticMesh: Display: Building static mesh SM_Storage15...
+[2023.09.23-08.39.32:087][611]LogStaticMesh: Built static mesh [0.16s] /Game/TMStoragesPack1/Storages/meshes/Storage/Storage14/SM_Storage14.SM_Storage14
+[2023.09.23-08.39.32:161][611]LogStaticMesh: Display: Building static mesh SM_HardwareHandle09...
+[2023.09.23-08.39.32:161][611]LogStaticMesh: Display: Building static mesh SM_Storage16...
+[2023.09.23-08.39.32:205][611]LogStaticMesh: Built static mesh [0.07s] /Game/TMStoragesPack1/Storages/meshes/Decorations/HardwareHandle09/SM_HardwareHandle09.SM_HardwareHandle09
+[2023.09.23-08.39.32:205][611]LogStaticMesh: Display: Building static mesh SM_Storage17...
+[2023.09.23-08.39.32:219][611]LogStall: Stall detector 'AsyncCompilationHelpers::FinishCompilation' complete in 0.001159s (4.760695s overbudget)
+[2023.09.23-08.39.32:421][611]LogStaticMesh: Built static mesh [0.15s] /Game/TMStoragesPack1/Storages/meshes/Storage/Storage17/SM_Storage17.SM_Storage17
+[2023.09.23-08.39.32:421][611]LogStaticMesh: Built static mesh [0.45s] /Game/TMStoragesPack1/Storages/meshes/Storage/Storage15/SM_Storage15.SM_Storage15
+[2023.09.23-08.39.32:421][611]LogStaticMesh: Display: Building static mesh SM_DecoMirror07...
+[2023.09.23-08.39.32:421][611]LogStaticMesh: Display: Building static mesh SM_Storage18...
+[2023.09.23-08.39.32:421][611]LogStaticMesh: Built static mesh [0.03s] /Game/TMStoragesPack1/Storages/meshes/Decorations/DecoMirror07/SM_DecoMirror07.SM_DecoMirror07
+[2023.09.23-08.39.32:421][611]LogStaticMesh: Display: Building static mesh SM_DecoMirror08...
+[2023.09.23-08.39.32:624][611]LogStaticMesh: Built static mesh [0.28s] /Game/TMStoragesPack1/Storages/meshes/Storage/Storage16/SM_Storage16.SM_Storage16
+[2023.09.23-08.39.32:624][611]LogStaticMesh: Display: Building static mesh SM_Storage19...
+[2023.09.23-08.39.32:624][611]LogStaticMesh: Built static mesh [0.07s] /Game/TMStoragesPack1/Storages/meshes/Decorations/DecoMirror08/SM_DecoMirror08.SM_DecoMirror08
+[2023.09.23-08.39.32:624][611]LogStaticMesh: Display: Building static mesh SM_HardwareHandle10...
+[2023.09.23-08.39.32:624][611]LogStaticMesh: Built static mesh [0.04s] /Game/TMStoragesPack1/Storages/meshes/Decorations/HardwareHandle10/SM_HardwareHandle10.SM_HardwareHandle10
+[2023.09.23-08.39.32:624][611]LogStaticMesh: Display: Building static mesh SM_Storage20...
+[2023.09.23-08.39.32:624][611]LogStaticMesh: Built static mesh [0.17s] /Game/TMStoragesPack1/Storages/meshes/Storage/Storage18/SM_Storage18.SM_Storage18
+[2023.09.23-08.39.32:624][611]LogStaticMesh: Display: Building static mesh SM_Storage21...
+[2023.09.23-08.39.32:624][611]LogStaticMesh: Built static mesh [0.12s] /Game/TMStoragesPack1/Storages/meshes/Storage/Storage19/SM_Storage19.SM_Storage19
+[2023.09.23-08.39.32:624][611]LogStaticMesh: Display: Building static mesh SM_Storage22...
+[2023.09.23-08.39.32:825][611]LogStaticMesh: Built static mesh [0.09s] /Game/TMStoragesPack1/Storages/meshes/Storage/Storage21/SM_Storage21.SM_Storage21
+[2023.09.23-08.39.32:825][611]LogStaticMesh: Display: Building static mesh SM_HardwareHandle11...
+[2023.09.23-08.39.32:826][611]LogStaticMesh: Built static mesh [0.02s] /Game/TMStoragesPack1/Storages/meshes/Decorations/HardwareHandle11/SM_HardwareHandle11.SM_HardwareHandle11
+[2023.09.23-08.39.32:826][611]LogStaticMesh: Built static mesh [0.08s] /Game/TMStoragesPack1/Storages/meshes/Storage/Storage22/SM_Storage22.SM_Storage22
+[2023.09.23-08.39.32:826][611]LogStaticMesh: Display: Building static mesh SM_Storage23...
+[2023.09.23-08.39.32:826][611]LogStaticMesh: Display: Building static mesh SM_HardwareHandle12...
+[2023.09.23-08.39.32:826][611]LogStaticMesh: Built static mesh [0.03s] /Game/TMStoragesPack1/Storages/meshes/Decorations/HardwareHandle12/SM_HardwareHandle12.SM_HardwareHandle12
+[2023.09.23-08.39.32:826][611]LogStaticMesh: Display: Building static mesh SM_Storage24...
+[2023.09.23-08.39.32:826][611]LogStaticMesh: Built static mesh [0.09s] /Game/TMStoragesPack1/Storages/meshes/Storage/Storage23/SM_Storage23.SM_Storage23
+[2023.09.23-08.39.32:826][611]LogStaticMesh: Display: Building static mesh SM_Storage25...
+[2023.09.23-08.39.33:030][611]LogStaticMesh: Built static mesh [0.16s] /Game/TMStoragesPack1/Storages/meshes/Storage/Storage24/SM_Storage24.SM_Storage24
+[2023.09.23-08.39.33:030][611]LogStaticMesh: Display: Building static mesh SM_Storage25Drawer...
+[2023.09.23-08.39.33:030][611]LogStaticMesh: Built static mesh [0.17s] /Game/TMStoragesPack1/Storages/meshes/Storage/Storage25/SM_Storage25.SM_Storage25
+[2023.09.23-08.39.33:030][611]LogStaticMesh: Display: Building static mesh SM_Storage26...
+[2023.09.23-08.39.33:030][611]LogStaticMesh: Built static mesh [0.09s] /Game/TMStoragesPack1/Storages/meshes/Storage/Storage25/SM_Storage25Drawer.SM_Storage25Drawer
+[2023.09.23-08.39.33:030][611]LogStaticMesh: Display: Building static mesh SM_DecoMirror10...
+[2023.09.23-08.39.33:030][611]LogStaticMesh: Built static mesh [0.02s] /Game/TMStoragesPack1/Storages/meshes/Decorations/DecoMirror10/SM_DecoMirror10.SM_DecoMirror10
+[2023.09.23-08.39.33:030][611]LogStaticMesh: Display: Building static mesh SM_HardwareHandle13...
+[2023.09.23-08.39.33:030][611]LogStaticMesh: Built static mesh [0.02s] /Game/TMStoragesPack1/Storages/meshes/Decorations/HardwareHandle13/SM_HardwareHandle13.SM_HardwareHandle13
+[2023.09.23-08.39.33:031][611]LogStaticMesh: Display: Building static mesh SM_Storage27...
+[2023.09.23-08.39.33:234][611]LogStaticMesh: Built static mesh [0.12s] /Game/TMStoragesPack1/Storages/meshes/Storage/Storage27/SM_Storage27.SM_Storage27
+[2023.09.23-08.39.33:234][611]LogStaticMesh: Display: Building static mesh SM_Storage28...
+[2023.09.23-08.39.33:234][611]LogStaticMesh: Built static mesh [0.66s] /Game/TMStoragesPack1/Storages/meshes/Storage/Storage20/SM_Storage20.SM_Storage20
+[2023.09.23-08.39.33:234][611]LogStaticMesh: Display: Building static mesh SM_Storage29...
+[2023.09.23-08.39.33:435][611]LogStaticMesh: Built static mesh [0.15s] /Game/TMStoragesPack1/Storages/meshes/Storage/Storage29/SM_Storage29.SM_Storage29
+[2023.09.23-08.39.33:435][611]LogStaticMesh: Built static mesh [0.40s] /Game/TMStoragesPack1/Storages/meshes/Storage/Storage26/SM_Storage26.SM_Storage26
+[2023.09.23-08.39.33:435][611]LogStaticMesh: Display: Building static mesh SM_Storage30...
+[2023.09.23-08.39.33:435][611]LogStaticMesh: Display: Building static mesh SM_Storage31...
+[2023.09.23-08.39.33:638][611]LogStaticMesh: Built static mesh [0.12s] /Game/TMStoragesPack1/Storages/meshes/Storage/Storage30/SM_Storage30.SM_Storage30
+[2023.09.23-08.39.33:638][611]LogStaticMesh: Display: Building static mesh SM_Storage32...
+[2023.09.23-08.39.33:840][611]LogStaticMesh: Built static mesh [0.49s] /Game/TMStoragesPack1/Storages/meshes/Storage/Storage28/SM_Storage28.SM_Storage28
+[2023.09.23-08.39.33:840][611]LogStaticMesh: Built static mesh [0.28s] /Game/TMStoragesPack1/Storages/meshes/Storage/Storage31/SM_Storage31.SM_Storage31
+[2023.09.23-08.39.33:840][611]LogStaticMesh: Display: Building static mesh SM_Storage33...
+[2023.09.23-08.39.33:840][611]LogStaticMesh: Display: Building static mesh SM_Storage34...
+[2023.09.23-08.39.33:840][611]LogStaticMesh: Built static mesh [0.07s] /Game/TMStoragesPack1/Storages/meshes/Storage/Storage33/SM_Storage33.SM_Storage33
+[2023.09.23-08.39.33:840][611]LogStaticMesh: Display: Building static mesh SM_Storage35...
+[2023.09.23-08.39.33:840][611]LogStaticMesh: Built static mesh [0.28s] /Game/TMStoragesPack1/Storages/meshes/Storage/Storage32/SM_Storage32.SM_Storage32
+[2023.09.23-08.39.33:840][611]LogStaticMesh: Built static mesh [0.10s] /Game/TMStoragesPack1/Storages/meshes/Storage/Storage34/SM_Storage34.SM_Storage34
+[2023.09.23-08.39.33:840][611]LogStaticMesh: Display: Building static mesh SM_Storage35Plank...
+[2023.09.23-08.39.33:840][611]LogStaticMesh: Display: Building static mesh SM_Storage36...
+[2023.09.23-08.39.33:840][611]LogStaticMesh: Built static mesh [0.03s] /Game/TMStoragesPack1/Storages/meshes/Storage/Storage35/SM_Storage35Plank.SM_Storage35Plank
+[2023.09.23-08.39.33:840][611]LogStaticMesh: Display: Building static mesh SM_Storage37...
+[2023.09.23-08.39.34:044][611]LogStaticMesh: Built static mesh [0.07s] /Game/TMStoragesPack1/Storages/meshes/Storage/Storage36/SM_Storage36.SM_Storage36
+[2023.09.23-08.39.34:044][611]LogStaticMesh: Display: Building static mesh SM_Storage38...
+[2023.09.23-08.39.34:044][611]LogStaticMesh: Built static mesh [0.16s] /Game/TMStoragesPack1/Storages/meshes/Storage/Storage35/SM_Storage35.SM_Storage35
+[2023.09.23-08.39.34:044][611]LogStaticMesh: Display: Building static mesh SM_Storage39Base...
+[2023.09.23-08.39.34:044][611]LogStaticMesh: Built static mesh [0.06s] /Game/TMStoragesPack1/Storages/meshes/Storage/Storage38/SM_Storage38.SM_Storage38
+[2023.09.23-08.39.34:044][611]LogStaticMesh: Display: Building static mesh SM_Storage39Drawer01...
+[2023.09.23-08.39.34:044][611]LogStaticMesh: Built static mesh [2.43s] /Game/TMStoragesPack1/Storages/meshes/Storage/Storage11/SM_Storage11.SM_Storage11
+[2023.09.23-08.39.34:044][611]LogStaticMesh: Built static mesh [0.10s] /Game/TMStoragesPack1/Storages/meshes/Storage/Storage39/SM_Storage39Base.SM_Storage39Base
+[2023.09.23-08.39.34:044][611]LogStaticMesh: Display: Building static mesh SM_Storage39Drawer02...
+[2023.09.23-08.39.34:044][611]LogStaticMesh: Built static mesh [0.08s] /Game/TMStoragesPack1/Storages/meshes/Storage/Storage39/SM_Storage39Drawer01.SM_Storage39Drawer01
+[2023.09.23-08.39.34:044][611]LogStaticMesh: Display: Building static mesh SM_Toilet06Bowl...
+[2023.09.23-08.39.34:044][611]LogStaticMesh: Built static mesh [0.22s] /Game/TMStoragesPack1/Storages/meshes/Storage/Storage37/SM_Storage37.SM_Storage37
