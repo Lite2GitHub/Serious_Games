@@ -18133,3 +18133,212 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2023.10.10-08.36.45:640][947]LogSavePackage: Moving '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Saved/ForestSceneEB6545114658785F2DD1C6BAA04F4994.tmp' to '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Content/OurProject/Maps/Forest_Scene/ForestScene.umap'
 [2023.10.10-08.36.45:663][947]AssetCheck: New page: Asset Save: ForestScene
 [2023.10.10-08.36.45:663][947]LogContentValidation: Display: Validating World /Game/OurProject/Maps/Forest_Scene/ForestScene.ForestScene
+[2023.10.10-08.37.27:558][330]LogSlate: Window 'Color Picker' being destroyed
+[2023.10.10-08.37.32:205][601]Cmd: TRANSACTION UNDO
+[2023.10.10-08.37.32:205][601]LogEditorTransaction: Undo Move Elements
+[2023.10.10-08.37.32:222][601]LogSlate: Window 'Color Picker' being destroyed
+[2023.10.10-08.37.32:296][601]LogMaterial: Display: Missing cached shadermap for Preview:tree_shader in PCD3D_SM5, Default, SM5 (DDC key hash: 3688A804738A67340851EC010F754213C2355E82), compiling. 
+[2023.10.10-08.37.32:332][601]LogMaterial: Display: Missing cached shadermap for Preview:tree_trunk_mat in PCD3D_SM5, Default, SM5 (DDC key hash: 9741057E6990ADB9F5AD4C3010D4457FF86A4349), compiling. 
+[2023.10.10-08.37.32:379][601]MaterialEditorStats: Texture samplers: 0/16
+[2023.10.10-08.37.32:379][601]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.10.10-08.37.32:379][601]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.10.10-08.37.32:379][601]MaterialEditorStats: Shader Count: 0
+[2023.10.10-08.37.32:379][601]MaterialEditorStats: Texture samplers: 0/16
+[2023.10.10-08.37.32:379][601]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.10.10-08.37.32:379][601]MaterialEditorStats: Shader Count: 0
+[2023.10.10-08.37.32:499][603]MaterialEditorStats: Texture samplers: 1/16
+[2023.10.10-08.37.32:499][603]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.10.10-08.37.32:499][603]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.10.10-08.37.32:499][603]MaterialEditorStats: Shader Count: 2
+[2023.10.10-08.37.32:553][604]MaterialEditorStats: Texture samplers: 3/16
+[2023.10.10-08.37.32:555][604]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.10.10-08.37.32:555][604]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.10.10-08.37.32:555][604]MaterialEditorStats: Shader Count: 12
+[2023.10.10-08.37.32:555][604]MaterialEditorStats: Texture samplers: 2/16
+[2023.10.10-08.37.32:555][604]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.10.10-08.37.32:555][604]MaterialEditorStats: Shader Count: 4
+[2023.10.10-08.37.34:226][697]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2023.10.10-08.37.34:626][697]LogSavePackage: Moving output files for package: /Game/OurProject/Maps/Forest_Scene/ForestScene
+[2023.10.10-08.37.34:627][697]LogSavePackage: Moving '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Saved/ForestScene38E0D8554BCBE52E53ADDF864346714C.tmp' to '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Content/OurProject/Maps/Forest_Scene/ForestScene.umap'
+[2023.10.10-08.37.34:653][697]AssetCheck: New page: Asset Save: ForestScene
+[2023.10.10-08.37.34:653][697]LogContentValidation: Display: Validating World /Game/OurProject/Maps/Forest_Scene/ForestScene.ForestScene
+[2023.10.10-08.37.43:051][217]Cmd: DUPLICATE
+[2023.10.10-08.37.43:051][217]Cmd: ACTOR DUPLICATE
+[2023.10.10-08.37.46:797][476]Cmd: TRANSACTION UNDO
+[2023.10.10-08.37.46:797][476]LogEditorTransaction: Undo Move Elements
+[2023.10.10-08.37.46:879][476]LogMaterial: Display: Missing cached shadermap for Preview:tree_shader in PCD3D_SM5, Default, SM5 (DDC key hash: DEE3469ADAC6A9A3E36F03E87CFC51581265F34B), compiling. 
+[2023.10.10-08.37.46:913][476]LogMaterial: Display: Missing cached shadermap for Preview:tree_trunk_mat in PCD3D_SM5, Default, SM5 (DDC key hash: 8433D62C7D42200017D0DD501BB130CFA7311C7D), compiling. 
+[2023.10.10-08.37.46:956][476]MaterialEditorStats: Texture samplers: 0/16
+[2023.10.10-08.37.46:956][476]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.10.10-08.37.46:956][476]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.10.10-08.37.46:957][476]MaterialEditorStats: Shader Count: 0
+[2023.10.10-08.37.46:957][476]MaterialEditorStats: Texture samplers: 0/16
+[2023.10.10-08.37.46:957][476]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.10.10-08.37.46:957][476]MaterialEditorStats: Shader Count: 0
+[2023.10.10-08.37.47:078][478]MaterialEditorStats: Texture samplers: 1/16
+[2023.10.10-08.37.47:078][478]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.10.10-08.37.47:078][478]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.10.10-08.37.47:078][478]MaterialEditorStats: Shader Count: 2
+[2023.10.10-08.37.47:131][479]MaterialEditorStats: Texture samplers: 3/16
+[2023.10.10-08.37.47:131][479]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.10.10-08.37.47:131][479]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.10.10-08.37.47:131][479]MaterialEditorStats: Shader Count: 12
+[2023.10.10-08.37.47:131][479]MaterialEditorStats: Texture samplers: 2/16
+[2023.10.10-08.37.47:131][479]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.10.10-08.37.47:131][479]MaterialEditorStats: Shader Count: 4
+[2023.10.10-08.37.57:129][130]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2023.10.10-08.37.57:507][130]LogSavePackage: Moving output files for package: /Game/OurProject/Maps/Forest_Scene/ForestScene
+[2023.10.10-08.37.57:508][130]LogSavePackage: Moving '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Saved/ForestSceneFA5423A3406A973981775AB9BEB88948.tmp' to '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Content/OurProject/Maps/Forest_Scene/ForestScene.umap'
+[2023.10.10-08.37.57:533][130]AssetCheck: New page: Asset Save: ForestScene
+[2023.10.10-08.37.57:533][130]LogContentValidation: Display: Validating World /Game/OurProject/Maps/Forest_Scene/ForestScene.ForestScene
+[2023.10.10-08.38.03:839][531]Cmd: TRANSACTION UNDO
+[2023.10.10-08.38.03:839][531]LogEditorTransaction: Undo Rotate Elements
+[2023.10.10-08.38.03:923][531]LogMaterial: Display: Missing cached shadermap for Preview:tree_shader in PCD3D_SM5, Default, SM5 (DDC key hash: AEB901EFF345638690E148C8267CF01BFF6BF469), compiling. 
+[2023.10.10-08.38.03:956][531]LogMaterial: Display: Missing cached shadermap for Preview:tree_trunk_mat in PCD3D_SM5, Default, SM5 (DDC key hash: 4F9500C76CF77282754B7AF16FF10D9271C46B1D), compiling. 
+[2023.10.10-08.38.03:998][531]MaterialEditorStats: Texture samplers: 0/16
+[2023.10.10-08.38.03:998][531]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.10.10-08.38.03:998][531]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.10.10-08.38.03:998][531]MaterialEditorStats: Shader Count: 0
+[2023.10.10-08.38.03:998][531]MaterialEditorStats: Texture samplers: 0/16
+[2023.10.10-08.38.03:998][531]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.10.10-08.38.03:998][531]MaterialEditorStats: Shader Count: 0
+[2023.10.10-08.38.04:115][533]MaterialEditorStats: Texture samplers: 1/16
+[2023.10.10-08.38.04:116][533]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.10.10-08.38.04:116][533]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.10.10-08.38.04:116][533]MaterialEditorStats: Shader Count: 2
+[2023.10.10-08.38.04:162][534]MaterialEditorStats: Texture samplers: 3/16
+[2023.10.10-08.38.04:162][534]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.10.10-08.38.04:162][534]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.10.10-08.38.04:162][534]MaterialEditorStats: Shader Count: 12
+[2023.10.10-08.38.04:162][534]MaterialEditorStats: Texture samplers: 2/16
+[2023.10.10-08.38.04:162][534]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.10.10-08.38.04:162][534]MaterialEditorStats: Shader Count: 4
+[2023.10.10-08.38.05:582][621]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2023.10.10-08.38.05:953][621]LogSavePackage: Moving output files for package: /Game/OurProject/Maps/Forest_Scene/ForestScene
+[2023.10.10-08.38.05:953][621]LogSavePackage: Moving '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Saved/ForestSceneAC2B1B834CC14D5B97D140A1EA488BF2.tmp' to '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Content/OurProject/Maps/Forest_Scene/ForestScene.umap'
+[2023.10.10-08.38.05:986][621]AssetCheck: New page: Asset Save: ForestScene
+[2023.10.10-08.38.05:987][621]LogContentValidation: Display: Validating World /Game/OurProject/Maps/Forest_Scene/ForestScene.ForestScene
+[2023.10.10-08.38.20:950][594]LogContentBrowser: Deferred new asset file creation: mapleleaves_mat1
+[2023.10.10-08.38.20:958][594]LogContentBrowser: Creating deferred item: mapleleaves_mat1
+[2023.10.10-08.38.20:978][595]LogContentBrowser: Renaming the item being created (Deferred Item: mapleleaves_mat1).
+[2023.10.10-08.38.21:693][646]LogContentBrowser: Attempting asset rename: mapleleaves_mat1 -> s
+[2023.10.10-08.38.21:694][646]LogContentBrowser: End creating deferred item mapleleaves_mat1
+[2023.10.10-08.38.30:265][208]LogContentBrowser: Attempting asset rename: s -> mapleleave_mat02
+[2023.10.10-08.38.30:373][208]LogSavePackage: Moving output files for package: /Game/OurProject/Maps/Forest_Scene/Assets/trees/mapleleave_mat02
+[2023.10.10-08.38.30:373][208]LogSavePackage: Moving '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Saved/mapleleave_mat024681590E4CFD30F2A5D098A175B0A081.tmp' to '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Content/OurProject/Maps/Forest_Scene/Assets/trees/mapleleave_mat02.uasset'
+[2023.10.10-08.38.30:393][208]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2023.10.10-08.38.30:401][208]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2023.10.10-08.38.30:408][208]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2023.10.10-08.38.30:411][208]AssetCheck: New page: Asset Save: mapleleave_mat02
+[2023.10.10-08.38.30:411][208]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/OurProject/Maps/Forest_Scene/Assets/trees/mapleleave_mat02.mapleleave_mat02
+[2023.10.10-08.38.34:569][484]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/OurProject/Maps/Forest_Scene/Assets/trees/mapleleave_mat02.mapleleave_mat02
+[2023.10.10-08.38.34:571][484]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.10-08.38.34:713][484]LogViewport: Scene viewport resized to 760x692, mode Windowed.
+[2023.10.10-08.38.38:594][766]LogSlate: Window 'Color Picker' being destroyed
+[2023.10.10-08.38.44:390][134]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2023.10.10-08.38.44:753][134]LogSavePackage: Moving output files for package: /Game/OurProject/Maps/Forest_Scene/ForestScene
+[2023.10.10-08.38.44:753][134]LogSavePackage: Moving '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Saved/ForestScene477829EC4D5B24C7A8340C9DD21C1B81.tmp' to '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Content/OurProject/Maps/Forest_Scene/ForestScene.umap'
+[2023.10.10-08.38.44:779][134]AssetCheck: New page: Asset Save: ForestScene
+[2023.10.10-08.38.44:779][134]LogContentValidation: Display: Validating World /Game/OurProject/Maps/Forest_Scene/ForestScene.ForestScene
+[2023.10.10-08.38.45:316][164]LogSlate: Window 'Color Picker' being destroyed
+[2023.10.10-08.38.55:334][797]LogSlate: Window 'Color Picker' being destroyed
+[2023.10.10-08.39.04:948][455]LogSlate: Window 'Color Picker' being destroyed
+[2023.10.10-08.39.07:872][637]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2023.10.10-08.39.08:233][637]LogSavePackage: Moving output files for package: /Game/OurProject/Maps/Forest_Scene/ForestScene
+[2023.10.10-08.39.08:234][637]LogSavePackage: Moving '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Saved/ForestSceneC95E027647C752B94ACDF786AD48AA21.tmp' to '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Content/OurProject/Maps/Forest_Scene/ForestScene.umap'
+[2023.10.10-08.39.08:263][637]AssetCheck: New page: Asset Save: ForestScene
+[2023.10.10-08.39.08:263][637]LogContentValidation: Display: Validating World /Game/OurProject/Maps/Forest_Scene/ForestScene.ForestScene
+[2023.10.10-08.39.16:411][160]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2023.10.10-08.39.16:775][160]LogSavePackage: Moving output files for package: /Game/OurProject/Maps/Forest_Scene/ForestScene
+[2023.10.10-08.39.16:776][160]LogSavePackage: Moving '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Saved/ForestSceneF76F75214427F619CA813F9F73ADCBD2.tmp' to '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Content/OurProject/Maps/Forest_Scene/ForestScene.umap'
+[2023.10.10-08.39.16:800][160]AssetCheck: New page: Asset Save: ForestScene
+[2023.10.10-08.39.16:800][160]LogContentValidation: Display: Validating World /Game/OurProject/Maps/Forest_Scene/ForestScene.ForestScene
+[2023.10.10-08.39.18:802][281]LogSlate: Window 'Color Picker' being destroyed
+[2023.10.10-08.39.23:281][564]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2023.10.10-08.39.23:635][564]LogSavePackage: Moving output files for package: /Game/OurProject/Maps/Forest_Scene/ForestScene
+[2023.10.10-08.39.23:635][564]LogSavePackage: Moving '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Saved/ForestSceneCF6DF5D44771B11EEB56FB8F7DAD190A.tmp' to '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Content/OurProject/Maps/Forest_Scene/ForestScene.umap'
+[2023.10.10-08.39.23:661][564]AssetCheck: New page: Asset Save: ForestScene
+[2023.10.10-08.39.23:661][564]LogContentValidation: Display: Validating World /Game/OurProject/Maps/Forest_Scene/ForestScene.ForestScene
+[2023.10.10-08.39.34:029][  6]LogContentBrowser: Deferred new asset file creation: Pogleavestest_mat1
+[2023.10.10-08.39.34:036][  6]LogContentBrowser: Creating deferred item: Pogleavestest_mat1
+[2023.10.10-08.39.34:050][  7]LogContentBrowser: Renaming the item being created (Deferred Item: Pogleavestest_mat1).
+[2023.10.10-08.39.40:969][552]LogContentBrowser: Attempting asset rename: Pogleavestest_mat1 -> test
+[2023.10.10-08.39.40:970][552]LogContentBrowser: End creating deferred item Pogleavestest_mat1
+[2023.10.10-08.39.44:007][783]Cmd: DUPLICATE
+[2023.10.10-08.39.44:007][783]Cmd: ACTOR DUPLICATE
+[2023.10.10-08.39.45:344][873]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.10.10-08.39.45:789][897]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.10.10-08.39.48:783][ 68]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/OurProject/Maps/Forest_Scene/Assets/trees/test.test
+[2023.10.10-08.39.48:785][ 68]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.10-08.39.48:924][ 68]LogViewport: Scene viewport resized to 760x692, mode Windowed.
+[2023.10.10-08.39.55:318][437]LogSlate: Window 'Color Picker' being destroyed
+[2023.10.10-08.40.18:741][ 53]LogSlate: Window 'Color Picker' being destroyed
+[2023.10.10-08.40.25:113][471]LogSlate: Window 'Color Picker' being destroyed
+[2023.10.10-08.40.50:489][271]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2023.10.10-08.40.50:863][271]LogSavePackage: Moving output files for package: /Game/OurProject/Maps/Forest_Scene/ForestScene
+[2023.10.10-08.40.50:865][271]LogSavePackage: Moving '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Saved/ForestScene75FEFE1A437C23EB61AFDD8B8D292E1D.tmp' to '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Content/OurProject/Maps/Forest_Scene/ForestScene.umap'
+[2023.10.10-08.40.50:891][271]AssetCheck: New page: Asset Save: ForestScene
+[2023.10.10-08.40.50:891][271]LogContentValidation: Display: Validating World /Game/OurProject/Maps/Forest_Scene/ForestScene.ForestScene
+[2023.10.10-08.40.51:700][323]Cmd: DUPLICATE
+[2023.10.10-08.40.51:700][323]Cmd: ACTOR DUPLICATE
+[2023.10.10-08.41.02:627][ 13]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2023.10.10-08.41.02:988][ 13]LogSavePackage: Moving output files for package: /Game/OurProject/Maps/Forest_Scene/ForestScene
+[2023.10.10-08.41.02:989][ 13]LogSavePackage: Moving '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Saved/ForestScene04EBE1E44473062C3F2F6B825FD4035C.tmp' to '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Content/OurProject/Maps/Forest_Scene/ForestScene.umap'
+[2023.10.10-08.41.03:015][ 13]AssetCheck: New page: Asset Save: ForestScene
+[2023.10.10-08.41.03:015][ 13]LogContentValidation: Display: Validating World /Game/OurProject/Maps/Forest_Scene/ForestScene.ForestScene
+[2023.10.10-08.41.05:009][127]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.10.10-08.41.05:016][127]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.10.10-08.41.05:016][127]PIE: New page: PIE session: ForestScene (11 Oct 2023, 4:41:05 am)
+[2023.10.10-08.41.05:046][127]LogPlayLevel: Creating play world package: /Game/OurProject/Maps/Forest_Scene/UEDPIE_0_ForestScene
+[2023.10.10-08.41.05:173][127]LogPlayLevel: PIE: StaticDuplicateObject took: (0.128220s)
+[2023.10.10-08.41.05:173][127]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/OurProject/Maps/Forest_Scene/ForestScene.ForestScene to /Game/OurProject/Maps/Forest_Scene/UEDPIE_0_ForestScene.ForestScene (0.128355s)
+[2023.10.10-08.41.05:173][127]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.10.10-08.41.05:173][127]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.10-08.41.05:175][127]LogAIModule: Creating AISystem for world ForestScene
+[2023.10.10-08.41.05:175][127]LogPlayLevel: PIE: World Init took: (0.000779s)
+[2023.10.10-08.41.05:183][127]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2023.10.10-08.41.05:184][127]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2023.10.10-08.41.05:184][127]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.10.10-08.41.05:184][127]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.10.10-08.41.05:184][127]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.10.10-08.41.05:184][127]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.10.10-08.41.05:184][127]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.10.10-08.41.05:184][127]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.10.10-08.41.05:184][127]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.10.10-08.41.05:184][127]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.10.10-08.41.05:184][127]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.10.10-08.41.05:184][127]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.10.10-08.41.05:184][127]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.10.10-08.41.05:186][127]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.10.10-08.41.05:204][127]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Logitech G733 Gaming Headset)
+[2023.10.10-08.41.05:204][127]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.10.10-08.41.05:204][127]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.10.10-08.41.05:204][127]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.10.10-08.41.05:205][127]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2023.10.10-08.41.05:205][127]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=9
+[2023.10.10-08.41.05:205][127]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2023.10.10-08.41.05:205][127]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2023.10.10-08.41.05:205][127]LogInit: FAudioDevice initialized.
+[2023.10.10-08.41.05:205][127]LogAudio: Display: Audio Device (ID: 9) registered with world 'ForestScene'.
+[2023.10.10-08.41.05:221][127]LogLoad: Game class is 'ForestMode_C'
+[2023.10.10-08.41.05:248][127]LogWorld: Bringing World /Game/OurProject/Maps/Forest_Scene/UEDPIE_0_ForestScene.ForestScene up for play (max tick rate 0) at 2023.10.10-18.41.05
+[2023.10.10-08.41.05:249][127]LogWorld: Bringing up level for play took: 0.028277
+[2023.10.10-08.41.05:250][127]LogOnline: OSS: Created online subsystem instance for: :Context_20
+[2023.10.10-08.41.05:252][127]PIE: Server logged in
+[2023.10.10-08.41.05:252][127]PIE: Play in editor total start time 0.237 seconds.
+[2023.10.10-08.41.08:687][348]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.10-08.41.08:687][348]LogWorld: BeginTearingDown for /Game/OurProject/Maps/Forest_Scene/UEDPIE_0_ForestScene
+[2023.10.10-08.41.08:687][348]LogWorld: UWorld::CleanupWorld for ForestScene, bSessionEnded=true, bCleanupResources=true
+[2023.10.10-08.41.08:687][348]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.10-08.41.08:700][348]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.10.10-08.41.08:703][348]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.10-08.41.08:713][348]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.10-08.41.08:713][348]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2023.10.10-08.41.08:714][348]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2023.10.10-08.41.08:721][348]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2023.10.10-08.41.08:805][350]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2023.10.10-08.41.09:380][380]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2023.10.10-08.41.09:761][380]LogSavePackage: Moving output files for package: /Game/OurProject/Maps/Forest_Scene/ForestScene
+[2023.10.10-08.41.09:762][380]LogSavePackage: Moving '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Saved/ForestSceneC3EEFAA6441A9CD1DBD480BDA963B4A0.tmp' to '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Content/OurProject/Maps/Forest_Scene/ForestScene.umap'
+[2023.10.10-08.41.09:795][380]AssetCheck: New page: Asset Save: ForestScene
+[2023.10.10-08.41.09:795][380]LogContentValidation: Display: Validating World /Game/OurProject/Maps/Forest_Scene/ForestScene.ForestScene
