@@ -18019,3 +18019,117 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2023.10.10-08.32.23:299][116]LogSavePackage: Moving '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Saved/ForestScene974FB73F4C9447AD08C3869979F2F625.tmp' to '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Content/OurProject/Maps/Forest_Scene/ForestScene.umap'
 [2023.10.10-08.32.23:326][116]AssetCheck: New page: Asset Save: ForestScene
 [2023.10.10-08.32.23:326][116]LogContentValidation: Display: Validating World /Game/OurProject/Maps/Forest_Scene/ForestScene.ForestScene
+[2023.10.10-08.34.06:784][638]LogDerivedDataCache: C:/Users/linch/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.748 and deleted 0 file(s) with total size 0 MiB.
+[2023.10.10-08.34.39:131][897]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\linch\OneDrive\Desktop\Leave 00 front alpha.jpg)
+[2023.10.10-08.34.39:145][897]LogTexture: Display: Building textures: /Game/OurProject/Maps/Forest_Scene/Assets/trees/Leave_00_front_alpha.Leave_00_front_alpha (BGRA8, 1600X1547 X1X1) (Required Memory Estimate: 47.210693 MB), EncodeSpeed: Fast
+[2023.10.10-08.34.51:087][543]Cmd: DUPLICATE
+[2023.10.10-08.34.51:087][543]Cmd: ACTOR DUPLICATE
+[2023.10.10-08.35.00:037][105]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.10.10-08.35.00:037][105]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.10.10-08.35.01:809][212]LogContentBrowser: Deferred new asset file creation: Pogleavestest_mat_Inst
+[2023.10.10-08.35.01:819][212]LogContentBrowser: Creating deferred item: Pogleavestest_mat_Inst
+[2023.10.10-08.35.01:833][213]LogContentBrowser: Renaming the item being created (Deferred Item: Pogleavestest_mat_Inst).
+[2023.10.10-08.35.02:617][275]LogContentBrowser: Attempting asset rename: Pogleavestest_mat_Inst -> Pogleavestest_mat_Inst
+[2023.10.10-08.35.02:617][275]LogContentBrowser: End creating deferred item Pogleavestest_mat_Inst
+[2023.10.10-08.35.07:396][584]LogContentBrowser: Attempting asset rename: Pogleavestest_mat_Inst -> Pogleavestest_mat_Inst
+[2023.10.10-08.35.07:858][616]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.10.10-08.35.08:605][616]LogSlate: Window 'Delete Assets' being destroyed
+[2023.10.10-08.35.08:620][616]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2023.10.10-08.35.08:629][616]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2023.10.10-08.35.08:636][616]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2023.10.10-08.35.09:441][660]LogContentBrowser: Deferred new asset file creation: Pogleavestest_mat1
+[2023.10.10-08.35.09:448][660]LogContentBrowser: Creating deferred item: Pogleavestest_mat1
+[2023.10.10-08.35.09:460][661]LogContentBrowser: Renaming the item being created (Deferred Item: Pogleavestest_mat1).
+[2023.10.10-08.35.17:665][306]LogContentBrowser: Attempting asset rename: Pogleavestest_mat1 -> mapleleaves_mat
+[2023.10.10-08.35.17:666][306]LogContentBrowser: End creating deferred item Pogleavestest_mat1
+[2023.10.10-08.35.19:835][437]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/OurProject/Maps/Forest_Scene/Assets/trees/mapleleaves_mat.mapleleaves_mat
+[2023.10.10-08.35.19:836][437]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.10-08.35.20:001][437]LogViewport: Scene viewport resized to 760x692, mode Windowed.
+[2023.10.10-08.35.25:177][766]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2023.10.10-08.35.25:554][766]LogSavePackage: Moving output files for package: /Game/OurProject/Maps/Forest_Scene/ForestScene
+[2023.10.10-08.35.25:555][766]LogSavePackage: Moving '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Saved/ForestScene192325814A4F3661C4850DB4CD89E688.tmp' to '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Content/OurProject/Maps/Forest_Scene/ForestScene.umap'
+[2023.10.10-08.35.25:580][766]AssetCheck: New page: Asset Save: ForestScene
+[2023.10.10-08.35.25:580][766]LogContentValidation: Display: Validating World /Game/OurProject/Maps/Forest_Scene/ForestScene.ForestScene
+[2023.10.10-08.35.29:481][ 19]Cmd: TRANSACTION UNDO
+[2023.10.10-08.35.29:481][ 19]LogEditorTransaction: Undo Create Actors
+[2023.10.10-08.35.29:560][ 19]LogMaterial: Display: Missing cached shadermap for Preview:tree_shader in PCD3D_SM5, Default, SM5 (DDC key hash: 1012DDA6F4196A29A7494277B06E6D32B61EADB5), compiling. 
+[2023.10.10-08.35.29:596][ 19]LogMaterial: Display: Missing cached shadermap for Preview:tree_trunk_mat in PCD3D_SM5, Default, SM5 (DDC key hash: 03637AC2E37059C205BDAE983E456DA405A3A694), compiling. 
+[2023.10.10-08.35.29:648][ 19]MaterialEditorStats: Texture samplers: 0/16
+[2023.10.10-08.35.29:648][ 19]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.10.10-08.35.29:648][ 19]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.10.10-08.35.29:648][ 19]MaterialEditorStats: Shader Count: 0
+[2023.10.10-08.35.29:648][ 19]MaterialEditorStats: Texture samplers: 0/16
+[2023.10.10-08.35.29:648][ 19]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.10.10-08.35.29:648][ 19]MaterialEditorStats: Shader Count: 0
+[2023.10.10-08.35.29:718][ 20]LogShaderCompilers: Display: ================================================
+[2023.10.10-08.35.29:718][ 20]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.10.10-08.35.29:718][ 20]LogShaderCompilers: Display: Total job queries 4720, among them cache hits 3691 (78.20%)
+[2023.10.10-08.35.29:718][ 20]LogShaderCompilers: Display: Tracking 984 distinct input hashes that result in 611 distinct outputs (62.09%)
+[2023.10.10-08.35.29:718][ 20]LogShaderCompilers: Display: RAM used: 2.42 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.15%
+[2023.10.10-08.35.29:718][ 20]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.10.10-08.35.29:718][ 20]LogShaderCompilers: Display: Shaders Compiled: 573
+[2023.10.10-08.35.29:718][ 20]LogShaderCompilers: Display: Jobs assigned 984, completed 984 (100.00%)
+[2023.10.10-08.35.29:718][ 20]LogShaderCompilers: Display: Average time worker was idle: 162.69 s
+[2023.10.10-08.35.29:718][ 20]LogShaderCompilers: Display: Time job spent in pending queue: average 36.95 s, longest 230.44 s
+[2023.10.10-08.35.29:718][ 20]LogShaderCompilers: Display: Job execution time: average 20.00 s, max 90.36 s
+[2023.10.10-08.35.29:718][ 20]LogShaderCompilers: Display: Job life time (pending + execution): average 56.95 s, max 235.41
+[2023.10.10-08.35.29:719][ 20]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 397.36 s
+[2023.10.10-08.35.29:719][ 20]LogShaderCompilers: Display: Jobs were issued in 481 batches (only local compilation was used), average 2.05 jobs/batch
+[2023.10.10-08.35.29:719][ 20]LogShaderCompilers: Display: Average processing rate: 2.48 jobs/sec
+[2023.10.10-08.35.29:719][ 20]LogShaderCompilers: Display: Effective parallelization: 6.15 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.10.10-08.35.29:719][ 20]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.10.10-08.35.29:719][ 20]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled   21 times, average 8.65 sec, max 12.63 sec, min 1.33 sec)
+[2023.10.10-08.35.29:719][ 20]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled   21 times, average 8.56 sec, max 12.36 sec, min 1.46 sec)
+[2023.10.10-08.35.29:719][ 20]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled   21 times, average 8.52 sec, max 12.77 sec, min 1.50 sec)
+[2023.10.10-08.35.29:719][ 20]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy (compiled   21 times, average 8.40 sec, max 12.65 sec, min 1.36 sec)
+[2023.10.10-08.35.29:719][ 20]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled   21 times, average 8.37 sec, max 12.57 sec, min 1.42 sec)
+[2023.10.10-08.35.29:719][ 20]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.10.10-08.35.29:719][ 20]LogShaderCompilers: Display:                                             FDebugViewModePS - 10.43% of total time (compiled   44 times, average 5.79 sec, max 20.39 sec, min 0.41 sec)
+[2023.10.10-08.35.29:719][ 20]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 9.67% of total time (compiled   85 times, average 2.78 sec, max 12.56 sec, min 0.59 sec)
+[2023.10.10-08.35.29:719][ 20]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 9.43% of total time (compiled   48 times, average 4.80 sec, max 12.45 sec, min 0.62 sec)
+[2023.10.10-08.35.29:719][ 20]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy - 7.44% of total time (compiled   21 times, average 8.65 sec, max 12.63 sec, min 1.33 sec)
+[2023.10.10-08.35.29:719][ 20]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 7.36% of total time (compiled   21 times, average 8.56 sec, max 12.36 sec, min 1.46 sec)
+[2023.10.10-08.35.29:719][ 20]LogShaderCompilers: Display: ================================================
+[2023.10.10-08.35.29:785][ 21]MaterialEditorStats: Texture samplers: 1/16
+[2023.10.10-08.35.29:785][ 21]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.10.10-08.35.29:785][ 21]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.10.10-08.35.29:785][ 21]MaterialEditorStats: Shader Count: 2
+[2023.10.10-08.35.29:833][ 22]MaterialEditorStats: Texture samplers: 3/16
+[2023.10.10-08.35.29:833][ 22]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.10.10-08.35.29:833][ 22]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.10.10-08.35.29:833][ 22]MaterialEditorStats: Shader Count: 12
+[2023.10.10-08.35.29:833][ 22]MaterialEditorStats: Texture samplers: 2/16
+[2023.10.10-08.35.29:833][ 22]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.10.10-08.35.29:833][ 22]MaterialEditorStats: Shader Count: 4
+[2023.10.10-08.35.36:230][407]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2023.10.10-08.35.36:606][407]LogSavePackage: Moving output files for package: /Game/OurProject/Maps/Forest_Scene/ForestScene
+[2023.10.10-08.35.36:606][407]LogSavePackage: Moving '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Saved/ForestScene3F7FD456478AC3448C221FBE4373D723.tmp' to '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Content/OurProject/Maps/Forest_Scene/ForestScene.umap'
+[2023.10.10-08.35.36:631][407]AssetCheck: New page: Asset Save: ForestScene
+[2023.10.10-08.35.36:632][407]LogContentValidation: Display: Validating World /Game/OurProject/Maps/Forest_Scene/ForestScene.ForestScene
+[2023.10.10-08.36.04:953][413]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2023.10.10-08.36.05:359][413]LogSavePackage: Moving output files for package: /Game/OurProject/Maps/Forest_Scene/ForestScene
+[2023.10.10-08.36.05:360][413]LogSavePackage: Moving '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Saved/ForestSceneC821ABA0490D4277850D4E936EDE0035.tmp' to '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Content/OurProject/Maps/Forest_Scene/ForestScene.umap'
+[2023.10.10-08.36.05:390][413]AssetCheck: New page: Asset Save: ForestScene
+[2023.10.10-08.36.05:390][413]LogContentValidation: Display: Validating World /Game/OurProject/Maps/Forest_Scene/ForestScene.ForestScene
+[2023.10.10-08.36.16:107][174]LogSlate: Window 'Color Picker' being destroyed
+[2023.10.10-08.36.21:939][558]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2023.10.10-08.36.22:315][558]LogSavePackage: Moving output files for package: /Game/OurProject/Maps/Forest_Scene/ForestScene
+[2023.10.10-08.36.22:316][558]LogSavePackage: Moving '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Saved/ForestScene4D5B588F4E0958BBF15BB7942357BED0.tmp' to '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Content/OurProject/Maps/Forest_Scene/ForestScene.umap'
+[2023.10.10-08.36.22:342][558]AssetCheck: New page: Asset Save: ForestScene
+[2023.10.10-08.36.22:342][558]LogContentValidation: Display: Validating World /Game/OurProject/Maps/Forest_Scene/ForestScene.ForestScene
+[2023.10.10-08.36.23:471][621]LogSlate: Window 'Color Picker' being destroyed
+[2023.10.10-08.36.29:549][ 14]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2023.10.10-08.36.29:935][ 14]LogSavePackage: Moving output files for package: /Game/OurProject/Maps/Forest_Scene/ForestScene
+[2023.10.10-08.36.29:936][ 14]LogSavePackage: Moving '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Saved/ForestScene8B70C5444887E2F793866E9F78EC9CBF.tmp' to '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Content/OurProject/Maps/Forest_Scene/ForestScene.umap'
+[2023.10.10-08.36.29:962][ 14]AssetCheck: New page: Asset Save: ForestScene
+[2023.10.10-08.36.29:962][ 14]LogContentValidation: Display: Validating World /Game/OurProject/Maps/Forest_Scene/ForestScene.ForestScene
+[2023.10.10-08.36.39:117][586]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2023.10.10-08.36.39:490][586]LogSavePackage: Moving output files for package: /Game/OurProject/Maps/Forest_Scene/ForestScene
+[2023.10.10-08.36.39:491][586]LogSavePackage: Moving '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Saved/ForestSceneB51838674EC4097FF10D0995A23B34D9.tmp' to '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Content/OurProject/Maps/Forest_Scene/ForestScene.umap'
+[2023.10.10-08.36.39:515][586]AssetCheck: New page: Asset Save: ForestScene
+[2023.10.10-08.36.39:515][586]LogContentValidation: Display: Validating World /Game/OurProject/Maps/Forest_Scene/ForestScene.ForestScene
+[2023.10.10-08.36.45:276][947]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2023.10.10-08.36.45:639][947]LogSavePackage: Moving output files for package: /Game/OurProject/Maps/Forest_Scene/ForestScene
+[2023.10.10-08.36.45:640][947]LogSavePackage: Moving '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Saved/ForestSceneEB6545114658785F2DD1C6BAA04F4994.tmp' to '../../../../../../Users/linch/OneDrive/Documents/GitHub/Serious_Games/Serious_Games/Content/OurProject/Maps/Forest_Scene/ForestScene.umap'
+[2023.10.10-08.36.45:663][947]AssetCheck: New page: Asset Save: ForestScene
+[2023.10.10-08.36.45:663][947]LogContentValidation: Display: Validating World /Game/OurProject/Maps/Forest_Scene/ForestScene.ForestScene
