@@ -2086,3 +2086,100 @@ Scale3D: 1.000000 1.000000 1.000000
 [2023.10.11-06.41.40:689][609]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/OurProject/Maps/Forest_Scene/Assets/ghibli_trees/tree3_leafshape2__1_Auto3
 [2023.10.11-06.41.40:689][609]LogSavePackage: Moving 'D:/Unreal Projects/Serious_Games/Serious_Games/Saved/tree3_leafshape2__1_Auto3DF30964B4B790D76419677A56C721148.tmp' to 'D:/Unreal Projects/Serious_Games/Serious_Games/Saved/Autosaves/Game/OurProject/Maps/Forest_Scene/Assets/ghibli_trees/tree3_leafshape2__1_Auto3.uasset'
 [2023.10.11-06.41.40:689][609]LogFileHelpers: Auto-saving content packages took 0.078
+[2023.10.11-06.51.41:254][401]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2023.10.11-06.51.41:255][401]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/OurProject/Maps/Forest_Scene/ForestScene' took 0.010
+[2023.10.11-07.01.41:903][188]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2023.10.11-07.01.41:904][188]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/OurProject/Maps/Forest_Scene/ForestScene' took 0.010
+[2023.10.11-07.11.42:546][974]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2023.10.11-07.11.42:547][974]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/OurProject/Maps/Forest_Scene/ForestScene' took 0.010
+[2023.10.11-07.15.20:850][921]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\TreeIt_projects\tree4.fbx)
+[2023.10.11-07.15.20:876][921]LogFbx: Loading FBX Scene from D:\TreeIt_projects\tree4.fbx
+[2023.10.11-07.15.20:935][921]LogFbx: FBX Scene Loaded Succesfully
+[2023.10.11-07.15.22:173][921]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.10.11-07.15.22:188][921]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/OurProject/Maps/Forest_Scene/Assets/ghibli_trees/' is not a long packagename name. Reason: Input '/Game/OurProject/Maps/Forest_Scene/Assets/ghibli_trees/' ends with a '/', which is invalid for LongPackageNames.
+[2023.10.11-07.15.22:188][921]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/OurProject/Maps/Forest_Scene/Assets/ghibli_trees/' is not a long packagename name. Reason: Input '/Game/OurProject/Maps/Forest_Scene/Assets/ghibli_trees/' ends with a '/', which is invalid for LongPackageNames.
+[2023.10.11-07.15.22:188][921]LogFbxMaterialImport: Display: Unable to find Texture file 
+[2023.10.11-07.15.22:223][921]LogStaticMesh: Display: Building static mesh tree4__0...
+[2023.10.11-07.15.22:322][921]LogStaticMesh: Built static mesh [0.10s] /Game/OurProject/Maps/Forest_Scene/Assets/ghibli_trees/tree4__0.tree4__0
+[2023.10.11-07.15.22:397][921]LogStaticMesh: Display: Building static mesh tree4_leafshape2__1...
+[2023.10.11-07.15.22:484][921]LogStaticMesh: Built static mesh [0.09s] /Game/OurProject/Maps/Forest_Scene/Assets/ghibli_trees/tree4_leafshape2__1.tree4_leafshape2__1
+[2023.10.11-07.15.22:511][921]FBXImport: FBX Scene Loading: Found material name clash, name clash can be wrongly reassign at reimport , material '_0Mat' was renamed '_0Mat_ncl1_1' 
+[2023.10.11-07.15.22:511][921]FBXImport: FBX Scene Loading: Found material name clash, name clash can be wrongly reassign at reimport , material 'leafshape2 _1Mat' was renamed 'leafshape2 _1Mat_ncl1_1' 
+[2023.10.11-07.15.22:511][921]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.10.11-07.15.23:201][921]LogTexture: Display: Building textures: /Game/OurProject/Maps/Forest_Scene/Assets/ghibli_trees/leafshape2_.leafshape2_ (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2023.10.11-07.15.23:223][921]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/OurProject/Maps/Forest_Scene/Assets/ghibli_trees/tree4__0) ...
+[2023.10.11-07.15.25:316][ 12]LogMeshUtilities: Finished distance field build in 2.5s - 126x126x126 sparse distance field, 2.2Mb total, 0.1Mb always loaded, 64% occupied, 960 triangles, tree4_leafshape2__1
+[2023.10.11-07.15.25:840][ 38]LogMeshUtilities: Finished distance field build in 1.2s - 126x126x126 sparse distance field, 1.6Mb total, 0.1Mb always loaded, 45% occupied, 4232 triangles, tree4__0
+[2023.10.11-07.15.26:344][ 63]LogSlate: Window 'Message Log' being destroyed
+[2023.10.11-07.15.26:371][ 63]LogSlate: Window 'Message Log' being destroyed
+[2023.10.11-07.16.01:124][462]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/OurProject/Maps/Forest_Scene/Assets/ghibli_trees/tree4__0.tree4__0
+[2023.10.11-07.16.01:124][462]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/OurProject/Maps/Forest_Scene/Assets/ghibli_trees/tree4__0.tree4__0
+[2023.10.11-07.16.01:124][462]LogActorFactory: Actor Factory spawned StaticMesh /Game/OurProject/Maps/Forest_Scene/Assets/ghibli_trees/tree4__0.tree4__0 as actor: StaticMeshActor /Game/OurProject/Maps/Forest_Scene/ForestScene.ForestScene:PersistentLevel.StaticMeshActor_20
+[2023.10.11-07.16.05:261][725]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/OurProject/Maps/Forest_Scene/Assets/ghibli_trees/tree4__0.tree4__0
+[2023.10.11-07.16.05:262][725]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/OurProject/Maps/Forest_Scene/Assets/ghibli_trees/tree4__0.tree4__0
+[2023.10.11-07.16.05:262][725]LogActorFactory: Actor Factory spawned StaticMesh /Game/OurProject/Maps/Forest_Scene/Assets/ghibli_trees/tree4__0.tree4__0 as actor: StaticMeshActor /Game/OurProject/Maps/Forest_Scene/ForestScene.ForestScene:PersistentLevel.StaticMeshActor_25
+[2023.10.11-07.16.21:975][784]Cmd: TRANSACTION UNDO
+[2023.10.11-07.16.21:975][784]LogEditorTransaction: Undo Move Elements
+[2023.10.11-07.16.43:597][112]Cmd: DELETE
+[2023.10.11-07.16.43:597][112]Cmd: ACTOR DELETE
+[2023.10.11-07.16.43:648][112]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.10.11-07.16.43:658][112]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2023.10.11-07.16.43:660][112]LogEditorActor: Deleted 1 Actors (0.063 secs)
+[2023.10.11-07.16.50:141][540]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/OurProject/Maps/Forest_Scene/Assets/ghibli_trees/tree4__0.tree4__0
+[2023.10.11-07.16.50:141][540]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/OurProject/Maps/Forest_Scene/Assets/ghibli_trees/tree4__0.tree4__0
+[2023.10.11-07.16.50:141][540]LogActorFactory: Actor Factory spawned StaticMesh /Game/OurProject/Maps/Forest_Scene/Assets/ghibli_trees/tree4__0.tree4__0 as actor: StaticMeshActor /Game/OurProject/Maps/Forest_Scene/ForestScene.ForestScene:PersistentLevel.StaticMeshActor_26
+[2023.10.11-07.16.50:142][540]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/OurProject/Maps/Forest_Scene/Assets/ghibli_trees/tree4_leafshape2__1.tree4_leafshape2__1
+[2023.10.11-07.16.50:142][540]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/OurProject/Maps/Forest_Scene/Assets/ghibli_trees/tree4_leafshape2__1.tree4_leafshape2__1
+[2023.10.11-07.16.50:142][540]LogActorFactory: Actor Factory spawned StaticMesh /Game/OurProject/Maps/Forest_Scene/Assets/ghibli_trees/tree4_leafshape2__1.tree4_leafshape2__1 as actor: StaticMeshActor /Game/OurProject/Maps/Forest_Scene/ForestScene.ForestScene:PersistentLevel.StaticMeshActor_27
+[2023.10.11-07.16.52:959][722]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/OurProject/Maps/Forest_Scene/Assets/ghibli_trees/tree4__0.tree4__0
+[2023.10.11-07.16.52:959][722]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/OurProject/Maps/Forest_Scene/Assets/ghibli_trees/tree4__0.tree4__0
+[2023.10.11-07.16.52:960][722]LogActorFactory: Actor Factory spawned StaticMesh /Game/OurProject/Maps/Forest_Scene/Assets/ghibli_trees/tree4__0.tree4__0 as actor: StaticMeshActor /Game/OurProject/Maps/Forest_Scene/ForestScene.ForestScene:PersistentLevel.StaticMeshActor_28
+[2023.10.11-07.16.52:976][722]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/OurProject/Maps/Forest_Scene/Assets/ghibli_trees/tree4_leafshape2__1.tree4_leafshape2__1
+[2023.10.11-07.16.52:976][722]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/OurProject/Maps/Forest_Scene/Assets/ghibli_trees/tree4_leafshape2__1.tree4_leafshape2__1
+[2023.10.11-07.16.52:977][722]LogActorFactory: Actor Factory spawned StaticMesh /Game/OurProject/Maps/Forest_Scene/Assets/ghibli_trees/tree4_leafshape2__1.tree4_leafshape2__1 as actor: StaticMeshActor /Game/OurProject/Maps/Forest_Scene/ForestScene.ForestScene:PersistentLevel.StaticMeshActor_30
+[2023.10.11-07.18.11:091][608]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/OurProject/Maps/Forest_Scene/Assets/ghibli_trees/tree3__0.tree3__0
+[2023.10.11-07.18.11:091][608]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/OurProject/Maps/Forest_Scene/Assets/ghibli_trees/tree3__0.tree3__0
+[2023.10.11-07.18.11:091][608]LogActorFactory: Actor Factory spawned StaticMesh /Game/OurProject/Maps/Forest_Scene/Assets/ghibli_trees/tree3__0.tree3__0 as actor: StaticMeshActor /Game/OurProject/Maps/Forest_Scene/ForestScene.ForestScene:PersistentLevel.StaticMeshActor_31
+[2023.10.11-07.18.11:091][608]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/OurProject/Maps/Forest_Scene/Assets/ghibli_trees/tree3_leafshape2__1.tree3_leafshape2__1
+[2023.10.11-07.18.11:091][608]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/OurProject/Maps/Forest_Scene/Assets/ghibli_trees/tree3_leafshape2__1.tree3_leafshape2__1
+[2023.10.11-07.18.11:091][608]LogActorFactory: Actor Factory spawned StaticMesh /Game/OurProject/Maps/Forest_Scene/Assets/ghibli_trees/tree3_leafshape2__1.tree3_leafshape2__1 as actor: StaticMeshActor /Game/OurProject/Maps/Forest_Scene/ForestScene.ForestScene:PersistentLevel.StaticMeshActor_32
+[2023.10.11-07.18.13:702][779]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/OurProject/Maps/Forest_Scene/Assets/ghibli_trees/tree3__0.tree3__0
+[2023.10.11-07.18.13:702][779]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/OurProject/Maps/Forest_Scene/Assets/ghibli_trees/tree3__0.tree3__0
+[2023.10.11-07.18.13:703][779]LogActorFactory: Actor Factory spawned StaticMesh /Game/OurProject/Maps/Forest_Scene/Assets/ghibli_trees/tree3__0.tree3__0 as actor: StaticMeshActor /Game/OurProject/Maps/Forest_Scene/ForestScene.ForestScene:PersistentLevel.StaticMeshActor_33
+[2023.10.11-07.18.13:717][779]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/OurProject/Maps/Forest_Scene/Assets/ghibli_trees/tree3_leafshape2__1.tree3_leafshape2__1
+[2023.10.11-07.18.13:718][779]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/OurProject/Maps/Forest_Scene/Assets/ghibli_trees/tree3_leafshape2__1.tree3_leafshape2__1
+[2023.10.11-07.18.13:718][779]LogActorFactory: Actor Factory spawned StaticMesh /Game/OurProject/Maps/Forest_Scene/Assets/ghibli_trees/tree3_leafshape2__1.tree3_leafshape2__1 as actor: StaticMeshActor /Game/OurProject/Maps/Forest_Scene/ForestScene.ForestScene:PersistentLevel.StaticMeshActor_34
+[2023.10.11-07.19.26:331][342]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/OurProject/Maps/Forest_Scene/Assets/ghibli_trees/tree2__0.tree2__0
+[2023.10.11-07.19.26:331][342]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/OurProject/Maps/Forest_Scene/Assets/ghibli_trees/tree2__0.tree2__0
+[2023.10.11-07.19.26:331][342]LogActorFactory: Actor Factory spawned StaticMesh /Game/OurProject/Maps/Forest_Scene/Assets/ghibli_trees/tree2__0.tree2__0 as actor: StaticMeshActor /Game/OurProject/Maps/Forest_Scene/ForestScene.ForestScene:PersistentLevel.StaticMeshActor_35
+[2023.10.11-07.19.26:332][342]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/OurProject/Maps/Forest_Scene/Assets/ghibli_trees/tree2_leafshape1_1.tree2_leafshape1_1
+[2023.10.11-07.19.26:332][342]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/OurProject/Maps/Forest_Scene/Assets/ghibli_trees/tree2_leafshape1_1.tree2_leafshape1_1
+[2023.10.11-07.19.26:332][342]LogActorFactory: Actor Factory spawned StaticMesh /Game/OurProject/Maps/Forest_Scene/Assets/ghibli_trees/tree2_leafshape1_1.tree2_leafshape1_1 as actor: StaticMeshActor /Game/OurProject/Maps/Forest_Scene/ForestScene.ForestScene:PersistentLevel.StaticMeshActor_36
+[2023.10.11-07.19.28:861][494]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/OurProject/Maps/Forest_Scene/Assets/ghibli_trees/tree2__0.tree2__0
+[2023.10.11-07.19.28:861][494]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/OurProject/Maps/Forest_Scene/Assets/ghibli_trees/tree2__0.tree2__0
+[2023.10.11-07.19.28:862][494]LogActorFactory: Actor Factory spawned StaticMesh /Game/OurProject/Maps/Forest_Scene/Assets/ghibli_trees/tree2__0.tree2__0 as actor: StaticMeshActor /Game/OurProject/Maps/Forest_Scene/ForestScene.ForestScene:PersistentLevel.StaticMeshActor_37
+[2023.10.11-07.19.28:876][494]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/OurProject/Maps/Forest_Scene/Assets/ghibli_trees/tree2_leafshape1_1.tree2_leafshape1_1
+[2023.10.11-07.19.28:876][494]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/OurProject/Maps/Forest_Scene/Assets/ghibli_trees/tree2_leafshape1_1.tree2_leafshape1_1
+[2023.10.11-07.19.28:876][494]LogActorFactory: Actor Factory spawned StaticMesh /Game/OurProject/Maps/Forest_Scene/Assets/ghibli_trees/tree2_leafshape1_1.tree2_leafshape1_1 as actor: StaticMeshActor /Game/OurProject/Maps/Forest_Scene/ForestScene.ForestScene:PersistentLevel.StaticMeshActor_38
+[2023.10.11-07.20.02:077][408]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2023.10.11-07.20.02:431][408]LogSavePackage: Moving output files for package: /Game/OurProject/Maps/Forest_Scene/ForestScene
+[2023.10.11-07.20.02:431][408]LogSavePackage: Moving 'D:/Unreal Projects/Serious_Games/Serious_Games/Saved/ForestScene60BFB66B4955DB05206CC887127C1E82.tmp' to 'D:/Unreal Projects/Serious_Games/Serious_Games/Content/OurProject/Maps/Forest_Scene/ForestScene.umap'
+[2023.10.11-07.20.02:457][408]AssetCheck: New page: Asset Save: ForestScene
+[2023.10.11-07.20.02:457][408]LogContentValidation: Display: Validating World /Game/OurProject/Maps/Forest_Scene/ForestScene.ForestScene
+[2023.10.11-07.20.30:110][997]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/OurProject/Maps/Forest_Scene/Assets/ghibli_trees/tree2__0.tree2__0
+[2023.10.11-07.20.30:110][997]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/OurProject/Maps/Forest_Scene/Assets/ghibli_trees/tree2__0.tree2__0
+[2023.10.11-07.20.30:110][997]LogActorFactory: Actor Factory spawned StaticMesh /Game/OurProject/Maps/Forest_Scene/Assets/ghibli_trees/tree2__0.tree2__0 as actor: StaticMeshActor /Game/OurProject/Maps/Forest_Scene/ForestScene.ForestScene:PersistentLevel.StaticMeshActor_39
+[2023.10.11-07.20.30:111][997]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/OurProject/Maps/Forest_Scene/Assets/ghibli_trees/tree2_leafshape1_1.tree2_leafshape1_1
+[2023.10.11-07.20.30:111][997]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/OurProject/Maps/Forest_Scene/Assets/ghibli_trees/tree2_leafshape1_1.tree2_leafshape1_1
+[2023.10.11-07.20.30:111][997]LogActorFactory: Actor Factory spawned StaticMesh /Game/OurProject/Maps/Forest_Scene/Assets/ghibli_trees/tree2_leafshape1_1.tree2_leafshape1_1 as actor: StaticMeshActor /Game/OurProject/Maps/Forest_Scene/ForestScene.ForestScene:PersistentLevel.StaticMeshActor_40
+[2023.10.11-07.20.32:665][153]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/OurProject/Maps/Forest_Scene/Assets/ghibli_trees/tree2__0.tree2__0
+[2023.10.11-07.20.32:665][153]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/OurProject/Maps/Forest_Scene/Assets/ghibli_trees/tree2__0.tree2__0
+[2023.10.11-07.20.32:665][153]LogActorFactory: Actor Factory spawned StaticMesh /Game/OurProject/Maps/Forest_Scene/Assets/ghibli_trees/tree2__0.tree2__0 as actor: StaticMeshActor /Game/OurProject/Maps/Forest_Scene/ForestScene.ForestScene:PersistentLevel.StaticMeshActor_41
+[2023.10.11-07.20.32:681][153]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/OurProject/Maps/Forest_Scene/Assets/ghibli_trees/tree2_leafshape1_1.tree2_leafshape1_1
+[2023.10.11-07.20.32:682][153]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/OurProject/Maps/Forest_Scene/Assets/ghibli_trees/tree2_leafshape1_1.tree2_leafshape1_1
+[2023.10.11-07.20.32:682][153]LogActorFactory: Actor Factory spawned StaticMesh /Game/OurProject/Maps/Forest_Scene/Assets/ghibli_trees/tree2_leafshape1_1.tree2_leafshape1_1 as actor: StaticMeshActor /Game/OurProject/Maps/Forest_Scene/ForestScene.ForestScene:PersistentLevel.StaticMeshActor_42
+[2023.10.11-07.21.04:515][955]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.10.11-07.21.04:870][955]LogSavePackage: Moving output files for package: /Game/OurProject/Maps/Forest_Scene/ForestScene
+[2023.10.11-07.21.04:870][955]LogSavePackage: Moving 'D:/Unreal Projects/Serious_Games/Serious_Games/Saved/ForestScene89D00A2248807DA0D68E8EBCF7C3ABF4.tmp' to 'D:/Unreal Projects/Serious_Games/Serious_Games/Content/OurProject/Maps/Forest_Scene/ForestScene.umap'
+[2023.10.11-07.21.04:896][955]AssetCheck: New page: Asset Save: ForestScene
+[2023.10.11-07.21.04:896][955]LogContentValidation: Display: Validating World /Game/OurProject/Maps/Forest_Scene/ForestScene.ForestScene
